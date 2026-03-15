@@ -1,0 +1,12 @@
+# Add one URL per line. Remove or replace these examples with real story pages.
+https://example.com/
+
+# Example usage:
+# ./venv/bin/python crawler.py --urls-file urls.txt --source crawler_websites
+
+https://www.storyberries.com/short-stories-for-kids/
+https://www.storynory.com/
+https://www.worldoftales.com/
+https://www.gutenberg.org/
+https://www.pitt.edu/~dash/
+https://americanliterature.com/childrens-literature

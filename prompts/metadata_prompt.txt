@@ -1,0 +1,24 @@
+	You are given a children’s story text. Extract the following structured metadata as JSON exactly with these keys:
+  •	id: WBX_000001 for 3-5 and WBX_100000 for 6-8 and WBX_200000 for 9-12
+	•	title: short title
+	•	source: dataset source if known (examples: “freekidsbooks”, “panchatantra”, “aesop_fables”, “crawler”), otherwise empty string
+	•	source_url: original story URL if available, otherwise empty string
+	•	age_group: one of “3-5”, “6-8”, “9-12”
+	•	reading_level: brief description (e.g., “very simple”, “elementary”)
+	•	theme: single short theme phrase (e.g., “friendship”)
+	•	characters: list of main characters (strings)
+	•	word_count: integer (must match the number of words in the story field)
+	•	moral: short sentence or empty string
+	•	scenes: array of exactly 5 scene objects in this exact order: introduction, conflict, journey, turning_point, resolution. Each scene object must contain:
+	•	type: one of “introduction”,“conflict”,“journey”,“turning_point”,“resolution”
+	•	summary: one-sentence summary
+	•	text: the full scene text (trimmed)
+	•	image_prompt: a short descriptive prompt suitable for a children’s illustration model in colorful cartoon children’s book style
+	•	story: the full cleaned story text
+
+Return only the JSON object. Do not include extra commentary.
+
+Notes:
+	•	If information is not present, return an empty string or empty list where appropriate.
+	•	Ensure word_count accurately reflects the length of story.
+	•	Ensure the five scene texts together logically reconstruct the full story.

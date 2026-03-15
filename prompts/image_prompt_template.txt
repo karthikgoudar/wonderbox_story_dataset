@@ -1,0 +1,5 @@
+Scene image prompt template:
+
+"Create a colorful, child-friendly illustration showing {scene_type} of the story titled '{title}'. Include the following characters: {characters}. Style: bright, whimsical, high contrast, simple shapes, suitable for ages {age_group}."
+
+Replace placeholders `{scene_type}`, `{title}`, `{characters}`, and `{age_group}` when generating scene prompts.

@@ -1,0 +1,187 @@
+WonderBox Dataset Sources – Large Collection of Children's Stories  
+(Indian + Global Public Domain Sources)
+
+==================================================
+PANCHATANTRA
+==================================================
+https://archive.org/details/panchatantra0000arth
+https://archive.org/download/panchatantra0000arth/panchatantra0000arth.pdf
+https://archive.org/details/panchan-part-01
+https://archive.org/details/in.ernet.dli.2015.478541
+https://archive.org/details/panchatantracoll00purnuoft
+https://archive.org/details/panchatantra_2305_librivox
+https://archive.org/details/panchatantra-stories
+
+
+==================================================
+JATAKA TALES
+==================================================
+https://archive.org/details/jatakatales00fran
+https://archive.org/download/jatakatales00fran/jatakatales00fran.pdf
+https://archive.org/details/jataka-tales
+https://archive.org/details/jatakatales00budd
+https://archive.org/details/jataka-stories-for-children
+
+
+==================================================
+HITOPADESHA
+==================================================
+https://archive.org/details/hitopadesha00narauoft
+https://archive.org/details/stories-from-hitopadesha
+https://archive.org/details/hitopadesha-sanskrit-fables
+
+
+==================================================
+INDIAN FAIRY TALES
+==================================================
+https://archive.org/details/indianfairytales00jaco
+https://archive.org/details/indianfairytales00jaco2
+https://archive.org/details/indian-fairy-tales-collection
+https://archive.org/details/folk-tales-from-india
+
+
+==================================================
+INDIAN FOLK TALES
+==================================================
+https://archive.org/details/folktalesofbengal
+https://archive.org/details/talesofpunjab00stee
+https://archive.org/details/indianfolk-tales
+https://archive.org/details/folk-tales-from-the-himalayas
+https://archive.org/details/folk-tales-from-south-india
+https://archive.org/details/folk-tales-from-kashmir
+
+
+==================================================
+RAMAYANA STORIES
+==================================================
+https://archive.org/details/ramayanaforchild0000ragh
+https://archive.org/details/ramayana-childrens-version
+https://archive.org/details/ramayana-story-book
+https://archive.org/details/stories-from-the-ramayana
+https://archive.org/details/ramayana-episodes-for-children
+
+
+==================================================
+MAHABHARATA STORIES
+==================================================
+https://archive.org/details/mahabharataforchildren
+https://archive.org/details/stories-from-the-mahabharata
+https://archive.org/details/mahabharata-childrens-stories
+https://archive.org/details/mahabharata-episodes
+
+
+==================================================
+KRISHNA STORIES
+==================================================
+https://archive.org/details/storiesofkrishna
+https://archive.org/details/krishna-childhood-stories
+https://archive.org/details/lord-krishna-stories-for-children
+https://archive.org/details/krishna-leela-stories
+
+
+==================================================
+SHIVA STORIES
+==================================================
+https://archive.org/details/storiesofshiva
+https://archive.org/details/shiva-mythology-stories
+https://archive.org/details/shiva-stories-for-children
+
+
+==================================================
+PURANIC STORIES
+==================================================
+https://archive.org/details/bhagavata-purana-stories
+https://archive.org/details/puranic-stories-for-children
+https://archive.org/details/stories-from-the-puranas
+
+
+==================================================
+AKBAR BIRBAL STORIES
+==================================================
+https://archive.org/details/talesofakbarbirbal
+https://archive.org/details/akbar-birbal-stories
+https://archive.org/details/akbar-and-birbal-classic-stories
+
+
+==================================================
+TENALI RAMAN STORIES
+==================================================
+https://archive.org/details/tenali-raman-stories
+https://archive.org/details/tenali-rama-classic-tales
+https://archive.org/details/tenali-raman-humor-stories
+
+
+==================================================
+VIKRAM BETAL STORIES
+==================================================
+https://archive.org/details/vikramandvampire
+https://archive.org/details/vikram-betal-stories
+https://archive.org/details/baital-pachisi
+
+
+==================================================
+GENERAL STORY ARCHIVES (VERY LARGE COLLECTIONS)
+==================================================
+https://archive.org/details/texts
+https://archive.org/details/booksbylanguageenglish
+https://archive.org/details/opensource
+https://archive.org/details/americana
+https://archive.org/details/inlibrary
+
+
+==================================================
+PROJECT GUTENBERG CHILDREN'S BOOKS
+==================================================
+https://www.gutenberg.org/ebooks/bookshelf/20
+https://www.gutenberg.org/ebooks/subject/140
+https://www.gutenberg.org/ebooks/subject/92
+https://www.gutenberg.org/ebooks/subject/41
+
+
+==================================================
+CRAWLING SOURCES (WEBSITES WITH MANY STORIES)
+==================================================
+https://www.sacred-texts.com
+https://mocomi.com/stories/
+https://www.tell-a-tale.com
+https://www.vedantu.com/stories
+https://freekidsbooks.org
+https://storyberries.com
+https://americanliterature.com/short-stories-for-children
+https://www.worldoftales.com
+
+
+==================================================
+SUGGESTED DATASET SOURCE FOLDER STRUCTURE
+==================================================
+raw/
+  panchatantra/
+  jataka/
+  hitopadesha/
+  indian_fairy_tales/
+  indian_folk_tales/
+  ramayana/
+  mahabharata/
+  krishna_stories/
+  shiva_stories/
+  puranic_stories/
+  akbar_birbal/
+  tenali_raman/
+  vikram_betal/
+  crawler_websites/
+
+
+==================================================
+NOTES FOR DATASET COLLECTION
+==================================================
+
+1. Download PDFs from archive.org sources.
+2. Convert PDF to text.
+3. Split each book into individual stories.
+4. Save raw text files inside the corresponding raw/ folder.
+5. Run metadata_extractor.py to generate structured JSON.
+6. Validate using dataset_validator.py before committing.
+
+This collection contains enough material to extract approximately:
+
+3000 – 6000 short children's stories.

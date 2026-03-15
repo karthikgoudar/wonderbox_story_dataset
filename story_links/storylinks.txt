@@ -1,0 +1,119 @@
+https://freekidsbooks.org
+https://www.scribd.com/document/179839385/Jataka-tales-for-Children?utm_source=chatgpt.com
+https://www.defence.lk/upload/ebooks/Aesops%20fables.pdf?utm_source=chatgpt.com
+https://freekidsbooks.org/wp-content/uploads/2019/12/Aesops_Fables_for_children-Illustrated-FKB.pdf?utm_source=chatgpt.com
+https://www.banyantree.in/jagdishpur/wp-content/uploads/2020/06/Panchatantra-.pdf?utm_source=chatgpt.com
+https://kv2jlabareillycanttlibrary.wordpress.com/wp-content/uploads/2020/05/akbar-birbal.pdf?utm_source=chatgpt.com
+https://ignca.gov.in/Asi_data/15887.pdf
+https://www.gutenberg.org/files/7128/7128-h/7128-h.htm?utm_source=chatgpt.com
+https://moralstory.in/wp-content/uploads/2025/03/Free-Ebook-24-Best-Moral-Stories-for-Kids-by-moralstory.in_.pdf
+https://moralstory.in/downloadable-pdf-100-classic-moral-stories/?utm_source=chatgpt.com
+
+For The crawler
+https://mocomi.com
+https://tell-a-tale.com
+https://www.vedantu.com/stories
+
+
+
+Focus On
+
+Panchatantra
+Jataka Tales
+Hitopadesha
+Akbar Birbal
+Tenali Raman
+Vikram Betal
+Indian Folk Tales
+Ramayana short stories
+Mahabharatha
+Krishna stories
+
+https://archive.org/details/indianfairytales00jaco/page/10/mode/2up
+https://archive.org/details/talesofpunjab00stee
+https://archive.org/details/talesofakbarbirbal
+https://archive.org/details/tenali-raman-stories
+https://archive.org/details/vikramandvampire
+https://archive.org/details/folktalesofbengal
+https://archive.org/details/hindumythologystories
+
+
+
+WonderBox Dataset Sources – Indian Stories and Children’s Books
+
+⸻
+
+PANCHATANTRA
+
+https://archive.org/details/panchatantra0000arth
+https://archive.org/download/panchatantra0000arth/panchatantra0000arth.pdf
+https://archive.org/details/panchan-part-01
+https://archive.org/details/in.ernet.dli.2015.478541
+https://archive.org/details/panchatantracoll00purnuoft
+
+⸻
+
+JATAKA TALES
+
+https://archive.org/details/jatakatales00fran
+https://archive.org/download/jatakatales00fran/jatakatales00fran.pdf
+
+⸻
+
+INDIAN FAIRY TALES
+
+https://archive.org/details/indianfairytales00jaco
+https://archive.org/details/indianfairytales00jaco2
+
+⸻
+
+HINDU MYTHOLOGY / RAMAYANA / MAHABHARATA
+
+https://archive.org/details/cradletalesofhin00niveuoft
+https://archive.org/details/ramayanaforchild0000ragh
+
+⸻
+
+INDIAN FOLK TALES
+
+https://archive.org/details/folktalesofbengal
+https://archive.org/details/talesofpunjab00stee
+
+⸻
+
+GENERAL STORY ARCHIVES (LARGE COLLECTIONS)
+
+https://archive.org/details/texts
+https://archive.org/details/booksbylanguageenglish
+https://archive.org/details/opensource
+
+⸻
+
+WEBSITES FOR CRAWLING STORIES
+
+https://www.sacred-texts.com
+https://mocomi.com/stories/
+https://www.tell-a-tale.com
+https://www.vedantu.com/stories
+
+⸻
+
+GLOBAL CHILDREN’S STORY COLLECTIONS
+
+https://www.gutenberg.org/ebooks/bookshelf/20
+https://www.gutenberg.org/ebooks/subject/140
+
+⸻
+
+SUGGESTED DATASET SOURCE FOLDERS
+
+raw/
+panchatantra/
+jataka/
+indian_fairy_tales/
+hindu_mythology/
+indian_folk_tales/
+
+
+
+
