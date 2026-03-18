@@ -7,6 +7,7 @@ Checks:
 - exactly 5 scenes exist and scene types are correct and in expected order
 - the `age_group` reported in the JSON matches the processed folder
 """
+import argparse
 import json
 import sys
 from pathlib import Path
@@ -64,9 +65,18 @@ def validate_file(path: Path) -> List[str]:
 
 
 def main():
-    processed = Path("processed")
+    parser = argparse.ArgumentParser(description="Validate processed JSON story files")
+    parser.add_argument("--processed-dir", help="Path to processed directory (overrides default)")
+    args = parser.parse_args()
+
+    if args.processed_dir:
+        processed = Path(args.processed_dir)
+    else:
+        # default to repository root: two levels up from this script (project_root/scripts/..)
+        processed = Path(__file__).resolve().parent.parent / "processed"
+
     if not processed.exists():
-        print("No processed/ directory found. Nothing to validate.")
+        print(f"No processed/ directory found at {processed}. Nothing to validate.")
         return
 
     json_files = list(processed.rglob("*.json"))
@@ -87,6 +97,32 @@ def main():
         sys.exit(1)
     else:
         print("All files passed validation.")
+    # Update dataset_stats.json at repository root
+    try:
+        stats = {"version": "0.1", "story_counts": {"3-5": 0, "6-8": 0, "9-12": 0}, "total_stories": 0}
+        for jf in json_files:
+            try:
+                data = json.loads(jf.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            age = data.get("age_group")
+            if age == "3-5":
+                stats["story_counts"]["3-5"] += 1
+            elif age == "6-8":
+                stats["story_counts"]["6-8"] += 1
+            elif age == "9-12":
+                stats["story_counts"]["9-12"] += 1
+            stats["total_stories"] += 1
+
+        from datetime import datetime, timezone
+
+        stats["generated_at"] = datetime.now(timezone.utc).isoformat()
+
+        out_path = Path(__file__).resolve().parent.parent / "dataset_stats.json"
+        out_path.write_text(json.dumps(stats, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"Updated dataset stats: {out_path}")
+    except Exception as e:
+        print(f"Failed to update dataset_stats.json: {e}")
 
 
 if __name__ == "__main__":
