@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100002",
+  "title": "Ria and the Talking Pencil",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "very simple",
+  "theme": "hard work",
+  "characters": ["Ria", "talking pencil"],
+  "word_count": 74,
+  "moral": "Hard work makes everything better.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Ria dislikes homework until her pencil suddenly starts talking.",
+      "text": "Ria hated homework. One day, her pencil suddenly spoke! “Use me wisely,” it said, “and I’ll help you learn anything.”",
+      "image_prompt": "young girl surprised as her pencil talks, bright colorful classroom, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Ria begins using the pencil and sees improvement in her work.",
+      "text": "Surprised, Ria started writing carefully. The pencil made her drawings beautiful and her writing neat.",
+      "image_prompt": "girl happily writing neatly with magical pencil, colorful drawings, cheerful children's illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Ria becomes lazy again and stops putting in effort.",
+      "text": "But one day, she got lazy again. The pencil stopped working.",
+      "image_prompt": "girl looking confused at pencil not working, messy desk, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The pencil explains that magic needs effort.",
+      "text": "“Why?” she cried. “Because magic only works with effort,” the pencil replied.",
+      "image_prompt": "talking pencil explaining lesson to sad girl, warm soft lighting, children's book style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Ria tries again with effort and the magic returns.",
+      "text": "Ria smiled and started trying again—and the magic returned.\n\nMoral: Hard work makes everything better.",
+      "image_prompt": "happy girl working hard with glowing magical pencil, bright and joyful illustration"
+    }
+  ],
+  "story": "Ria hated homework. One day, her pencil suddenly spoke! “Use me wisely,” it said, “and I’ll help you learn anything.”\n\nSurprised, Ria started writing carefully. The pencil made her drawings beautiful and her writing neat.\n\nBut one day, she got lazy again. The pencil stopped working.\n\n“Why?” she cried.\n\n“Because magic only works with effort,” the pencil replied.\n\nRia smiled and started trying again—and the magic returned.\n\nMoral: Hard work makes everything better."
+}
