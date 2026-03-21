@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000002",
+  "title": "Zac the Rat",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "daily life",
+  "characters": ["Zac", "ants"],
+  "word_count": 33,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Zac is introduced as a rat.",
+      "text": "Zac is a rat.",
+      "image_prompt": "cute cartoon rat named Zac smiling and waving, colorful children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Zac sits on a can and ants rush to jam.",
+      "text": "Zac sat on a can. The ants ran to the jam.",
+      "image_prompt": "cartoon rat sitting on a can with spilled jam and many ants running toward it, bright playful illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Zac has tools while ants keep running.",
+      "text": "Zac had a pan. Zac had a fan. The ants ran and ran.",
+      "image_prompt": "cartoon rat holding a pan and a fan trying to deal with ants running everywhere, colorful fun scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Zac uses his fan and becomes tired.",
+      "text": "Zac had a fan.",
+      "image_prompt": "cartoon rat using a fan blowing ants away with wind, lively children's illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Zac takes a nap after everything settles.",
+      "text": "Zac had a nap.",
+      "image_prompt": "cute cartoon rat sleeping peacefully on a mat after a busy day, soft colorful style"
+    }
+  ],
+  "story": "Zac is a rat. Zac sat on a can. The ants ran to the jam. Zac had a pan. Zac had a fan. The ants ran and ran. Zac had a nap."
+}
