@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200000",
+  "title": "Duty on the Prairie",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "duty and responsibility",
+  "characters": ["Mae Calder", "Eli", "Lottie Quinn", "Jonah Pike", "Mr. Harlan", "Mrs. Sato", "Juniper"],
+  "word_count": 1506,
+  "moral": "Duty means protecting others and doing what is right even when it is difficult and frightening.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mae leads a caravan toward Fort Clay with responsibility and determination.",
+      "text": "Mae Calder prepares and leads a caravan of wagons across the prairie toward Fort Clay. She carefully checks supplies and chooses a faster but risky route along the river bend, showing her sense of duty and responsibility toward the group.",
+      "image_prompt": "female cowboy leading wagon caravan across prairie with oxen and people, sunrise western landscape, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The caravan faces danger while crossing a strong river.",
+      "text": "At the river bend, Mae organizes a careful crossing using ropes to keep wagons steady. When a wagon wheel breaks in the water, she works with others to repair it under pressure, preventing disaster and keeping everyone safe.",
+      "image_prompt": "wagon crossing river with people pulling ropes, strong current, teamwork, western cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "The caravan survives a dangerous prairie fire.",
+      "text": "As they continue, a fast-moving grass fire approaches. Mae quickly directs the group to clear a circle of dirt and use wet blankets, creating a firebreak that protects the caravan as the flames pass around them.",
+      "image_prompt": "people digging firebreak around wagons while flames approach, teamwork and urgency, colorful children’s book style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mae handles a canyon accident and avoids a night attack.",
+      "text": "While descending a canyon, a wagon nearly falls when the trail collapses, but Mae leads the team to stabilize it using ropes and rocks. Later that night, she cleverly scares away suspicious riders by creating loud noises and showing the camp is prepared.",
+      "image_prompt": "wagon slipping on canyon edge with people holding ropes, followed by night camp with cowboys making noise to scare riders, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The caravan safely reaches Fort Clay and reflects on duty.",
+      "text": "The caravan arrives safely at Fort Clay, and everyone is relieved. Mae reflects on her responsibility and teaches Eli that duty means keeping promises and protecting others, even in fear.",
+      "image_prompt": "wagon caravan arriving at fort with wooden gates, happy people, sunset prairie, colorful children’s illustration"
+    }
+  ],
+  "story": "Mae Calder leads a caravan across the prairie toward Fort Clay, choosing a faster but risky route to save time. Along the way, she faces many challenges, including a dangerous river crossing where a wagon nearly breaks, and a fast-moving prairie fire that threatens the group. Using calm thinking and teamwork, Mae guides everyone to safety. In a canyon, she helps prevent a wagon from falling, and later she cleverly scares off night riders without violence. Finally, the caravan reaches Fort Clay safely. Mae reminds Eli that duty is about keeping promises, protecting others, and doing what is right even when afraid."
+}

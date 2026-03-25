@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200000",
+  "title": "Ada and the Water of Coyote Creek",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "cooperation",
+  "characters": ["Ada Sullivan", "Scout", "Jesse Martin", "Old Man Walker", "Farmer Green", "Mrs. Quinn"],
+  "word_count": 468,
+  "moral": "Working together and trusting each other can solve even the hardest problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Ada arrives in a divided town struggling with water shortage.",
+      "text": "Ada Sullivan rides into Coyote Creek, where drought has divided the town. Some people have water while others suffer, and arguments break out over whether to share. Ada decides to find a better solution to help everyone.",
+      "image_prompt": "cowgirl arriving in dusty western town with dry land and worried townspeople, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Ada proposes a plan but faces resistance from Walker and townspeople.",
+      "text": "Ada discusses her idea with Deputy Jesse and then confronts Old Man Walker, who owns the main water source. Walker agrees only if the whole town promises to work together, but many townspeople refuse to trust him or each other.",
+      "image_prompt": "cowgirl talking to stern ranch owner in western house, tense discussion, colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Ada convinces the townspeople to unite despite fear and doubt.",
+      "text": "Ada and Jesse go from house to house persuading people to join the plan. Despite rejection and doubt, they slowly gain support until most of the town agrees to help build a water channel together.",
+      "image_prompt": "cowgirl visiting homes and talking to different families, teamwork and persuasion, colorful children’s book style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The canal construction faces sabotage and danger but succeeds.",
+      "text": "During the canal construction, someone tries to sabotage the effort by breaking tools, but Ada inspires the town to continue. When water finally flows, it nearly breaks the channel, but everyone works together to fix it and keep it strong.",
+      "image_prompt": "townspeople digging canal together with tools, water flowing and being controlled, teamwork scene, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The town unites and shares water, bringing new life and harmony.",
+      "text": "The canal succeeds, bringing water to all parts of the town. Old Man Walker opens his home to everyone, and the community celebrates their success, now united by cooperation and mutual respect.",
+      "image_prompt": "western town celebration with people sharing food and smiling, water flowing through fields, colorful cartoon illustration"
+    }
+  ],
+  "story": "Ada Sullivan arrives in Coyote Creek during a drought that has divided the town. While some people have water, others are struggling to survive, leading to arguments and mistrust. Ada believes there is a better way and suggests building a channel from Old Man Walker’s water source to supply everyone. Walker agrees, but only if the entire town works together. Ada and Deputy Jesse go around convincing people, facing doubt and resistance, but slowly gaining their trust. When construction begins, someone tries to sabotage the effort, but the townspeople stay united. As water flows through the new canal, it nearly breaks the channel, but everyone works together to fix it. In the end, water reaches every home, and the town comes together in celebration, learning the value of cooperation and respect."
+}

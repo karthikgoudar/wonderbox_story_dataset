@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200000",
+  "title": "The Truce at Coyote Creek",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "peace over conflict",
+  "characters": ["Cal Mercer", "Milo Crane", "Sheriff Alder", "Hank Tanner", "Jeb Rusk", "Wade Lannick", "Amos Tanner"],
+  "word_count": 3200,
+  "moral": "Choosing truth and cooperation over anger can prevent greater harm.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cal discovers signs of conflict between two ranches and meets Milo.",
+      "text": "Cal Mercer rides across the prairie and finds a disturbed camp showing signs of a confrontation between two rival ranches, Tanner and Rusk. He meets Milo Crane, a witty boy who confirms tensions are rising. Realizing danger is near, Cal decides to seek help from Sheriff Alder.",
+      "image_prompt": "young cowboy and boy in prairie discovering abandoned camp, horses, dusty western landscape, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The sheriff warns of a dangerous meeting between the rival ranches.",
+      "text": "In Red Bluff, Sheriff Alder explains that Tanner and Rusk will meet at Dry Gulch, where tensions could erupt into violence. Cal volunteers to intervene and stop the fight, taking a risky role as mediator despite the danger.",
+      "image_prompt": "small western town sheriff office, cowboy talking seriously with sheriff, worried expressions, colorful children’s book style"
+    },
+    {
+      "type": "journey",
+      "summary": "Cal attempts to negotiate peace but chaos breaks out.",
+      "text": "At Dry Gulch, Cal tries to convince both sides to agree to a truce. Just as tensions begin to ease, news of a shooting at the creek sparks panic, and violence nearly erupts. Cal and Milo escape through a secret pass to investigate the truth.",
+      "image_prompt": "tense standoff between cowboys in canyon, raised hands, horses, dramatic western scene, colorful cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Cal uncovers the real culprit behind the conflict.",
+      "text": "At Coyote Creek, Cal discovers that Wade Lannick secretly diverted water and shot Amos to ignite conflict. With Milo’s help, Cal stops Wade and reveals the truth to both ranches, preventing further violence.",
+      "image_prompt": "cowboys near creek discovering hidden water trench, confrontation with villain, action moment, bright cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The ranches agree to a truce and begin cooperation.",
+      "text": "Under the cottonwoods, both sides share a meal and agree to a three-day truce to work together and fix the creek. Over time, cooperation replaces hostility, and Cal reflects on courage and unity as peace begins to grow.",
+      "image_prompt": "cowboys sharing meal under trees near creek, peaceful sunset, friendly atmosphere, colorful children’s book illustration"
+    }
+  ],
+  "story": "Cal Mercer, a young cowboy, discovers rising tension between two rival ranches, Tanner and Rusk, after finding signs of conflict on the prairie. With the help of Milo Crane, he seeks Sheriff Alder’s guidance and learns of an upcoming meeting that could turn violent. Determined to prevent bloodshed, Cal goes to Dry Gulch to mediate. However, chaos erupts when news of a shooting spreads. Escaping through a hidden pass, Cal investigates and uncovers that Wade Lannick has been secretly diverting water and causing conflict. After exposing Wade, Cal brings both sides together. Through shared effort and honest discussion, they agree to a truce and begin repairing the damage. In the end, cooperation and courage help restore peace to the valley."
+}

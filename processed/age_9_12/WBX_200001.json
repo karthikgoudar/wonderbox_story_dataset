@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200000",
+  "title": "The Stolen Colors of Sagebrush Ranch",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and integrity",
+  "characters": ["June Hale", "Pepper", "Eli", "Mr. Rusk", "Slim", "Mrs. Calder", "Sheriff", "Quill Brothers"],
+  "word_count": 1403,
+  "moral": "True courage means staying calm and doing what is right even when afraid.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "June sets out from Sagebrush Ranch to deliver the ranch colors.",
+      "text": "June Hale prepares to travel from Sagebrush Ranch to Cottonwood Crossing carrying the ranch’s paint colors for a parade banner. With encouragement from Mr. Rusk and Eli, she begins her journey, aware that the colors represent the ranch’s identity and pride.",
+      "image_prompt": "young cowgirl preparing for journey with horse and paint supplies on ranch, sunrise prairie, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "June notices suspicious men and avoids danger on the trail.",
+      "text": "On the trail, June spots two suspicious men near a broken wagon and senses danger when she notices a revolver. She quietly avoids them using a gully and carefully navigates past a rattlesnake, realizing the men may be watching her and targeting the ranch.",
+      "image_prompt": "cowgirl hiding behind hill watching suspicious cowboys near wagon, desert landscape, rattlesnake nearby, colorful cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "June is chased and loses her painted plank.",
+      "text": "At a line shack, June paints a banner but is discovered by the men at night. She escapes through a window and flees with her horse Pepper through a narrow gully while being chased. Though she escapes safely, the men steal her painted plank, putting her mission at risk.",
+      "image_prompt": "night escape from cabin with horse, cowgirl running from villains, moonlit western scene, colorful cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "June reveals the truth about the stolen colors in town.",
+      "text": "In Cottonwood Crossing, June paints a new banner with help from Mrs. Calder and alerts the sheriff. When the Quill Brothers try to impersonate the ranch using the stolen plank, June exposes them by pointing out a unique paint drip, proving the theft and stopping their plan.",
+      "image_prompt": "cowgirl revealing real banner in town parade confronting villains, sheriff nearby, bright western town cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "June restores the ranch’s honor and reflects on courage.",
+      "text": "The thieves are arrested, and June proudly carries the real banner in the parade. Returning home, she reflects on her journey, understanding that staying calm and making wise choices helped protect her ranch’s honor and ensured a peaceful ending.",
+      "image_prompt": "cowgirl riding in parade with banner, cheering crowd, sunset western town, colorful children’s illustration"
+    }
+  ],
+  "story": "June Hale rides from Sagebrush Ranch to deliver her ranch’s colors for a parade, knowing they represent pride and identity. On the way, she notices suspicious men and carefully avoids them, sensing danger. Later, while resting at a line shack, the men track her down, forcing her to escape at night. Although she gets away safely, they steal her painted plank. Reaching Cottonwood Crossing, June quickly paints a new banner with help from a kind shopkeeper and informs the sheriff. During the parade, the thieves try to impersonate her ranch using the stolen plank, but June exposes them by identifying a paint flaw. The sheriff arrests them, and June restores her ranch’s honor. She returns home safely, realizing that courage is about staying calm and doing the right thing even in fear."
+}
