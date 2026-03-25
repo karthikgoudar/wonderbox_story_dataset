@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000011",
+  "title": "Dune Buggy Fun",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Luke", "Dune Buggy"],
+  "word_count": 35,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Luke and his dune buggy are introduced as best friends.",
+      "text": "Luke’s best buddy is Dune Buggy.",
+      "image_prompt": "happy child Luke with a smiling blue dune buggy in sandy desert, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They begin playing and exploring the sand dunes.",
+      "text": "They play in the sand dunes.",
+      "image_prompt": "child riding a dune buggy across golden sand dunes, bright sunny sky, cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They drive and perform fun actions in the dunes.",
+      "text": "They turn left. Dune Buggy rides on his back wheels.",
+      "image_prompt": "dune buggy turning left and popping wheelie in desert, excited child, colorful cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They continue their adventure driving under the dunes and spinning.",
+      "text": "They drive under the dune. Luke and Dune Buggy spin.",
+      "image_prompt": "dune buggy driving under sandy tunnel and spinning with dust clouds, playful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Luke and Dune Buggy happily rule the dunes together.",
+      "text": "Luke and Dune Buggy rule the dunes!",
+      "image_prompt": "child and dune buggy celebrating on top of dunes, victory pose, bright colorful cartoon illustration"
+    }
+  ],
+  "story": "Luke’s best buddy is Dune Buggy. They play in the sand dunes. They turn left. Dune Buggy rides on his back wheels. They drive under the dune. Luke and Dune Buggy spin. Luke and Dune Buggy rule the dunes!"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000006",
+  "title": "Gus the Duck",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "fun and friendship",
+  "characters": ["Gus", "bug"],
+  "word_count": 36,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Gus runs and gets muddy while playing.",
+      "text": "Gus runs in the mud.",
+      "image_prompt": "cute cartoon duck running and splashing in mud, playful colorful children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Gus gets into the tub to clean himself.",
+      "text": "Gus gets in the tub. The tub has suds.",
+      "image_prompt": "cartoon duck sitting in bathtub full of bubbles, bright and cheerful illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Gus rubs himself clean and plays in the tub.",
+      "text": "Gus rubs and rubs. It is fun in the tub.",
+      "image_prompt": "happy cartoon duck scrubbing with soap bubbles, playful bath time scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Gus notices a bug inside the tub.",
+      "text": "Gus has a sub. A bug is in the sub!",
+      "image_prompt": "cartoon duck surprised seeing a small bug inside toy submarine in bathtub, colorful fun style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Gus happily hugs the bug at the end.",
+      "text": "Gus hugs the bug.",
+      "image_prompt": "cute duck hugging a friendly bug with a smile, warm colorful children's illustration"
+    }
+  ],
+  "story": "Gus runs in the mud. Gus gets in the tub. The tub has suds. Gus rubs and rubs. Gus has a sub. A bug is in the sub! It is fun in the tub. Gus hugs the bug."
+}

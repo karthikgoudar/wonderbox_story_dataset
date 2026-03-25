@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000007",
+  "title": "Jake and the Whale",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Jake", "whale"],
+  "word_count": 34,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake is introduced playing in the water.",
+      "text": "This is Jake. Jake makes waves.",
+      "image_prompt": "colorful cartoon bird named Jake splashing and making waves in the sea, cheerful children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A whale appears and raises concern about Jake's safety.",
+      "text": "A whale is in the waves. Is Jake safe?",
+      "image_prompt": "large friendly whale emerging from waves near a small bird, slightly tense but playful cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "The whale comes closer and interacts with Jake.",
+      "text": "Yes, the whale came to play. Whales make big waves.",
+      "image_prompt": "happy whale and small bird playing together in ocean waves, bright colorful children's illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Jake realizes the whale is friendly and enjoys playing.",
+      "text": "Whales make big waves.",
+      "image_prompt": "big whale splashing water creating large waves while bird enjoys, fun cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Jake and the whale enjoy playing the same game together.",
+      "text": "They like the same game.",
+      "image_prompt": "bird and whale happily playing together in ocean waves, joyful colorful children's book scene"
+    }
+  ],
+  "story": "This is Jake. Jake makes waves. A whale is in the waves. Is Jake safe? Yes, the whale came to play. Whales make big waves. They like the same game."
+}

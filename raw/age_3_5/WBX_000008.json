@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000008",
+  "title": "Pete’s Sheep",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "sleep",
+  "characters": ["Pete", "Mom", "sheep"],
+  "word_count": 37,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Pete cannot sleep at night.",
+      "text": "Pete can not sleep.",
+      "image_prompt": "young boy lying awake in bed at night looking worried, soft pastel colors, children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Pete needs help and his mom suggests a solution.",
+      "text": "Pete needs help. Think of sheep, says Mom.",
+      "image_prompt": "mother gently talking to child beside bed suggesting counting sheep, warm cozy cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Pete starts counting sheep to fall asleep.",
+      "text": "One, two, three sheep, says Pete.",
+      "image_prompt": "child in bed imagining counting sheep numbers floating, dreamy colorful cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Pete begins to see sheep running in his imagination.",
+      "text": "Then Pete sees sheep. The sheep run past the tree.",
+      "image_prompt": "fluffy sheep running past a tree in a dreamlike scene, playful colorful children's illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Pete finally falls asleep peacefully.",
+      "text": "At last, Pete can sleep.",
+      "image_prompt": "child sleeping peacefully in bed with gentle smile, calm night scene, soft colors"
+    }
+  ],
+  "story": "Pete can not sleep. Pete needs help. Think of sheep, says Mom. One, two, three sheep, says Pete. Then Pete sees sheep. The sheep run past the tree. At last, Pete can sleep."
+}

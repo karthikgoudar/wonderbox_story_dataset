@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000010",
+  "title": "Robot and Mr. Mole",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "helping others",
+  "characters": ["Robot", "Mr. Mole"],
+  "word_count": 40,
+  "moral": "Helping others is kind.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A robot is introduced and described.",
+      "text": "This is a robot. His nose is a cone. His legs are made of hose.",
+      "image_prompt": "friendly blue robot with cone nose and hose legs standing on red ground, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The robot falls into a hole.",
+      "text": "He falls into a hole.",
+      "image_prompt": "cute robot falling into a dark hole with surprised expression, bright cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "The robot meets Mr. Mole in the hole.",
+      "text": "Mr. Mole is in the hole.",
+      "image_prompt": "small mole wearing glasses inside a cave with robot, warm light, cartoon children's illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mr. Mole offers help and gives instructions.",
+      "text": "I can help, says Mr. Mole. Go up this rope, says Mr. Mole.",
+      "image_prompt": "mole offering a rope to robot inside cave, glowing light bulb idea moment, colorful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The robot escapes and thanks Mr. Mole.",
+      "text": "Thanks, Mr. Mole! says the robot.",
+      "image_prompt": "robot happily climbing out and thanking mole, cheerful scene, bright colorful children's book illustration"
+    }
+  ],
+  "story": "This is a robot. His nose is a cone. His legs are made of hose. He falls into a hole. Mr. Mole is in the hole. I can help, says Mr. Mole. Go up this rope, says Mr. Mole. Thanks, Mr. Mole! says the robot."
+}

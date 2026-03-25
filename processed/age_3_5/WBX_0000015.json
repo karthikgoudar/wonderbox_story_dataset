@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000015",
+  "title": "Surfer Girl",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "fun",
+  "characters": ["Fern", "dad"],
+  "word_count": 56,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Fern likes to surf at Bird Rock where there are great waves.",
+      "text": "Fern likes to surf at Bird Rock. Bird Rock has the best waves.",
+      "image_prompt": "young girl smiling with surfboard near ocean waves at rocky beach, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Fern faces a big wave and must act quickly.",
+      "text": "Here is a big wave. Fern has to turn fast.",
+      "image_prompt": "girl surfing and quickly turning on a big wave, dynamic ocean scene, colorful cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Fern bravely swims toward an even bigger wave.",
+      "text": "Here is a bigger wave. Fern swims to meet it.",
+      "image_prompt": "girl swimming toward a large wave with surfboard in ocean, bright and fun cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The biggest wave curls into a tube and Fern rides inside it.",
+      "text": "Here comes the biggest wave. The wave curls over and makes a tube. Surfing in the tube is fun!",
+      "image_prompt": "girl surfing inside a curling wave tube with splashy water, exciting colorful cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Fern wants to surf all day but her dad tells her no.",
+      "text": "Fern wants to surf all day. Her dad says, \"No way.\"",
+      "image_prompt": "girl holding surfboard talking to her dad on beach at sunset, cheerful cartoon illustration"
+    }
+  ],
+  "story": "Fern likes to surf at Bird Rock. Bird Rock has the best waves. Here is a big wave. Fern has to turn fast. Here is a bigger wave. Fern swims to meet it. Here comes the biggest wave. The wave curls over and makes a tube. Surfing in the tube is fun! Fern wants to surf all day. Her dad says, \"No way.\""
+}

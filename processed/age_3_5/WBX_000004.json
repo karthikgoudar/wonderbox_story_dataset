@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000004",
+  "title": "The Big Hit",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "perseverance",
+  "characters": ["tin man", "Jill", "Zac"],
+  "word_count": 36,
+  "moral": "Do not give up.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The tin man has a bat and gets ready to play.",
+      "text": "The tin man has a bat.",
+      "image_prompt": "cartoon tin man holding a bat on a playground, colorful children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jill and Zac prepare with a mitt and a ball.",
+      "text": "Jill has a mitt. Zac has a big ball.",
+      "image_prompt": "cartoon girl with mitt and small character holding big ball, bright playful scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They wonder if the tin man will hit the ball and the ball reaches the mitt.",
+      "text": "Will he hit the ball? The ball hits the mitt.",
+      "image_prompt": "cartoon scene of ball flying toward mitt while tin man swings bat, colorful action illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The tin man keeps trying and does not give up.",
+      "text": "The tin man will not give up.",
+      "image_prompt": "determined cartoon tin man practicing batting again, cheerful children’s book style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The tin man finally hits the ball successfully.",
+      "text": "The tin man hits the ball!",
+      "image_prompt": "happy cartoon tin man hitting ball far with bat, joyful colorful scene"
+    }
+  ],
+  "story": "The tin man has a bat. Jill has a mitt. Zac has a big ball. Will he hit the ball? The ball hits the mitt. The tin man will not give up. The tin man hits the ball!"
+}

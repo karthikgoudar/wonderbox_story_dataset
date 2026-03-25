@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000005",
+  "title": "Mox's Shop",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "helpfulness",
+  "characters": ["Mox", "Bob"],
+  "word_count": 35,
+  "moral": "Helping and fixing mistakes is important.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mox is a fox who owns a shop.",
+      "text": "Mox is a fox. Mox has a shop.",
+      "image_prompt": "cute cartoon fox chef standing proudly in front of a small colorful shop, children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Bob the hog comes and helps Mox in the shop.",
+      "text": "Bob is a hog. Bob helps Mox.",
+      "image_prompt": "friendly cartoon hog helping fox chef in a kitchen shop, bright cheerful scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They begin cooking by mixing eggs together.",
+      "text": "They mix eggs in a pot.",
+      "image_prompt": "cartoon fox and hog mixing eggs in a big pot together, playful colorful kitchen scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Bob accidentally drops the eggs and makes a mess.",
+      "text": "Bob drops the eggs. What a mess!",
+      "image_prompt": "cartoon hog dropping eggs on the floor with shells everywhere, surprised expressions, bright colors"
+    },
+    {
+      "type": "resolution",
+      "summary": "Bob cleans up the mess and Mox praises him.",
+      "text": "Bob mops and mops. Good job says Mox.",
+      "image_prompt": "cartoon hog cleaning floor with mop while fox smiles and praises, happy ending scene"
+    }
+  ],
+  "story": "Mox is a fox. Mox has a shop. Bob is a hog. Bob helps Mox. They mix eggs in a pot. Bob drops the eggs. What a mess! Bob mops and mops. Good job says Mox."
+}

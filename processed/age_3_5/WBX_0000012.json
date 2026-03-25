@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000012",
+  "title": "Joe’s Soap Boat",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "loss and recovery",
+  "characters": ["Joe", "fish", "whale", "bird"],
+  "word_count": 44,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Joe sees his soap boat sailing away and feels worried.",
+      "text": "My soap boat is sailing away! cries Joe.",
+      "image_prompt": "young boy on beach watching a small soap boat float away in water, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The soap boat drifts into the sea and gets lost.",
+      "text": "The soap boat is lost in the sea.",
+      "image_prompt": "small soap boat floating far into the sea waves, distant shore, bright cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Sea creatures notice the strange soap boat underwater.",
+      "text": "What is this? says a fish. A whale is under the water.",
+      "image_prompt": "curious fish and a large whale underwater looking at a floating soap boat, colorful cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The soap boat floats up and is grabbed and dropped by a bird.",
+      "text": "The soap boat floats on top. A bird grabs the soap boat. The bird drops the soap boat.",
+      "image_prompt": "bird picking up a small soap boat above water and dropping it near the shore, playful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Joe gets his soap boat back and feels happy.",
+      "text": "It’s my soap boat! says Joe.",
+      "image_prompt": "happy child holding recovered soap boat on beach with smiling parent nearby, colorful cartoon style"
+    }
+  ],
+  "story": "My soap boat is sailing away! cries Joe. The soap boat is lost in the sea. What is this? says a fish. A whale is under the water. The soap boat floats on top. A bird grabs the soap boat. The bird drops the soap boat. It’s my soap boat! says Joe."
+}

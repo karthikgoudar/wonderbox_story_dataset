@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000009",
+  "title": "Sky Ride",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "play",
+  "characters": ["Spot", "Mike", "Spike"],
+  "word_count": 35,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Spot is introduced as a black and white dog.",
+      "text": "Spot is black and white.",
+      "image_prompt": "cute black and white dog riding a unicycle, colorful cartoon sky background, children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Spot rides bikes with Mike and Spike.",
+      "text": "He rides bikes with Mike and Spike.",
+      "image_prompt": "three friends riding bikes together happily, bright sky, playful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Mike has a kite and they begin chasing and playing.",
+      "text": "Mike has a kite. Let’s chase Mike, says Spike. They play hide and seek.",
+      "image_prompt": "children riding bikes chasing a kite in the sky, fun colorful cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mike suggests going down from the sky ride.",
+      "text": "Let’s go down, says Mike.",
+      "image_prompt": "child pointing downward while riding in the sky with kites, bright clouds, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They land in slime at the end of their adventure.",
+      "text": "Yikes! They land in slime!",
+      "image_prompt": "kids and dog landing in green slime with surprised expressions, playful colorful illustration"
+    }
+  ],
+  "story": "Spot is black and white. He rides bikes with Mike and Spike. Mike has a kite. Let’s chase Mike, says Spike. They play hide and seek. Let’s go down, says Mike. Yikes! They land in slime!"
+}
