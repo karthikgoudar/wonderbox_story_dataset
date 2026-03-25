@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100039",
+  "title": "Timo Finishes the Race",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "perseverance",
+  "characters": ["Timo", "Ravi the Rabbit", "Mina the Myna Bird"],
+  "word_count": 270,
+  "moral": "Finishing what you start is more important than winning.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Timo the turtle likes trying new things but gives up quickly.",
+      "text": "Timo the Turtle Who Gave Up Too Soon\n\nIn a quiet meadow near a small pond, lived a little turtle named Timo.\n\nTimo liked trying new things.\n\nBut there was one problem…\n\nHe gave up too quickly.",
+      "image_prompt": "cute turtle in meadow near pond looking thoughtful, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Timo starts a race but stops early because he feels too slow.",
+      "text": "One day, Timo decided to race.\n\n“I want to be fast!” he said.\n\nHis friend Ravi the Rabbit smiled.\n\n“Let’s race to the big tree,” he said.\n\n“Okay!” said Timo.\n\nThe race began.\n\nHop! Hop! went Ravi.\n\nStep… step… went Timo.\n\nAfter a short while, Timo stopped.\n\n“I’m too slow,” he said.\n\n“I can’t win.”\n\nHe sat down.",
+      "image_prompt": "rabbit running fast while turtle stops sadly during race, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Timo watches others continue while he feels disappointed.",
+      "text": "Ravi kept going.\n\nOther animals cheered.\n\nTimo watched quietly.\n\n“I wish I could finish,” he said.",
+      "image_prompt": "turtle sitting while others cheer race in background, colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mina encourages Timo to keep going and finish the race.",
+      "text": "Just then, Mina the Myna Bird flew down.\n\n“Why did you stop?” she asked.\n\n“I can’t win,” Timo said.\n\nMina smiled.\n\n“It’s not about winning,” she said.\n\n“It’s about finishing.”\n\nTimo thought for a moment.\n\nHe stood up.\n\n“Maybe I can finish,” he said.",
+      "image_prompt": "bird encouraging turtle to continue race, warm supportive cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Timo finishes the race and feels proud of himself.",
+      "text": "Step… step…\n\nHe kept going.\n\nTimo reached the tree!\n\n“I did it!” he cheered.\n\nRavi smiled.\n\n“You didn’t give up this time!”\n\nDon’t give up too soon.\n\nFinishing what you start is important.\n\nThe End",
+      "image_prompt": "happy turtle reaching finish tree with rabbit cheering, bright joyful cartoon"
+    }
+  ],
+  "story": "Timo the Turtle Who Gave Up Too Soon\n\nIn a quiet meadow near a small pond, lived a little turtle named Timo.\n\nTimo liked trying new things.\n\nBut there was one problem…\n\nHe gave up too quickly.\n\nOne day, Timo decided to race.\n\n“I want to be fast!” he said.\n\nHis friend Ravi the Rabbit smiled.\n\n“Let’s race to the big tree,” he said.\n\n“Okay!” said Timo.\n\nThe race began.\n\nHop! Hop! went Ravi.\n\nStep… step… went Timo.\n\nAfter a short while, Timo stopped.\n\n“I’m too slow,” he said.\n\n“I can’t win.”\n\nHe sat down.\n\nRavi kept going.\n\nOther animals cheered.\n\nTimo watched quietly.\n\n“I wish I could finish,” he said.\n\nJust then, Mina the Myna Bird flew down.\n\n“Why did you stop?” she asked.\n\n“I can’t win,” Timo said.\n\nMina smiled.\n\n“It’s not about winning,” she said.\n\n“It’s about finishing.”\n\nTimo thought for a moment.\n\nHe stood up.\n\n“Maybe I can finish,” he said.\n\nStep… step…\n\nHe kept going.\n\nTimo reached the tree!\n\n“I did it!” he cheered.\n\nRavi smiled.\n\n“You didn’t give up this time!”\n\nDon’t give up too soon.\n\nFinishing what you start is important.\n\nThe End"
+}

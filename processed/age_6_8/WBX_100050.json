@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100050",
+  "title": "Nora Learns to Focus",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "focus",
+  "characters": ["Nora", "Lina the Lamb"],
+  "word_count": 259,
+  "moral": "Focusing on one task at a time helps you do your best.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Nora loves learning many things but tries to do everything at once.",
+      "text": "Nora the Horse Who Wanted to Do Everything\n\nIn a wide green field, lived a lively horse named Nora.\n\nNora loved learning new things.\n\nShe wanted to run fast, sing songs, paint pictures, and dance too!\n\nBut there was one problem…\n\nNora tried to do everything at once.",
+      "image_prompt": "happy horse imagining many activities like singing painting dancing, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Nora starts multiple activities but cannot complete any of them.",
+      "text": "“I will learn singing today!” Nora said.\n\nBut then—\n\n“I also want to paint!”\n\nAnd then—\n\n“Let’s dance too!”\n\nShe started everything…\n\nBut finished nothing.",
+      "image_prompt": "horse trying many activities at once looking overwhelmed, playful cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Nora feels confused and tired from trying too many things at once.",
+      "text": "Soon, Nora felt tired.\n\nHer painting was half done.\n\nHer song was not ready.\n\nHer dance steps were mixed up.\n\n“I don’t feel good,” she said.\n\n“I can’t do anything properly.”",
+      "image_prompt": "tired horse surrounded by unfinished work looking confused, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Lina advises Nora to focus on one task at a time.",
+      "text": "Just then, Lina the Lamb came by.\n\n“Why are you upset?” she asked.\n\n“I tried everything,” Nora said,\n\n“but I couldn’t do any of them well.”\n\nLina smiled.\n\n“Try one thing at a time,” she said.\n\nNora thought for a moment.\n\n“Okay,” she said.\n\n“I’ll start with singing.”",
+      "image_prompt": "lamb giving advice to horse in field, warm friendly cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Nora focuses on one activity at a time and succeeds.",
+      "text": "She practiced slowly.\n\nAgain and again.\n\nSoon, Nora sang a lovely song.\n\n“Wow!” said her friends.\n\n“That was beautiful!”\n\nNora smiled proudly.\n\nNext, she learned painting.\n\nThen dancing.\n\nOne step at a time.\n\nDoing one thing at a time helps you do it well.\n\nFocus brings success.\n\nThe End",
+      "image_prompt": "happy horse singing while friends cheer in field, bright cheerful cartoon"
+    }
+  ],
+  "story": "Nora the Horse Who Wanted to Do Everything\n\nIn a wide green field, lived a lively horse named Nora.\n\nNora loved learning new things.\n\nShe wanted to run fast, sing songs, paint pictures, and dance too!\n\nBut there was one problem…\n\nNora tried to do everything at once.\n\n“I will learn singing today!” Nora said.\n\nBut then—\n\n“I also want to paint!”\n\nAnd then—\n\n“Let’s dance too!”\n\nShe started everything…\n\nBut finished nothing.\n\nSoon, Nora felt tired.\n\nHer painting was half done.\n\nHer song was not ready.\n\nHer dance steps were mixed up.\n\n“I don’t feel good,” she said.\n\n“I can’t do anything properly.”\n\nJust then, Lina the Lamb came by.\n\n“Why are you upset?” she asked.\n\n“I tried everything,” Nora said,\n\n“but I couldn’t do any of them well.”\n\nLina smiled.\n\n“Try one thing at a time,” she said.\n\nNora thought for a moment.\n\n“Okay,” she said.\n\n“I’ll start with singing.”\n\nShe practiced slowly.\n\nAgain and again.\n\nSoon, Nora sang a lovely song.\n\n“Wow!” said her friends.\n\n“That was beautiful!”\n\nNora smiled proudly.\n\nNext, she learned painting.\n\nThen dancing.\n\nOne step at a time.\n\nDoing one thing at a time helps you do it well.\n\nFocus brings success.\n\nThe End"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100041",
+  "title": "Polo Tries Something New",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "trying new things",
+  "characters": ["Polo", "Mimi the Monkey"],
+  "word_count": 258,
+  "moral": "Trying new things can bring happiness and help you grow.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Polo the panda only eats bamboo and avoids new foods.",
+      "text": "Polo the Panda Who Didn’t Try New Foods\n\nIn a peaceful bamboo forest, lived a cuddly panda named Polo.\n\nPolo loved eating bamboo.\n\nCrunchy, fresh bamboo—his favorite!\n\nBut there was one problem…\n\nPolo never tried new foods.",
+      "image_prompt": "cute panda happily eating bamboo in forest, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Polo refuses to try other foods despite encouragement from Mimi.",
+      "text": "“Try this apple!” said Mimi the Monkey.\n\n“It’s sweet and juicy!”\n\nPolo shook his head.\n\n“No, thank you,” he said.\n\n“I only eat bamboo.”",
+      "image_prompt": "monkey offering apple to panda who refuses, bright cartoon forest scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Polo watches others enjoy different foods but still refuses to try.",
+      "text": "Mimi enjoyed apples.\n\nOthers ate berries and fruits.\n\nThey smiled and laughed.\n\n“That looks nice,” Polo said.\n\nBut he still didn’t try.",
+      "image_prompt": "animals eating fruits happily while panda watches, cheerful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "A shortage of bamboo forces Polo to consider trying new food.",
+      "text": "One day, there was very little bamboo.\n\n“Oh no!” Polo said.\n\n“I’m hungry!”\n\nHe searched everywhere.\n\nBut found none.\n\nMimi came by again.\n\n“Try this apple,” she said.\n\nPolo hesitated.\n\n“I’ve never eaten one before,” he said.",
+      "image_prompt": "hungry panda looking worried while monkey offers apple, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Polo tries new foods and discovers he enjoys them.",
+      "text": "Polo took a tiny bite.\n\nCrunch!\n\nHis eyes widened.\n\n“Wow! It’s sweet!” he said.\n\nSoon, Polo tried berries, apples, and more.\n\n“I like these!” he said.\n\nHe felt happy and full.\n\nTrying new things can bring new joy.\n\nDon’t be afraid to explore.\n\nThe End",
+      "image_prompt": "happy panda eating fruits with friends, colorful joyful cartoon scene"
+    }
+  ],
+  "story": "Polo the Panda Who Didn’t Try New Foods\n\nIn a peaceful bamboo forest, lived a cuddly panda named Polo.\n\nPolo loved eating bamboo.\n\nCrunchy, fresh bamboo—his favorite!\n\nBut there was one problem…\n\nPolo never tried new foods.\n\n“Try this apple!” said Mimi the Monkey.\n\n“It’s sweet and juicy!”\n\nPolo shook his head.\n\n“No, thank you,” he said.\n\n“I only eat bamboo.”\n\nMimi enjoyed apples.\n\nOthers ate berries and fruits.\n\nThey smiled and laughed.\n\n“That looks nice,” Polo said.\n\nBut he still didn’t try.\n\nOne day, there was very little bamboo.\n\n“Oh no!” Polo said.\n\n“I’m hungry!”\n\nHe searched everywhere.\n\nBut found none.\n\nMimi came by again.\n\n“Try this apple,” she said.\n\nPolo hesitated.\n\n“I’ve never eaten one before,” he said.\n\nPolo took a tiny bite.\n\nCrunch!\n\nHis eyes widened.\n\n“Wow! It’s sweet!” he said.\n\nSoon, Polo tried berries, apples, and more.\n\n“I like these!” he said.\n\nHe felt happy and full.\n\nTrying new things can bring new joy.\n\nDon’t be afraid to explore.\n\nThe End"
+}

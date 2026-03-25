@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100040",
+  "title": "Bella Learns to Listen",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "listening",
+  "characters": ["Bella", "Queen Bee", "Lily the Ladybug"],
+  "word_count": 276,
+  "moral": "Listening to good advice helps keep you safe.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Bella the bee enjoys flying but does not listen to advice.",
+      "text": "Bella the Bee Who Didn’t Listen\n\nIn a colorful meadow full of bright flowers, lived a busy little bee named Bella.\n\nBella loved flying from flower to flower.\n\nShe collected nectar all day long.\n\nBut there was one problem…\n\nBella didn’t like to listen.",
+      "image_prompt": "cute bee flying among colorful flowers in meadow, bright cheerful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Bella ignores Queen Bee’s advice and flies too far away.",
+      "text": "“Stay close to the hive,” said Queen Bee.\n\n“And be careful!”\n\n“Okay!” Bella buzzed.\n\nBut she didn’t really listen.\n\nShe flew far… far away.",
+      "image_prompt": "queen bee warning while small bee flies away into distance, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Bella gets lost while following distractions in the meadow.",
+      "text": "Bella followed a butterfly.\n\nThen a bright flower.\n\nThen another…\n\nSoon, she didn’t recognize anything.\n\n“Oh no!” she said.\n\n“I’m lost!”",
+      "image_prompt": "bee looking confused in unfamiliar meadow chasing butterfly, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Lily helps Bella realize her mistake and guides her back.",
+      "text": "Dark clouds gathered.\n\nThe wind blew hard.\n\n“Buzzzz!” Bella cried.\n\n“I don’t know the way back!”\n\nShe felt scared and alone.\n\nJust then, Lily the Ladybug landed nearby.\n\n“Why are you upset?” she asked.\n\n“I didn’t listen,” Bella said.\n\n“And now I’m lost.”\n\nLily smiled kindly.\n\n“I’ll help you,” she said.",
+      "image_prompt": "ladybug comforting scared bee under dark clouds, warm cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Bella returns home safely and learns the importance of listening.",
+      "text": "Lily showed Bella the path back.\n\nThey followed flowers…\n\nTrees…\n\nAnd familiar smells.\n\nSoon, Bella saw her hive.\n\n“I’m home!” she buzzed happily.\n\nBella went to Queen Bee.\n\n“I’m sorry,” she said.\n\n“I should have listened.”\n\nQueen Bee smiled.\n\n“I’m glad you’re safe.”\n\nListening to good advice keeps you safe.\n\nIt’s important to pay attention.\n\nThe End",
+      "image_prompt": "happy bee returning to hive with queen bee smiling, bright colorful cartoon scene"
+    }
+  ],
+  "story": "Bella the Bee Who Didn’t Listen\n\nIn a colorful meadow full of bright flowers, lived a busy little bee named Bella.\n\nBella loved flying from flower to flower.\n\nShe collected nectar all day long.\n\nBut there was one problem…\n\nBella didn’t like to listen.\n\n“Stay close to the hive,” said Queen Bee.\n\n“And be careful!”\n\n“Okay!” Bella buzzed.\n\nBut she didn’t really listen.\n\nShe flew far… far away.\n\nBella followed a butterfly.\n\nThen a bright flower.\n\nThen another…\n\nSoon, she didn’t recognize anything.\n\n“Oh no!” she said.\n\n“I’m lost!”\n\nDark clouds gathered.\n\nThe wind blew hard.\n\n“Buzzzz!” Bella cried.\n\n“I don’t know the way back!”\n\nShe felt scared and alone.\n\nJust then, Lily the Ladybug landed nearby.\n\n“Why are you upset?” she asked.\n\n“I didn’t listen,” Bella said.\n\n“And now I’m lost.”\n\nLily smiled kindly.\n\n“I’ll help you,” she said.\n\nLily showed Bella the path back.\n\nThey followed flowers…\n\nTrees…\n\nAnd familiar smells.\n\nSoon, Bella saw her hive.\n\n“I’m home!” she buzzed happily.\n\nBella went to Queen Bee.\n\n“I’m sorry,” she said.\n\n“I should have listened.”\n\nQueen Bee smiled.\n\n“I’m glad you’re safe.”\n\nListening to good advice keeps you safe.\n\nIt’s important to pay attention.\n\nThe End"
+}
