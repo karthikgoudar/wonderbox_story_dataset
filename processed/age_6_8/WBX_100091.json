@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100091",
+  "title": "Tenali Rama and the Thieves",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "cleverness",
+  "characters": ["Tenali Rama", "Wife", "Thieves"],
+  "word_count": 168,
+  "moral": "Intelligence can defeat even the strongest enemies.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Tenali learns that thieves plan to rob his house.",
+      "text": "One night, Tenali Rama heard that a group of thieves were planning to rob his house.",
+      "image_prompt": "tenali rama thinking while hearing about thieves at night, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Tenali pretends to hide gold in a well.",
+      "text": "Tenali loudly told his wife that they would hide their gold in a box and throw it into the well.",
+      "image_prompt": "tenali speaking loudly near well while wife listens, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The thieves try to find the gold.",
+      "text": "The thieves heard this and began pulling water from the well all night to find the treasure.",
+      "image_prompt": "thieves pulling water from well at night, cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thieves find nothing after working all night.",
+      "text": "The thieves worked hard but found no gold in the well.",
+      "image_prompt": "tired thieves looking confused near empty well, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali reveals his trick and the thieves run away.",
+      "text": "Tenali laughed and thanked them for watering his garden. The thieves realized the trick and ran away. Intelligence can defeat even the strongest enemies.",
+      "image_prompt": "tenali laughing while thieves run away, cheerful cartoon"
+    }
+  ],
+  "story": "One night, Tenali Rama heard that thieves planned to rob his house. He loudly told his wife they would hide gold in a box in the well. The thieves heard and spent all night pulling water to find it. In the morning, Tenali laughed and thanked them for watering his garden. The thieves realized they were tricked and ran away."
+}

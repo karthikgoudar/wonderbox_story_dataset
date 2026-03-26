@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100096",
+  "title": "Tenali Rama and the Cat’s Lesson",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "behavior",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Courtiers", "Cat"],
+  "word_count": 186,
+  "moral": "Fear can change behavior more than force.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The king gives cats to courtiers to control rats.",
+      "text": "One day, the king gave each courtier a cat and a cow to take care of and asked them to feed the cats milk.",
+      "image_prompt": "king giving cats and cows to courtiers in royal court cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Tenali feeds hot milk to his cat.",
+      "text": "Tenali gave his cat very hot milk, and the cat burned its mouth and ran away.",
+      "image_prompt": "cat reacting to hot milk and running away while Tenali watches cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The cat refuses to drink milk afterward.",
+      "text": "After that day, the cat refused to drink milk even when it was cool.",
+      "image_prompt": "cat refusing milk bowl while Tenali offers it cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The king checks the cats and questions Tenali.",
+      "text": "The king saw Tenali’s weak cat and questioned him about not feeding it properly.",
+      "image_prompt": "king looking at thin cat while questioning Tenali cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali proves his point about fear.",
+      "text": "Tenali showed that the cat refused milk out of fear. The king understood and appreciated the lesson.",
+      "image_prompt": "cat running away from milk while king realizes truth cartoon"
+    }
+  ],
+  "story": "The king gave each courtier a cat to control rats and asked them to feed it milk. Tenali gave his cat hot milk once, causing it to fear milk forever. When the king questioned him, Tenali showed that fear made the cat refuse milk, teaching an important lesson."
+}

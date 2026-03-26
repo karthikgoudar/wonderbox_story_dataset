@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100063",
+  "title": "Birbal and the Pot of Wisdom",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Akbar", "Birbal"],
+  "word_count": 146,
+  "moral": "Wisdom grows with time and patience.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar challenges Birbal to fill a pot with wisdom.",
+      "text": "One day, Emperor Akbar asked Birbal to fill a pot with wisdom. Birbal agreed with a smile.",
+      "image_prompt": "king akbar giving challenge to birbal holding pot, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal takes the pot and prepares his answer.",
+      "text": "Birbal took the pot home and worked on a clever idea to answer the challenge.",
+      "image_prompt": "birbal thinking at home with pot, creative cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal returns with the covered pot.",
+      "text": "The next day, Birbal returned with the pot covered and told Akbar it was full of wisdom.",
+      "image_prompt": "birbal presenting covered pot to king in court, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Akbar opens the pot and finds a pumpkin.",
+      "text": "Akbar opened the pot and found a pumpkin inside. He was surprised and confused.",
+      "image_prompt": "king opening pot and seeing pumpkin inside, surprised expression cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains the meaning and Akbar understands.",
+      "text": "Birbal explained that wisdom grows slowly like the pumpkin. Akbar understood and smiled. Wisdom grows with time and patience.",
+      "image_prompt": "birbal explaining to king while both smile, warm cartoon scene"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked Birbal, “Can you fill this pot with wisdom?” Birbal agreed and took the pot home. The next day, he returned with it covered. When Akbar opened it, he found a pumpkin inside. Birbal explained that the pumpkin grew slowly in the pot, just like wisdom grows with time and patience. Akbar understood and smiled."
+}

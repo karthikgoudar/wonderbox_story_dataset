@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100074",
+  "title": "Birbal and the Cold Water Challenge",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "fairness",
+  "characters": ["Akbar", "Birbal", "Poor Man"],
+  "word_count": 182,
+  "moral": "Always be fair and think wisely before judging others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar announces a challenge to stand in cold water overnight.",
+      "text": "One winter day, Emperor Akbar announced that anyone who stood in a cold river all night would be rewarded.",
+      "image_prompt": "king announcing challenge near river in winter, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A poor man completes the challenge but is denied reward.",
+      "text": "A poor man stood in the freezing river all night. The next morning, Akbar refused to reward him after hearing about the distant light.",
+      "image_prompt": "poor man in cold river at night with distant light, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal learns about the unfair decision.",
+      "text": "Birbal heard about the situation and decided to help the poor man.",
+      "image_prompt": "birbal thinking seriously after hearing story, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal demonstrates the mistake using cooking.",
+      "text": "Birbal placed a pot high above a small fire. When Akbar questioned it, Birbal compared it to the distant light.",
+      "image_prompt": "pot hanging high above fire with king confused, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Akbar realizes his mistake and rewards the man.",
+      "text": "Akbar understood his mistake and rewarded the poor man. Always be fair and think wisely before judging others.",
+      "image_prompt": "king rewarding poor man while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One winter day, Emperor Akbar announced a challenge to stand in cold water all night for a reward. A poor man completed the challenge, but Akbar refused to reward him because he had looked at a distant light. Birbal later demonstrated the unfairness by placing a pot far from a fire. Akbar realized his mistake and rewarded the poor man."
+}

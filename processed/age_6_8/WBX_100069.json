@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100069",
+  "title": "Birbal and the Greedy Barber",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["Akbar", "Birbal", "Barber"],
+  "word_count": 162,
+  "moral": "Greed and lies lead to trouble.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A barber claims he can talk to people in heaven.",
+      "text": "One day, a barber came to Emperor Akbar and claimed he could talk to people in heaven.",
+      "image_prompt": "barber speaking confidently to king in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The barber offers to deliver messages to ancestors.",
+      "text": "The barber said he could go to heaven and deliver messages, hoping to gain rewards from the king.",
+      "image_prompt": "barber making big claims in court while others listen, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal plans to test the barber’s claim.",
+      "text": "Birbal realized the barber was lying and decided to test him with a clever plan.",
+      "image_prompt": "birbal thinking cleverly in court, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal prepares a fire to send the barber to heaven.",
+      "text": "Birbal ordered a large fire to be prepared and said the barber would be sent to heaven through it.",
+      "image_prompt": "large fire being prepared while barber looks shocked, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "The barber admits the truth and is punished.",
+      "text": "The barber became scared and admitted he was lying. Akbar punished him. Greed and lies lead to trouble.",
+      "image_prompt": "barber apologizing while king and birbal watch, cartoon illustration"
+    }
+  ],
+  "story": "One day, a barber told Emperor Akbar that he could talk to people in heaven and deliver messages. Akbar asked Birbal for advice. Birbal knew the barber was lying and planned a test. He ordered a fire to send the barber to heaven. The barber became scared and admitted the truth. Akbar punished him for his dishonesty."
+}

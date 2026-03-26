@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100068",
+  "title": "Birbal and the Magic Stick",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "justice",
+  "characters": ["Akbar", "Birbal", "Merchant", "Suspects"],
+  "word_count": 168,
+  "moral": "Truth always comes out in the end.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A merchant reports a theft to Akbar.",
+      "text": "One day, a merchant came to Emperor Akbar and complained that his money had been stolen.",
+      "image_prompt": "merchant talking to king about theft in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal gathers suspects and gives them sticks.",
+      "text": "Birbal gathered all the suspects and gave each of them a stick, saying it was magical.",
+      "image_prompt": "birbal handing sticks to suspects in court, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The suspects take the sticks home.",
+      "text": "Birbal told them that the thief’s stick would grow longer overnight, and everyone took their sticks home.",
+      "image_prompt": "people holding sticks looking worried at night, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief cuts his stick out of fear.",
+      "text": "The thief became afraid and cut his stick shorter to avoid being caught.",
+      "image_prompt": "man secretly cutting stick at night, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal finds the thief using the shortened stick.",
+      "text": "The next day, Birbal saw one stick was shorter and identified the thief. The man confessed. Truth always comes out in the end.",
+      "image_prompt": "birbal pointing at guilty man while king watches, cartoon"
+    }
+  ],
+  "story": "One day, a merchant came to Emperor Akbar and said his money was stolen. Birbal gathered all suspects and gave each a stick, saying it was magical and would grow if they were guilty. The thief became afraid and cut his stick shorter. The next day, Birbal saw the shorter stick and caught the thief. The man confessed his crime."
+}

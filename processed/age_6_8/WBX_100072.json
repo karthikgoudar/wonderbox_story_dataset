@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100072",
+  "title": "Birbal and the Three Questions",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Akbar", "Birbal", "Courtiers"],
+  "word_count": 178,
+  "moral": "God is everywhere and sees everything.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks three difficult questions in court.",
+      "text": "One day, Emperor Akbar asked where God lives, which direction God faces, and what God does.",
+      "image_prompt": "king asking deep questions in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "No one in the court can answer the questions.",
+      "text": "The courtiers were silent because they did not know the answers.",
+      "image_prompt": "people looking confused in court, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal uses simple examples to explain.",
+      "text": "Birbal brought milk and asked where butter was. Akbar said it was everywhere.",
+      "image_prompt": "birbal showing bowl of milk to king, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal explains God's presence and direction.",
+      "text": "Birbal compared God to butter in milk and light from a lamp that spreads everywhere.",
+      "image_prompt": "lamp glowing in all directions while birbal explains, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal answers all questions and impresses Akbar.",
+      "text": "Birbal said God changes situations by making the weak strong and the strong weak. Akbar was impressed. God is everywhere and sees everything.",
+      "image_prompt": "king praising birbal in court, cheerful cartoon style"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked three questions: where God lives, which direction God faces, and what God does. No one could answer. Birbal explained using simple examples like butter in milk and light from a lamp. He said God is everywhere, faces all directions, and changes situations. Akbar was impressed with his wisdom."
+}

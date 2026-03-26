@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100089",
+  "title": "Birbal and the Hidden Treasure",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "observation",
+  "characters": ["Akbar", "Birbal", "Man", "Neighbor"],
+  "word_count": 176,
+  "moral": "The truth often reveals itself through small details.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A man reports his buried treasure missing.",
+      "text": "One day, a man came to Emperor Akbar and said his buried treasure was missing.",
+      "image_prompt": "man explaining lost treasure to king in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal begins investigating the situation.",
+      "text": "Birbal asked questions about where the treasure was buried and who might have seen it.",
+      "image_prompt": "birbal questioning man thoughtfully, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The man mentions his neighbor might have seen him.",
+      "text": "The man remembered that his neighbor might have seen him bury the treasure.",
+      "image_prompt": "man thinking while talking to birbal, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal questions the neighbor cleverly.",
+      "text": "Birbal asked the neighbor about the tree, and he answered quickly, revealing his knowledge.",
+      "image_prompt": "neighbor answering nervously in court, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "The neighbor confesses and the truth is revealed.",
+      "text": "Birbal realized the neighbor was the thief. He confessed, and Akbar praised Birbal. The truth often reveals itself through small details.",
+      "image_prompt": "neighbor confessing while king and birbal watch, cartoon"
+    }
+  ],
+  "story": "One day, a man told Emperor Akbar that his buried treasure was missing. Birbal asked questions and learned that a neighbor might have seen him. When the neighbor answered a question about the tree too quickly, Birbal realized he knew about the treasure. The neighbor confessed, and Akbar praised Birbal."
+}

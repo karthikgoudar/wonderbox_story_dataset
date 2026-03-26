@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100085",
+  "title": "Birbal and the Missing Necklace",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["Akbar", "Birbal", "Queen", "Servants"],
+  "word_count": 164,
+  "moral": "Fear of being caught often reveals the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The queen loses her necklace in the palace.",
+      "text": "One day, the queen lost her precious necklace, and everyone in the palace became worried.",
+      "image_prompt": "queen looking worried about missing necklace in palace, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Akbar asks Birbal to find the thief.",
+      "text": "Emperor Akbar asked Birbal to find out who had taken the necklace.",
+      "image_prompt": "king asking birbal to solve mystery in court, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal gathers servants and warns them.",
+      "text": "Birbal gathered all the servants and warned that the thief’s hands would turn black using a special powder.",
+      "image_prompt": "birbal speaking seriously to servants, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief becomes afraid and returns the necklace.",
+      "text": "The real thief became scared and secretly returned the necklace during the night.",
+      "image_prompt": "person secretly placing necklace back at night, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "The necklace is found and Birbal explains the truth.",
+      "text": "The necklace was found the next day. Birbal explained that fear made the thief return it. Akbar praised him.",
+      "image_prompt": "king praising birbal while queen is relieved, cheerful cartoon"
+    }
+  ],
+  "story": "One day, the queen lost her necklace. Akbar asked Birbal to find the thief. Birbal warned that a special powder would reveal the thief. Out of fear, the real thief returned the necklace at night. The necklace was found the next day, and Birbal explained how fear revealed the truth. Akbar praised him."
+}

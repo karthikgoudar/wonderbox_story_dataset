@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100097",
+  "title": "Tenali Rama and the Half Reward",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "greed",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Guard", "Man"],
+  "word_count": 176,
+  "moral": "Greed can expose the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A man complains about a greedy guard.",
+      "text": "A man told the king that a palace guard took half his reward as a bribe.",
+      "image_prompt": "man complaining to king about guard in royal court cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The guard denies the accusation.",
+      "text": "The guard denied taking anything, and the king asked Tenali to find the truth.",
+      "image_prompt": "guard denying accusation in front of king cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali makes a clever statement.",
+      "text": "Tenali said he promised to share half his reward with the guard at the gate.",
+      "image_prompt": "Tenali speaking cleverly while guard listens cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The guard reveals his greed.",
+      "text": "The guard quickly agreed, saying he should get half of the reward.",
+      "image_prompt": "guard eagerly asking for reward cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The truth is revealed and the guard is punished.",
+      "text": "Tenali proved the guard’s greed. The king punished him and praised Tenali. Greed can expose the truth.",
+      "image_prompt": "king punishing guard while Tenali smiles cartoon"
+    }
+  ],
+  "story": "A man complained that a guard took half his reward as a bribe. Tenali said he had promised to share a reward with the guard. The guard quickly agreed, revealing his greed. The king understood the truth and punished the guard."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100057",
+  "title": "The Jackal and the Drum",
+  "source": "panchatantra",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "fear",
+  "characters": ["Jackal"],
+  "word_count": 170,
+  "moral": "Do not be afraid without understanding the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A hungry jackal wanders through the forest.",
+      "text": "Once upon a time, a hungry jackal was wandering in a forest. He had not eaten for many days and was very weak.",
+      "image_prompt": "hungry jackal walking in forest looking weak, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The jackal hears a loud and scary noise.",
+      "text": "As he walked, he suddenly heard a loud sound. “Dum! Dum! Dum!” The jackal became frightened and wondered what it was.",
+      "image_prompt": "jackal looking scared hearing loud noise in forest, cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "The jackal carefully follows the sound despite fear.",
+      "text": "Though scared, he was very hungry. So he slowly walked toward the sound to find out what it was.",
+      "image_prompt": "curious jackal cautiously walking toward sound in forest, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The jackal discovers the sound is coming from a drum.",
+      "text": "Soon, he found a big drum near a tree. The wind was blowing, and branches were hitting the drum, making the loud noise.",
+      "image_prompt": "drum under tree with branches hitting it, jackal watching, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The jackal realizes his fear was unnecessary.",
+      "text": "The jackal jumped on the drum and tore it open but found nothing inside. He laughed and said he was scared for no reason. Do not be afraid without understanding the truth.",
+      "image_prompt": "jackal laughing near broken drum, cheerful cartoon scene"
+    }
+  ],
+  "story": "Once upon a time, a hungry jackal was wandering in a forest. He had not eaten for many days and was very weak. As he walked, he suddenly heard a loud sound. “Dum! Dum! Dum!” The jackal became frightened. “What is that noise?” he thought. “Maybe it is a dangerous animal!” But he was also very hungry. So he slowly walked toward the sound. Soon, he found a big drum lying near a tree. The wind was blowing, and the branches were hitting the drum, making the loud noise. The jackal felt relieved. “Oh! It’s just a drum,” he said. He jumped on it and tore it open. But inside, there was nothing to eat. The jackal laughed at himself. “I was scared for no reason,” he said."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100058",
+  "title": "The Crane and the Snake",
+  "source": "panchatantra",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "consequences",
+  "characters": ["Crane", "Snake", "Crab", "Mongoose"],
+  "word_count": 166,
+  "moral": "Think carefully before taking advice.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A crane lives near a pond and builds a nest in a tree.",
+      "text": "Once upon a time, there lived a crane near a pond. The crane had built its nest on a tree and lived happily.",
+      "image_prompt": "crane sitting on nest in tree near pond, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A snake eats the crane’s eggs repeatedly.",
+      "text": "But there was a snake living near the tree. Every time the crane laid eggs, the snake would eat them. The crane became very sad.",
+      "image_prompt": "snake near tree threatening eggs while crane looks worried, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The crane seeks advice from a crab.",
+      "text": "One day, a wise crab gave an idea. He told the crane to drop fish along the path to a mongoose’s hole.",
+      "image_prompt": "crane talking to crab near pond, thoughtful cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The mongoose kills the snake after following the fish trail.",
+      "text": "The crane followed the plan. The mongoose followed the fish trail, found the snake, and killed it.",
+      "image_prompt": "mongoose chasing snake near tree, action cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "The mongoose also eats the crane’s eggs, teaching a lesson.",
+      "text": "After killing the snake, the mongoose climbed the tree and ate the crane’s eggs too. The crane realized its mistake. Think carefully before taking advice.",
+      "image_prompt": "sad crane near empty nest after mongoose leaves, soft cartoon style"
+    }
+  ],
+  "story": "Once upon a time, there lived a crane near a pond. The crane had built its nest on a tree and lived happily. But there was a snake living in a hole near the tree. Every time the crane laid eggs, the snake would eat them. The crane became very sad. One day, a wise crab said, “I have an idea. Bring some fish and drop them along the path to a mongoose’s hole.” The crane followed the advice. The mongoose came out, followed the trail of fish, and soon found the snake. It fought with the snake and killed it. The crane felt happy. But then, the mongoose climbed the tree and ate the crane’s eggs too. The crane realized its mistake."
+}

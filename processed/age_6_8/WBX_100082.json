@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100082",
+  "title": "Birbal and the Three Dolls",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Akbar", "Birbal", "Craftsman"],
+  "word_count": 180,
+  "moral": "A wise person listens and keeps secrets when needed.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A craftsman presents three identical dolls to Akbar.",
+      "text": "One day, a craftsman brought three identical dolls to Emperor Akbar and said one was the best.",
+      "image_prompt": "craftsman presenting three dolls to king in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Akbar cannot tell the difference between the dolls.",
+      "text": "The dolls looked exactly the same, and Akbar could not decide which one was best.",
+      "image_prompt": "king looking confused at identical dolls, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal examines the dolls carefully.",
+      "text": "Birbal took a thin wire and began testing each doll to understand the difference.",
+      "image_prompt": "birbal examining dolls with wire, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal discovers how each doll behaves differently.",
+      "text": "The wire passed through the first two dolls but stayed inside the third doll.",
+      "image_prompt": "wire passing through dolls showing difference, cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains why the third doll is the best.",
+      "text": "Birbal explained that the third doll keeps things inside like a wise person. Akbar agreed. A wise person listens and keeps secrets when needed.",
+      "image_prompt": "king praising birbal while holding best doll, cheerful cartoon"
+    }
+  ],
+  "story": "One day, a craftsman brought three identical dolls to Emperor Akbar and said one was the best. Birbal tested them with a wire. The first let the wire pass through its ears, the second through its mouth, and the third kept it inside. Birbal explained that the third doll was best because it kept things safely inside, like a wise person. Akbar agreed."
+}

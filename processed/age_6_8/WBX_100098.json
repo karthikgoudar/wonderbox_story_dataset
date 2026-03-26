@@ -1,0 +1,50 @@
+{
+  "id": "WBX_100098",
+  "title": "Tenali Rama and the Brinjal Curry",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "quick thinking",
+  "characters": [
+    "Tenali Rama",
+    "King Krishnadevaraya",
+    "Tenali’s Wife",
+    "Tenali’s Son"
+  ],
+  "word_count": 182,
+  "moral": "Quick thinking can save you from trouble.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The king enjoys a special brinjal curry.",
+      "text": "The king tasted a delicious brinjal curry and loved it very much.",
+      "image_prompt": "king enjoying brinjal curry in royal dining hall cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Tenali secretly takes brinjals from the garden.",
+      "text": "Tenali took some brinjals from the royal garden at night.",
+      "image_prompt": "Tenali sneaking into garden and picking brinjals cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The king looks for the thief.",
+      "text": "The king noticed missing brinjals and ordered a search for the thief.",
+      "image_prompt": "angry king questioning people in court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Tenali prepares his son with a clever answer.",
+      "text": "Tenali told his son to say he ate brinjal curry in the rain.",
+      "image_prompt": "Tenali whispering to his son at home cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy’s confusing answer saves Tenali.",
+      "text": "The boy mentioned rain, which had not happened, confusing the king. The matter was dismissed.",
+      "image_prompt": "king looking confused while boy speaks and Tenali smiles cartoon"
+    }
+  ],
+  "story": "The king loved brinjal curry. Tenali secretly took brinjals from the royal garden. When the king searched for the thief, Tenali prepared his son to give a confusing answer. The boy mentioned rain that never happened, and the king dismissed the case."
+}

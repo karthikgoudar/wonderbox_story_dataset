@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100087",
+  "title": "Birbal and the Lazy Servant",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "hard work",
+  "characters": ["Akbar", "Birbal", "Servant"],
+  "word_count": 164,
+  "moral": "Doing work regularly is easier than avoiding it.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar notices a lazy servant in his court.",
+      "text": "One day, Emperor Akbar noticed that one of his servants was very lazy and avoided work.",
+      "image_prompt": "lazy servant avoiding work while others work in palace, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Akbar asks Birbal to teach the servant a lesson.",
+      "text": "Akbar asked Birbal to help the servant understand the importance of hard work.",
+      "image_prompt": "king discussing problem with birbal in court, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal gives the servant many small tasks.",
+      "text": "Birbal gave the servant a long list of simple tasks and told him to complete them quickly.",
+      "image_prompt": "servant holding long list of tasks looking surprised, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The servant struggles to finish all tasks.",
+      "text": "The servant ran around all day trying to complete the tasks and became very tired.",
+      "image_prompt": "tired servant running around doing tasks, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "The servant learns the value of regular work.",
+      "text": "Birbal explained that regular work is easier than avoiding it. The servant understood and changed his ways.",
+      "image_prompt": "servant working properly while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar noticed a lazy servant who avoided work. Birbal gave him many small tasks to complete in one day. The servant became very tired trying to finish everything. Birbal explained that doing work regularly is easier than avoiding it. The servant understood and changed his behavior."
+}

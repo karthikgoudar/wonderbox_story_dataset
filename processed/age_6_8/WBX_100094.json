@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100094",
+  "title": "Tenali Rama and the Magic Well",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Man", "Neighbor"],
+  "word_count": 176,
+  "moral": "A guilty mind is always afraid.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A man accuses his neighbor of stealing money.",
+      "text": "One day, a man complained to King Krishnadevaraya that his neighbor had stolen his money.",
+      "image_prompt": "man accusing neighbor in royal court in front of king cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The neighbor denies the accusation.",
+      "text": "The neighbor said he was innocent, and the king could not decide who was telling the truth.",
+      "image_prompt": "two men arguing in front of king looking confused cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali takes them to a well and calls it magical.",
+      "text": "Tenali Rama took both men to a well and said it was magical and would reveal the truth.",
+      "image_prompt": "Tenali standing near a well explaining to two men cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The guilty man becomes afraid.",
+      "text": "The innocent man dropped a coin confidently, but the guilty man hesitated in fear.",
+      "image_prompt": "one man confidently dropping coin while other looks scared near well cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali identifies the thief and he confesses.",
+      "text": "Tenali pointed out the fearful man as the thief. He confessed, and the king praised Tenali. A guilty mind is always afraid.",
+      "image_prompt": "Tenali pointing at guilty man while king praises him cartoon"
+    }
+  ],
+  "story": "A man accused his neighbor of theft, but there was no proof. Tenali Rama took them to a well and said it was magical. The innocent man acted confidently, while the guilty man became afraid. Tenali identified the thief, who then confessed."
+}

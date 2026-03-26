@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100061",
+  "title": "Birbal’s Khichdi",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "justice",
+  "characters": ["Akbar", "Birbal", "Poor Man"],
+  "word_count": 214,
+  "moral": "Justice should be fair and thoughtful.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar challenges people to stand in cold water overnight.",
+      "text": "One cold winter night, Emperor Akbar wondered how cold the river water was. He announced that anyone who stood in the cold river all night would be rewarded.",
+      "image_prompt": "king akbar announcing challenge near river in winter, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A poor man completes the challenge but is denied the reward.",
+      "text": "A poor man stood in the freezing river all night. The next day, he told Akbar he looked at a distant lamp to stay hopeful. Akbar refused to reward him.",
+      "image_prompt": "poor man standing in cold river at night with lamp in distance, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal learns about the unfair decision.",
+      "text": "The poor man felt sad. Birbal heard about what happened and decided to teach Akbar a lesson.",
+      "image_prompt": "birbal thinking wisely after hearing poor man story, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal demonstrates the flaw using a cooking example.",
+      "text": "Birbal invited Akbar to eat but kept a pot far above a small fire. When Akbar questioned it, Birbal explained the comparison.",
+      "image_prompt": "pot hanging high above small fire with akbar confused, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Akbar realizes his mistake and rewards the man.",
+      "text": "Akbar understood his mistake. He rewarded the poor man and learned to be fair. Justice should be fair and thoughtful.",
+      "image_prompt": "king rewarding poor man while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One cold winter night, Emperor Akbar wondered how cold the river water was. He announced, “If anyone can stand in the cold river all night, I will reward them.” A poor man agreed. He stood in the freezing river all night. The next morning, he went to Akbar for his reward. Akbar asked how he survived. The man said he looked at a distant lamp. Akbar refused to reward him. The poor man felt sad. Birbal heard about this. The next day, Birbal invited Akbar for lunch but kept a pot far above a small fire. Akbar said it would not cook. Birbal replied that just like the lamp could not give warmth, the pot could not cook. Akbar realized his mistake and rewarded the poor man."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100088",
+  "title": "Birbal and the Broken Pot",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["Akbar", "Birbal", "Two Servants"],
+  "word_count": 170,
+  "moral": "Truth can be seen through actions, not just words.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A servant breaks a valuable pot in the palace.",
+      "text": "One day, a servant accidentally broke a valuable pot in the palace and became afraid.",
+      "image_prompt": "servant looking shocked near broken pot in palace, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The servant falsely blames another servant.",
+      "text": "To avoid punishment, the guilty servant blamed an innocent servant.",
+      "image_prompt": "one servant accusing another in court, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal decides to test both servants.",
+      "text": "Birbal called both servants and asked them to speak the truth, observing their behavior carefully.",
+      "image_prompt": "birbal observing two servants closely, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The guilty servant shows nervous behavior.",
+      "text": "The guilty servant became nervous and started shaking, while the innocent one stayed calm.",
+      "image_prompt": "nervous servant sweating while other stands calm, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal identifies the guilty servant.",
+      "text": "Birbal pointed out the nervous servant as the culprit. He confessed and was punished. Truth can be seen through actions, not just words.",
+      "image_prompt": "king punishing guilty servant while birbal stands wise, cartoon"
+    }
+  ],
+  "story": "One day, a servant broke a valuable pot and blamed another servant. Birbal tested both by observing their behavior. The guilty servant became nervous, while the innocent one stayed calm. Birbal identified the guilty servant, who confessed. Akbar punished him for lying."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100086",
+  "title": "Birbal and the Test of Honesty",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["Akbar", "Birbal", "People"],
+  "word_count": 168,
+  "moral": "Do the right thing, even when no one is watching.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar wants to test the honesty of his people.",
+      "text": "One day, Emperor Akbar decided to test how honest his people were and asked Birbal for help.",
+      "image_prompt": "king discussing plan with birbal in palace, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal asks people to pour milk into a pot.",
+      "text": "Birbal placed a pot at the palace gate and told everyone to pour a glass of milk into it at night.",
+      "image_prompt": "large pot at palace gate with people listening, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "People secretly pour water instead of milk.",
+      "text": "Many people thought others would bring milk, so they poured water instead.",
+      "image_prompt": "people quietly pouring water into pot at night, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The pot is checked the next morning.",
+      "text": "The next morning, Akbar and Birbal looked into the pot and found only water.",
+      "image_prompt": "king looking shocked at pot filled with water, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains the lesson about responsibility.",
+      "text": "Birbal explained that everyone expected others to do the right thing. Akbar understood. Do the right thing, even when no one is watching.",
+      "image_prompt": "birbal explaining to king while people look ashamed, cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar wanted to test the honesty of his people. Birbal placed a pot and asked everyone to pour milk into it at night. Many people poured water instead, thinking others would bring milk. The next morning, the pot was full of water. Birbal explained that everyone avoided responsibility. Akbar understood the lesson."
+}

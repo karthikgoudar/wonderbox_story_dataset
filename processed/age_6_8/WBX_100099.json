@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100099",
+  "title": "Tenali Rama and the Empty Pot",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Courtiers"],
+  "word_count": 172,
+  "moral": "Honesty is the best policy.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The king gives seeds to the courtiers.",
+      "text": "The king gave seeds and asked everyone to grow plants in pots.",
+      "image_prompt": "king giving seeds and pots to courtiers cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Tenali’s seeds do not grow.",
+      "text": "All courtiers grew plants, but Tenali’s pot remained empty.",
+      "image_prompt": "Tenali looking at empty pot while others have plants cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali decides to stay honest.",
+      "text": "Tenali tried but nothing grew, so he decided to present the empty pot honestly.",
+      "image_prompt": "Tenali carrying empty pot to court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The king reveals the truth.",
+      "text": "The king said the seeds were boiled and could not grow.",
+      "image_prompt": "king explaining truth while courtiers look shocked cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali is rewarded for honesty.",
+      "text": "Tenali was declared the winner for being honest. Honesty is the best policy.",
+      "image_prompt": "king rewarding Tenali while others look ashamed cartoon"
+    }
+  ],
+  "story": "The king gave boiled seeds that could not grow. While others cheated and showed plants, Tenali honestly brought an empty pot. The king rewarded him for his honesty."
+}

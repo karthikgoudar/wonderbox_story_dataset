@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100081",
+  "title": "Birbal and the King’s Question",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "understanding",
+  "characters": ["Akbar", "Birbal"],
+  "word_count": 118,
+  "moral": "Hunger is a powerful force that affects everyone.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks what the strongest thing is.",
+      "text": "One day, Emperor Akbar asked Birbal what the strongest thing in the world was.",
+      "image_prompt": "king asking thoughtful question in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal gives an unexpected answer.",
+      "text": "Birbal said hunger is the strongest thing, which surprised Akbar.",
+      "image_prompt": "birbal giving answer while king looks surprised, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Akbar questions Birbal’s reasoning.",
+      "text": "Akbar asked Birbal how hunger could be stronger than anything else.",
+      "image_prompt": "king asking question with curious expression, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal explains the power of hunger.",
+      "text": "Birbal explained that hunger can make even strong people weak and change their actions.",
+      "image_prompt": "people looking tired and hungry, simple cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Akbar understands and agrees with Birbal.",
+      "text": "Akbar understood Birbal’s point and agreed. Hunger is a powerful force that affects everyone.",
+      "image_prompt": "king nodding in agreement while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked Birbal what the strongest thing in the world was. Birbal said it was hunger. When Akbar asked why, Birbal explained that hunger can make even strong people weak and change their actions. Akbar agreed with his wise answer."
+}

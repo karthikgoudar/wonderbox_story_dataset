@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100078",
+  "title": "Birbal and the Blind Man",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "awareness",
+  "characters": ["Akbar", "Birbal", "People"],
+  "word_count": 148,
+  "moral": "Those who do not observe carefully are like the blind.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks how many blind people are in the city.",
+      "text": "One day, Emperor Akbar asked Birbal how many blind people lived in the city.",
+      "image_prompt": "king asking question in court while birbal listens, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal plans to find the answer.",
+      "text": "Birbal said he would find the answer and went to the market to observe people.",
+      "image_prompt": "birbal sitting in busy market observing people, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal pretends to work while people question him.",
+      "text": "Birbal started making charpoys. Many people came and asked what he was doing.",
+      "image_prompt": "birbal making bed while people gather around asking questions, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal notes down the names of people who fail to observe.",
+      "text": "Birbal wrote down the names of people who asked what he was doing, even though it was clear.",
+      "image_prompt": "birbal writing names while people look confused, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains that lack of observation is like blindness.",
+      "text": "Birbal told Akbar that these people were blind because they did not observe carefully. Akbar understood and laughed.",
+      "image_prompt": "king laughing while birbal explains list, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked Birbal how many blind people were in the city. Birbal went to the market and started making charpoys. Many people asked him what he was doing, even though it was obvious. Birbal noted their names and later told Akbar that those who do not observe carefully are like the blind. Akbar understood and laughed."
+}

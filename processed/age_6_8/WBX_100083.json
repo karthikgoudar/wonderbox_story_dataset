@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100083",
+  "title": "Birbal and the Stolen Ring",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["Akbar", "Birbal", "Minister", "Servants"],
+  "word_count": 176,
+  "moral": "Guilt reveals itself through fear.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A minister reports a stolen ring.",
+      "text": "One day, a minister told Emperor Akbar that his ring had been stolen.",
+      "image_prompt": "minister speaking to king about stolen ring in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal gathers suspects and gives them sticks.",
+      "text": "Birbal gathered all the servants and gave each a stick, saying it was magical.",
+      "image_prompt": "birbal handing sticks to servants in court, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The suspects take sticks home with fear.",
+      "text": "Birbal told them the thief’s stick would grow overnight, and everyone took their sticks home.",
+      "image_prompt": "servants holding sticks nervously at night, cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief cuts his stick out of fear.",
+      "text": "The thief became scared and cut his stick shorter to avoid being caught.",
+      "image_prompt": "man secretly cutting stick at night, cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal finds the thief using the shortened stick.",
+      "text": "The next day, Birbal found the shorter stick and identified the thief. The servant confessed. Guilt reveals itself through fear.",
+      "image_prompt": "birbal pointing at guilty servant while king watches, cartoon"
+    }
+  ],
+  "story": "One day, a minister told Emperor Akbar that his ring had been stolen. Birbal gathered all the servants and gave each a stick, saying it would grow if they were guilty. The thief became afraid and cut his stick shorter. The next day, Birbal found the shorter stick and caught the thief. The servant confessed."
+}

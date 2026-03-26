@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100100",
+  "title": "Tenali Rama and the Priceless Gift",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "values",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Courtiers"],
+  "word_count": 170,
+  "moral": "True value lies in wisdom and loyalty, not in wealth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The king announces a competition.",
+      "text": "The king asked his courtiers to bring the most valuable gift.",
+      "image_prompt": "king announcing competition in royal court cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers bring expensive gifts.",
+      "text": "Courtiers brought gold, jewels, and rare treasures.",
+      "image_prompt": "courtiers presenting gold and jewels to king cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali comes empty-handed.",
+      "text": "Tenali came without any physical gift.",
+      "image_prompt": "Tenali standing empty handed while others laugh cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Tenali presents his idea.",
+      "text": "Tenali said loyalty and wisdom are the most valuable gifts.",
+      "image_prompt": "Tenali speaking confidently in court cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The king declares Tenali the winner.",
+      "text": "The king agreed and rewarded Tenali for his wise answer.",
+      "image_prompt": "king praising Tenali while others look surprised cartoon"
+    }
+  ],
+  "story": "The king asked for the most valuable gift. While others brought riches, Tenali offered loyalty and wisdom. The king declared him the winner, teaching that true value is not in wealth."
+}

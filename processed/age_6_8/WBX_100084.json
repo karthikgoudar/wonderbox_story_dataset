@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100084",
+  "title": "Birbal and the Farmer’s Well",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "justice",
+  "characters": ["Akbar", "Birbal", "Farmer", "Buyer"],
+  "word_count": 176,
+  "moral": "Justice requires clear and logical thinking.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A farmer complains about a dispute over a well.",
+      "text": "One day, a farmer came to Emperor Akbar and said he sold his well but the buyer claimed the water still belonged to him.",
+      "image_prompt": "farmer explaining problem to king in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The buyer claims ownership of the water in the well.",
+      "text": "The buyer insisted that although he bought the well, the water inside was still his property.",
+      "image_prompt": "buyer arguing confidently in court, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal listens and prepares a clever solution.",
+      "text": "Birbal carefully listened to both sides and thought of a logical solution.",
+      "image_prompt": "birbal thinking thoughtfully in court, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal challenges the buyer’s claim logically.",
+      "text": "Birbal told the buyer that if the well belonged to the farmer, he could not keep his water in it without permission.",
+      "image_prompt": "birbal explaining logic to buyer while king listens, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The buyer admits his mistake and agrees.",
+      "text": "The buyer realized his mistake and agreed to Birbal’s decision. Akbar praised Birbal. Justice requires clear and logical thinking.",
+      "image_prompt": "king praising birbal while farmer looks happy, cheerful cartoon"
+    }
+  ],
+  "story": "One day, a farmer complained to Emperor Akbar that he sold his well but the buyer claimed the water inside still belonged to him. Birbal said that if the well belonged to the farmer, the buyer could not keep his water in it without permission. The buyer realized his mistake and agreed. Akbar praised Birbal for his wise judgment."
+}

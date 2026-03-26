@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100092",
+  "title": "Tenali Rama and the Greedy Man",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "greed",
+  "characters": ["Tenali Rama", "Greedy Man", "King Krishnadevaraya"],
+  "word_count": 172,
+  "moral": "Greed leads to loss.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A greedy man makes a false complaint to the king.",
+      "text": "One day, a greedy man went to King Krishnadevaraya and complained that Tenali Rama had stolen his gold coins.",
+      "image_prompt": "greedy man complaining to king in royal court cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The king asks Tenali to return the gold.",
+      "text": "The king, trusting the man, ordered Tenali Rama to return the gold immediately.",
+      "image_prompt": "king ordering Tenali in court while Tenali looks calm cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali plans to expose the greedy man.",
+      "text": "Tenali Rama understood the man's trick and came up with a clever plan to reveal the truth.",
+      "image_prompt": "Tenali thinking with clever smile in court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Tenali tricks the man into revealing his greed.",
+      "text": "Tenali asked the man how many coins he lost. The man greedily increased the number, hoping to gain more.",
+      "image_prompt": "greedy man counting coins and exaggerating number cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The truth is revealed and the greedy man is punished.",
+      "text": "Tenali proved that the man was lying. The king punished the greedy man, and Tenali was praised for his wisdom. Greed leads to loss.",
+      "image_prompt": "king punishing greedy man while Tenali smiles cartoon"
+    }
+  ],
+  "story": "One day, a greedy man falsely accused Tenali Rama of stealing his gold. The king ordered Tenali to return it. Tenali cleverly asked how many coins were lost, and the man exaggerated the number out of greed. Tenali exposed the lie, and the king punished the greedy man."
+}

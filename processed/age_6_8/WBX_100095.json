@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100095",
+  "title": "Tenali Rama and the Heavy Pumpkin",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Courtiers"],
+  "word_count": 170,
+  "moral": "True wisdom comes from knowledge, not wealth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The king gives a challenge to his courtiers.",
+      "text": "One day, the king gave each courtier a pumpkin and asked them to fill it with the wisest thing.",
+      "image_prompt": "king giving pumpkins to courtiers in royal court cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers fill pumpkins with valuables.",
+      "text": "The courtiers filled their pumpkins with gold and jewels, thinking they were valuable.",
+      "image_prompt": "courtiers putting gold and jewels inside pumpkins cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali fills his pumpkin with curd.",
+      "text": "Tenali made a small hole and filled his pumpkin with curd, then sealed it.",
+      "image_prompt": "Tenali filling pumpkin with curd secretly cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The king checks the pumpkins.",
+      "text": "The king checked all pumpkins but was not impressed until he saw Tenali’s.",
+      "image_prompt": "king inspecting pumpkins in court cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali explains wisdom and wins.",
+      "text": "Tenali explained that curd represents knowledge. The king praised him as the wisest.",
+      "image_prompt": "Tenali explaining to king while others look surprised cartoon"
+    }
+  ],
+  "story": "The king asked his courtiers to fill a pumpkin with the wisest thing. Others chose gold and jewels, but Tenali filled his with curd, explaining it represents knowledge. The king declared him the wisest."
+}

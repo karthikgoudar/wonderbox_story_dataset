@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100076",
+  "title": "Birbal and the Rich Man’s Pride",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "humility",
+  "characters": ["Akbar", "Birbal", "Rich Man"],
+  "word_count": 171,
+  "moral": "Pride limits your thinking—stay humble to grow.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A rich man boasts about his wealth.",
+      "text": "One day, a rich man came to Emperor Akbar and proudly said he was the richest in the city.",
+      "image_prompt": "rich man showing pride in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The rich man behaves arrogantly toward others.",
+      "text": "The man treated others badly because of his pride. Akbar asked Birbal to teach him a lesson.",
+      "image_prompt": "rich man acting arrogant while others look upset, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal takes the man to a field.",
+      "text": "Birbal took the rich man to a large field and drew a small circle on the ground.",
+      "image_prompt": "birbal drawing small circle on ground in open field, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal shows how perspective changes with a bigger circle.",
+      "text": "Birbal asked the man to stand inside the circle, then drew a bigger circle and asked what he could see.",
+      "image_prompt": "man standing inside small and large circles comparing views, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The rich man understands the lesson and feels ashamed.",
+      "text": "Birbal explained that pride limits thinking. The man understood and felt ashamed. Pride limits your thinking—stay humble to grow.",
+      "image_prompt": "rich man realizing mistake while birbal explains, soft cartoon style"
+    }
+  ],
+  "story": "One day, a rich man boasted to Emperor Akbar that he was the richest in the city and treated others poorly. Birbal took him to a field and drew a small circle, asking him to stand inside it. Then he drew a larger circle and showed how his view expanded. Birbal explained that pride limits thinking, and the rich man felt ashamed."
+}

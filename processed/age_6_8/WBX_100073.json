@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100073",
+  "title": "Birbal and the Weight of Smoke",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "problem-solving",
+  "characters": ["Akbar", "Birbal", "Courtiers"],
+  "word_count": 148,
+  "moral": "With clever thinking, even difficult problems can be solved.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks Birbal to measure the weight of smoke.",
+      "text": "One day, Emperor Akbar asked Birbal if he could measure the weight of smoke.",
+      "image_prompt": "king asking unusual question in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers believe the task is impossible.",
+      "text": "The courtiers laughed and said it was impossible to measure smoke.",
+      "image_prompt": "people laughing in court while birbal stands calmly, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal prepares a clever method.",
+      "text": "Birbal brought a piece of wood and weighed it before burning.",
+      "image_prompt": "birbal weighing wood on scale, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal burns the wood and weighs the ash.",
+      "text": "After burning the wood, Birbal collected the ash and weighed it again.",
+      "image_prompt": "burning wood and collecting ash with scale, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains the weight of smoke.",
+      "text": "Birbal explained that the difference in weight was the weight of the smoke. Akbar was impressed. With clever thinking, even difficult problems can be solved.",
+      "image_prompt": "king praising birbal for clever solution, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked Birbal to measure the weight of smoke. While others laughed, Birbal weighed a piece of wood, burned it, and then weighed the ash. He explained that the difference in weight was the weight of the smoke. Akbar was impressed with his clever idea."
+}
