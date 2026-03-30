@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200022",
+  "title": "The Uninked Archipelago",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "exploration and courage",
+  "characters": ["Milo Rake", "Captain Brine", "Saffron Pike", "Bo", "Old Nibs", "Captain Vane"],
+  "word_count": 1045,
+  "moral": "True exploration is about understanding, not just finding treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Milo and his crew sail toward an uncharted archipelago.",
+      "text": "Milo Rake and the crew of the Wind-Skipper set sail toward the mysterious Uninked Archipelago, a place not marked on any map.",
+      "image_prompt": "pirate ship sailing toward unknown islands with mist, adventurous cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They struggle to navigate dangerous coral reefs.",
+      "text": "The crew faces sharp coral reefs and must carefully guide the ship using skill and observation instead of unreliable tools.",
+      "image_prompt": "ship navigating coral reefs with tense crew, bright colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore a strange island with magical elements.",
+      "text": "On an island, they discover a mysterious pool that whispers names, warning them of unknown magical dangers.",
+      "image_prompt": "mysterious glowing pool in jungle with pirates observing cautiously, fantasy cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "A rival pirate ship chases them through the archipelago.",
+      "text": "Captain Vane’s ship appears, forcing Milo and his crew to use their knowledge to escape and protect their discoveries.",
+      "image_prompt": "two pirate ships chasing through island maze, action cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Milo uses strategy to outsmart the rival and protect the map.",
+      "text": "Using clever navigation, Milo leads the rival ship into danger while guiding his crew safely, proving his skill and bravery.",
+      "image_prompt": "ship escaping through reef while rival crashes, victory moment cartoon style"
+    }
+  ],
+  "story": "Milo Rake and his crew journey to the Uninked Archipelago, a mysterious place not found on any map. Facing dangerous coral reefs, they rely on skill and teamwork to survive. On one island, they discover a strange pool that whispers names, hinting at magical forces. Soon, a rival pirate ship led by Captain Vane begins chasing them, seeking control of the unknown territory. Using intelligence and courage, Milo guides his crew through hidden paths and traps, ultimately outsmarting the rival. He realizes that true exploration is not about riches but about understanding the unknown and ensuring others can safely follow."
+}

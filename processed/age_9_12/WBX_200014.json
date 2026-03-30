@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200014",
+  "title": "Charlie Dawson's Silver Ride",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and teamwork",
+  "characters": ["Charlie Dawson", "Daisy", "Eli", "Mrs. Hargrove", "Scar-faced Outlaw", "Commander"],
+  "word_count": 1034,
+  "moral": "Courage, quick thinking, and teamwork can overcome even the toughest challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Charlie sets out to deliver an important message about silver to Fort Redstone.",
+      "text": "Charlie Dawson, a determined young cowboy, begins his journey from Dry Creek to Fort Redstone carrying an important message about a silver discovery. With his loyal horse Daisy, he rides across the prairie, knowing the town’s future depends on him.",
+      "image_prompt": "young cowboy riding horse across prairie at sunrise with hopeful expression, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Charlie encounters bandits and must outsmart them to continue.",
+      "text": "On the trail, Charlie faces dangerous bandits who try to stop him. Using quick thinking, he tricks them into chasing a false lead, allowing him to escape and continue his mission safely.",
+      "image_prompt": "cowboy cleverly distracting bandits on desert trail, tense but clever moment, colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Charlie overcomes natural obstacles and meets a new friend, Eli.",
+      "text": "Charlie faces a raging river and builds a raft to cross safely. Later, he meets Eli, a friendly traveler, and the two decide to journey together, helping each other through challenges.",
+      "image_prompt": "two boys with horse crossing river on makeshift raft and later sitting by campfire, adventurous cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Charlie and Eli escape an ambush and reach the fort.",
+      "text": "When outlaws ambush them again, Charlie throws dust to distract them and escapes with Eli through rocky terrain. They ride hard and finally reach Fort Redstone, completing their dangerous mission.",
+      "image_prompt": "cowboys escaping ambush through rocks with dust flying and horses running, action cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Charlie delivers the message and gains respect as a hero.",
+      "text": "At the fort, Charlie delivers the message, ensuring the railroad will support Dry Creek. He and Eli are praised for their bravery and decide to continue their journey together, ready for new adventures.",
+      "image_prompt": "young cowboys welcomed at fort with soldiers cheering, hopeful and celebratory cartoon scene"
+    }
+  ],
+  "story": "Charlie Dawson is a brave young cowboy from Dry Creek who is chosen to deliver an important message to Fort Redstone about a silver discovery that could change the town’s future. Riding his loyal horse Daisy, he sets out across the wide prairie, determined to succeed. Along the way, he encounters dangerous bandits but cleverly tricks them and escapes. His journey becomes even more challenging when he reaches a raging river with no bridge, forcing him to build a raft and cross carefully. Later, he meets a boy named Eli, and together they travel through canyons and help a trapped calf, forming a strong friendship. As they near their destination, the bandits return and ambush them, but Charlie uses quick thinking by throwing dust to distract them, allowing both boys to escape. They finally reach Fort Redstone, where Charlie delivers the important message. The commander praises their bravery, and the news ensures that the railroad will come to Dry Creek, bringing hope and progress. In the end, Charlie and Eli decide to continue their journey together, ready to face new adventures with courage and teamwork."
+}

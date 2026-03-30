@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200026",
+  "title": "Finn's Lost Isle Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "adventure and teamwork",
+  "characters": ["Captain Finn O'Malley", "Angus", "Eliza", "Jax", "Old Barnaby"],
+  "word_count": 1040,
+  "moral": "Teamwork and courage help overcome any challenge.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Finn finds a treasure map in a lighthouse.",
+      "text": "Captain Finn discovers a treasure map and gathers a crew to find the Isle of the Lost.",
+      "image_prompt": "pirate finding treasure map in lighthouse, glowing lantern, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A dangerous storm threatens their journey.",
+      "text": "They face a fierce storm but work together to survive.",
+      "image_prompt": "pirate ship battling storm with crew teamwork, dramatic cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the island and face traps.",
+      "text": "On the island, they face jungle dangers and hidden traps while following the map.",
+      "image_prompt": "pirates exploring jungle with traps and monkeys, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure cave.",
+      "text": "They reach a cave and uncover treasure after overcoming challenges.",
+      "image_prompt": "pirates entering glowing cave with treasure chest, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They succeed through teamwork.",
+      "text": "Finn and his crew succeed because of unity and bravery.",
+      "image_prompt": "pirate crew celebrating victory on ship, sunset cartoon style"
+    }
+  ],
+  "story": "Captain Finn finds a treasure map and gathers a crew to search for the Isle of the Lost. They face a dangerous storm but survive through teamwork. On the island, they encounter jungle dangers and traps before reaching a treasure cave. Through courage and unity, they succeed in their quest, realizing teamwork is their greatest strength."
+}

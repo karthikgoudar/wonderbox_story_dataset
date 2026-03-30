@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200009",
+  "title": "Clara and Dakota",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "friendship and unity",
+  "characters": ["Clara McGraw", "Dakota", "Billy", "Daisy"],
+  "word_count": 701,
+  "moral": "Friendship, respect, and unity are more important than winning.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clara prepares for the Willow Creek Rodeo and meets Dakota.",
+      "text": "Clara McGraw, a brave young cowgirl from Willow Creek, prepares to compete in the annual rodeo. She meets Dakota, a skilled rider from a nearby tribe, and feels both admiration and pressure to prove herself.",
+      "image_prompt": "young cowgirl and native rider preparing horses at western rodeo arena, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Troublemakers disrupt the rodeo, creating danger and fear.",
+      "text": "During the barrel race, a group of troublemakers enters the arena, causing panic among the crowd. Clara realizes she must act to protect the people and the event.",
+      "image_prompt": "cowgirl confronting group of rough men in rodeo arena, tense but kid-friendly cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Clara and Dakota stand together to stop the troublemakers.",
+      "text": "Clara bravely confronts the intruders, and Dakota stands beside her. Together with the support of the townspeople, they force the troublemakers to leave, showing courage and unity.",
+      "image_prompt": "two cowgirls standing bravely with crowd behind them facing villains, unity and courage, colorful illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Clara and Dakota form a team and compete together.",
+      "text": "After the incident, Clara and Dakota become friends and compete together in a team roping event. Their trust and teamwork help them perform successfully and win the competition.",
+      "image_prompt": "cowgirl duo performing team roping on horseback in arena, teamwork and excitement, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The town celebrates unity and Clara learns the true meaning of courage.",
+      "text": "At the celebration, Clara realizes that the real victory is friendship and unity. She understands that courage is not just about winning but about standing together and respecting others.",
+      "image_prompt": "western town celebration with dancing, friendship and unity, warm sunset cartoon illustration"
+    }
+  ],
+  "story": "Clara McGraw is a brave young cowgirl from Willow Creek known for her skill with a lasso and her courageous spirit. During the annual rodeo, she meets Dakota, a talented rider from a nearby tribe, and feels both inspired and challenged. As the competition begins, a group of troublemakers suddenly disrupts the event, causing fear among the crowd. Clara decides to take a stand and confronts them, and Dakota joins her, showing strength and unity. With the support of the townspeople, they manage to drive the troublemakers away. Afterward, Clara and Dakota form a friendship and decide to compete together in a team roping event. Through trust and cooperation, they perform brilliantly and win the competition. As the town celebrates, Clara realizes that the true meaning of courage lies in friendship, respect, and unity rather than just winning."
+}

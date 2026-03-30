@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200030",
+  "title": "Blackfin Cove Treasure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "friendship and bravery",
+  "characters": ["Captain Finn O'Malley", "Sam", "Crew of The Tempest", "Captain Blackfin"],
+  "word_count": 1078,
+  "moral": "The true treasure lies in friendship, courage, and the journey itself.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Finn discovers a treasure map leading to Blackfin Cove.",
+      "text": "In the port town of Seabreeze, Captain Finn O'Malley receives a tattered treasure map from his first mate Sam, revealing the hidden treasure of Blackfin Cove and sparking a new adventure.",
+      "image_prompt": "pirate captain and young first mate looking at old treasure map on ship deck, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces dangerous storms on their journey.",
+      "text": "As they sail toward Blackfin Cove, the crew battles fierce storms that test their courage and teamwork, but Finn guides them safely through the chaos.",
+      "image_prompt": "pirate ship fighting huge storm waves with captain leading crew, dramatic colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the island and navigate traps in a hidden pirate hideout.",
+      "text": "Reaching the island, they trek through a dense jungle and discover an ancient pirate hideout filled with traps, which they carefully disarm using teamwork and clever thinking.",
+      "image_prompt": "pirates exploring jungle and ancient cave with traps, teamwork adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure but get trapped inside the collapsing cave.",
+      "text": "After discovering gold and jewels, the cave collapses and traps them, forcing Finn and his crew to quickly find a hidden escape route to survive.",
+      "image_prompt": "pirates inside cave with treasure as rocks fall and exit collapses, tense cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "They escape safely and realize the true value of their journey.",
+      "text": "Using a secret passage, they escape and return home, where Finn reminds everyone that friendship, bravery, and their shared adventure are the real treasures.",
+      "image_prompt": "pirate crew celebrating safely back in town at sunset, joyful cartoon style"
+    }
+  ],
+  "story": "In the bustling port town of Seabreeze, Captain Finn O'Malley, a brave and adventurous pirate, discovers a tattered old treasure map with his first mate Sam. The map reveals the location of the legendary treasure of Captain Blackfin hidden in Blackfin Cove. Excited by the challenge, Finn gathers his loyal crew aboard The Tempest and sets sail. Along the journey, they face dangerous storms that test their courage and teamwork, but Finn leads them safely through every obstacle. After weeks at sea, they finally reach the mysterious island and venture into a dense jungle filled with strange sounds and hidden dangers. Following the map, they discover an ancient pirate hideout filled with traps, which they carefully navigate together. Inside, they uncover a chamber filled with gold, jewels, and ancient artifacts. However, their celebration is cut short when the cave begins to collapse, trapping them inside. Thinking quickly, Sam discovers a hidden lever that opens a secret escape tunnel, allowing them to flee just in time. Safely back aboard their ship, they return home to Seabreeze, where they celebrate their success. Finn reminds his crew that while the treasure is valuable, the true reward is the friendship, bravery, and unforgettable journey they shared together."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200008",
+  "title": "Clara Westfield's Golden Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "journey over treasure",
+  "characters": ["Clara Westfield", "Dusty", "Jake", "Old Man Jenkins"],
+  "word_count": 566,
+  "moral": "The true value lies in the journey, friendships, and lessons learned, not just in treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clara prepares for a rodeo while dreaming of adventure.",
+      "text": "Clara Westfield, a brave young cowgirl from Whispering Pines Ranch, prepares to compete in the Gold Creek Rodeo. Though she loves her land, she dreams of adventure and discovery beyond her home.",
+      "image_prompt": "young cowgirl riding horse near western town with mountains and sunset, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A prospector brings news of a new gold discovery, creating a tough choice.",
+      "text": "Old Man Jenkins arrives with news of a rich gold vein, sparking excitement in the town. Clara struggles with the decision to leave her responsibilities behind and join the risky adventure.",
+      "image_prompt": "old prospector telling exciting story to townspeople, cowgirl thinking deeply, western cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Clara and her companions travel through dangerous lands.",
+      "text": "Clara and Jake set out with a group, facing harsh weather, rough terrain, and dangers along the way. Clara uses courage and intelligence to guide the group through each challenge.",
+      "image_prompt": "cowgirl and group riding through mountains and plains, facing challenges, adventurous colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the gold but realize its true meaning.",
+      "text": "The group reaches a hidden valley and finds the gold, but Clara reflects that the real treasure is the adventure, teamwork, and lessons they gained during the journey.",
+      "image_prompt": "hidden valley with gold discovery and friends reflecting together, warm glowing cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Clara returns home wiser and stronger.",
+      "text": "Back in Gold Creek, Clara celebrates with her town and realizes she has grown stronger and braver. She understands that the journey and friendships are more valuable than gold.",
+      "image_prompt": "cowgirl returning to town with friends celebrating, sunset western scene, colorful children’s illustration"
+    }
+  ],
+  "story": "Clara Westfield is a courageous young cowgirl from Whispering Pines Ranch who dreams of adventure beyond her home. After winning a barrel race at the Gold Creek Rodeo, she hears exciting news from Old Man Jenkins about a newly discovered gold vein. Though she feels responsible for her ranch, Clara decides to join the journey with her friend Jake. Together with a group of adventurers, they travel through dangerous landscapes, facing harsh weather, rough terrain, and unexpected challenges. Clara leads with courage and intelligence, helping the group overcome each obstacle. Eventually, they discover the hidden valley filled with gold. However, Clara realizes that the true treasure is not the gold itself, but the experiences, friendships, and lessons gained along the journey. Returning home, she celebrates with her community, feeling stronger and wiser. Clara understands that adventure is about growth, courage, and connection, not just riches."
+}

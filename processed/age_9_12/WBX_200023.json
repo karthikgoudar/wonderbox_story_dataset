@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200023",
+  "title": "Whispering Keys Treasure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "teamwork and humility",
+  "characters": ["Captain Bram Blackthorn", "Lark", "Theo", "Pip", "Tamsin", "Old Gull", "Buttons", "Captain Rake"],
+  "word_count": 1036,
+  "moral": "True strength comes from trusting and working together.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Bram begins decoding a mysterious riddle leading to treasure.",
+      "text": "Captain Bram Blackthorn, a disciplined pirate, studies a riddle left by his mentor and prepares his crew to sail to the Whispering Keys.",
+      "image_prompt": "organized pirate captain studying map on ship with crew, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew encounters rival pirates in dense fog.",
+      "text": "While sailing through thick fog, they encounter Captain Rake’s ship but cleverly escape using strategy and smoke.",
+      "image_prompt": "two pirate ships in fog with smoke escape, tense colorful cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the island and solve puzzles to reach the treasure.",
+      "text": "On the island, they follow clues, solve riddles, and navigate caves filled with traps and challenges.",
+      "image_prompt": "pirates exploring cave with glowing symbols and puzzles, adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Bram realizes the keys require trust and asking for help.",
+      "text": "To open the chest, Bram must say please, give up control, and ask his crew for help, unlocking the final key.",
+      "image_prompt": "pirate captain and crew opening magical chest together, emotional cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They escape safely and learn the true meaning of treasure.",
+      "text": "After escaping danger and outsmarting their rival, Bram understands that teamwork, trust, and shared knowledge are the true treasures.",
+      "image_prompt": "pirate ship sailing peacefully at sunset with happy crew, warm cartoon illustration"
+    }
+  ],
+  "story": "Captain Bram Blackthorn is a disciplined pirate who values order and precision. He receives a riddle from his mentor that leads him to the Whispering Keys. Along with his loyal crew, he sails through dangerous fog and outsmarts rival pirates. On the island, they solve puzzles, navigate hidden caves, and face challenges requiring intelligence and teamwork. Bram realizes that the treasure cannot be unlocked by skill alone but requires humility, trust, and asking for help. Together, they open the chest and discover not just gold but knowledge and tools for future journeys. Escaping safely, Bram learns that true treasure lies in teamwork, trust, and shared wisdom."
+}

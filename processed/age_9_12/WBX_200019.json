@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200019",
+  "title": "Bravery in Dusty Trails",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "bravery and responsibility",
+  "characters": ["Jake Thompson", "Sarah", "Jake's Father", "Black Hat Bandits", "Mayor"],
+  "word_count": 1038,
+  "moral": "True heroes are those who stand up to protect others with courage and responsibility.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake dreams of becoming a hero and decides to enter the rodeo.",
+      "text": "In the town of Dusty Trails, young cowboy Jake Thompson dreams of becoming a sheriff like his father. When the Great Dusty Trails Rodeo is announced, Jake decides to participate and prove himself.",
+      "image_prompt": "young cowboy in western town hearing rodeo announcement with excitement, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jake learns about a gang planning to rob the rodeo.",
+      "text": "During his training, Jake is warned by a stranger that the Black Hat Bandits are planning to rob the rodeo. He realizes danger is coming and decides to protect the town.",
+      "image_prompt": "cowboy boy talking to mysterious stranger in forest, tense western cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "The rodeo begins, but Jake stays alert for trouble.",
+      "text": "At the rodeo, Jake competes in events like lassoing while keeping watch for the bandits. The excitement grows as the competition continues and the crowd cheers.",
+      "image_prompt": "western rodeo arena with cowboys competing and cheering crowd, colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The bandits attack, and Jake bravely confronts them.",
+      "text": "The Black Hat Bandits suddenly attack the rodeo. Jake steps forward, using his lasso to capture the leader and helping the townspeople fight back and stop the robbery.",
+      "image_prompt": "young cowboy using lasso to capture bandit leader in arena, action-packed cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Jake becomes a hero and is honored by the town.",
+      "text": "With the bandits defeated, the town celebrates Jake’s bravery. He is named Dusty Trails Champion and realizes that true heroism comes from protecting others.",
+      "image_prompt": "western town celebration with boy hero receiving gold buckle, cheering crowd, colorful illustration"
+    }
+  ],
+  "story": "Jake Thompson is a young cowboy living in the town of Dusty Trails who dreams of becoming a sheriff like his father. When the Great Dusty Trails Rodeo is announced, he sees it as a chance to prove himself. He trains hard, practicing his lasso skills with determination. However, a mysterious stranger warns him that the dangerous Black Hat Bandits are planning to rob the rodeo. Determined to protect his town, Jake stays alert during the event. As the rodeo begins, Jake successfully competes in events like lassoing while keeping watch for trouble. Suddenly, the bandits storm the arena, causing panic among the crowd. Jake bravely steps forward and uses his lasso to capture the leader, inspiring the townspeople to stand together and fight back. With teamwork and courage, they defeat the bandits and restore safety. Jake is celebrated as a hero and awarded the title of Dusty Trails Champion. He realizes that true bravery is not just about winning, but about protecting others and doing what is right."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200018",
+  "title": "Gold in Their Hearts",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "friendship and generosity",
+  "characters": ["Jake McAllister", "Clara", "Old Man Jenkins", "Ghostly Bandits", "Dusty", "Bella"],
+  "word_count": 1295,
+  "moral": "The greatest treasure is kindness, friendship, and helping others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake hears about a treasure map and decides to go on an adventure with Clara.",
+      "text": "In Dusty Hollow, young cowboy Jake McAllister learns from Old Man Jenkins about a treasure map leading to hidden gold in Silver Creek. Excited by adventure, Jake sets out with his friend Clara to find it.",
+      "image_prompt": "young cowboy and girl hearing about treasure map in western saloon, warm sunset cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jake and Clara enter the wild and encounter the mysterious Ghostly Bandits.",
+      "text": "As they travel into the wilderness, Jake and Clara face strange signs and are confronted by the Ghostly Bandits guarding the treasure, who challenge them to prove their worth.",
+      "image_prompt": "cowboy and girl facing ghostly bandits in canyon with glowing figures, colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They overcome challenges like riddles, a maze, and a dangerous bridge.",
+      "text": "Jake and Clara solve a riddle, navigate a thorny maze by marking their path with stones, and carefully cross a shaky bridge, relying on teamwork and courage.",
+      "image_prompt": "kids solving puzzle and crossing rope bridge together in canyon, teamwork adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They win the final challenge and discover the hidden treasure.",
+      "text": "After winning a card game against the bandits, the storm clears and a hidden cave reveals gold and jewels. They prove their bravery and earn the treasure.",
+      "image_prompt": "kids opening treasure cave with glowing gold and jewels, magical cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "They share the treasure and improve their town, learning its true value.",
+      "text": "Jake and Clara return to Dusty Hollow and use the treasure to build a school and help others. They realize that friendship, kindness, and community are the true treasures.",
+      "image_prompt": "western town building school with happy children and cowboys, warm sunset cartoon illustration"
+    }
+  ],
+  "story": "Jake McAllister is a brave young cowboy from Dusty Hollow who loves adventure. One day, Old Man Jenkins arrives with news of a treasure map leading to hidden gold in Silver Creek, guarded by the mysterious Ghostly Bandits. Determined to find it, Jake sets out with his friend Clara. They journey into the wild, following the map through rugged terrain and encountering a magical fox that guides them. When they reach Silver Creek, they are confronted by the Ghostly Bandits, who challenge them with a series of trials. Jake and Clara solve a tricky riddle, navigate a thorny maze by marking their path with stones, and carefully cross a dangerous bridge. Finally, they face the bandits in a game of cards during a raging storm and win through teamwork and clever thinking. The bandits disappear, revealing a hidden cave filled with gold and treasure. Although amazed by the riches, Jake and Clara decide to take only a small portion and use it to help their town. They return home as heroes and build a school, improving life for everyone in Dusty Hollow. Over time, they continue exploring the West, inspiring others with their courage and kindness. Jake realizes that the true treasure is not gold but friendship, generosity, and the joy of helping others."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200006",
+  "title": "Clara Mae's Treasure Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and adventure",
+  "characters": ["Clara Mae Johnson", "Thunder", "Daisy", "Sheriff Johnson", "Pete"],
+  "word_count": 890,
+  "moral": "Bravery means facing fear and using courage and wisdom to help others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clara Mae sets out to find a legendary treasure in Giants' Ridge.",
+      "text": "Clara Mae Johnson, a brave young cowgirl from Dusty Creek, hears about a hidden treasure belonging to Black Bart. Despite her friend Daisy’s worries, she decides to go on an adventure and sets off on her horse Thunder toward Giants' Ridge.",
+      "image_prompt": "young cowgirl leaving western town on horse with mountains ahead, bright adventurous cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Clara faces dangers and finds the first clues in a cave.",
+      "text": "On her journey, Clara Mae narrowly avoids a rattlesnake and reaches a cave where she finds a riddle and a map. As she escapes, the cave collapses, showing how dangerous the quest can be.",
+      "image_prompt": "cowgirl inside cave finding map and escaping falling rocks, adventurous colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Clara crosses a dangerous river and teams up with Sheriff Johnson.",
+      "text": "Clara bravely crosses a rushing river with her horse and meets Sheriff Johnson, who decides to join her for safety. Together, they continue through the mountains toward the treasure.",
+      "image_prompt": "cowgirl and horse crossing river with sheriff joining, teamwork scene in western cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the treasure but must escape a collapsing cave.",
+      "text": "With Pete joining them, they reach the hidden cave, solve clues, and find Black Bart’s treasure. However, triggering a mechanism causes the cave to collapse, forcing them to escape quickly with only some of the treasure.",
+      "image_prompt": "group discovering treasure chest in cave with falling rocks and urgency, colorful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The treasure is used to help the town and Clara inspires others.",
+      "text": "Returning to Dusty Creek, Clara and her friends use the treasure to build a school for the community. Clara becomes a symbol of courage and inspires others to pursue their dreams and face challenges bravely.",
+      "image_prompt": "western town celebration building school with children and cowgirl hero, warm sunset cartoon illustration"
+    }
+  ],
+  "story": "Clara Mae Johnson is a brave young cowgirl from Dusty Creek who dreams of adventure. When she hears about a hidden treasure belonging to the outlaw Black Bart, she decides to find it despite her friend Daisy’s worries. Riding her horse Thunder, she sets out toward Giants' Ridge. Along the way, she faces danger, including a rattlesnake and a collapsing cave where she discovers a map and a clue. She bravely crosses a rushing river and meets Sheriff Johnson, who joins her journey. Together with a mischievous boy named Pete, they navigate through the mountains and solve clues leading them to the treasure. When they finally find it, the cave begins to collapse, and they must escape quickly. They manage to save part of the treasure and return home safely. Instead of keeping it, they use it to build a school for their town, bringing hope and unity to the community. Clara learns that true adventure is not just about treasure but about courage, friendship, and helping others."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200021",
+  "title": "The Secret Lantern Route",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and teamwork",
+  "characters": ["Captain Bram", "Lina", "Jory", "Old Nessa", "Patch"],
+  "word_count": 1021,
+  "moral": "Courage and teamwork can overcome even the darkest challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Bram sets out to chart the Secret Lantern Route.",
+      "text": "Captain Bram and his crew aboard the Gull’s Grin begin their mission to map hidden lighthouses along the dangerous Secret Lantern Route.",
+      "image_prompt": "pirate crew planning route with map on ship deck, lighthouse theme, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They encounter a broken lighthouse and must fix it.",
+      "text": "At Spindlewick Lighthouse, they find the light failing and help repair it, realizing the importance of guiding others safely.",
+      "image_prompt": "crew fixing lighthouse lamp inside tower, teamwork scene, colorful cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They navigate dangerous reefs and volcanic hazards.",
+      "text": "At Cindercap, they face sharp reefs and volcanic heat, working together to keep the lighthouse functioning safely.",
+      "image_prompt": "pirate ship navigating dangerous reefs with glowing red lighthouse, adventure cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They confront the mysterious Gloomglass lighthouse.",
+      "text": "At Gloomglass, they face a strange darkness that absorbs light, but they solve it using teamwork and clever thinking.",
+      "image_prompt": "dark lighthouse absorbing light with pirates fixing glowing lens, mysterious cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They survive a storm and complete their mission.",
+      "text": "After surviving a powerful storm, Bram and his crew complete their mapping and realize their journey strengthened their bond and purpose.",
+      "image_prompt": "pirate crew surviving storm and sailing forward with hope, dramatic cartoon style"
+    }
+  ],
+  "story": "Captain Bram and his crew set out to map the Secret Lantern Route, a dangerous path marked by hidden lighthouses. Along the way, they repair broken lights, navigate treacherous reefs, and face mysterious challenges like a lighthouse that absorbs light. Through courage, intelligence, and teamwork, they overcome every obstacle. A fierce storm tests them further, but they survive together. In the end, they complete their mission and understand that their greatest achievement is not the map itself but the trust and bravery they built as a crew."
+}

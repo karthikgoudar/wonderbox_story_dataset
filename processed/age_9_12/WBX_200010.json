@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200010",
+  "title": "The Stolen Creek of Dry Willow",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "justice and perseverance",
+  "characters": ["Luke Mercer", "Aiyana", "Comet", "Mr. Hargrove", "Chet", "Mullins", "Deputy Sloane", "Commissioner Hale"],
+  "word_count": 743,
+  "moral": "True courage is steady and standing up for what is right, even when it is difficult.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Luke discovers the creek is drying and meets Aiyana, who reveals the water has been diverted.",
+      "text": "Luke Mercer rides along Dry Willow Creek and finds it nearly dry. He meets Aiyana, who tells him the water has been diverted by ranchers and shows him an agreement proving her people’s rights to the water.",
+      "image_prompt": "young cowboy and native woman by dry creek with horse, worried expressions, prairie background, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Luke investigates the diversion and faces Hargrove’s men.",
+      "text": "Luke finds a trench diverting the water and is confronted by Hargrove’s men, who warn him to stay away. Realizing the danger, Luke decides to take the agreement to Red Mesa to seek justice.",
+      "image_prompt": "cowboy discovering illegal water trench and being confronted by rough men on horses, tense western cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Luke rides to Red Mesa while being chased and threatened.",
+      "text": "On his way to Red Mesa, Luke is chased by the men and narrowly escapes through dark gullies. He reaches the town and convinces the commissioner and deputy to investigate the illegal diversion.",
+      "image_prompt": "night chase on horseback through canyon with cowboys pursuing, dramatic but kid-friendly cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Luke, the deputy, and Aiyana confront Hargrove at the creek.",
+      "text": "At Dry Willow, Luke and Deputy Sloane confront Mr. Hargrove. With Aiyana and her people present, Luke bravely removes the stones blocking the creek, allowing the water to return to its rightful path.",
+      "image_prompt": "cowboy removing stones from creek while others watch, water flowing again, confrontation scene, colorful illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "The creek is restored and Luke reflects on courage and perseverance.",
+      "text": "The county enforces the law, restoring the creek and protecting the water rights. Luke helps the community recover and learns that true courage is steady and comes from doing what is right.",
+      "image_prompt": "restored creek with flowing water, people celebrating, peaceful prairie sunset, colorful children’s illustration"
+    }
+  ],
+  "story": "Luke Mercer, a young cowboy, discovers that Dry Willow Creek is nearly dry and meets Aiyana, who explains that the water has been diverted by a powerful rancher named Hargrove. She gives Luke an agreement proving her people’s right to the water and asks him to take it to Red Mesa. Luke investigates and finds a trench redirecting the creek, but he is confronted and threatened by Hargrove’s men. Determined to help, Luke rides through the night, escaping a dangerous chase, and reaches Red Mesa where he convinces the commissioner and Deputy Sloane to act. Together, they return to the creek and confront Hargrove. With courage, Luke removes the stones blocking the water, allowing it to flow back to its rightful path. The law is enforced, and the creek is restored. In the end, Luke learns that true courage is not loud but steady, and that perseverance and doing what is right can bring justice."
+}

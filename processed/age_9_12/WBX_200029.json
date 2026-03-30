@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200029",
+  "title": "Dragon's Eye Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "unity and courage",
+  "characters": ["Captain Thorne", "Nia", "Jett", "Old Salty", "Captain Vex"],
+  "word_count": 1120,
+  "moral": "Unity and pure intentions are stronger than greed.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Thorne begins the quest for the Dragon’s Eye.",
+      "text": "Captain Thorne and his crew set sail to find a powerful magical jewel.",
+      "image_prompt": "pirate crew sailing toward island with map, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They battle a rival pirate crew.",
+      "text": "They fight Captain Vex and face a storm during battle.",
+      "image_prompt": "two pirate ships battling in storm, action cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore islands and temples.",
+      "text": "They navigate jungle and temple puzzles to reach the treasure.",
+      "image_prompt": "pirates exploring temple with traps and puzzles, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They face a magical spirit guarding the treasure.",
+      "text": "They must prove their intentions are pure to claim the Dragon’s Eye.",
+      "image_prompt": "ghost spirit guarding glowing jewel in temple, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Both crews unite and share the treasure.",
+      "text": "They work together and realize unity is more powerful than greed.",
+      "image_prompt": "two pirate crews united holding glowing gem, peaceful cartoon"
+    }
+  ],
+  "story": "Captain Thorne and his crew journey to find the Dragon’s Eye, a powerful magical gem. They battle a rival crew and face storms before reaching a mysterious temple. There, they must prove their intentions are pure. By working together, even with their rivals, they succeed. They learn that unity and courage are more powerful than greed."
+}

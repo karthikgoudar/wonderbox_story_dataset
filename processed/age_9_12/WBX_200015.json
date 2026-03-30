@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200015",
+  "title": "Jake and the Hidden Wonders",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "teamwork and courage",
+  "characters": ["Jake Mercer", "Clara", "Thomas", "Dusty"],
+  "word_count": 955,
+  "moral": "True treasure comes from teamwork, courage, and helping others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake finds a treasure map and decides to begin an adventure.",
+      "text": "Jake Mercer, a young cowboy with an adventurous spirit, discovers a weathered treasure map in the canyon. Excited by the possibility of hidden riches, he decides to gather his friends and set out on a journey.",
+      "image_prompt": "young cowboy finding treasure map in desert canyon with horse, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jake convinces Clara and Thomas to join the dangerous journey.",
+      "text": "Jake shares the map with Clara and Thomas, convincing them to join despite the risks. Together, they prepare for a journey filled with unknown challenges and obstacles.",
+      "image_prompt": "three young friends planning adventure with map in western town, teamwork scene, colorful illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "The trio faces natural obstacles and works together to overcome them.",
+      "text": "During their journey, they cross a fast river by building a raft and climb a steep mountain while supporting each other. Their teamwork and determination help them push forward.",
+      "image_prompt": "three kids crossing river on raft and climbing mountain together, adventurous cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure but must face a dangerous mountain lion.",
+      "text": "After discovering a chest filled with gold and gems in a hidden valley, they encounter a mountain lion. Using courage and quick thinking, they distract it and escape safely.",
+      "image_prompt": "kids discovering treasure chest while mountain lion approaches, tense but kid-friendly cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home and decide to use the treasure to help their town.",
+      "text": "Returning to Silver Creek, they choose to use the treasure to improve their community. They realize that their friendship and shared journey were more valuable than the treasure itself.",
+      "image_prompt": "friends returning to town celebrating and planning to build community, warm sunset cartoon style"
+    }
+  ],
+  "story": "Jake Mercer is a young cowboy with a love for adventure who discovers a weathered treasure map while exploring a canyon. Excited, he gathers his friends Clara and Thomas to join him on a journey to find the hidden treasure. Together, they prepare and set out across the wild landscape, facing many challenges along the way. They encounter a fast-flowing river and work together to build a raft to cross it safely. Later, they climb a steep mountain and endure a sudden storm, encouraging each other to keep going. At the top, they discover a beautiful hidden valley where a treasure chest filled with gold coins, gems, and artifacts awaits them. However, their celebration is interrupted by a mountain lion. Using quick thinking, they distract the animal and escape safely. Returning home, they decide not to keep the treasure for themselves but instead use it to help their town by building something meaningful. Jake realizes that the greatest treasure is not the gold but the courage, teamwork, and friendship they shared throughout their adventure."
+}

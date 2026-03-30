@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200004",
+  "title": "Clara and the Courage of Silver Creek",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "justice through unity",
+  "characters": ["Clara Mitchell", "Buck", "Sheriff Tom Hastings", "Jasper Cole"],
+  "word_count": 516,
+  "moral": "Standing together with courage and truth can overcome injustice.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clara arrives in Silver Creek to seek justice for her family’s land.",
+      "text": "Clara Mitchell rides into Silver Creek determined to protect her family’s land from a powerful man named Jasper Cole. She meets Sheriff Tom Hastings and explains her mission, showing her courage and strong sense of justice.",
+      "image_prompt": "young cowgirl riding into busy western town with horse, sheriff office nearby, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Clara struggles to gather support from fearful townspeople.",
+      "text": "Clara and the sheriff begin collecting evidence against Jasper Cole, but many townspeople are too afraid to speak out. Slowly, Clara gains their trust and convinces some to share their stories despite the risks.",
+      "image_prompt": "cowgirl talking to worried townspeople in western homes, showing fear and hope, colorful illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Clara gathers allies and prepares to confront Jasper Cole.",
+      "text": "Clara works tirelessly to gather witnesses and build a strong case against Cole. With growing support from the townspeople, she prepares to face him in public and stand up for justice.",
+      "image_prompt": "cowgirl organizing townspeople and planning together, teamwork scene, colorful children’s book style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The townspeople confront Jasper Cole and stand united.",
+      "text": "Jasper Cole arrives with his men, but the townspeople, encouraged by Clara, stand together and speak out against him. Their unity weakens his power and exposes his wrongdoing.",
+      "image_prompt": "western town square confrontation with cowgirl and crowd facing villain, dramatic but kid-friendly cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Justice is served and the town becomes united.",
+      "text": "Jasper Cole is brought to trial and found guilty. The town grows stronger and more united, and Clara realizes the power of courage, teamwork, and standing up for what is right.",
+      "image_prompt": "peaceful western town with happy people celebrating justice, sunset background, colorful cartoon illustration"
+    }
+  ],
+  "story": "Clara Mitchell arrives in Silver Creek with a mission to protect her family’s land from Jasper Cole, a powerful man using unfair methods to take over properties. She seeks help from Sheriff Tom Hastings and begins gathering evidence, but many townspeople are too afraid to speak out. With determination and courage, Clara slowly gains their trust and encourages them to share their experiences. As more people come forward, Clara builds a strong case and prepares to confront Cole. When he arrives in town, the community stands united, speaking out against his actions. Overwhelmed by their courage, Cole’s influence weakens. He is later put on trial and found guilty. With justice restored, Silver Creek becomes a stronger and more united community. Clara leaves the town proud of what they achieved together, ready to face new adventures with hope and courage."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200013",
+  "title": "Gold Rush Adventures",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "friendship and perseverance",
+  "characters": ["Jake McCullen", "Sam Harper", "Big Hank", "Old Prospector"],
+  "word_count": 873,
+  "moral": "The greatest treasure is friendship, courage, and the journey itself.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake dreams of adventure and decides to go to Gold Creek with Sam.",
+      "text": "Jake McCullen, a young cowboy with dreams of adventure, hears about a gold rush in Gold Creek. Excited by the possibility of discovery, he convinces his friend Sam to join him, and they set off together toward the bustling town.",
+      "image_prompt": "two young cowboys riding horses across open plains toward mountains, bright colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jake and Sam enter a gold panning competition despite their inexperience.",
+      "text": "In Gold Creek, Jake and Sam see a gold panning competition and decide to participate even though they have no experience. They face self-doubt and tough competition from skilled miners.",
+      "image_prompt": "cowboys signing up for gold panning competition in busy western town, tents and crowd, colorful illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They struggle but support each other during the competition.",
+      "text": "During the competition, Jake and Sam work hard, learning quickly and encouraging each other. Despite exhaustion and pressure, they continue with determination and teamwork.",
+      "image_prompt": "two boys panning for gold in river working together, focused expressions, lively crowd, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Jake finds a gold nugget and overcomes Big Hank’s challenge.",
+      "text": "Jake discovers a gold nugget at a critical moment, boosting their chances. When Big Hank tries to disrupt them, Jake stands firm and protects their effort, showing courage and quick thinking.",
+      "image_prompt": "cowboy finding gold nugget while rival falls into river, dramatic but fun cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Jake and Sam win and realize the true meaning of treasure.",
+      "text": "Jake and Sam win the competition and celebrate their victory. They understand that the real treasure is their friendship, courage, and the lessons learned during their journey.",
+      "image_prompt": "two friends celebrating with gold nugget and cheering crowd in western town, warm sunset cartoon style"
+    }
+  ],
+  "story": "Jake McCullen is a young cowboy who dreams of adventure and discovery. One day, he hears about a gold rush in the town of Gold Creek and decides to go there with his best friend Sam Harper. Excited by the idea of finding gold, they travel across the plains and arrive in the busy town filled with prospectors and dreamers. They soon discover a gold panning competition and decide to participate, even though they have no experience. During the competition, they face many challenges, including strong competitors and their own doubts. With determination and teamwork, they continue working hard. A wise old prospector reminds them that the true treasure is not gold but the journey and friendships they build. At a crucial moment, Jake finds a gold nugget, and despite interference from Big Hank, they stay strong and finish the competition. In the end, they win and realize that their greatest reward is not the gold but the courage, friendship, and lessons they gained. Inspired by their adventure, they promise to continue exploring and facing new challenges together."
+}

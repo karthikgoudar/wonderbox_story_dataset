@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200005",
+  "title": "Clara and the Shadow Beast",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and friendship",
+  "characters": ["Clara McAllister", "Billy", "Shadow Beast", "Scout", "Dusty"],
+  "word_count": 620,
+  "moral": "True courage and kindness can turn fear into friendship and bring good to others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clara dreams of adventure and sets out with Billy to find a hidden treasure.",
+      "text": "Clara McAllister, a brave young cowgirl, longs for adventure beyond her ranch. When her friend Billy tells her about a hidden treasure guarded by the Shadow Beast, she eagerly sets out with him to explore Whispering Canyon.",
+      "image_prompt": "young cowgirl and boy preparing for adventure with horses on ranch, bright western landscape, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Clara and Billy encounter the mysterious Shadow Beast in the canyon.",
+      "text": "Inside Whispering Canyon, Clara and Billy hear strange growls and soon face the Shadow Beast, a large glowing-eyed creature. Fear rises, but Clara stops Billy from running and decides to understand the creature instead.",
+      "image_prompt": "cowgirl and boy facing shadowy glowing creature in canyon, suspenseful but kid-friendly cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Clara communicates with the beast and earns its trust.",
+      "text": "Clara uses her courage and kindness to communicate with the Shadow Beast using her lasso. The creature responds peacefully and begins guiding them deeper into the canyon, showing that it is not an enemy but a protector.",
+      "image_prompt": "cowgirl reaching out to magical shadow creature with lasso, peaceful connection moment, colorful illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the treasure but must escape a collapsing cave.",
+      "text": "Clara and Billy find the treasure chest and solve its riddle together. As the cave begins to collapse, they rely on the Shadow Beast to guide them safely through danger and out of the canyon.",
+      "image_prompt": "treasure cave with glowing chest and falling rocks, kids running with magical creature guiding them, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Clara shares the treasure and strengthens her community.",
+      "text": "Returning home, Clara decides to share the treasure with the townspeople to improve their lives. With Billy and the Shadow Beast by her side, she helps build a better community, realizing that true treasure lies in friendship, courage, and kindness.",
+      "image_prompt": "cowgirl and townspeople celebrating and building together with treasure, sunset western scene, colorful children’s illustration"
+    }
+  ],
+  "story": "Clara McAllister is a brave young cowgirl who dreams of adventure beyond her ranch. When her friend Billy tells her about a hidden treasure in Whispering Canyon guarded by a mysterious Shadow Beast, she eagerly sets out to find it. As they enter the canyon, they encounter the fearsome creature, but instead of running away, Clara chooses to understand it. Using her courage and kindness, she communicates with the beast and earns its trust. The creature guides them safely through the canyon to a hidden grotto where they discover a treasure chest. After solving a riddle together, they open the chest, but the cave begins to collapse. Trusting the Shadow Beast, they follow it to safety and escape. Returning home, Clara decides to share the treasure with her community, helping build schools and improve lives. She learns that true treasure is not wealth but the courage to face fears, the strength of friendship, and the joy of helping others."
+}

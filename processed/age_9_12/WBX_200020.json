@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200020",
+  "title": "Lost Isles Treasure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "adventure and teamwork",
+  "characters": ["Captain Finn", "Crew of Sea Serpent", "Sea Serpent Guardian"],
+  "word_count": 836,
+  "moral": "The true treasure is the spirit of adventure and friendship.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Finn prepares his crew to search for the Lost Isles treasure.",
+      "text": "At the port of Eldoria, Captain Finn and his crew aboard the Sea Serpent prepare for a daring journey to find the legendary treasure of the Lost Isles.",
+      "image_prompt": "pirate captain and crew on ship at harbor preparing for adventure, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces danger in the Siren's Strait.",
+      "text": "While sailing, the crew must pass through the Siren's Strait, where enchanting songs try to lure them to danger, but they resist and stay focused.",
+      "image_prompt": "pirate ship sailing through glowing waters with magical sirens singing, cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They survive a powerful storm and continue toward the islands.",
+      "text": "A fierce storm strikes, but Captain Finn guides the ship safely through, strengthening the crew’s trust and determination.",
+      "image_prompt": "pirate ship in storm with lightning and waves, brave captain steering, colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach the Lost Isles and face a giant guardian.",
+      "text": "On the islands, they encounter a colossal sea serpent guarding the treasure, but it allows them to pass after recognizing their courage.",
+      "image_prompt": "giant sea serpent guarding temple with pirates approaching bravely, fantasy cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They discover the treasure is a compass symbolizing adventure.",
+      "text": "Inside the temple, they find a compass instead of gold and realize the real treasure is the journey and their bond as a crew.",
+      "image_prompt": "pirates opening chest revealing magical compass glowing, joyful discovery cartoon style"
+    }
+  ],
+  "story": "Captain Finn and his crew set sail from Eldoria in search of the legendary Lost Isles treasure. They face dangerous challenges including the Siren's Strait and a fierce storm, but their courage and teamwork help them survive. Upon reaching the islands, they encounter a giant sea serpent guarding the treasure. Showing respect and bravery, they are allowed to enter a temple where they discover not gold, but a magical compass. The compass represents endless adventure and unity. The crew realizes that their journey, courage, and friendship are the real treasure, and they sail onward toward new adventures."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200027",
+  "title": "The Heart of the Ocean",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and unity",
+  "characters": ["Captain Thorne", "Finn", "Nia", "Jett", "Redbeard"],
+  "word_count": 1105,
+  "moral": "True strength comes from courage and working together.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Thorne begins a quest for a magical artifact.",
+      "text": "Captain Thorne and his crew set out to find the Heart of the Ocean.",
+      "image_prompt": "pirate captain leading crew on ship toward adventure, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a dangerous creature and riddles.",
+      "text": "They encounter a guardian creature and must solve riddles to continue.",
+      "image_prompt": "pirates facing magical creature in jungle, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore a temple filled with puzzles.",
+      "text": "They navigate through a temple solving puzzles and facing trials.",
+      "image_prompt": "pirates solving puzzles inside ancient temple, glowing symbols"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They face a sea creature and prove courage.",
+      "text": "They defeat challenges and prove bravery to claim the Heart.",
+      "image_prompt": "pirates facing giant sea serpent underwater, action cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They learn the power of unity.",
+      "text": "They defeat rivals and realize teamwork matters more than power.",
+      "image_prompt": "two pirate crews united with glowing jewel, peaceful cartoon"
+    }
+  ],
+  "story": "Captain Thorne and his crew journey to find the Heart of the Ocean. Along the way, they solve riddles, face magical creatures, and explore an ancient temple. They prove their courage and defeat challenges together. In the end, they realize that unity and teamwork are more powerful than the treasure itself."
+}

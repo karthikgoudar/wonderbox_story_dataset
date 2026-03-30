@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200012",
+  "title": "Red Murphy and the Whispering Sands",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "humility and courage",
+  "characters": ["Red Murphy", "Whiskey", "Billy", "Scar-face", "Bandits", "Sheriff"],
+  "word_count": 777,
+  "moral": "True strength comes from courage, humility, and helping others when they need it.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Red Murphy rides across the plains carrying an urgent letter.",
+      "text": "Red Murphy rides across the Wild West with his horse Whiskey, carrying an urgent letter for the sheriff of Silver Gulch. Along the way, he encounters bandits but uses his quick thinking to avoid trouble and continue his journey.",
+      "image_prompt": "cowboy riding horse across sunny desert plains with distant mountains, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Red faces danger in the whispering sands and rescues his horse.",
+      "text": "Entering the whispering sands, Red and Whiskey face the danger of quicksand. When Whiskey gets stuck, Red stays calm and uses a rope to carefully pull him free, learning the importance of patience and humility.",
+      "image_prompt": "cowboy pulling horse out of quicksand in desert, tense but hopeful scene, colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Red helps a stranded boy and continues toward town.",
+      "text": "Red meets a young boy named Billy who is lost and exhausted after losing his mule. Showing kindness, Red helps him and guides him safely toward Silver Gulch, teaching the value of helping others.",
+      "image_prompt": "cowboy helping tired boy onto horse in desert canyon, warm supportive moment, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Red confronts the bandits again and chooses peace over conflict.",
+      "text": "Near Silver Gulch, the bandits return and confront Red. Instead of fighting, Red speaks calmly and convinces them to let him pass, showing courage through wisdom and restraint.",
+      "image_prompt": "cowboy calmly facing bandits with hands raised, tense but peaceful resolution, colorful cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Red delivers the letter and reflects on his journey.",
+      "text": "Red safely delivers the letter to the sheriff and continues his journey home. Resting in a peaceful meadow, he reflects on the lessons of courage, humility, and helping others.",
+      "image_prompt": "cowboy resting in green meadow with horse grazing, peaceful sunset scene, colorful children’s illustration"
+    }
+  ],
+  "story": "Red Murphy rides across the Wild West with his horse Whiskey, carrying an urgent letter for the sheriff of Silver Gulch. Early in his journey, he encounters bandits but cleverly avoids trouble using his quick thinking. As he travels into the whispering sands, he faces a dangerous patch of quicksand that nearly traps his horse, but he remains calm and pulls Whiskey to safety with a rope. Continuing on, Red finds a stranded boy named Billy who has lost his mule and is exhausted. Red helps him, showing kindness and humility as they travel together. Near Silver Gulch, the bandits return and confront him again, but instead of fighting, Red uses calm reasoning and courage to avoid violence. Finally, he delivers the letter safely to the sheriff, ensuring the town is warned of danger. As he rides home, Red reflects on his journey, realizing that true strength comes not just from bravery, but from humility, wisdom, and helping others."
+}

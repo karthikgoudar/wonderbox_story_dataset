@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200028",
+  "title": "Serpent's Eye Treasure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "friendship and bravery",
+  "characters": ["Captain Finn McTavish", "Samira", "Jonas", "Old Tom", "Bandit Leader"],
+  "word_count": 980,
+  "moral": "Friendship and courage are the greatest treasures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Finn discovers a treasure map.",
+      "text": "Captain Finn finds a map to the Serpent’s Eye treasure and begins the journey.",
+      "image_prompt": "pirate studying map in cabin with lantern, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a storm at sea.",
+      "text": "A storm tests their courage and teamwork.",
+      "image_prompt": "ship in storm with waves crashing, teamwork cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the island and face bandits.",
+      "text": "They reach the island and outsmart bandits using clever thinking.",
+      "image_prompt": "pirates scaring bandits with bees, jungle cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure in a cave.",
+      "text": "They navigate a cave maze and find the glowing gem.",
+      "image_prompt": "pirates discovering glowing gem in cave, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They value the journey over treasure.",
+      "text": "They realize friendship and adventure matter more than gold.",
+      "image_prompt": "crew smiling together on ship, sunset cartoon"
+    }
+  ],
+  "story": "Captain Finn McTavish discovers a treasure map and leads his crew on a dangerous journey. They survive storms, outsmart bandits, and explore a mysterious island. Inside a cave, they find the Serpent’s Eye treasure. In the end, they realize that friendship, teamwork, and the journey itself are more valuable than treasure."
+}

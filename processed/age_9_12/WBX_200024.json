@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200024",
+  "title": "Midnight Gold Journey",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "adventure and friendship",
+  "characters": ["Captain Finn", "Mr. Hawke", "Sally", "Captain Vane", "Crew of Sea Serpent"],
+  "word_count": 842,
+  "moral": "The journey and friendships are more valuable than treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Finn sets out to find the map to Midnight Gold.",
+      "text": "Captain Finn hears about a treasure map in Driftwood Cove and leads his crew to retrieve it from a tavern.",
+      "image_prompt": "pirate captain in busy port tavern getting treasure map, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A storm challenges the crew during their journey.",
+      "text": "While sailing, a powerful storm hits, but the crew works together and survives through determination.",
+      "image_prompt": "pirate ship in storm with lightning and crew working together, dramatic cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They are chased by a rival pirate crew.",
+      "text": "Captain Vane and his ship pursue Finn, but the crew cleverly escapes using fog and skillful navigation.",
+      "image_prompt": "two pirate ships chasing in fog near islands, action cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They solve a riddle on the island to reach the treasure.",
+      "text": "On the island, they solve a riddle by speaking honestly, which reveals the hidden path to the treasure.",
+      "image_prompt": "pirates at waterfall solving glowing riddle, magical cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "They share the treasure and learn its true value.",
+      "text": "Instead of fighting, Finn shares the treasure with his rival and realizes that friendship and adventure are more important than gold.",
+      "image_prompt": "pirates sharing treasure peacefully, smiling crews, colorful cartoon style"
+    }
+  ],
+  "story": "Captain Finn and his crew set sail after obtaining a map to the legendary Midnight Gold. Their journey is filled with challenges, including a fierce storm and pursuit by a rival pirate, Captain Vane. Through teamwork and clever thinking, they navigate danger and reach a mysterious island. There, they solve a riddle by speaking honestly, revealing the treasure hidden deep within a cavern. Instead of fighting over the gold, Finn chooses to share it with his rival, teaching everyone that friendship and cooperation are more valuable than wealth. The crew returns home wiser, knowing the real treasure was their journey together."
+}

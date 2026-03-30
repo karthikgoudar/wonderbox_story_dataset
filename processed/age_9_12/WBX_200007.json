@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200007",
+  "title": "Clara's Wild West Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and self-belief",
+  "characters": ["Clara Mae Johnson", "Blaze", "Billy", "Old Man Jenkins", "Annie", "Jake", "Black Shadow"],
+  "word_count": 782,
+  "moral": "True courage is believing in yourself and helping others even when you are afraid.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clara dreams of competing in the Great Western Rodeo.",
+      "text": "In Dusty Hollow, a brave young cowgirl named Clara Mae Johnson dreams of becoming Champion of the West. Encouraged by her friend Billy, she decides to enter the Great Western Rodeo despite her doubts.",
+      "image_prompt": "young cowgirl in western town dreaming about rodeo competition, mountains and sunset, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Clara faces self-doubt as she prepares for the rodeo.",
+      "text": "At the rodeo grounds, Clara sees experienced competitors and feels nervous about her abilities. However, encouragement from Billy and Annie helps her believe in herself and prepare for the events.",
+      "image_prompt": "cowgirl looking nervous among skilled riders and horses at rodeo, supportive friends nearby, colorful illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Clara performs well in roping and barrel racing events.",
+      "text": "Clara successfully completes roping and barrel racing, gaining confidence as the crowd cheers for her. She realizes that her training and teamwork with her horse Blaze are paying off.",
+      "image_prompt": "cowgirl racing horse around barrels and throwing lasso successfully, cheering crowd, vibrant cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Clara calms a wild horse and bravely rides a bull.",
+      "text": "When a wild horse named Black Shadow panics, Clara calms it with kindness and patience. Later, she bravely attempts bull riding, facing her fears and proving her courage in front of the crowd.",
+      "image_prompt": "cowgirl calming wild horse and riding bull in arena, dramatic but kid-friendly cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Clara inspires her community and organizes a rodeo.",
+      "text": "Though she does not win, Clara returns home proud and inspires her town to embrace courage. She organizes a community rodeo, teaching others that bravery and teamwork matter more than winning.",
+      "image_prompt": "happy western town rodeo with kids and cowgirl leading event, celebration atmosphere, colorful illustration"
+    }
+  ],
+  "story": "Clara Mae Johnson is a brave young cowgirl from Dusty Hollow who dreams of becoming the Champion of the West. Encouraged by her best friend Billy, she decides to enter the Great Western Rodeo despite her fears and doubts. At the rodeo, she feels nervous when she sees experienced competitors, but with support from Billy and a friendly rider named Annie, she gathers confidence. Clara performs well in roping and barrel racing, impressing the crowd and gaining belief in her abilities. When a wild horse named Black Shadow panics, Clara calms it with patience and kindness, earning admiration from everyone. Later, she bravely takes on bull riding, facing her fears head-on. Although she does not win the championship, Clara learns that true courage comes from trying your best and helping others. Inspired by her journey, she returns to Dusty Hollow and organizes a community rodeo, encouraging others to be brave and follow their dreams."
+}

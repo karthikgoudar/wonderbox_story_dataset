@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200025",
+  "title": "Barnacle's Brave Tale",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "bravery and loyalty",
+  "characters": ["Captain Barnacle Blue", "Roxy", "Old Jim", "Red Jack", "Children"],
+  "word_count": 920,
+  "moral": "Helping others and loyalty matter more than treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Barnacle begins telling children about his great sea adventure.",
+      "text": "Captain Barnacle tells children about his past journey and his brave crew aboard the Sea Serpent.",
+      "image_prompt": "old pirate telling story to children at dock, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A powerful storm threatens the ship.",
+      "text": "Barnacle and his crew face a fierce storm that tests their courage and teamwork.",
+      "image_prompt": "pirate ship in strong storm with crew working together, cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They rescue another ship during the storm.",
+      "text": "Despite danger, they save stranded sailors, showing bravery and compassion.",
+      "image_prompt": "pirates rescuing sailors in stormy sea, heroic cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They search for treasure while being chased by Red Jack.",
+      "text": "They reach the island, solve riddles, and find treasure while avoiding a rival pirate.",
+      "image_prompt": "pirates solving riddle near cave with treasure, jungle cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "They escape safely and value friendship over treasure.",
+      "text": "They take only what they need and escape, realizing adventure and bonds matter more than gold.",
+      "image_prompt": "pirates sailing away happily at sunset, warm cartoon style"
+    }
+  ],
+  "story": "Captain Barnacle tells children about a past adventure where he and his crew faced a terrible storm while sailing to find treasure. During the storm, they bravely rescued another ship’s crew instead of saving themselves. Later, they reached an island, solved riddles, and discovered treasure, but chose to take only what they needed. They escaped from a rival pirate and returned safely, realizing that loyalty, kindness, and teamwork were more valuable than treasure."
+}

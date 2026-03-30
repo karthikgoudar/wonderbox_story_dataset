@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200017",
+  "title": "Jake and the Wild West Treasure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and growth",
+  "characters": ["Jake Harper", "Flint Hawke", "Black Bart", "Dusty"],
+  "word_count": 1146,
+  "moral": "True treasure lies in courage, friendship, and the lessons learned through adventure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake meets Flint Hawke and learns about Black Bart’s hidden treasure.",
+      "text": "In the town of Cactus Gulch, young cowboy Jake Harper meets Flint Hawke, a bounty hunter searching for the outlaw Black Bart. When Jake hears about a hidden treasure, he eagerly joins Flint on the adventure.",
+      "image_prompt": "young cowboy meeting bounty hunter in western saloon, warm lighting, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jake and Flint search for clues and track Black Bart to the riverbank.",
+      "text": "The duo gathers information in the saloon and follows clues to the riverbank, where they discover footprints and signs of Black Bart’s presence, realizing they are close to danger.",
+      "image_prompt": "cowboys examining footprints near riverbank at sunset, suspenseful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Jake helps capture Black Bart during a risky confrontation.",
+      "text": "Jake and Flint find Black Bart at his camp. Using a distraction, Jake bravely tackles him, and together they capture the outlaw after a tense struggle.",
+      "image_prompt": "young cowboy tackling outlaw near campfire with action and movement, colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They follow a map to find the hidden treasure in a rocky valley.",
+      "text": "Using a map dropped by Black Bart, Jake and Flint travel through dangerous terrain to reach a hidden valley. After digging, they discover a chest filled with gold coins and jewels.",
+      "image_prompt": "cowboys digging treasure chest in rocky valley with gold and gems, exciting discovery cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Jake returns as a hero and learns the true meaning of treasure.",
+      "text": "Back in Cactus Gulch, the townspeople celebrate their success. Jake realizes that courage, friendship, and helping others matter more than gold, and he looks forward to future adventures.",
+      "image_prompt": "western town celebration with cowboy hero and cheering crowd, warm sunset cartoon illustration"
+    }
+  ],
+  "story": "Jake Harper is a young cowboy living in Cactus Gulch, known for his adventurous spirit and kind heart. One day, a bounty hunter named Flint Hawke arrives in town searching for the notorious outlaw Black Bart, who is rumored to have hidden a treasure. Jake eagerly joins Flint on the mission, determined to prove his courage. They gather clues in the saloon and follow tracks to a riverbank, where they find evidence that Black Bart has been nearby. Tracking him through the wilderness, they eventually locate his camp. Flint creates a distraction, allowing Jake to sneak up and tackle the outlaw, leading to his capture. After bringing Black Bart back to town, Jake and Flint use a map to search for the hidden treasure. They journey through rocky terrain, overcoming obstacles and challenges, until they reach a hidden valley. There, they dig and uncover a chest filled with gold coins and sparkling jewels. Returning to Cactus Gulch, they are celebrated as heroes. Jake reflects on his journey and realizes that true treasure lies not in gold but in courage, friendship, and the experiences gained through adventure."
+}

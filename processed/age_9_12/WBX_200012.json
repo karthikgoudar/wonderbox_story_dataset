@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200012",
+  "title": "Noah Harper and the Painted Desert Badge",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "justice and courage",
+  "characters": ["Noah Harper", "Jesse", "Miss Lila", "Old Man", "Sheriff", "Scar-face", "Black-hat Man"],
+  "word_count": 819,
+  "moral": "True treasure is not wealth but the courage to do what is right and protect others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Noah receives a mysterious map from an old man in the saloon.",
+      "text": "In Dry Creek, Noah Harper helps a mysterious old man in the saloon, who secretly gives him a map and warns him to keep it safe. Curious and cautious, Noah realizes the map may lead to something important.",
+      "image_prompt": "young cowboy receiving secret map from old man in western saloon, warm lighting, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Noah notices dangerous men watching him and realizes the map is valuable.",
+      "text": "Two suspicious strangers begin watching Noah, making it clear the map is valuable and dangerous. Noah and his friend Jesse decide to leave town early to follow the map and avoid trouble.",
+      "image_prompt": "cowboys noticing suspicious men in saloon watching them, tense western cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Noah and Jesse travel through the desert while being chased.",
+      "text": "Noah and Jesse travel across the Painted Desert, facing harsh conditions and a chase from the strangers. Using clever thinking, Noah escapes and reunites with Jesse at Red Mesa.",
+      "image_prompt": "two cowboys riding through desert mesas with pursuers behind, adventurous colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the true treasure is a badge symbolizing justice.",
+      "text": "At a hidden cave, Noah and Jesse find a chest containing a journal and a sheriff’s badge. They learn the real treasure is not gold but a symbol of justice and responsibility.",
+      "image_prompt": "cowboys opening chest in cave revealing badge glowing, discovery moment, colorful illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Noah uses the badge to help capture thieves and protect the town.",
+      "text": "Back in Dry Creek, Noah uses his courage and the badge’s meaning to help capture thieves who stole the town’s money. He earns respect and becomes a protector of the community.",
+      "image_prompt": "cowboy with badge helping sheriff capture thieves in saloon, action and celebration, cartoon style"
+    }
+  ],
+  "story": "Noah Harper is a young cowboy living in the town of Dry Creek. One day in the saloon, he helps a mysterious old man who secretly gives him a map and warns him to protect it. Soon, Noah notices two dangerous strangers watching him, making it clear that the map is valuable. With his friend Jesse, Noah leaves town to follow the map into the Painted Desert. Their journey is filled with danger as they are chased and must navigate harsh terrain. Eventually, they reach a hidden cave and discover a chest, but instead of gold, it contains a journal and a sheriff’s badge. The message reveals that the true treasure is justice and courage. Returning to Dry Creek, Noah finds the town in trouble after thieves steal important money. Using his courage and the lesson of the badge, Noah works with the sheriff and Jesse to capture the thieves and restore order. In the end, Noah realizes that real treasure lies in doing what is right and protecting others."
+}

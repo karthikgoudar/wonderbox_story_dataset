@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200016",
+  "title": "Treasure in the Whispering Canyon",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and teamwork",
+  "characters": ["Jake Harper", "Benny", "Martha", "Tom", "Clara", "Dusty", "Black Hat Gang"],
+  "word_count": 1132,
+  "moral": "True treasure lies in friendship, courage, and standing together in difficult times.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jake hears about a hidden treasure in Ghost Canyon and decides to explore.",
+      "text": "In the town of Timber Creek, cowboy Jake Harper learns from his friend Benny about a hidden treasure in Ghost Canyon. Excited by the idea of adventure, Jake gathers his friends to explore the dangerous canyon.",
+      "image_prompt": "cowboy and friends planning adventure in western town at sunset, colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The group enters the canyon and discovers clues leading to a hidden cave.",
+      "text": "Jake, Benny, Martha, Tom, and Clara travel into Ghost Canyon, facing its eerie and dangerous environment. They find strange symbols and a hidden cave that may lead them to the treasure.",
+      "image_prompt": "group of cowboys exploring canyon with mysterious symbols on rocks, adventurous cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They encounter bandits inside the cave and fight to escape.",
+      "text": "Inside the cave, they discover treasure but are confronted by the Black Hat Gang. A tense fight breaks out, and the group works together to escape through a narrow passage.",
+      "image_prompt": "cowboys escaping from bandits inside cave with action and movement, colorful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They escape with treasure while being chased by bandits.",
+      "text": "Jake and his friends flee the cave with some treasure as bandits chase them. They split up to confuse the bandits and manage to escape safely after a thrilling chase.",
+      "image_prompt": "cowboys riding horses escaping from bandits through canyon, fast-paced action cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home and celebrate their success and friendship.",
+      "text": "Back in Timber Creek, the town celebrates their return with joy and music. Jake and his friends reflect on their journey and realize that courage, teamwork, and friendship were the true treasures.",
+      "image_prompt": "western town celebration with music dancing and happy cowboys, warm sunset cartoon illustration"
+    }
+  ],
+  "story": "Jake Harper is a brave cowboy living in Timber Creek with his loyal horse Dusty. One evening, his friend Benny tells him about a hidden treasure deep within Ghost Canyon, a dangerous place known for its steep cliffs and mysterious winds. Excited by the idea of adventure, Jake gathers his friends Martha, Tom, and Clara, and they set off at dawn toward the canyon. As they enter Ghost Canyon, they encounter strange symbols carved into rocks and discover a hidden cave that seems to hold the treasure. Inside, they find gold and jewels, but their discovery is interrupted by the Black Hat Gang, a group of dangerous bandits. A chaotic fight breaks out, and Jake and his friends must work together to escape through a narrow tunnel. With treasure in hand, they race out of the canyon, pursued by the bandits. To confuse their pursuers, they split up and eventually manage to escape safely. Reuniting outside the canyon, they return to Timber Creek, where the townspeople celebrate their bravery with music and laughter. Jake reflects on the adventure and realizes that the true treasure was not the gold, but the courage, friendship, and teamwork they shared throughout the journey."
+}
