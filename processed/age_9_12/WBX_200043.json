@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200043",
+  "title": "Bread for the Guard",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "elementary",
+  "theme": "kindness and empathy",
+  "characters": ["Sir Alder", "Tamsin", "Sergeant Brann", "Lysa", "Pell"],
+  "word_count": 1890,
+  "moral": "Small acts of kindness and empathy can make a big difference.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Alder sets out to deliver bread to tired guards.",
+      "text": "Sir Alder, a kind and imaginative knight, takes fresh bread from the castle kitchen to give to the guards who have been standing in the cold all night, believing even small kindnesses matter.",
+      "image_prompt": "knight carrying bread through castle courtyard, warm sunlight, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Suspicious riders appear near the castle.",
+      "text": "At the gate, Alder and Tamsin learn that unknown riders have been spotted on the ridge, creating tension and fear among the guards.",
+      "image_prompt": "castle guards watching distant riders on hill, tense atmosphere, cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Alder and Tamsin investigate and discover danger.",
+      "text": "They take a dangerous path to observe the riders and discover they are bandits tracking someone from the castle, leading Alder to create a false trail.",
+      "image_prompt": "knight and girl sneaking through rocky path observing riders, adventure cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Alder saves Lysa and outsmarts the bandits.",
+      "text": "Alder finds Lysa, an apprentice trying to help repair shields, and cleverly misleads the bandits before hiding and waiting patiently to survive.",
+      "image_prompt": "knight hiding with girl inside hollow tree while bandits search, suspense cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The castle improves and kindness spreads.",
+      "text": "Back at the castle, the armory is repaired, guards are supported, and Alder’s kindness inspires others, proving that care and teamwork strengthen the kingdom.",
+      "image_prompt": "castle armory being repaired with teamwork, warm hopeful cartoon style"
+    }
+  ],
+  "story": "Sir Alder of Brambleford believes even small acts of kindness matter, so he brings warm bread to the guards at the castle gate. While there, news arrives of suspicious riders nearby. Alder and his squire Tamsin investigate and discover bandits tracking someone. Alder creates a false trail to mislead them and finds Lysa, an apprentice trying to fix broken shields to help the guards. Together, they escape danger using patience and clever thinking. Back at the castle, the armory is repaired, the guards are better supported, and Alder’s simple act of kindness spreads throughout the kingdom, showing that empathy and teamwork are powerful."
+}

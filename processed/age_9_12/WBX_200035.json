@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200035",
+  "title": "The Three Stones Prophecy",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "wisdom and choice",
+  "characters": ["Lady Elin", "Tomas", "Maela", "Lord Rowan", "Grey Wolves"],
+  "word_count": 1085,
+  "moral": "True strength lies in wise choices and choosing peace over fear.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elin receives a mysterious prophecy about three stones.",
+      "text": "Lady Elin receives a silver token and a prophecy guiding her toward a choice between peace and war.",
+      "image_prompt": "knight holding glowing token with three stones under moonlight, magical cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Villages are attacked and fear spreads.",
+      "text": "Elin learns that raiders called Grey Wolves are threatening villages, causing fear and destruction.",
+      "image_prompt": "knight protecting village from raiders at broken bridge, action cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Elin follows clues through dangerous lands.",
+      "text": "Following the prophecy, Elin travels through marshes and discovers a hidden map pointing to Lornhold.",
+      "image_prompt": "knight exploring marsh with standing stones and glowing symbols, adventure cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Elin confronts the lord behind the conflict.",
+      "text": "At Lornhold, she meets Lord Rowan and realizes fear is driving the conflict, not true enemies.",
+      "image_prompt": "knight speaking with lord in castle hall, serious discussion cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Elin chooses peace and prevents war.",
+      "text": "Through wisdom and negotiation, Elin resolves the conflict and prevents war, fulfilling the prophecy.",
+      "image_prompt": "knight bringing peace between two sides, hopeful sunrise cartoon"
+    }
+  ],
+  "story": "Lady Elin receives a prophecy guiding her toward a choice between peace and war. As she travels, she discovers that fear and manipulation are causing conflict between villages. Following clues through dangerous lands, she reaches Lornhold and confronts the lord responsible. Through wisdom and understanding, she prevents war and proves that true strength lies in thoughtful decisions and peace."
+}

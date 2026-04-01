@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200050",
+  "title": "Friendship’s Treasure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["Sir Cedric", "Tobias", "Elara", "Wizard Arion"],
+  "word_count": 1760,
+  "moral": "True treasure is friendship.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric hears about a hidden treasure.",
+      "text": "Cedric learns about a magical treasure and decides to go on a quest.",
+      "image_prompt": "knight listening to wizard in village square, cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "He gathers friends for the journey.",
+      "text": "Cedric teams up with Tobias and Elara to face dangers together.",
+      "image_prompt": "three friends preparing for adventure, medieval cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They face mountains and forest challenges.",
+      "text": "They survive avalanches and solve riddles in a magical forest.",
+      "image_prompt": "friends crossing snowy mountains and forest, adventure cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They defeat a shadow beast together.",
+      "text": "Through teamwork, they defeat a powerful creature blocking their path.",
+      "image_prompt": "team fighting shadow monster together, action cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They discover the real treasure.",
+      "text": "They find treasure but learn that friendship is the greatest reward.",
+      "image_prompt": "friends opening treasure chest smiling, warm cartoon"
+    }
+  ],
+  "story": "Sir Cedric sets out on a quest to find a magical treasure. Along the way, he is joined by his friends Tobias and Elara. Together they face dangerous mountains, magical forests, and powerful enemies. When they finally reach the treasure, they discover that the true reward is their friendship and teamwork, which helped them overcome every challenge."
+}

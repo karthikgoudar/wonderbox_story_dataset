@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200041",
+  "title": "The Knight's Light",
+  "source": "",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "hope and bravery",
+  "characters": ["Sirona", "Eldrin", "Guardian of Shadows"],
+  "word_count": 55,
+  "moral": "Hope and courage can defeat darkness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sirona learns about a curse.",
+      "text": "A mysterious illness spreads across the kingdom.",
+      "image_prompt": "young female knight looking worried as villagers fall sick, medieval village, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The kingdom is in danger.",
+      "text": "Sirona must find a magical amulet to break the curse.",
+      "image_prompt": "knight preparing for quest to find magical amulet, castle background, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "She travels through dangerous lands.",
+      "text": "She enters the Forbidden Forest and faces challenges.",
+      "image_prompt": "knight walking through dark enchanted forest with glowing trees, adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "She solves riddles and battles a creature.",
+      "text": "She proves her worth and fights a shadow guardian.",
+      "image_prompt": "knight fighting shadow creature with glowing sword, dramatic cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "She saves the kingdom.",
+      "text": "She retrieves the amulet and lifts the curse.",
+      "image_prompt": "knight holding glowing amulet bringing light back to kingdom, hopeful cartoon style"
+    }
+  ],
+  "story": "A mysterious illness spreads across the kingdom, causing fear and suffering. Sirona takes on the responsibility to save her people by finding a magical amulet. She travels through the dangerous Forbidden Forest, facing many challenges along the way. After proving her courage by defeating a shadow guardian, she retrieves the amulet and lifts the curse, restoring hope and peace."
+}

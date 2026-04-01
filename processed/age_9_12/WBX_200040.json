@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200040",
+  "title": "Seraphina's Quest: The Heart of Destiny",
+  "source": "",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "destiny and self-discovery",
+  "characters": ["Lady Seraphina", "Elric", "King Eldwin", "Shadow Wyvern"],
+  "word_count": 55,
+  "moral": "Believing in yourself helps you fulfill your destiny.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Seraphina is chosen for a prophecy.",
+      "text": "Seraphina is called by the king to defeat the Shadow Wyvern.",
+      "image_prompt": "young female knight receiving mission from king in castle hall, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A mythical beast threatens the kingdom.",
+      "text": "The Shadow Wyvern rises, bringing destruction.",
+      "image_prompt": "shadow dragon flying over kingdom with dark clouds and fire, dramatic cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Seraphina travels with a companion.",
+      "text": "She journeys with Elric through dangerous lands.",
+      "image_prompt": "knight and companion traveling through mountains and forests, adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "She discovers her true identity.",
+      "text": "She learns she is part of an ancient prophecy.",
+      "image_prompt": "knight seeing magical vision of prophecy glowing in sky, fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "She defeats the beast.",
+      "text": "She embraces her destiny and defeats the Wyvern.",
+      "image_prompt": "female knight defeating shadow wyvern with bright glowing sword, heroic cartoon style"
+    }
+  ],
+  "story": "Seraphina is chosen by the king to defeat the Shadow Wyvern threatening the kingdom. She travels with her companion Elric through dangerous lands and faces many challenges. Along the journey, she discovers she is part of an ancient prophecy. Accepting her destiny, she finds strength within herself and defeats the Wyvern, bringing peace back to the kingdom."
+}

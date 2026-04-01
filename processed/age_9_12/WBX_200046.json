@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200046",
+  "title": "Knight and Dragon",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "elementary",
+  "theme": "understanding and friendship",
+  "characters": ["Sir Cedric", "Galdur", "Lady Elara", "Arion"],
+  "word_count": 1780,
+  "moral": "Understanding others can turn enemies into friends.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric learns about a dangerous dragon threatening the kingdom.",
+      "text": "Sir Cedric hears that a dragon named Galdur is terrorizing villages and decides to confront it to protect his people.",
+      "image_prompt": "knight hearing announcement about dragon in village square, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Cedric journeys toward the dragon’s lair.",
+      "text": "He travels through a dark forest, meets a spirit, and gains a magical pendant to understand the dragon.",
+      "image_prompt": "knight receiving glowing pendant from magical well spirit, forest cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Cedric reaches the dragon and chooses to talk instead of fight.",
+      "text": "Inside the cave, Cedric confronts Galdur and learns the dragon attacks because of past betrayal.",
+      "image_prompt": "knight talking to large dragon inside glowing cave, friendly tone cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Cedric and Galdur form an alliance.",
+      "text": "Instead of fighting, Cedric convinces the dragon to help protect the kingdom rather than harm it.",
+      "image_prompt": "knight and dragon flying together over village, hopeful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They defeat a greater threat and restore peace.",
+      "text": "Together they fight dark creatures threatening the kingdom, earning trust and proving friendship can overcome fear.",
+      "image_prompt": "knight and dragon fighting shadow creatures, bright heroic cartoon"
+    }
+  ],
+  "story": "Sir Cedric sets out to defeat a dragon named Galdur who is feared by the kingdom. Along his journey, he gains a magical pendant that helps him understand others. Instead of fighting the dragon, Cedric learns that Galdur was hurt by humans in the past. He convinces the dragon to become an ally. Together, they defend the kingdom from a greater dark threat and prove that understanding and friendship are stronger than fear."
+}

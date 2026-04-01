@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200037",
+  "title": "Elara and the Shadow's Edge",
+  "source": "",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and unity",
+  "characters": ["Lady Elara", "Sir Cedric", "Lady Mira", "Dark Sorceress"],
+  "word_count": 67,
+  "moral": "True strength comes from teamwork and courage.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elara lives peacefully but hears of a new threat.",
+      "text": "Lady Elara, once a great knight, lives as a farmer until she learns a dark sorceress threatens the kingdom.",
+      "image_prompt": "female knight living peacefully in village farm setting, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A dangerous sorceress spreads darkness.",
+      "text": "A herald announces the rise of a Dark Sorceress, creating fear among villagers.",
+      "image_prompt": "villagers reacting to herald warning about dark sorceress, dramatic cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Elara gathers allies and begins her quest.",
+      "text": "Elara recruits brave companions and journeys through forests facing magical dangers.",
+      "image_prompt": "knight leading companions through enchanted forest, adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They confront powerful enemies and challenges.",
+      "text": "They battle magical creatures and solve riddles in enchanted forests.",
+      "image_prompt": "group of knights fighting magical creatures in glowing forest, action cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Elara faces the sorceress and protects the kingdom.",
+      "text": "Through unity and courage, Elara and her team defeat the sorceress.",
+      "image_prompt": "female knight defeating dark sorceress with light magic, heroic cartoon style"
+    }
+  ],
+  "story": "Lady Elara once lived peacefully as a farmer after her days as a knight. One day, she learns that a dark sorceress threatens the kingdom. Determined to protect her people, she gathers brave companions and journeys through dangerous forests. Along the way, they face magical creatures and solve difficult challenges. In the end, through teamwork and courage, Elara defeats the sorceress and restores peace to the kingdom."
+}

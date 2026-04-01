@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200032",
+  "title": "The Knight Who Chose Peace",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "peace over war",
+  "characters": ["Dame Elara", "Elian", "King Alaric", "Lord Malvaris"],
+  "word_count": 1150,
+  "moral": "True courage lies in seeking peace before conflict.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elara values order and dreams of peace instead of war.",
+      "text": "Dame Elara, a disciplined knight who values order, prepares for battle but dreams of a world where weapons remain unused.",
+      "image_prompt": "organized knight arranging weapons neatly in armory, peaceful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A war threat emerges from the north.",
+      "text": "King Alaric announces that Lord Malvaris has broken a pact and marches with an army, threatening war.",
+      "image_prompt": "king addressing knights in castle hall about incoming army, dramatic cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Elara sets out to seek peace through diplomacy.",
+      "text": "Instead of fighting, Elara volunteers to meet Malvaris and uncover the truth behind the conflict.",
+      "image_prompt": "knight riding through forest with squire, determined expression, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Elara risks everything to negotiate instead of fight.",
+      "text": "Elara bravely approaches the enemy to understand the cause of conflict and seeks a peaceful solution.",
+      "image_prompt": "knight approaching enemy camp with peace symbol, tense but hopeful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Elara proves that peace is stronger than war.",
+      "text": "Through courage and understanding, Elara helps prevent unnecessary conflict and shows that peace can be the greatest victory.",
+      "image_prompt": "knight lowering sword with sunrise and calm battlefield, peaceful cartoon illustration"
+    }
+  ],
+  "story": "Dame Elara is a disciplined knight who values order and dreams of peace. When war threatens her kingdom, she chooses a different path and offers to speak with the enemy instead of fighting. Along with her squire Elian, she journeys north, risking her life to uncover the truth behind the conflict. Through courage, wisdom, and calm reasoning, she seeks to prevent war. Elara proves that true bravery is not just fighting but choosing peace when possible."
+}

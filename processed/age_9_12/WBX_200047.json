@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200047",
+  "title": "The Seraphis Sword Quest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and teamwork",
+  "characters": ["Sir Alaric", "Edwin", "Lady Elara"],
+  "word_count": 1820,
+  "moral": "Courage, wisdom, and teamwork lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Alaric begins a quest to win a legendary sword.",
+      "text": "Sir Alaric enters a tournament where the prize is the powerful Seraphis Sword.",
+      "image_prompt": "knight preparing for grand tournament arena, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "He must cross a dangerous forest.",
+      "text": "In the Whispering Forest, he solves riddles and proves his intelligence.",
+      "image_prompt": "knight solving riddle with wise old woman in forest, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "He gains a companion and magical item.",
+      "text": "He meets Edwin and obtains the Amulet of Aegis after proving his purity.",
+      "image_prompt": "knight receiving glowing amulet with young squire beside him, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They overcome trials on a magical bridge.",
+      "text": "They pass trials of strength, wisdom, and courage to reach their destination.",
+      "image_prompt": "knight and squire crossing magical glowing bridge, fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They reach the tournament stronger and united.",
+      "text": "Their teamwork prepares them for victory, proving that strength alone is not enough.",
+      "image_prompt": "knight and squire standing confidently in arena, heroic cartoon"
+    }
+  ],
+  "story": "Sir Alaric sets out on a quest to win the legendary Seraphis Sword. Along the way, he solves riddles in the Whispering Forest, earns a magical amulet, and forms a strong bond with his squire Edwin. Together, they overcome dangerous trials that test their strength, wisdom, and courage. By working as a team, they prepare themselves for the final challenge, showing that true success comes from unity and determination."
+}

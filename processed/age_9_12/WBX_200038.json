@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200038",
+  "title": "Seraphina and the Dragon's Pact",
+  "source": "",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and wisdom",
+  "characters": ["Seraphina", "King Alaric", "Gorthak", "Old Woman"],
+  "word_count": 59,
+  "moral": "True strength comes from both courage and wisdom.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Seraphina is chosen to face a dragon.",
+      "text": "Seraphina is chosen by the king to defeat a dangerous dragon threatening the kingdom.",
+      "image_prompt": "young female knight standing before king receiving mission, castle hall, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A dragon threatens the land.",
+      "text": "The dragon Gorthak awakens, bringing fear to the kingdom.",
+      "image_prompt": "large dragon flying over village causing fear, dramatic cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Seraphina faces riddles and magical challenges.",
+      "text": "She solves riddles in caves and battles illusions in forests.",
+      "image_prompt": "knight solving glowing riddles in cave and walking through magical forest, fantasy cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "She gains magical tools and understanding.",
+      "text": "She earns the Moonstone and a magical compass to guide her.",
+      "image_prompt": "knight holding glowing moonstone and compass, magical light, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "She confronts the dragon.",
+      "text": "Using courage and wisdom, she faces the dragon and restores peace.",
+      "image_prompt": "female knight facing dragon calmly with glowing light, peaceful resolution cartoon"
+    }
+  ],
+  "story": "Seraphina is chosen by the king to defeat a dragon named Gorthak that threatens the kingdom. As she journeys forward, she solves riddles and faces magical challenges. Along the way, she gains a Moonstone and a magical compass that guide her path. When she finally meets the dragon, she uses courage and wisdom instead of fear. In the end, she restores peace and proves that true strength comes from both bravery and understanding."
+}

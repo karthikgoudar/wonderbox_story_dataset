@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200048",
+  "title": "The Starblade Quest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "bravery and self-belief",
+  "characters": ["Sir Cedric", "Alaric", "Stag", "Dark Warlord"],
+  "word_count": 1800,
+  "moral": "True bravery comes from facing your fears.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric is chosen to find a powerful sword.",
+      "text": "Cedric is tasked with finding the Celestial Sword to save his kingdom.",
+      "image_prompt": "knight receiving quest in castle at sunset, cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "He faces doubt and fear during the journey.",
+      "text": "He travels through the enchanted forest where magical creatures test him.",
+      "image_prompt": "knight walking through glowing enchanted forest, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Cedric overcomes trials and defeats a beast.",
+      "text": "He faces a powerful creature and proves his courage through battle.",
+      "image_prompt": "knight fighting dragon-like beast in forest, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He finds the sword and gains power.",
+      "text": "Inside a magical cave, Cedric claims the Celestial Sword after proving his worth.",
+      "image_prompt": "knight lifting glowing sword in cave, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Cedric saves his kingdom from invasion.",
+      "text": "He returns home and uses the sword to defeat enemies and protect his people.",
+      "image_prompt": "knight leading battle defending castle, heroic cartoon"
+    }
+  ],
+  "story": "Sir Cedric is chosen to find the Celestial Sword to protect his kingdom. Along the way, he faces magical challenges and defeats a dangerous creature, proving his bravery. He discovers that true strength comes from overcoming fear. After obtaining the sword, he returns home and leads his people to victory against a powerful enemy."
+}

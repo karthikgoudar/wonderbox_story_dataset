@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200044",
+  "title": "The Crystal of Courage",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "elementary",
+  "theme": "unity and courage",
+  "characters": ["Sir Cedric", "King Aldric", "Alaric", "Enemy Leader", "Knights of Eldoria"],
+  "word_count": 1650,
+  "moral": "True strength comes from unity, courage, and compassion.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric is chosen to find a powerful crystal.",
+      "text": "Sir Cedric is chosen by the king to find the Crystal of Valor to protect the kingdom from invading enemies.",
+      "image_prompt": "knight standing before king receiving mission, castle hall, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The kingdom is threatened by invaders.",
+      "text": "An enemy army approaches, creating urgency for Cedric to retrieve the powerful artifact before it is too late.",
+      "image_prompt": "army approaching castle, dramatic sky, cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Cedric solves riddles and retrieves the crystal.",
+      "text": "Cedric follows a magical map, solves riddles, and discovers the Crystal of Valor hidden within a mystical location.",
+      "image_prompt": "knight solving puzzle near glowing crystal pedestal, magical forest cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Cedric fights bandits and gains wisdom.",
+      "text": "He defeats bandits and learns from the Elder Tree that unity and compassion are the keys to victory.",
+      "image_prompt": "knight fighting bandits in forest, then speaking to magical tree, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Cedric leads his army to victory.",
+      "text": "Using courage and unity, Cedric leads the knights to defeat the invaders and save the kingdom.",
+      "image_prompt": "knight leading army in battle victory scene, bright heroic cartoon"
+    }
+  ],
+  "story": "Sir Cedric is chosen to find the Crystal of Valor to save his kingdom from invading enemies. With a magical map, he journeys through forests, solves riddles, and retrieves the crystal. Along the way, he battles bandits and learns from the Elder Tree that unity and compassion are the greatest strengths. Returning to the kingdom, he inspires the knights and leads them into battle. Through courage and teamwork, they defeat the enemy and restore peace, proving that true power lies in unity."
+}

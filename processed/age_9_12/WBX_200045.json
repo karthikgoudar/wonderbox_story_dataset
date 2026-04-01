@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200045",
+  "title": "The Knight of the Whispering Woods",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "sacrifice and true courage",
+  "characters": ["Sir Cedric", "Lady Elenora", "Shadow Lord", "River Spirit", "Old Woman"],
+  "word_count": 1725,
+  "moral": "True courage means choosing others over yourself.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric enters the Whispering Woods to save his friend.",
+      "text": "Sir Cedric journeys into the mysterious Whispering Woods to rescue his friend Lady Elenora and uncover the truth about a powerful artifact.",
+      "image_prompt": "knight riding into dark magical forest with glowing eyes in background, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Cedric faces magical trials and riddles.",
+      "text": "He encounters a river spirit and must solve a riddle to continue his journey deeper into danger.",
+      "image_prompt": "knight speaking to magical water spirit at glowing river, fantasy cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Cedric overcomes trials with wisdom.",
+      "text": "He faces a magical beast and chooses compassion over violence, proving his true strength.",
+      "image_prompt": "knight lowering sword before magical wolf transforming into woman, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Cedric learns his true identity and destiny.",
+      "text": "He discovers he is part of a prophecy and must choose between power and saving others.",
+      "image_prompt": "knight seeing vision in tower with glowing medallion, dramatic cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Cedric sacrifices for others and defeats darkness.",
+      "text": "He offers himself to save Elenora, defeating the Shadow Lord and restoring peace to the land.",
+      "image_prompt": "knight glowing with light defeating shadow villain, heroic cartoon"
+    }
+  ],
+  "story": "Sir Cedric enters the Whispering Woods to rescue Lady Elenora and find the Heartstone. Along the way, he solves riddles, faces magical creatures, and learns that courage is not just about fighting but about wisdom and compassion. Discovering his true identity, he is faced with a choice between power and sacrifice. Choosing to save others, he defeats the Shadow Lord and restores peace. Cedric becomes a true hero by putting others before himself."
+}

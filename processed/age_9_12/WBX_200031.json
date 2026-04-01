@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200031",
+  "title": "The King's Seal at Frostmere",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "responsibility and courage",
+  "characters": ["Sir Elowen Brightsteel", "Jory", "Sella", "Sir Garron", "Lady Maris"],
+  "word_count": 1105,
+  "moral": "True responsibility means acting with courage, wisdom, and integrity.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elowen is tasked with delivering the King's seal to prevent disaster.",
+      "text": "At Sunward Keep, Sir Elowen Brightsteel is chosen to carry the King’s signet and deliver an urgent sealed letter to Frostmere before sunset to prevent a disaster.",
+      "image_prompt": "young knight receiving royal seal in castle courtyard with urgency, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Elowen faces obstacles and enemies trying to stop her mission.",
+      "text": "On the journey, Elowen and her companions encounter storms, fallen trees, and suspicious riders who attempt to block their path.",
+      "image_prompt": "knight facing bandits on muddy road during storm, dramatic cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They overcome natural and human challenges together.",
+      "text": "Using teamwork and clever thinking, they move obstacles, navigate dangerous terrain, and continue toward Frostmere.",
+      "image_prompt": "knight and friends pulling tree with rope and horse, teamwork cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They outsmart enemies and push forward despite danger.",
+      "text": "Elowen uses wisdom and calm leadership to outmaneuver those trying to stop them, ensuring the mission continues.",
+      "image_prompt": "knight confidently confronting riders blocking path, heroic cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Elowen delivers the seal and prevents disaster.",
+      "text": "Reaching Frostmere in time, Elowen seals the letter, ensuring help arrives and preventing flood and conflict.",
+      "image_prompt": "knight sealing letter with golden signet while people repair dam, hopeful cartoon style"
+    }
+  ],
+  "story": "Sir Elowen Brightsteel is chosen to carry the King’s signet to Frostmere to seal an urgent letter and prevent disaster. With her companions Jory and Sella, she faces storms, fallen trees, and suspicious riders trying to stop her. Through teamwork, courage, and clever thinking, they overcome obstacles and continue their journey. Elowen understands the weight of responsibility carried by the signet and stays determined to succeed. In the end, she reaches Frostmere in time, seals the letter, and ensures help arrives, preventing both a flood and a potential war."
+}

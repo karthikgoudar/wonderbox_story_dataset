@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200049",
+  "title": "The Heart of Valor",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "sacrifice and courage",
+  "characters": ["Sir Cedric", "King Alaric", "Pippin", "Phoenix", "Malakar"],
+  "word_count": 1785,
+  "moral": "True courage means protecting others even at great risk.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric is sent to stop a dark sorcerer.",
+      "text": "Cedric begins a quest to find the Heart of Lyria to defeat the evil Malakar.",
+      "image_prompt": "knight receiving mission from king in castle hall, cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "He enters a dangerous enchanted forest.",
+      "text": "Cedric meets Pippin and faces magical challenges on his journey.",
+      "image_prompt": "knight and small magical creature traveling forest, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "He reaches Crystal Falls and faces a guardian.",
+      "text": "Cedric proves his worth to a Phoenix guarding the Heart of Lyria.",
+      "image_prompt": "knight speaking to fiery phoenix near waterfall, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He gains the Heart and prepares for battle.",
+      "text": "Cedric obtains the artifact and prepares to confront Malakar.",
+      "image_prompt": "knight holding glowing crystal artifact, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Cedric defeats Malakar and saves the kingdom.",
+      "text": "Using courage and teamwork, Cedric defeats the sorcerer and restores peace.",
+      "image_prompt": "knight battling dark sorcerer with glowing light, cartoon"
+    }
+  ],
+  "story": "Sir Cedric is sent to retrieve the Heart of Lyria to stop the evil sorcerer Malakar. With the help of a small creature named Pippin, he faces magical challenges and proves his worth to a Phoenix guardian. After obtaining the artifact, Cedric returns to battle Malakar and saves the kingdom through courage and determination."
+}

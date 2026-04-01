@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200034",
+  "title": "The Truth Bell Mystery",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "truth and intelligence",
+  "characters": ["Sir Elowen", "Pip", "Lord Halric", "Herald", "Gray Cloaks"],
+  "word_count": 1040,
+  "moral": "Truth and clever thinking are stronger than lies and deception.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elowen learns the Truth Bell has rung.",
+      "text": "Sir Elowen hears that the magical Truth Bell rang, signaling lies in the castle.",
+      "image_prompt": "knight looking at glowing bell in castle hall, mysterious cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A message about betrayal may be false.",
+      "text": "A herald claims a village has betrayed the kingdom, but the bell suggests deception.",
+      "image_prompt": "knight questioning messenger in castle hall, tense cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Elowen travels to uncover the truth.",
+      "text": "She journeys with Pip, facing ambushes and misleading signs along the road.",
+      "image_prompt": "knight and boy riding through forest avoiding ambush, action cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Elowen discovers lies behind the situation.",
+      "text": "She learns that enemies spread lies to manipulate the villagers and create conflict.",
+      "image_prompt": "knight confronting villagers and exposing truth, dramatic cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Truth restores peace.",
+      "text": "Elowen reveals the truth, stopping conflict and restoring trust between the kingdom and village.",
+      "image_prompt": "villagers and knight reconciling peacefully, warm cartoon style"
+    }
+  ],
+  "story": "Sir Elowen investigates when the Truth Bell rings, signaling deception. A messenger claims a village has betrayed the kingdom, but Elowen suspects lies. Traveling with Pip, she faces danger and uncovers a plot where enemies spread false information to create conflict. By revealing the truth, she restores trust and prevents chaos, proving that intelligence and honesty are powerful."
+}

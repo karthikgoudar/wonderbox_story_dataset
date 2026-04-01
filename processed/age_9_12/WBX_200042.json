@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200042",
+  "title": "The Patrol Journal of Sir Rowan of Wrenford",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "elementary",
+  "theme": "patience and observation",
+  "characters": ["Sir Rowan", "Captain Brine", "Dame Elowen", "Squire Jory", "Old Marn", "Bandits"],
+  "word_count": 1718,
+  "moral": "Patience and careful observation help you act wisely and make the right decisions.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Rowan, a young knight-in-training, begins his patrol with a journal to record observations.",
+      "text": "Sir Rowan of Wrenford was a knight in training with big dreams and a special task—to keep a patrol journal. He carefully recorded details like weather, routes, and anything unusual. Though others laughed, Rowan believed being observant was part of being a true knight. When Captain Brine called him to join a real patrol, Rowan eagerly set off with Dame Elowen, Squire Jory, and Old Marn. Along the way, Rowan faithfully wrote down everything he noticed, determined to prove that careful observation was just as important as bravery.",
+      "image_prompt": "young knight writing in journal on castle wall, medieval setting, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The patrol discovers signs of danger including a broken shield and a hidden trap.",
+      "text": "During their patrol, the group discovered a broken shield bearing their own crest, suggesting danger nearby. As they continued, Rowan noticed a hidden trip line on a bridge that could trigger a trap. Thanks to his observation, the patrol avoided injury and uncovered evidence that bandits were setting traps. Strange clues like polished boots and disguised crests made them realize someone was trying to frame the kingdom’s guards.",
+      "image_prompt": "knights discovering hidden trap on stone bridge, forest setting, colorful children's illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Rowan and the patrol investigate ruins and uncover a bandit hideout.",
+      "text": "The patrol followed clues to an old watchtower where bandits were hiding. While others searched, Rowan stayed alert and discovered a secret passage. Sneaking inside, he overheard bandits discussing their plan to disguise themselves as guards and cause trouble. Though frightened, Rowan carefully observed everything and managed to escape to warn his team. Together, they captured several bandits and learned of a bigger plot.",
+      "image_prompt": "young knight sneaking through ruins, overhearing bandits, adventurous cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Rowan uses intelligence to stop the bandit leader and recover important evidence.",
+      "text": "Chasing the remaining bandits to a cave, Rowan noticed more traps and helped the patrol avoid them. Inside, they discovered a leader planning to send a message to weaken their kingdom. When the leader tried to escape with the letter, Rowan cleverly pulled a cord that dropped a net, trapping him. Rowan grabbed the letter, preventing the plan from succeeding and proving his quick thinking.",
+      "image_prompt": "young knight triggering net trap on villain in cave, action scene, colorful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The plot is stopped and Rowan’s careful journaling earns respect.",
+      "text": "The patrol returned to the castle with the captured bandits and evidence. The truth was revealed, restoring trust among the people. Rowan’s detailed journal helped explain everything clearly. Even Captain Brine praised him for his work. Rowan realized that patience and observation were powerful tools, and that being careful and thoughtful made him a true knight.",
+      "image_prompt": "young knight presenting journal in castle hall, proud moment, bright cartoon style"
+    }
+  ],
+  "story": "Sir Rowan of Wrenford was a knight in training with big dreams and a special task—to keep a patrol journal. He carefully recorded details like weather, routes, and anything unusual. Though others laughed, Rowan believed being observant was part of being a true knight. When Captain Brine called him to join a real patrol, Rowan eagerly set off with Dame Elowen, Squire Jory, and Old Marn. During their patrol, they discovered a broken shield bearing their crest and later a hidden trap on a bridge, which Rowan noticed and helped avoid. Following clues, they reached ruins where bandits were hiding and planning to disguise themselves as guards. Rowan secretly observed them and escaped to warn his team. The patrol captured some bandits and chased others to a cave, where Rowan again noticed traps and helped avoid danger. When the bandit leader tried to escape with a letter revealing a larger plot, Rowan cleverly used a trap to stop him and retrieved the evidence. Returning to the castle, the truth was revealed, and the kingdom was saved from deception. Rowan’s journal proved valuable, showing that patience and observation are true strengths."
+}

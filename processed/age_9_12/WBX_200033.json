@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200033",
+  "title": "The Bench of Courage",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "compassion and courage",
+  "characters": ["Lady Mirelle", "Tomas", "Elin", "Osen", "Thieves"],
+  "word_count": 980,
+  "moral": "True courage includes kindness, understanding, and helping others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mirelle leads a night patrol to protect the town.",
+      "text": "Lady Mirelle leads a night patrol with her companions, teaching that courage requires care and awareness.",
+      "image_prompt": "knight leading night patrol with lantern and team, moonlit cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They encounter thieves and a kidnapped child.",
+      "text": "They discover thieves carrying stolen goods and a frightened child, creating a tense situation.",
+      "image_prompt": "knight confronting riders with child on horse, tense cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Mirelle chooses a peaceful solution instead of fighting.",
+      "text": "Using clever thinking, Mirelle stops the thieves without violence and speaks to them with understanding.",
+      "image_prompt": "knight gently stopping thieves with rope and calm expression, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thieves reconsider their actions.",
+      "text": "Moved by Mirelle’s compassion, the thieves begin to change and return what they took.",
+      "image_prompt": "thieves lowering weapons and returning goods, emotional cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Peace is restored through kindness and wisdom.",
+      "text": "The town is restored, and Mirelle proves that courage can be both strong and gentle.",
+      "image_prompt": "town celebrating safe return of child and goods, warm cartoon style"
+    }
+  ],
+  "story": "Lady Mirelle leads a night patrol to protect her town. When she encounters thieves and a frightened child, she chooses understanding over violence. Through calm words and thoughtful action, she resolves the conflict peacefully. The thieves return what they took, and the town is restored. Mirelle shows that courage is not just strength but kindness and wisdom."
+}
