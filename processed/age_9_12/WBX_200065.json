@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200065",
+  "title": "The Secrets of the Red Cliffs",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "determination and curiosity",
+  "characters": ["Jack", "Leo"],
+  "word_count": 160,
+  "moral": "Determination leads to discovery.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jack accepts a challenge.",
+      "text": "Jack sets out to explore the mysterious Red Cliffs.",
+      "image_prompt": "boy explorer standing near giant red cliffs in desert"
+    },
+    {
+      "type": "conflict",
+      "summary": "He climbs dangerous cliffs.",
+      "text": "Jack faces difficult climbing conditions but continues upward.",
+      "image_prompt": "boy climbing steep red cliff with rope"
+    },
+    {
+      "type": "journey",
+      "summary": "He discovers ancient remains.",
+      "text": "He finds carvings and a hidden passage leading underground.",
+      "image_prompt": "hidden cave entrance with ancient carvings in cliff"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He solves a puzzle.",
+      "text": "Jack deciphers symbols to unlock a secret chamber.",
+      "image_prompt": "boy solving ancient puzzle door glowing inside cave"
+    },
+    {
+      "type": "resolution",
+      "summary": "He finds the treasure.",
+      "text": "He discovers a medallion and realizes the importance of history.",
+      "image_prompt": "glowing medallion on pedestal inside ancient chamber"
+    }
+  ],
+  "story": "Jack explores the Red Cliffs in search of a hidden chamber. Through determination and intelligence, he uncovers ancient secrets and learns the value of history."
+}

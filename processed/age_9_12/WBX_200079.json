@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200079",
+  "title": "Whispering Map",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "courage and responsibility",
+  "characters": ["Jamie", "Granny", "Mr. Crowley"],
+  "word_count": 212,
+  "moral": "True treasure is courage and protecting what matters.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jamie finds a magical map in a shed.",
+      "text": "Jamie discovers a mysterious map in his grandmother’s shed that hints at hidden treasure.",
+      "image_prompt": "boy opening old wooden chest and finding glowing treasure map"
+    },
+    {
+      "type": "conflict",
+      "summary": "Others try to steal the treasure.",
+      "text": "Jamie realizes that dangerous people are following him and trying to take the treasure.",
+      "image_prompt": "boy hiding behind bridge while suspicious men search nearby"
+    },
+    {
+      "type": "journey",
+      "summary": "Jamie follows clues through the forest.",
+      "text": "He follows clues through bridges, woods, and riddles while avoiding those chasing him.",
+      "image_prompt": "boy exploring forest path with glowing clues and compass"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He reaches the hidden chamber.",
+      "text": "Jamie discovers the treasure chamber and must protect it from the villains.",
+      "image_prompt": "hidden cave with treasure chest glowing softly"
+    },
+    {
+      "type": "resolution",
+      "summary": "Jamie protects the treasure and learns its value.",
+      "text": "Jamie keeps the treasure safe and learns that courage and kindness matter more than riches.",
+      "image_prompt": "boy standing brave near lake holding magical book"
+    }
+  ],
+  "story": "Jamie discovers a magical treasure map in his grandmother’s shed and begins a journey across Willowbrook. As he follows clues through bridges and forests, he is chased by people who want the treasure. Using courage and intelligence, he reaches the hidden chamber and protects it. In the end, he learns that the real treasure is bravery and kindness."
+}

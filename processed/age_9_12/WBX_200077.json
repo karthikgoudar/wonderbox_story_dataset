@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200077",
+  "title": "The Key Fox and the Lantern Festival Treasure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "community and teamwork",
+  "characters": ["Lena", "Amira", "Sora", "Chloe", "Mr. Pindle", "Mr. Griggs"],
+  "word_count": 210,
+  "moral": "True treasure is meant to help everyone, not just one person.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The festival is in danger.",
+      "text": "Lena and her friends discover that the town’s lantern festival may be canceled due to lack of money.",
+      "image_prompt": "four girls in town square looking worried near empty banner pole"
+    },
+    {
+      "type": "conflict",
+      "summary": "They discover a hidden clue.",
+      "text": "They notice a fox-with-a-key symbol on the fountain and find clues in the library pointing to hidden treasure.",
+      "image_prompt": "girls studying old map in library with fox symbol highlighted"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow clues across town.",
+      "text": "They explore orchard hill, an old playhouse, and a bridge, collecting tokens and solving riddles.",
+      "image_prompt": "girls exploring secret tunnel, old theater, and stone bridge with clues"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the final treasure.",
+      "text": "At the clock tower, they open a hidden chamber using teamwork and discover a community treasure fund.",
+      "image_prompt": "hidden chamber with chest opening and glowing tokens inside clock tower"
+    },
+    {
+      "type": "resolution",
+      "summary": "They save the festival.",
+      "text": "They return the treasure to the town and successfully restore the lantern festival for everyone.",
+      "image_prompt": "lantern festival at night with glowing lights and happy crowd"
+    }
+  ],
+  "story": "Lena and her friends work together to find a hidden treasure meant for the town. By solving clues and staying united, they save the lantern festival and learn that true treasure belongs to the whole community."
+}

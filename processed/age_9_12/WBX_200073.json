@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200073",
+  "title": "The Map That Smelled Like Rain",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "curiosity and problem-solving",
+  "characters": ["Milo Gray", "Lila", "Jaden", "Mrs. Pindle"],
+  "word_count": 200,
+  "moral": "Fixing problems with patience leads to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Milo finds a mysterious map.",
+      "text": "Milo discovers an old map in the library that hints at hidden treasure.",
+      "image_prompt": "kids in library opening old map glowing softly"
+    },
+    {
+      "type": "conflict",
+      "summary": "They head to a dangerous marsh.",
+      "text": "They travel to Willowmire marsh despite warnings and uncertainty.",
+      "image_prompt": "kids walking through marsh with reeds and muddy path"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore an abandoned station.",
+      "text": "They enter a pumping station and find a hidden underground puzzle chamber.",
+      "image_prompt": "old underground room with chest and puzzle lock"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They repair a broken lock.",
+      "text": "Milo carefully fixes the mechanism instead of forcing it open.",
+      "image_prompt": "boy repairing mechanical lock with tools and focus"
+    },
+    {
+      "type": "resolution",
+      "summary": "They unlock the treasure.",
+      "text": "Through patience and teamwork, they open the chest and succeed.",
+      "image_prompt": "friends opening treasure chest glowing warmly"
+    }
+  ],
+  "story": "Milo and his friends discover a mysterious map and follow it into a marsh where they find a hidden puzzle chest. Instead of forcing it open, Milo repairs the mechanism with care. Their patience and teamwork lead them to success."
+}

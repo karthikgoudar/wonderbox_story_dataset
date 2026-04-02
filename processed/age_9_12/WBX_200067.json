@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200067",
+  "title": "Barnaby Bear and the Quiet Signs Treasure Hunt",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "patience and observation",
+  "characters": ["Barnaby Bear", "Felix"],
+  "word_count": 180,
+  "moral": "Careful thinking reveals what rushing misses.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Barnaby finds mysterious items.",
+      "text": "Barnaby discovers a tin box with strange objects and a note about a treasure hunt.",
+      "image_prompt": "bear opening tin box with mysterious objects inside forest den"
+    },
+    {
+      "type": "conflict",
+      "summary": "He meets Felix and starts the hunt.",
+      "text": "Barnaby teams up with Felix and begins solving clues hidden in the forest.",
+      "image_prompt": "bear and fox examining clue near old stone bridge"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow quiet signs.",
+      "text": "They decode clues at the bridge, singing stones, and other hidden places.",
+      "image_prompt": "forest clearing with large stones glowing slightly as clues"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They solve riddles carefully.",
+      "text": "They solve riddles during a storm, discovering more puzzle pieces.",
+      "image_prompt": "bear and fox inside old tower during storm solving puzzle"
+    },
+    {
+      "type": "resolution",
+      "summary": "They complete the puzzle.",
+      "text": "By staying patient and observant, they move closer to uncovering the treasure.",
+      "image_prompt": "bear holding completed puzzle pieces glowing softly"
+    }
+  ],
+  "story": "Barnaby and Felix follow subtle clues hidden in nature to uncover a treasure. Through patience and observation, they learn that careful thinking leads to success."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200069",
+  "title": "The Lighthouse Keeper’s Feather",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "responsibility and wisdom",
+  "characters": ["Bramble", "Juniper", "Rook"],
+  "word_count": 180,
+  "moral": "Treasure must be handled responsibly.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Bramble finds a carved stone.",
+      "text": "Bramble discovers mysterious symbols near a lighthouse.",
+      "image_prompt": "bear examining carved stone near lighthouse in fog"
+    },
+    {
+      "type": "conflict",
+      "summary": "They decode ancient clues.",
+      "text": "They seek help and learn the symbols are instructions to hidden treasure.",
+      "image_prompt": "old otter explaining symbols to bear and fox"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow directions.",
+      "text": "They follow clues across hills and back to the lighthouse.",
+      "image_prompt": "hilltop with carved stone pointing direction"
+    },
+    {
+      "type": "turning_point",
+      "summary": "A rival appears.",
+      "text": "Rook the raven warns them about the treasure’s power.",
+      "image_prompt": "dark raven confronting bear and fox on moor"
+    },
+    {
+      "type": "resolution",
+      "summary": "They uncover hidden mechanism.",
+      "text": "They solve a puzzle inside the lighthouse and discover the hidden cache.",
+      "image_prompt": "secret door opening inside lighthouse wall"
+    }
+  ],
+  "story": "Bramble and Juniper follow ancient symbols to uncover a hidden treasure. Along the way, they learn that responsibility matters more than riches."
+}

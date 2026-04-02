@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200074",
+  "title": "The Secret of Hollow Oak Hill",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "friendship and teamwork",
+  "characters": ["Mina Vega", "Tessa Liu", "Rory Bennett", "Callie Jones"],
+  "word_count": 200,
+  "moral": "True treasure is found through friendship and shared experiences.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mina finds a hidden map.",
+      "text": "Mina discovers a map inside a library book that leads to a hidden treasure.",
+      "image_prompt": "girl opening old book and finding hidden map inside"
+    },
+    {
+      "type": "conflict",
+      "summary": "They must follow clues in the forest.",
+      "text": "The group travels into the woods to find a mysterious hollow tree.",
+      "image_prompt": "friends walking through forest toward giant oak tree"
+    },
+    {
+      "type": "journey",
+      "summary": "They solve riddles together.",
+      "text": "They follow clues and discover a hollow tree hiding a secret box.",
+      "image_prompt": "kids exploring hollow tree with flashlight"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find a meaningful treasure.",
+      "text": "They discover the treasure is not gold but lessons and shared clues.",
+      "image_prompt": "kids opening box and reading notes together"
+    },
+    {
+      "type": "resolution",
+      "summary": "They continue together.",
+      "text": "They decide to continue the adventure as a team.",
+      "image_prompt": "friends smiling and walking together in forest sunlight"
+    }
+  ],
+  "story": "Mina and her friends discover a treasure map and follow it into the forest. They solve riddles and find a hidden box that teaches them that the real treasure is friendship and teamwork."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200080",
+  "title": "Secrets and Kindness",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "kindness and sharing",
+  "characters": ["Milo", "Lina", "Mr. Pennywick", "Omar"],
+  "word_count": 225,
+  "moral": "Helping others is the greatest treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Milo receives a mysterious envelope.",
+      "text": "Milo receives a strange envelope from Mr. Pennywick that leads him to a magical map.",
+      "image_prompt": "boy holding sealed envelope with glowing map inside library"
+    },
+    {
+      "type": "conflict",
+      "summary": "The map gives unusual instructions.",
+      "text": "The map only reveals clues when Milo helps others, making the journey more challenging.",
+      "image_prompt": "children helping cyclist while holding magical glowing map"
+    },
+    {
+      "type": "journey",
+      "summary": "Milo and Lina solve clues by helping people.",
+      "text": "They help a cyclist and a nervous boy, unlocking new clues and continuing their quest.",
+      "image_prompt": "kids encouraging friend and giving small charm token"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach the final location.",
+      "text": "They reach a clocktower and discover the final clue about the treasure.",
+      "image_prompt": "old clocktower interior with hidden compartment glowing"
+    },
+    {
+      "type": "resolution",
+      "summary": "They learn the true meaning of treasure.",
+      "text": "They realize that kindness, sharing, and helping others are the real treasures.",
+      "image_prompt": "friends smiling together in warm sunset light after adventure"
+    }
+  ],
+  "story": "Milo and Lina follow a magical map that only reveals clues when they help others. They assist people in need and solve riddles that lead them across town. At the final location, they learn that the treasure is not gold but the kindness and courage they showed. Their journey teaches them that helping others is the most valuable treasure of all."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200056",
+  "title": "The Secret Path",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "exploration and teamwork",
+  "characters": ["Noah Hayes", "Tessa", "Dr. Laleh Rahimi", "Milo"],
+  "word_count": 150,
+  "moral": "Careful teamwork and observation lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The team discovers a hidden coastal path.",
+      "text": "Noah and his team find a secret path leading to a hidden cove that is missing from maps.",
+      "image_prompt": "explorers standing at cliff discovering hidden cove entrance"
+    },
+    {
+      "type": "conflict",
+      "summary": "They explore a mysterious cave system.",
+      "text": "Inside the cove, they find carvings and symbols that hint at an ancient route.",
+      "image_prompt": "team examining carved stone arch with ancient symbols"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow clues deeper into caves.",
+      "text": "They navigate dark tunnels, avoiding dangers and naming landmarks for future explorers.",
+      "image_prompt": "explorers with headlamps walking through narrow cave passage"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They solve a stone puzzle.",
+      "text": "They use a carved disk to unlock a hidden stone door by solving a pattern puzzle.",
+      "image_prompt": "stone door opening with glowing symbols and explorers watching"
+    },
+    {
+      "type": "resolution",
+      "summary": "They map and preserve the discovery.",
+      "text": "The team documents the path carefully so others can find it safely in the future.",
+      "image_prompt": "explorers drawing map of cave with tools and notebooks"
+    }
+  ],
+  "story": "Noah and his team discover a hidden path leading to an ancient cave system. By working together and carefully observing clues, they solve puzzles and safely explore the caves. They map the path so future explorers can follow it safely."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200059",
+  "title": "The Secret Path Through the Whispering Forest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and kindness",
+  "characters": ["Thomas Green", "Eliza"],
+  "word_count": 170,
+  "moral": "Courage and kindness can bring people together.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Thomas enters the mysterious forest.",
+      "text": "Thomas explores a forest to create a path between two villages and meets Eliza in a strange clearing.",
+      "image_prompt": "young boy with map in magical forest with glowing sunlight and ancient stones"
+    },
+    {
+      "type": "conflict",
+      "summary": "They discover a spiral mystery.",
+      "text": "They find spiral-arranged stones and an ancient map suggesting a forgotten path.",
+      "image_prompt": "children examining spiral stone pattern in forest clearing"
+    },
+    {
+      "type": "journey",
+      "summary": "They face dangers in the forest.",
+      "text": "They cross broken bridges, encounter a bear, and navigate through unknown terrain.",
+      "image_prompt": "kids crossing broken wooden bridge over stream in forest"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They meet a guardian.",
+      "text": "An old woman tests their intentions and allows them to continue after proving their kindness.",
+      "image_prompt": "mysterious old forest guardian surrounded by glowing trees"
+    },
+    {
+      "type": "resolution",
+      "summary": "They build a path for everyone.",
+      "text": "They create a safe path connecting villages, bringing people together.",
+      "image_prompt": "villagers crossing new forest bridge happily during sunset celebration"
+    }
+  ],
+  "story": "Thomas and Eliza explore a mysterious forest to create a path between two villages. Along the way, they face dangers and solve mysteries. By showing courage and kindness, they succeed and bring people together through their new path."
+}

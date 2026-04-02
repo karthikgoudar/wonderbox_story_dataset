@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200057",
+  "title": "The River Terrace Secret",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "safety and respect",
+  "characters": ["Daniel Crowe", "Mara", "Tariq", "Lena"],
+  "word_count": 150,
+  "moral": "Respecting nature and acting carefully is more important than rushing.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A team explores a river terrace.",
+      "text": "Daniel and his team arrive at a river terrace to investigate hidden historical clues.",
+      "image_prompt": "exploration team standing on river terrace with tools and map"
+    },
+    {
+      "type": "conflict",
+      "summary": "They discover unstable ground.",
+      "text": "They find a dangerous sinkhole and signs of hidden structures beneath the surface.",
+      "image_prompt": "team observing sinkhole in ground with warning expressions"
+    },
+    {
+      "type": "journey",
+      "summary": "They carefully study the site.",
+      "text": "Using ropes and planning, they safely explore and identify markers and patterns.",
+      "image_prompt": "team using ropes and tools to explore unstable terrain"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The ground begins to crack.",
+      "text": "The earth shifts, forcing the team to retreat and rethink their approach.",
+      "image_prompt": "ground cracking near explorers as they step back carefully"
+    },
+    {
+      "type": "resolution",
+      "summary": "They protect the site instead of rushing.",
+      "text": "They mark the area and decide to preserve it rather than risk damage or danger.",
+      "image_prompt": "team placing warning signs and protecting archaeological site"
+    }
+  ],
+  "story": "Daniel and his team explore a river terrace searching for hidden history. They discover unstable ground and possible ancient structures but choose safety and respect over rushing. They protect the site for future study instead of risking damage."
+}

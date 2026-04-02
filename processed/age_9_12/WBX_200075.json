@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200075",
+  "title": "The Secret of the Hidden Key",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "elementary",
+  "theme": "adventure and courage",
+  "characters": ["Sam", "Jake"],
+  "word_count": 170,
+  "moral": "Adventure brings courage and learning.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "They find a treasure map.",
+      "text": "Sam and Jake discover a hidden treasure map inside a book.",
+      "image_prompt": "two boys finding map inside old library book"
+    },
+    {
+      "type": "conflict",
+      "summary": "They search for clues.",
+      "text": "They follow the map to find a hidden key near a tree.",
+      "image_prompt": "boys digging near tree roots and finding key"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore a dangerous place.",
+      "text": "They enter an abandoned mill and discover a hidden passage.",
+      "image_prompt": "old mill with trapdoor leading underground"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach the treasure chamber.",
+      "text": "They find a chest but must escape as traps activate.",
+      "image_prompt": "boys running from closing stone doors underground"
+    },
+    {
+      "type": "resolution",
+      "summary": "They escape and learn a lesson.",
+      "text": "They safely open the treasure and read a message about courage.",
+      "image_prompt": "boys opening chest in treehouse smiling"
+    }
+  ],
+  "story": "Sam and Jake find a treasure map and follow it through a tree, a mill, and underground tunnels. They face danger but escape safely and discover a treasure that teaches them about courage and adventure."
+}

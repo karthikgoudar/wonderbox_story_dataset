@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200071",
+  "title": "The Moonlit Quest of Everfern",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "adventure and intelligence",
+  "characters": ["Luno", "Zephyr"],
+  "word_count": 160,
+  "moral": "Smart thinking leads to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Luno finds a map.",
+      "text": "Luno meets Zephyr and discovers a map leading to treasure.",
+      "image_prompt": "wolf and colorful bird looking at old treasure map"
+    },
+    {
+      "type": "conflict",
+      "summary": "They follow first clue.",
+      "text": "They travel to Whispering Falls to decode symbols.",
+      "image_prompt": "waterfall with hidden glowing symbols behind water"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the forest.",
+      "text": "They travel through forest, meeting animals and solving clues.",
+      "image_prompt": "forest path with wolf and bird exploring together"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach magical grove.",
+      "text": "They find a hidden archway leading to final location.",
+      "image_prompt": "stone archway covered in vines glowing in forest"
+    },
+    {
+      "type": "resolution",
+      "summary": "They find treasure.",
+      "text": "They solve the final clue and discover the hidden treasure.",
+      "image_prompt": "treasure chest glowing under moonlight in forest"
+    }
+  ],
+  "story": "Luno and Zephyr follow a magical map through Everfern. Using intelligence and courage, they solve clues and reach a hidden treasure."
+}

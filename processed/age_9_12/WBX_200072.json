@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200072",
+  "title": "The Secret of the Enchanted Glade",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "courage and protection",
+  "characters": ["Jasper", "Olive", "Old Grumble"],
+  "word_count": 170,
+  "moral": "Courage and honesty lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jasper begins his quest.",
+      "text": "Jasper finds a map to a magical glade with a powerful treasure.",
+      "image_prompt": "fox holding glowing map under moonlight in forest"
+    },
+    {
+      "type": "conflict",
+      "summary": "He faces forest challenges.",
+      "text": "He crosses thorny paths and dangerous streams.",
+      "image_prompt": "fox navigating thorny forest and stepping stones"
+    },
+    {
+      "type": "journey",
+      "summary": "He follows clues.",
+      "text": "Jasper follows clues deeper into the forest.",
+      "image_prompt": "forest glowing softly with magical hints and symbols"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He meets the guardian.",
+      "text": "Old Grumble challenges him with a riddle.",
+      "image_prompt": "badger guarding glowing glade confronting fox"
+    },
+    {
+      "type": "resolution",
+      "summary": "He proves himself.",
+      "text": "Jasper answers correctly and gains access to the treasure.",
+      "image_prompt": "glowing magical flower in enchanted forest clearing"
+    }
+  ],
+  "story": "Jasper follows a map to find a magical treasure that can protect the forest. Through courage and honesty, he proves himself worthy."
+}

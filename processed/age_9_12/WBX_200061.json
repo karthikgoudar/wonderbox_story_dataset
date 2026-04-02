@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200061",
+  "title": "Mara and the River-Heart",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "responsibility and perseverance",
+  "characters": ["Mara", "Kito"],
+  "word_count": 170,
+  "moral": "True courage means caring for others and not giving up.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mara begins her mission to find the River-Heart.",
+      "text": "Mara sets out to recover a missing sacred stone believed to restore her village’s water.",
+      "image_prompt": "girl explorer with headlamp and backpack preparing to enter cave"
+    },
+    {
+      "type": "conflict",
+      "summary": "She meets Kito and enters dangerous caves.",
+      "text": "Mara teams up with Kito and they descend into deep caves following clues left behind.",
+      "image_prompt": "two explorers descending into dark cave with ropes and headlamps"
+    },
+    {
+      "type": "journey",
+      "summary": "They navigate cave challenges.",
+      "text": "They cross rivers, narrow tunnels, and follow chalk markings deeper underground.",
+      "image_prompt": "explorers crossing underground river with glowing cave walls"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Kito becomes weak and they must decide.",
+      "text": "Kito falls ill, forcing Mara to balance the mission with caring for her partner.",
+      "image_prompt": "girl helping tired friend inside cave with concern"
+    },
+    {
+      "type": "resolution",
+      "summary": "They continue with determination.",
+      "text": "Mara chooses wisely, continuing carefully while ensuring safety, proving true courage.",
+      "image_prompt": "explorers moving forward carefully in cave with hope"
+    }
+  ],
+  "story": "Mara searches for a lost sacred stone in dangerous caves to restore her village’s water. Alongside Kito, she faces physical challenges and difficult decisions. Her journey shows that courage includes caring for others and acting responsibly."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200076",
+  "title": "The Secret Workshop and the Silver Star",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "kindness and wisdom",
+  "characters": ["Maya", "Isla", "Mr. Holloway"],
+  "word_count": 190,
+  "moral": "Respect and kindness guide the right path.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Maya finds a mysterious map.",
+      "text": "Maya discovers a map in her attic leading to hidden treasure.",
+      "image_prompt": "two girls in attic discovering old treasure map"
+    },
+    {
+      "type": "conflict",
+      "summary": "They must follow riddles carefully.",
+      "text": "They follow clues starting at a willow tree and solve riddles.",
+      "image_prompt": "girls reading riddle under willow tree near river"
+    },
+    {
+      "type": "journey",
+      "summary": "They meet helpful people.",
+      "text": "They respectfully ask for help and continue solving puzzles.",
+      "image_prompt": "girls talking to old man near mill receiving key"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach the workshop.",
+      "text": "They solve final riddles and find a silver star coin.",
+      "image_prompt": "old workshop with glowing silver coin on table"
+    },
+    {
+      "type": "resolution",
+      "summary": "They understand the real treasure.",
+      "text": "They learn the treasure represents kindness and curiosity.",
+      "image_prompt": "girls smiling holding silver coin in warm light"
+    }
+  ],
+  "story": "Maya and Isla follow a mysterious map through their town solving riddles and meeting helpful people. In the end, they find a silver star and learn that respect, kindness, and curiosity are the real treasures."
+}

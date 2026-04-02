@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200055",
+  "title": "The Hidden Spring",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "responsibility and discovery",
+  "characters": ["Mara Denslow", "Jory"],
+  "word_count": 140,
+  "moral": "Discovery requires responsibility and careful thinking.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mara and Jory search for a hidden spring.",
+      "text": "Mara and Jory follow a map to find a mysterious hidden spring that could help nearby villages.",
+      "image_prompt": "explorer and young assistant standing near cliff with map, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They find strange carvings and a sealed cave.",
+      "text": "They discover carvings and a hidden mechanism that opens a secret cave filled with mystery.",
+      "image_prompt": "ancient stone wall with glowing carvings opening secret cave"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the glowing cavern.",
+      "text": "Inside the cave, they walk carefully through glowing tunnels and reach a magical spring.",
+      "image_prompt": "two explorers walking in glowing blue cave with underground lake"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The cave begins to collapse.",
+      "text": "The cave shakes and they must escape quickly while protecting what they discovered.",
+      "image_prompt": "rocks falling inside cave while explorers run to exit"
+    },
+    {
+      "type": "resolution",
+      "summary": "They decide to share the discovery responsibly.",
+      "text": "They return safely and plan to use the spring carefully for the benefit of everyone.",
+      "image_prompt": "explorers showing glowing water to villagers in warm village scene"
+    }
+  ],
+  "story": "Mara and Jory explore a hidden cave to find a magical spring. They discover ancient mechanisms and glowing waters but face danger when the cave begins to collapse. They escape safely and choose to use their discovery responsibly to help others."
+}

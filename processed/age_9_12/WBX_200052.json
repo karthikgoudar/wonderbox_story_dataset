@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200052",
+  "title": "The Crystal of Courage",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "bravery and unity",
+  "characters": ["Sir Cedric", "King Aldric", "Alaric", "Valor"],
+  "word_count": 145,
+  "moral": "True strength comes from courage, wisdom, and unity.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric is given a dangerous quest.",
+      "text": "Sir Cedric is chosen by the king to find the Crystal of Valor to protect the kingdom.",
+      "image_prompt": "young knight receiving quest from king in castle hall, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The kingdom faces invasion.",
+      "text": "Enemies threaten the kingdom, and Cedric must retrieve the crystal before it is too late.",
+      "image_prompt": "dark army approaching castle, worried knights preparing"
+    },
+    {
+      "type": "journey",
+      "summary": "Cedric follows a magical map.",
+      "text": "Guided by a mysterious map, Cedric travels through forests solving riddles.",
+      "image_prompt": "knight riding horse through magical forest with glowing map"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Cedric solves the riddle and gets the crystal.",
+      "text": "Cedric solves a riddle using wisdom and retrieves the Crystal of Valor.",
+      "image_prompt": "knight holding glowing crystal in forest clearing"
+    },
+    {
+      "type": "resolution",
+      "summary": "Cedric returns and inspires unity.",
+      "text": "Cedric returns and inspires the knights to unite and defend the kingdom.",
+      "image_prompt": "knight raising crystal while soldiers cheer at castle"
+    }
+  ],
+  "story": "Sir Cedric is chosen to find a magical crystal to save his kingdom. He travels through forests, solves riddles, and defeats enemies. With courage and wisdom, he returns and unites his people to defend their home."
+}

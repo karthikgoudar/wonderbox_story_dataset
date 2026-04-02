@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200064",
+  "title": "The Secret Heart of Luminara",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "curiosity and courage",
+  "characters": ["Elara Quinn", "Professor Mira", "Viperium agents"],
+  "word_count": 170,
+  "moral": "Curiosity and bravery lead to discovery.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elara investigates a mystery.",
+      "text": "Elara discovers strange energy beneath her city.",
+      "image_prompt": "girl explorer near glowing underground grate in city"
+    },
+    {
+      "type": "conflict",
+      "summary": "A dangerous group appears.",
+      "text": "Viperium agents try to stop Elara from uncovering secrets.",
+      "image_prompt": "mysterious agents in dark city alley confronting explorers"
+    },
+    {
+      "type": "journey",
+      "summary": "They enter the Undercity.",
+      "text": "Elara and Mira explore hidden tunnels and solve rune puzzles.",
+      "image_prompt": "underground chamber with glowing runes and ancient door"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the living library.",
+      "text": "They find magical books that reveal the city's hidden history.",
+      "image_prompt": "magical library with floating glowing books"
+    },
+    {
+      "type": "resolution",
+      "summary": "They reach the heart.",
+      "text": "They uncover the city's secret energy source and protect it.",
+      "image_prompt": "glowing crystal heart inside ancient chamber"
+    }
+  ],
+  "story": "Elara and Mira explore hidden parts of their city to uncover ancient secrets. They face danger but succeed in discovering and protecting a powerful hidden energy source."
+}

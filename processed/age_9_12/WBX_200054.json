@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200054",
+  "title": "The Patrol Journal",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "observation and intelligence",
+  "characters": ["Sir Rowan", "Captain Brine", "Dame Elowen", "Jory", "Old Marn"],
+  "word_count": 150,
+  "moral": "Careful observation and thinking can be as powerful as bravery.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Rowan begins his patrol with a journal.",
+      "text": "Rowan, a young knight, records his observations carefully during patrol.",
+      "image_prompt": "young knight writing in journal while riding pony, cheerful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They find signs of danger.",
+      "text": "The patrol finds a broken shield and suspects bandits nearby.",
+      "image_prompt": "knights examining broken shield on forest path"
+    },
+    {
+      "type": "journey",
+      "summary": "Rowan discovers a trap.",
+      "text": "Rowan observes a hidden trap on a bridge and helps the team avoid danger.",
+      "image_prompt": "young knight pointing at hidden trap on bridge"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Rowan uncovers a disguise plot.",
+      "text": "Rowan discovers bandits disguised as guards planning attacks.",
+      "image_prompt": "bandits wearing fake armor inside ruined tower"
+    },
+    {
+      "type": "resolution",
+      "summary": "The patrol stops the bandits.",
+      "text": "The team captures the bandits and Rowan proves his intelligence.",
+      "image_prompt": "knights capturing bandits while young hero watches proudly"
+    }
+  ],
+  "story": "Sir Rowan, a young knight, uses his journal to carefully observe his surroundings. He discovers traps and uncovers bandits pretending to be guards. His intelligence helps protect the kingdom and proves that thinking is a true form of bravery."
+}

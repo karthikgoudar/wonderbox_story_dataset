@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200053",
+  "title": "The Whispering Woods",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "courage and self-discovery",
+  "characters": ["Sir Cedric", "Lady Elenora", "Shadow Lord", "Old Woman"],
+  "word_count": 150,
+  "moral": "True courage means choosing wisely and selflessly.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cedric enters the mysterious forest.",
+      "text": "Sir Cedric enters the Whispering Woods to find his missing friend Elenora.",
+      "image_prompt": "knight entering dark magical forest with glowing path"
+    },
+    {
+      "type": "conflict",
+      "summary": "Cedric faces magical challenges.",
+      "text": "Cedric must solve riddles and face dangers while searching for the Heartstone.",
+      "image_prompt": "knight facing river spirit asking riddle"
+    },
+    {
+      "type": "journey",
+      "summary": "Cedric passes trials of wisdom and courage.",
+      "text": "Cedric solves riddles and learns that not all battles require fighting.",
+      "image_prompt": "knight calming magical beast instead of fighting"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Cedric learns about his destiny.",
+      "text": "Cedric discovers his true identity and the prophecy tied to the Heartstone.",
+      "image_prompt": "knight seeing magical vision in tower, glowing symbols"
+    },
+    {
+      "type": "resolution",
+      "summary": "Cedric chooses sacrifice over power.",
+      "text": "Cedric chooses to save others instead of seeking power, proving true courage.",
+      "image_prompt": "knight standing bravely against dark shadow villain"
+    }
+  ],
+  "story": "Sir Cedric journeys into a magical forest to rescue his friend. He faces trials that test his wisdom and courage. In the end, he chooses selflessness over power and fulfills his destiny."
+}

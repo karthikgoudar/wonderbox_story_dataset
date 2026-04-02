@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200051",
+  "title": "Bread for the Guard",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "kindness and courage",
+  "characters": ["Sir Alder", "Tamsin", "Sergeant Brann", "Lysa"],
+  "word_count": 140,
+  "moral": "Small acts of kindness and empathy can protect many lives.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Alder brings bread to the guards.",
+      "text": "Sir Alder begins his day by taking warm bread to the guards, believing small kindness matters.",
+      "image_prompt": "kind knight giving bread to cold guards at castle gate, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Mysterious riders appear near the ridge.",
+      "text": "News arrives about unknown riders, creating fear and urgency at the castle gate.",
+      "image_prompt": "castle guards spotting distant riders on ridge, tense cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Alder and Tamsin investigate the danger.",
+      "text": "Alder and Tamsin take a risky path to observe the riders and discover they are tracking someone.",
+      "image_prompt": "knight and young squire sneaking along narrow cliff path, adventure cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Alder creates a false trail and meets Lysa.",
+      "text": "Alder misleads the bandits using a false trail and finds Lysa, who was trying to help the guards.",
+      "image_prompt": "knight creating false footprints while helping injured girl in forest"
+    },
+    {
+      "type": "resolution",
+      "summary": "They escape and protect the kingdom.",
+      "text": "Alder protects Lysa and ensures the guards are warned, keeping everyone safe.",
+      "image_prompt": "knight and girl returning safely to castle, warm heroic cartoon"
+    }
+  ],
+  "story": "Sir Alder shows kindness by bringing bread to guards. When danger appears in the form of mysterious riders, he bravely investigates with Tamsin. Using clever thinking, he saves Lysa and warns the guards. His empathy and courage protect the kingdom."
+}

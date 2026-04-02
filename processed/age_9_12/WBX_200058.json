@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200058",
+  "title": "Reach, but do not rush",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "patience and careful decision making",
+  "characters": ["Dr. Mira Kellan", "Tavo"],
+  "word_count": 160,
+  "moral": "Success comes from patience and thoughtful actions, not rushing.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mira begins her jungle expedition.",
+      "text": "Dr. Mira Kellan follows an old map through the jungle in search of a mountain marked with a mysterious symbol.",
+      "image_prompt": "female explorer with map walking through dense jungle with guide, warm sunlight filtering through trees"
+    },
+    {
+      "type": "conflict",
+      "summary": "They discover a puzzle door in ancient ruins.",
+      "text": "They find ruins with green stone mechanisms that must be solved carefully to open a hidden passage.",
+      "image_prompt": "ancient jungle ruins with glowing green stones and carved symbols"
+    },
+    {
+      "type": "journey",
+      "summary": "They navigate traps and dangerous paths.",
+      "text": "Inside, they cross a listening floor and later a risky rope bridge, moving slowly and carefully.",
+      "image_prompt": "explorers crossing rope bridge over deep valley in stormy weather"
+    },
+    {
+      "type": "turning_point",
+      "summary": "A storm forces them to rethink.",
+      "text": "A sudden storm teaches them to pause and wait instead of rushing toward the summit.",
+      "image_prompt": "explorers taking shelter in mountain cave during heavy storm"
+    },
+    {
+      "type": "resolution",
+      "summary": "They reach the summit wisely.",
+      "text": "They finally reach the top by staying cautious and respecting the mountain’s challenges.",
+      "image_prompt": "explorers standing on mountain peak with sunrise and calm expressions"
+    }
+  ],
+  "story": "Dr. Mira and Tavo explore a jungle and climb a dangerous mountain using an ancient map. They face puzzles, traps, and harsh weather but succeed by staying patient and careful. Their journey proves that rushing leads to danger, while thoughtful decisions lead to success."
+}

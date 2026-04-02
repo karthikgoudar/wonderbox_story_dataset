@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200066",
+  "title": "The Secret Stone Door in the Whispering Combe",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "problem solving and caution",
+  "characters": ["Mara", "Ivo"],
+  "word_count": 180,
+  "moral": "Careful thinking is better than rushing.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mara explores the combe.",
+      "text": "Mara and Ivo enter a mysterious valley to find a safe path.",
+      "image_prompt": "two explorers walking through misty green valley"
+    },
+    {
+      "type": "conflict",
+      "summary": "The land is deceptive.",
+      "text": "They face hidden holes, strange sounds, and misleading maps.",
+      "image_prompt": "foggy valley with hidden ground traps and explorers cautious"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow clues.",
+      "text": "They track air currents, streams, and symbols to navigate safely.",
+      "image_prompt": "explorers marking path with chalk and stones"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover a hidden door.",
+      "text": "They uncover a stone door leading to underground tunnels.",
+      "image_prompt": "ancient stone door opening in grassy field with mist"
+    },
+    {
+      "type": "resolution",
+      "summary": "They continue carefully.",
+      "text": "They explore deeper using logic and caution to avoid danger.",
+      "image_prompt": "explorers walking through underground tunnel with lantern"
+    }
+  ],
+  "story": "Mara and Ivo explore a mysterious valley filled with hidden dangers. Using careful observation and problem-solving, they discover a secret underground passage and navigate it safely."
+}

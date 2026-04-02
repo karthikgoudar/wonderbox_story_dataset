@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200068",
+  "title": "The Laughing Cave and the Starroot Treasure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "kindness and sharing",
+  "characters": ["Bramble", "Juniper"],
+  "word_count": 170,
+  "moral": "True treasure is meant to be shared.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Bramble finds a treasure map.",
+      "text": "Bramble discovers a map leading to a legendary treasure called Starroot.",
+      "image_prompt": "bear holding map inside hollow tree with fox beside him"
+    },
+    {
+      "type": "conflict",
+      "summary": "They must prove kindness.",
+      "text": "They follow clues but must prove their intentions are kind and selfless.",
+      "image_prompt": "river with glowing pebble guiding explorers"
+    },
+    {
+      "type": "journey",
+      "summary": "They solve riddles.",
+      "text": "They solve river riddles and follow clues through forests and ridges.",
+      "image_prompt": "forest path with tall pine tree and glowing symbols"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They face difficult paths.",
+      "text": "They cross thorny paths and continue despite challenges.",
+      "image_prompt": "fox and bear navigating thorny forest path carefully"
+    },
+    {
+      "type": "resolution",
+      "summary": "They reach treasure.",
+      "text": "They find the treasure and choose to share it with everyone.",
+      "image_prompt": "glowing treasure inside cave with bear and fox smiling"
+    }
+  ],
+  "story": "Bramble and Juniper follow a magical map to find the Starroot treasure. Through kindness and teamwork, they prove that true treasure should benefit everyone."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200060",
+  "title": "The Ice Drum and the Spiral Signs",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "respect and responsibility",
+  "characters": ["Elias Crowe", "Mina"],
+  "word_count": 170,
+  "moral": "Exploration should respect history and nature.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elias begins an Arctic expedition.",
+      "text": "Elias and Mina follow an old explorer’s journal to confirm a mysterious route across icy land.",
+      "image_prompt": "two explorers in snowy tundra with sled and map under cloudy sky"
+    },
+    {
+      "type": "conflict",
+      "summary": "They find ancient markers.",
+      "text": "They discover carved stones and spiral symbols marking an ancient path.",
+      "image_prompt": "snowy landscape with stone cairn and carved spiral symbols"
+    },
+    {
+      "type": "journey",
+      "summary": "They reach the Ice Drum.",
+      "text": "They explore a large ice hill that produces booming sounds and hides secrets beneath.",
+      "image_prompt": "large icy hill with cracks and explorers observing cautiously"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover a hidden chamber.",
+      "text": "A crack reveals a hidden structure, but they choose not to enter to protect it.",
+      "image_prompt": "icy cave opening glowing faintly with explorers observing from distance"
+    },
+    {
+      "type": "resolution",
+      "summary": "They complete the journey responsibly.",
+      "text": "They document everything carefully and leave the site untouched, respecting history.",
+      "image_prompt": "explorers writing notes near snowy camp with sunset in background"
+    }
+  ],
+  "story": "Elias and Mina explore the Arctic following an old journal. They discover ancient markers and a mysterious ice hill but choose not to disturb hidden structures. Their journey highlights the importance of respecting history and nature while exploring."
+}

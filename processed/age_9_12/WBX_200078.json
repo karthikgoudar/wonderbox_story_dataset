@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200078",
+  "title": "Attic Adventure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "advanced",
+  "theme": "courage and family",
+  "characters": ["Sam Carter", "Emily"],
+  "word_count": 214,
+  "moral": "True treasure lies in courage, teamwork, and family.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sam discovers a mysterious journal in the attic.",
+      "text": "On a rainy day, Sam explores his attic and finds an old leather journal filled with maps and riddles that hint at hidden treasure.",
+      "image_prompt": "boy in dusty attic discovering old leather journal with glowing pages"
+    },
+    {
+      "type": "conflict",
+      "summary": "Sam and Emily follow the first clue to the oak tree.",
+      "text": "Sam and his sister Emily follow a riddle to an ancient oak tree where they find a spiral marking and a hidden clue.",
+      "image_prompt": "children searching under giant oak tree roots in rainy park"
+    },
+    {
+      "type": "journey",
+      "summary": "They travel through different locations solving clues.",
+      "text": "They visit the library and an old bridge, solving riddles and finding keys and hidden objects along the way.",
+      "image_prompt": "kids exploring library and abandoned bridge with treasure clues"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They face magical trials in a hidden room.",
+      "text": "They unlock a secret room and face trials of fear, intelligence, and heart before reaching the treasure.",
+      "image_prompt": "children in magical room with mirrors and glowing puzzles"
+    },
+    {
+      "type": "resolution",
+      "summary": "They discover the true meaning of treasure.",
+      "text": "They learn that the real treasure is courage, teamwork, and their bond as siblings.",
+      "image_prompt": "children smiling holding compass treasure in warm glowing light"
+    }
+  ],
+  "story": "Sam discovers a mysterious journal in his attic and begins an adventure with his sister Emily. They follow clues to an oak tree, a library, and an old bridge, solving riddles and uncovering secrets. Eventually, they unlock a hidden chamber where they face trials that test their courage, intelligence, and teamwork. In the end, they realize that the true treasure is not gold but the strength of family and bravery."
+}

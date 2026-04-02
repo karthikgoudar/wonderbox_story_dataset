@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200063",
+  "title": "The Luminous Tree Expedition",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "science and integrity",
+  "characters": ["Dr. Jacob Marlowe", "Asha", "Sebastian Drake"],
+  "word_count": 170,
+  "moral": "Knowledge should be used responsibly.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jacob begins his exploration.",
+      "text": "Dr. Jacob travels to a mysterious island to study rare plants.",
+      "image_prompt": "scientist explorer standing at jungle edge with notebook"
+    },
+    {
+      "type": "conflict",
+      "summary": "A rival follows him.",
+      "text": "Sebastian secretly follows Jacob, planning to sabotage his work.",
+      "image_prompt": "sneaky rival hiding behind jungle trees watching explorers"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the jungle.",
+      "text": "Jacob and Asha venture deeper and discover a glowing tree.",
+      "image_prompt": "huge glowing magical tree in jungle clearing"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The rival confronts them.",
+      "text": "Sebastian reveals himself, creating tension and danger.",
+      "image_prompt": "night jungle camp confrontation between explorers"
+    },
+    {
+      "type": "resolution",
+      "summary": "Truth and responsibility win.",
+      "text": "Jacob protects the discovery, ensuring it is used responsibly.",
+      "image_prompt": "scientist documenting glowing tree carefully"
+    }
+  ],
+  "story": "Dr. Jacob explores a jungle island and discovers a glowing tree with the help of Asha. A rival tries to interfere, but Jacob remains focused on protecting the discovery. The story shows the importance of integrity in science."
+}

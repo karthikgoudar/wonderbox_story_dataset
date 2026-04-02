@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200062",
+  "title": "The Jungle's Hidden Legacy",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "teamwork and discovery",
+  "characters": ["Elara", "Finn"],
+  "word_count": 160,
+  "moral": "Working together leads to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Elara begins her jungle expedition.",
+      "text": "Elara enters a dense jungle searching for a legendary artifact.",
+      "image_prompt": "female explorer walking through dense jungle with map"
+    },
+    {
+      "type": "conflict",
+      "summary": "She meets Finn and faces traps.",
+      "text": "Elara teams up with Finn and they overcome dangerous traps guarding the temple.",
+      "image_prompt": "explorers solving ancient trap near jungle temple entrance"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the temple.",
+      "text": "They enter a hidden temple filled with puzzles and mysterious carvings.",
+      "image_prompt": "ancient temple interior with glowing artifact pedestal"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They face a guardian test.",
+      "text": "They must prove their courage and intelligence to claim the artifact.",
+      "image_prompt": "explorers solving magical puzzle challenge inside temple"
+    },
+    {
+      "type": "resolution",
+      "summary": "They succeed together.",
+      "text": "By working together, they overcome all trials and uncover the artifact.",
+      "image_prompt": "two explorers celebrating discovery of glowing artifact"
+    }
+  ],
+  "story": "Elara and Finn explore a jungle temple in search of a valuable artifact. Facing traps and trials, they rely on teamwork and intelligence to succeed. Their journey highlights the importance of collaboration."
+}

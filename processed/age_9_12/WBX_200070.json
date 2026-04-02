@@ -1,0 +1,45 @@
+{
+  "id": "WBX_200070",
+  "title": "The Map in the Hollow Tree",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "9-12",
+  "reading_level": "intermediate",
+  "theme": "teamwork and sharing",
+  "characters": ["Rowan", "Lila", "Bram", "Pip"],
+  "word_count": 180,
+  "moral": "Sharing makes journeys meaningful.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Rowan finds a magical map.",
+      "text": "Rowan discovers a glowing map hidden in a hollow tree.",
+      "image_prompt": "fox discovering glowing map inside hollow tree"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a risky crossing.",
+      "text": "They cross a dangerous bridge together using careful steps.",
+      "image_prompt": "animals crossing fragile wooden bridge over stream"
+    },
+    {
+      "type": "journey",
+      "summary": "They solve river riddle.",
+      "text": "They answer a river riddle and find a safe path forward.",
+      "image_prompt": "river revealing stepping stones glowing softly"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They escape the marsh.",
+      "text": "They work together to escape a dangerous marsh and find a key.",
+      "image_prompt": "friends pulling fox from marsh using rope"
+    },
+    {
+      "type": "resolution",
+      "summary": "They continue united.",
+      "text": "They move forward with trust and teamwork to find treasure.",
+      "image_prompt": "group walking together toward cave entrance"
+    }
+  ],
+  "story": "Rowan and friends follow a magical map, solving riddles and overcoming challenges together. Their journey shows that teamwork and sharing are essential."
+}
