@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000049",
+  "title": "Captain Mira's Quiet Journey",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "calmness",
+  "characters": ["Captain Mira", "crew"],
+  "word_count": 310,
+  "moral": "Staying calm and careful helps in every journey.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Mira plans a calm journey to a secret island.",
+      "text": "Captain Mira sailed slowly with her crew, planning a quiet visit to a secret island.",
+      "image_prompt": "calm pirate captain steering ship peaceful sea cartoon style",
+      "story": "Captain Mira sailed with her crew to a quiet island. A fog came, but she stayed calm and guided everyone safely. They reached the island and found food in a hidden box. A soft rain came, but they stayed happy and safe. They returned home peacefully, proud of their calm and careful journey."
+    },
+    {
+      "type": "conflict",
+      "summary": "A fog makes it hard to see the way.",
+      "text": "A thick fog surrounded the ship, making it difficult to see the path ahead.",
+      "image_prompt": "pirate ship in fog crew holding hands calm scene cartoon style",
+      "story": "Captain Mira sailed with her crew to a quiet island. A fog came, but she stayed calm and guided everyone safely. They reached the island and found food in a hidden box. A soft rain came, but they stayed happy and safe. They returned home peacefully, proud of their calm and careful journey."
+    },
+    {
+      "type": "journey",
+      "summary": "Mira guides the ship safely through the fog.",
+      "text": "Captain Mira used her skills and stayed calm to guide the ship safely through the fog.",
+      "image_prompt": "captain steering ship in fog calm confident cartoon style",
+      "story": "Captain Mira sailed with her crew to a quiet island. A fog came, but she stayed calm and guided everyone safely. They reached the island and found food in a hidden box. A soft rain came, but they stayed happy and safe. They returned home peacefully, proud of their calm and careful journey."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the island and the hidden food box.",
+      "text": "They reached the island and found a hidden box filled with food to share.",
+      "image_prompt": "pirates finding food box under palm trees peaceful island cartoon style",
+      "story": "Captain Mira sailed with her crew to a quiet island. A fog came, but she stayed calm and guided everyone safely. They reached the island and found food in a hidden box. A soft rain came, but they stayed happy and safe. They returned home peacefully, proud of their calm and careful journey."
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home safely after a peaceful adventure.",
+      "text": "Captain Mira and her crew returned home safely, happy and proud of their calm journey.",
+      "image_prompt": "peaceful pirate ship sailing at sunset calm sea cartoon style",
+      "story": "Captain Mira sailed with her crew to a quiet island. A fog came, but she stayed calm and guided everyone safely. They reached the island and found food in a hidden box. A soft rain came, but they stayed happy and safe. They returned home peacefully, proud of their calm and careful journey."
+    }
+  ]
+}

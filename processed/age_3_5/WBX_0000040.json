@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000040",
+  "title": "The Patient Knight's Journey",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "patience",
+  "characters": ["Sir Star", "Lady Rabbit", "Sir Mouse", "Princess Duck", "king", "guard"],
+  "word_count": 358,
+  "moral": "Patience and teamwork help overcome challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Star is asked to guide royal guests safely to the castle.",
+      "text": "Sir Star was a brave and kind knight. One day, the king asked him to guide royal guests safely to the castle. Sir Star agreed and prepared for the journey.",
+      "image_prompt": "shining knight talking to king in castle colorful cartoon children style",
+      "story": "Sir Star was a brave and kind knight. One day, the king asked him to guide royal guests safely to the castle. He met Lady Rabbit, Sir Mouse, and Princess Duck and began the journey. On the way, their carriage got stuck in mud. Sir Star encouraged everyone to work together patiently. After trying again, they freed the carriage. When they reached the castle, the gate was closed, but Sir Star politely asked the guard to open it. Everyone arrived safely. The king praised Sir Star for being patient and wise. They celebrated happily, and Sir Star felt proud of helping his friends."
+    },
+    {
+      "type": "conflict",
+      "summary": "The journey becomes difficult when a carriage gets stuck in mud.",
+      "text": "As they traveled, Lady Rabbit’s carriage got stuck in thick mud. The journey became difficult, and they needed to find a way to move forward.",
+      "image_prompt": "carriage stuck in mud animals worried knight helping cartoon style",
+      "story": "Sir Star was a brave and kind knight. One day, the king asked him to guide royal guests safely to the castle. He met Lady Rabbit, Sir Mouse, and Princess Duck and began the journey. On the way, their carriage got stuck in mud. Sir Star encouraged everyone to work together patiently. After trying again, they freed the carriage. When they reached the castle, the gate was closed, but Sir Star politely asked the guard to open it. Everyone arrived safely. The king praised Sir Star for being patient and wise. They celebrated happily, and Sir Star felt proud of helping his friends."
+    },
+    {
+      "type": "journey",
+      "summary": "Sir Star encourages everyone to work together with patience.",
+      "text": "Sir Star told everyone to push together slowly and patiently. They tried again and worked as a team to move the carriage.",
+      "image_prompt": "animals and knight pushing carriage together teamwork cartoon children style",
+      "story": "Sir Star was a brave and kind knight. One day, the king asked him to guide royal guests safely to the castle. He met Lady Rabbit, Sir Mouse, and Princess Duck and began the journey. On the way, their carriage got stuck in mud. Sir Star encouraged everyone to work together patiently. After trying again, they freed the carriage. When they reached the castle, the gate was closed, but Sir Star politely asked the guard to open it. Everyone arrived safely. The king praised Sir Star for being patient and wise. They celebrated happily, and Sir Star felt proud of helping his friends."
+    },
+    {
+      "type": "turning_point",
+      "summary": "With patience, they finally free the carriage.",
+      "text": "After trying again with patience, the carriage rolled free from the mud, and everyone cheered with joy.",
+      "image_prompt": "carriage freed from mud everyone cheering colorful cartoon style",
+      "story": "Sir Star was a brave and kind knight. One day, the king asked him to guide royal guests safely to the castle. He met Lady Rabbit, Sir Mouse, and Princess Duck and began the journey. On the way, their carriage got stuck in mud. Sir Star encouraged everyone to work together patiently. After trying again, they freed the carriage. When they reached the castle, the gate was closed, but Sir Star politely asked the guard to open it. Everyone arrived safely. The king praised Sir Star for being patient and wise. They celebrated happily, and Sir Star felt proud of helping his friends."
+    },
+    {
+      "type": "resolution",
+      "summary": "They reach the castle safely and are praised for their effort.",
+      "text": "They reached the castle safely. The king thanked Sir Star for his patience and kindness, and everyone celebrated together.",
+      "image_prompt": "castle gate opening celebration knight and animals happy cartoon style",
+      "story": "Sir Star was a brave and kind knight. One day, the king asked him to guide royal guests safely to the castle. He met Lady Rabbit, Sir Mouse, and Princess Duck and began the journey. On the way, their carriage got stuck in mud. Sir Star encouraged everyone to work together patiently. After trying again, they freed the carriage. When they reached the castle, the gate was closed, but Sir Star politely asked the guard to open it. Everyone arrived safely. The king praised Sir Star for being patient and wise. They celebrated happily, and Sir Star felt proud of helping his friends."
+    }
+  ]
+}

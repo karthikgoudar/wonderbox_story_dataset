@@ -1,0 +1,47 @@
+
+{
+  "id": "WBX_000021",
+  "title": "Abe the Service Dog",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "helping others",
+  "characters": ["Abe", "BJ", "trainer", "owner", "siblings"],
+  "word_count": 356,
+  "moral": "Helping others with care and dedication is important.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Abe introduces himself as a service dog and shares his purpose.",
+      "text": "Hi, I am Abe and I am a Service Dog. When I was a puppy, my owner told me I would be a Service Dog for a person who could not see. I did not know what that meant, but I knew it was something special.",
+      "image_prompt": "happy golden dog introducing himself in a green field, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Abe begins training and finds learning difficult.",
+      "text": "When I got a little older, I was sent away to school. School was hard. I had to learn many things just like you.",
+      "image_prompt": "young dog at training school looking confused but determined, cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Abe learns many important skills to become a service dog.",
+      "text": "I had to learn to stop and look before crossing the street and learn what a red, yellow, and green directional light meant and what I should do. I was taught how to guide a person to go left, right, to step up and down, to stop, to move forward a little, to back up, and much more.",
+      "image_prompt": "service dog guiding a person across street with traffic lights, bright cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Abe graduates and meets BJ, becoming her service dog.",
+      "text": "After a long time in school, I graduated and my trainer introduced me to BJ, the person who would become my master. We were both excited.",
+      "image_prompt": "service dog meeting blind owner happily in park, emotional colorful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Abe and BJ live happily together helping and caring for each other.",
+      "text": "We shared many years together and had many wonderful experiences. We went shopping, visited friends, ate in restaurants, and traveled across the country. I took care of BJ and she took care of me too.",
+      "image_prompt": "service dog and owner happily walking together, warm friendship, colorful cartoon"
+    }
+  ],
+  "story": "Hi, I am Abe and I am a Service Dog. When I was a puppy, my owner told me I would be a Service Dog for a person who could not see. I did not know what that meant, but I knew it was something special. When I got a little older, I was sent away to school. My sister was sent to another school to learn how to help people with Autism. To be their friend and help them get around. One of my other brothers was sent to a special school so he could learn how to warn people that they were going to get sick before they did. My other brothers and sisters became good friends with people in good families. Not every dog can become a Service Dog. School was hard. I had to learn many things just like you. I had to learn to stop and look before crossing the street and learn what a red, yellow, and green directional light meant and what I should do. I was taught how to guide a person to go left, right, to step up and down, to stop, to move forward a little, to back up, and much more. I had to learn where I was and how to get back even in strange areas. I had to learn how to behave in a restaurant and never ever beg for food. That was hard. I had to learn that I could be a plain old playful dog as long as my halter was off but once it was on I was working. I became the eyes of my master and their safety and how they got around was up to me. After a long time in school, I graduated and my trainer introduced me to BJ, the person who would become my master. We were both excited. We trained together for several weeks and became very good friends. She was really nice and we always spent fun time together once she took my halter off. One day the trainer said we were ready and I was off to a new home with my master and friend. We shared many years together and had many wonderful experiences. We went shopping, visited friends, ate in restaurants, and traveled across the country. I took care of BJ. I knew when she did not feel right and could tell if she was happy or unhappy, sad or grumpy. I would always try to make things better for her. BJ took care of me too. She knew when I did not feel right and always tried to make things better for me."
+}
+```

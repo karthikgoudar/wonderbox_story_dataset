@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000033",
+  "title": "Billy River Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Billy", "Dusty", "ducks", "townsfolk"],
+  "word_count": 230,
+  "moral": "Courage and thinking carefully help solve problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Billy and Dusty explore the plains together.",
+      "text": "Billy rides his horse Dusty across the sunny plains and loves to explore.",
+      "image_prompt": "boy riding horse across green plains smiling, colorful cartoon children's book style",
+      "story": "Billy was a young cowboy who loved riding his horse Dusty across the sunny plains. One day he had a mission to find a safe place to cross a big river so people could bring supplies. Billy and Dusty rode along the river carefully. They saw ducks crossing at a calm spot. Billy tested the water with a stick and saw it was safe. He returned to town and told everyone. The townsfolk followed him and crossed safely. Everyone cheered for Billy. Billy felt proud and happy. He knew courage and smart thinking helped him succeed."
+    },
+    {
+      "type": "conflict",
+      "summary": "Billy must find a safe way to cross a fast river.",
+      "text": "The river is wide and fast and Billy must find a safe crossing.",
+      "image_prompt": "boy and horse looking at wide river thinking, colorful cartoon children's book style",
+      "story": "Billy was a young cowboy who loved riding his horse Dusty across the sunny plains. One day he had a mission to find a safe place to cross a big river so people could bring supplies. Billy and Dusty rode along the river carefully. They saw ducks crossing at a calm spot. Billy tested the water with a stick and saw it was safe. He returned to town and told everyone. The townsfolk followed him and crossed safely. Everyone cheered for Billy. Billy felt proud and happy. He knew courage and smart thinking helped him succeed."
+    },
+    {
+      "type": "journey",
+      "summary": "Billy searches along the river for a safe crossing.",
+      "text": "Billy and Dusty move along the riverbank looking for a calm spot.",
+      "image_prompt": "boy riding along riverbank searching, colorful cartoon children's book style",
+      "story": "Billy was a young cowboy who loved riding his horse Dusty across the sunny plains. One day he had a mission to find a safe place to cross a big river so people could bring supplies. Billy and Dusty rode along the river carefully. They saw ducks crossing at a calm spot. Billy tested the water with a stick and saw it was safe. He returned to town and told everyone. The townsfolk followed him and crossed safely. Everyone cheered for Billy. Billy felt proud and happy. He knew courage and smart thinking helped him succeed."
+    },
+    {
+      "type": "turning_point",
+      "summary": "Billy discovers a safe crossing by watching ducks.",
+      "text": "Billy sees ducks crossing and realizes it is a safe place.",
+      "image_prompt": "ducks crossing river while boy watches happily, colorful cartoon children's book style",
+      "story": "Billy was a young cowboy who loved riding his horse Dusty across the sunny plains. One day he had a mission to find a safe place to cross a big river so people could bring supplies. Billy and Dusty rode along the river carefully. They saw ducks crossing at a calm spot. Billy tested the water with a stick and saw it was safe. He returned to town and told everyone. The townsfolk followed him and crossed safely. Everyone cheered for Billy. Billy felt proud and happy. He knew courage and smart thinking helped him succeed."
+    },
+    {
+      "type": "resolution",
+      "summary": "Billy helps the town cross safely and is praised.",
+      "text": "The townsfolk cross safely and cheer for Billy.",
+      "image_prompt": "happy villagers cheering boy and horse near river, colorful cartoon children's book style",
+      "story": "Billy was a young cowboy who loved riding his horse Dusty across the sunny plains. One day he had a mission to find a safe place to cross a big river so people could bring supplies. Billy and Dusty rode along the river carefully. They saw ducks crossing at a calm spot. Billy tested the water with a stick and saw it was safe. He returned to town and told everyone. The townsfolk followed him and crossed safely. Everyone cheered for Billy. Billy felt proud and happy. He knew courage and smart thinking helped him succeed."
+    }
+  ]
+}

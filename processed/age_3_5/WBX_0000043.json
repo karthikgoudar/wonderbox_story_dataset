@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000043",
+  "title": "The Sword of Courage",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Lady Elara", "Finn", "dragon"],
+  "word_count": 520,
+  "moral": "True courage comes from the heart.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lady Elara begins her quest to find the legendary sword.",
+      "text": "Lady Elara, a brave knight, heard about a legendary sword hidden in a cave. She decided to find it to protect her village, along with her friend Finn.",
+      "image_prompt": "female knight and fox starting adventure village background cartoon style",
+      "story": "Lady Elara was a brave knight who wanted to protect her village. She heard about a legendary sword hidden in a cave guarded by a dragon. With her friend Finn, she went on a journey. In the cave, they found the sword but faced the dragon. Elara solved a riddle and completed a challenge by climbing to get a feather. The dragon allowed her to take the sword. She returned home as a hero, ready to protect her village."
+    },
+    {
+      "type": "conflict",
+      "summary": "They enter the cave and encounter the dragon.",
+      "text": "Inside the dark cave, Lady Elara and Finn saw a dragon guarding the sword, blocking their path.",
+      "image_prompt": "dragon guarding sword in cave knight and fox facing it cartoon style",
+      "story": "Lady Elara was a brave knight who wanted to protect her village. She heard about a legendary sword hidden in a cave guarded by a dragon. With her friend Finn, she went on a journey. In the cave, they found the sword but faced the dragon. Elara solved a riddle and completed a challenge by climbing to get a feather. The dragon allowed her to take the sword. She returned home as a hero, ready to protect her village."
+    },
+    {
+      "type": "journey",
+      "summary": "Lady Elara solves the dragon’s riddle.",
+      "text": "The dragon challenged her with a riddle, and Lady Elara thought carefully before giving the correct answer.",
+      "image_prompt": "knight thinking solving riddle dragon watching cave glowing sword cartoon",
+      "story": "Lady Elara was a brave knight who wanted to protect her village. She heard about a legendary sword hidden in a cave guarded by a dragon. With her friend Finn, she went on a journey. In the cave, they found the sword but faced the dragon. Elara solved a riddle and completed a challenge by climbing to get a feather. The dragon allowed her to take the sword. She returned home as a hero, ready to protect her village."
+    },
+    {
+      "type": "turning_point",
+      "summary": "She proves her courage by completing the challenge.",
+      "text": "Lady Elara climbed the cave and brought back a golden feather, proving her bravery to the dragon.",
+      "image_prompt": "knight climbing cave wall reaching golden feather heroic cartoon style",
+      "story": "Lady Elara was a brave knight who wanted to protect her village. She heard about a legendary sword hidden in a cave guarded by a dragon. With her friend Finn, she went on a journey. In the cave, they found the sword but faced the dragon. Elara solved a riddle and completed a challenge by climbing to get a feather. The dragon allowed her to take the sword. She returned home as a hero, ready to protect her village."
+    },
+    {
+      "type": "resolution",
+      "summary": "She takes the sword and returns home as a hero.",
+      "text": "The dragon allowed her to take the sword. Lady Elara returned to her village, where everyone celebrated her bravery.",
+      "image_prompt": "village celebration knight holding sword people cheering colorful cartoon",
+      "story": "Lady Elara was a brave knight who wanted to protect her village. She heard about a legendary sword hidden in a cave guarded by a dragon. With her friend Finn, she went on a journey. In the cave, they found the sword but faced the dragon. Elara solved a riddle and completed a challenge by climbing to get a feather. The dragon allowed her to take the sword. She returned home as a hero, ready to protect her village."
+    }
+  ]
+}

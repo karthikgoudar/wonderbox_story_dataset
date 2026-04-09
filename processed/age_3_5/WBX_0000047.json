@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000047",
+  "title": "Captain Jack's Stormy Rescue",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Captain Jack", "crew"],
+  "word_count": 280,
+  "moral": "Being brave and helping others is important.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack sets out to help a ship in trouble.",
+      "text": "Captain Jack, a brave pirate, sailed with his crew to rescue a ship in trouble.",
+      "image_prompt": "pirate captain with telescope on ship ocean adventure cartoon style",
+      "story": "Captain Jack was a brave pirate who sailed to help a ship in trouble. A storm came with strong winds and waves, but he stayed calm and guided his crew. They reached the ship and rescued everyone safely. The storm passed, and they returned home as heroes. Captain Jack reminded everyone that a pirate's heart is brave and kind."
+    },
+    {
+      "type": "conflict",
+      "summary": "A strong storm makes the rescue difficult.",
+      "text": "A big storm began with strong winds and waves, making the journey dangerous.",
+      "image_prompt": "stormy sea pirate ship waves lightning cartoon style",
+      "story": "Captain Jack was a brave pirate who sailed to help a ship in trouble. A storm came with strong winds and waves, but he stayed calm and guided his crew. They reached the ship and rescued everyone safely. The storm passed, and they returned home as heroes. Captain Jack reminded everyone that a pirate's heart is brave and kind."
+    },
+    {
+      "type": "journey",
+      "summary": "Captain Jack leads his crew through the storm.",
+      "text": "Captain Jack held the wheel and encouraged his crew to work together as they sailed through the storm.",
+      "image_prompt": "captain steering ship crew helping teamwork cartoon style",
+      "story": "Captain Jack was a brave pirate who sailed to help a ship in trouble. A storm came with strong winds and waves, but he stayed calm and guided his crew. They reached the ship and rescued everyone safely. The storm passed, and they returned home as heroes. Captain Jack reminded everyone that a pirate's heart is brave and kind."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They successfully rescue the people on the ship.",
+      "text": "Captain Jack and his crew helped the people onto their ship, saving them from danger.",
+      "image_prompt": "pirates rescuing people from another ship ocean cartoon style",
+      "story": "Captain Jack was a brave pirate who sailed to help a ship in trouble. A storm came with strong winds and waves, but he stayed calm and guided his crew. They reached the ship and rescued everyone safely. The storm passed, and they returned home as heroes. Captain Jack reminded everyone that a pirate's heart is brave and kind."
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home as heroes after the rescue.",
+      "text": "The storm ended, and Captain Jack and his crew returned safely, proud of their bravery and kindness.",
+      "image_prompt": "pirate ship returning home sunset celebration cartoon style",
+      "story": "Captain Jack was a brave pirate who sailed to help a ship in trouble. A storm came with strong winds and waves, but he stayed calm and guided his crew. They reached the ship and rescued everyone safely. The storm passed, and they returned home as heroes. Captain Jack reminded everyone that a pirate's heart is brave and kind."
+    }
+  ]
+}

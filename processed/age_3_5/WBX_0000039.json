@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000039",
+  "title": "Sir Oliver's Shining Courtyard",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Sir Oliver", "Daisy", "Mia", "king", "queen", "mouse"],
+  "word_count": 426,
+  "moral": "Being kind and working together makes everything better.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Oliver sees the messy courtyard and decides to clean it.",
+      "text": "Sir Oliver lived in a bright kingdom. One morning, he saw the courtyard full of leaves and twigs. He decided to clean it so it would shine for everyone.",
+      "image_prompt": "little knight looking at messy courtyard with leaves and broom colorful cartoon style",
+      "story": "Sir Oliver was a little knight who lived in a bright kingdom. One day, he saw the courtyard was messy with leaves and twigs. He decided to clean it. His dog Daisy helped him. They worked together but found a big pile of sticks blocking the path. Carefully, they removed the sticks. When more leaves blew in, Sir Oliver did not give up. He asked his friend Mia to help. Together they cleaned and even helped a small mouse safely. By the end, the courtyard was shining. The king and queen praised them. Sir Oliver felt proud and happy, knowing kindness and teamwork made the task easier."
+    },
+    {
+      "type": "conflict",
+      "summary": "The courtyard is large and difficult to clean.",
+      "text": "Sir Oliver started cleaning but the courtyard was very big. There were many leaves, twigs, and a large pile of sticks blocking the path.",
+      "image_prompt": "knight and dog facing big pile of sticks in courtyard cartoon style",
+      "story": "Sir Oliver was a little knight who lived in a bright kingdom. One day, he saw the courtyard was messy with leaves and twigs. He decided to clean it. His dog Daisy helped him. They worked together but found a big pile of sticks blocking the path. Carefully, they removed the sticks. When more leaves blew in, Sir Oliver did not give up. He asked his friend Mia to help. Together they cleaned and even helped a small mouse safely. By the end, the courtyard was shining. The king and queen praised them. Sir Oliver felt proud and happy, knowing kindness and teamwork made the task easier."
+    },
+    {
+      "type": "journey",
+      "summary": "Sir Oliver and Daisy work hard and solve problems together.",
+      "text": "Sir Oliver and Daisy carefully removed sticks and kept sweeping. Even when leaves blew back, they continued working without giving up.",
+      "image_prompt": "knight sweeping leaves with dog helping cheerful cartoon children style",
+      "story": "Sir Oliver was a little knight who lived in a bright kingdom. One day, he saw the courtyard was messy with leaves and twigs. He decided to clean it. His dog Daisy helped him. They worked together but found a big pile of sticks blocking the path. Carefully, they removed the sticks. When more leaves blew in, Sir Oliver did not give up. He asked his friend Mia to help. Together they cleaned and even helped a small mouse safely. By the end, the courtyard was shining. The king and queen praised them. Sir Oliver felt proud and happy, knowing kindness and teamwork made the task easier."
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mia joins and together they complete the task.",
+      "text": "Mia came to help, and together they cleaned faster. They worked as a team and helped even a small mouse safely move away.",
+      "image_prompt": "three friends cleaning courtyard helping small mouse cute cartoon style",
+      "story": "Sir Oliver was a little knight who lived in a bright kingdom. One day, he saw the courtyard was messy with leaves and twigs. He decided to clean it. His dog Daisy helped him. They worked together but found a big pile of sticks blocking the path. Carefully, they removed the sticks. When more leaves blew in, Sir Oliver did not give up. He asked his friend Mia to help. Together they cleaned and even helped a small mouse safely. By the end, the courtyard was shining. The king and queen praised them. Sir Oliver felt proud and happy, knowing kindness and teamwork made the task easier."
+    },
+    {
+      "type": "resolution",
+      "summary": "The courtyard shines and everyone celebrates.",
+      "text": "The courtyard sparkled in the sunlight. The king and queen praised Sir Oliver and his friends. They all felt happy and proud.",
+      "image_prompt": "clean shining courtyard celebration king queen smiling cartoon style",
+      "story": "Sir Oliver was a little knight who lived in a bright kingdom. One day, he saw the courtyard was messy with leaves and twigs. He decided to clean it. His dog Daisy helped him. They worked together but found a big pile of sticks blocking the path. Carefully, they removed the sticks. When more leaves blew in, Sir Oliver did not give up. He asked his friend Mia to help. Together they cleaned and even helped a small mouse safely. By the end, the courtyard was shining. The king and queen praised them. Sir Oliver felt proud and happy, knowing kindness and teamwork made the task easier."
+    }
+  ]
+}

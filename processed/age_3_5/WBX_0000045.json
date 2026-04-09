@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000045",
+  "title": "The Courageous Knight",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Sir Cedric", "king", "sorcerer"],
+  "word_count": 420,
+  "moral": "Courage and determination defeat evil.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Cedric sets out to stop a dark sorcerer.",
+      "text": "Sir Cedric, a brave knight, heard about a dark sorcerer threatening the kingdom and decided to stop him.",
+      "image_prompt": "knight preparing for battle in kingdom armor shining cartoon style",
+      "story": "Sir Cedric was a brave knight who protected his kingdom. One day, he heard about a dark sorcerer spreading evil. He went on a journey through forests and mountains, facing many dangers. Finally, he reached the sorcerer’s castle and fought him bravely. Sir Cedric defeated the sorcerer and saved the kingdom. The people celebrated him as a hero, and he promised to always protect them."
+    },
+    {
+      "type": "conflict",
+      "summary": "A dark sorcerer threatens the kingdom.",
+      "text": "A powerful sorcerer was casting dark spells over the land, putting the kingdom in danger.",
+      "image_prompt": "dark sorcerer casting spells castle night scene cartoon style",
+      "story": "Sir Cedric was a brave knight who protected his kingdom. One day, he heard about a dark sorcerer spreading evil. He went on a journey through forests and mountains, facing many dangers. Finally, he reached the sorcerer’s castle and fought him bravely. Sir Cedric defeated the sorcerer and saved the kingdom. The people celebrated him as a hero, and he promised to always protect them."
+    },
+    {
+      "type": "journey",
+      "summary": "Sir Cedric faces many challenges on his journey.",
+      "text": "Sir Cedric traveled through forests and mountains, facing dragons and other dangers, but he never gave up.",
+      "image_prompt": "knight traveling through forest mountains facing challenges cartoon style",
+      "story": "Sir Cedric was a brave knight who protected his kingdom. One day, he heard about a dark sorcerer spreading evil. He went on a journey through forests and mountains, facing many dangers. Finally, he reached the sorcerer’s castle and fought him bravely. Sir Cedric defeated the sorcerer and saved the kingdom. The people celebrated him as a hero, and he promised to always protect them."
+    },
+    {
+      "type": "turning_point",
+      "summary": "He confronts and defeats the sorcerer.",
+      "text": "Sir Cedric fought the sorcerer bravely in his castle and defeated him, ending the dark threat.",
+      "image_prompt": "knight fighting sorcerer inside dark castle magical battle cartoon style",
+      "story": "Sir Cedric was a brave knight who protected his kingdom. One day, he heard about a dark sorcerer spreading evil. He went on a journey through forests and mountains, facing many dangers. Finally, he reached the sorcerer’s castle and fought him bravely. Sir Cedric defeated the sorcerer and saved the kingdom. The people celebrated him as a hero, and he promised to always protect them."
+    },
+    {
+      "type": "resolution",
+      "summary": "Peace returns and Sir Cedric is celebrated.",
+      "text": "With the sorcerer defeated, peace returned to the kingdom, and Sir Cedric was honored as a hero.",
+      "image_prompt": "kingdom celebration knight honored people cheering colorful cartoon style",
+      "story": "Sir Cedric was a brave knight who protected his kingdom. One day, he heard about a dark sorcerer spreading evil. He went on a journey through forests and mountains, facing many dangers. Finally, he reached the sorcerer’s castle and fought him bravely. Sir Cedric defeated the sorcerer and saved the kingdom. The people celebrated him as a hero, and he promised to always protect them."
+    }
+  ]
+}

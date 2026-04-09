@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000052",
+  "title": "Kindness Treasure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Captain Ben", "Pip", "Mina", "Tom", "Momo"],
+  "word_count": 310,
+  "moral": "Kindness and sharing are the greatest treasures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Ben begins a treasure journey with his crew.",
+      "text": "Captain Ben and his crew set out to find a treasure marked on a map.",
+      "image_prompt": "friendly pirate captain with crew and map on ship cartoon style",
+      "story": "Captain Ben sailed with his crew to find treasure. They reached an island and discovered small joyful items instead of gold. They followed a path to a lagoon where a magical light granted wishes. After facing a small storm together, they returned home and shared their treasures with others. They learned that kindness and togetherness are the greatest treasures."
+    },
+    {
+      "type": "conflict",
+      "summary": "They search for treasure and face uncertainty.",
+      "text": "The crew searched for treasure and wondered what they would find.",
+      "image_prompt": "pirates searching island with curiosity cartoon style",
+      "story": "Captain Ben sailed with his crew to find treasure. They reached an island and discovered small joyful items instead of gold. They followed a path to a lagoon where a magical light granted wishes. After facing a small storm together, they returned home and shared their treasures with others. They learned that kindness and togetherness are the greatest treasures."
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the island and find a magical lagoon.",
+      "text": "They followed a path through trees and reached a lagoon with a magical shell and glowing light.",
+      "image_prompt": "pirates at lagoon glowing light magical scene cartoon style",
+      "story": "Captain Ben sailed with his crew to find treasure. They reached an island and discovered small joyful items instead of gold. They followed a path to a lagoon where a magical light granted wishes. After facing a small storm together, they returned home and shared their treasures with others. They learned that kindness and togetherness are the greatest treasures."
+    },
+    {
+      "type": "turning_point",
+      "summary": "The magical light grants a happy wish.",
+      "text": "The magical light granted a wish that made everyone feel happy and warm.",
+      "image_prompt": "glowing magical light granting wish happy pirates cartoon style",
+      "story": "Captain Ben sailed with his crew to find treasure. They reached an island and discovered small joyful items instead of gold. They followed a path to a lagoon where a magical light granted wishes. After facing a small storm together, they returned home and shared their treasures with others. They learned that kindness and togetherness are the greatest treasures."
+    },
+    {
+      "type": "resolution",
+      "summary": "They share treasures and return home.",
+      "text": "They returned home and shared their treasures with others, spreading happiness.",
+      "image_prompt": "pirates sharing treasures in village happy people cartoon style",
+      "story": "Captain Ben sailed with his crew to find treasure. They reached an island and discovered small joyful items instead of gold. They followed a path to a lagoon where a magical light granted wishes. After facing a small storm together, they returned home and shared their treasures with others. They learned that kindness and togetherness are the greatest treasures."
+    }
+  ]
+}

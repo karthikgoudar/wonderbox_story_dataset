@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000023",
+  "title": "Jimmy’s First Day",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "overcoming fear",
+  "characters": ["Jimmy", "Mom"],
+  "word_count": 68,
+  "moral": "Trying new things can be scary but can turn out to be good.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jimmy is about to start school for the first time.",
+      "text": "Jimmy had just turned 5 and was starting school.",
+      "image_prompt": "young boy with school bag sitting at home ready for school, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Jimmy feels scared because he has never been to school before.",
+      "text": "He was frightened. He had never been to school before. Jimmy did not know what to expect and he did not want to leave home by himself.",
+      "image_prompt": "little boy looking worried sitting alone at home, soft colorful cartoon children's book style"
+    },
+    {
+      "type": "journey",
+      "summary": "Jimmy’s mom encourages him and walks him to the bus stop.",
+      "text": "Jimmy's Mom told him not to be afraid as she walked him to his bus stop. She told him he would make new friends and have lots of fun.",
+      "image_prompt": "mother walking child to school bus stop holding hand, warm colorful cartoon children's book style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Jimmy gathers courage and gets on the school bus.",
+      "text": "Jimmy was being brave as he got on the bus and sat down.",
+      "image_prompt": "small boy stepping onto school bus bravely, colorful cartoon children's book style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Jimmy waves goodbye as the bus leaves, feeling brave.",
+      "text": "He waved to his Mom as the bus drove away.",
+      "image_prompt": "child waving from school bus window to mother, bright cheerful cartoon children's book style"
+    }
+  ],
+  "story": "Jimmy had just turned 5 and was starting school. He was frightened. He had never been to school before. Jimmy did not know what to expect and he did not want to leave home by himself. Jimmy's Mom told him not to be afraid as she walked him to his bus stop. She told him he would make new friends and have lots of fun. Jimmy was being brave as he got on the bus and sat down. He waved to his Mom as the bus drove away."
+}

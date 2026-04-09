@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000024",
+  "title": "Clarice the Cat",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "love and care",
+  "characters": ["Clarice", "Miss Molly"],
+  "word_count": 102,
+  "moral": "Love and care make relationships special.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Clarice introduces herself and explains she looks different.",
+      "text": "Meow I mean Hello I am Clarice the Cat. I know I do not look like a regular cat.",
+      "image_prompt": "stylish cat standing in a room introducing herself, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Clarice explains why she looks different from other cats.",
+      "text": "It is because my owner makes me a pretty cat. From dressing me in costumes and flowery hats to painting my nails.",
+      "image_prompt": "cat wearing colorful costumes and hats with painted nails, playful cartoon children's book style"
+    },
+    {
+      "type": "journey",
+      "summary": "Clarice describes how Miss Molly cares for her lovingly.",
+      "text": "She always treats me tenderly and feeds me twice a day. Miss Molly is never too busy to sit by me and play.",
+      "image_prompt": "girl playing and feeding her pet cat lovingly indoors, warm cartoon children's book style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Clarice expresses her strong bond with Miss Molly.",
+      "text": "She makes my pretty costumes from old dolls clothes. I never know what I will be wearing but I know it will cause a fuss. Miss Molly is my favorite person. I hope she will always be my friend.",
+      "image_prompt": "cat wearing cute costume while girl happily designs clothes, colorful cartoon children's book style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Clarice ends the story happily, feeling loved and cared for.",
+      "text": "I hope she will always be my friend and make me all my clothes. Good Night.",
+      "image_prompt": "happy cat in pretty dress saying good night, cozy colorful cartoon children's book style"
+    }
+  ],
+  "story": "Meow I mean Hello I am Clarice the Cat. I know I do not look like a regular cat. It is because my owner makes me a pretty cat. From dressing me in costumes and flowery hats to painting my nails. She always treats me tenderly and feeds me twice a day. Miss Molly is never too busy to sit by me and play. She makes my pretty costumes from old dolls clothes. I never know what I will be wearing but I know it will cause a fuss. Miss Molly is my favorite person. I hope she will always be my friend and make me all my clothes. Good Night."
+}

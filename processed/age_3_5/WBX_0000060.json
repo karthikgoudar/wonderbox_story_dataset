@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000060",
+  "title": "Spark's Hidden Treasure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Spark", "Timmy"],
+  "word_count": 300,
+  "moral": "Friendship is the greatest treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Spark finds a map and plans an adventure.",
+      "text": "Spark the dragon finds a treasure map and decides to search with his friend Timmy.",
+      "image_prompt": "small dragon holding map with turtle friend cartoon style",
+      "story": "Spark found a treasure map and went on an adventure with Timmy the turtle. They traveled through nature and reached a cave. Inside, they found a treasure chest with gems. They realized their friendship was more valuable than the treasure. They shared the treasure and returned home happy."
+    },
+    {
+      "type": "conflict",
+      "summary": "They prepare for the unknown journey.",
+      "text": "Spark and Timmy face uncertainty as they follow the map.",
+      "image_prompt": "dragon and turtle walking forest curious cartoon style",
+      "story": "Spark found a treasure map and went on an adventure with Timmy the turtle. They traveled through nature and reached a cave. Inside, they found a treasure chest with gems. They realized their friendship was more valuable than the treasure. They shared the treasure and returned home happy."
+    },
+    {
+      "type": "journey",
+      "summary": "They travel through forest and stream.",
+      "text": "They walk through flowers and cross a stream following the map.",
+      "image_prompt": "dragon and turtle crossing stream adventure cartoon style",
+      "story": "Spark found a treasure map and went on an adventure with Timmy the turtle. They traveled through nature and reached a cave. Inside, they found a treasure chest with gems. They realized their friendship was more valuable than the treasure. They shared the treasure and returned home happy."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure chest.",
+      "text": "They discover a chest filled with gems and coins inside a cave.",
+      "image_prompt": "dragon opening treasure chest gems cave cartoon style",
+      "story": "Spark found a treasure map and went on an adventure with Timmy the turtle. They traveled through nature and reached a cave. Inside, they found a treasure chest with gems. They realized their friendship was more valuable than the treasure. They shared the treasure and returned home happy."
+    },
+    {
+      "type": "resolution",
+      "summary": "They value friendship over treasure.",
+      "text": "They share the treasure and realize their friendship is the most important.",
+      "image_prompt": "dragon and turtle hugging happy cartoon style",
+      "story": "Spark found a treasure map and went on an adventure with Timmy the turtle. They traveled through nature and reached a cave. Inside, they found a treasure chest with gems. They realized their friendship was more valuable than the treasure. They shared the treasure and returned home happy."
+    }
+  ]
+}

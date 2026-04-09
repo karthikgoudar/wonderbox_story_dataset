@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000048",
+  "title": "The Magic Seashell Quest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Captain Jack", "Polly", "Ben", "Lilly", "Sam", "monkey"],
+  "word_count": 360,
+  "moral": "Working together helps solve problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack loses his map and begins a search.",
+      "text": "Captain Jack could not find his treasure map and asked his crew to help him search for it.",
+      "image_prompt": "pirate looking for lost map on ship crew helping cartoon style",
+      "story": "Captain Jack lost his treasure map and set out with his crew to find it. They sailed to an island and faced a storm but stayed brave. On the island, they found a monkey holding the map. After getting it back kindly, they followed it to find a magic seashell. The shell made soft ocean sounds, and they felt happy and proud of their teamwork."
+    },
+    {
+      "type": "conflict",
+      "summary": "They cannot find the missing map.",
+      "text": "The crew searched everywhere on the ship but could not find the missing map.",
+      "image_prompt": "pirates searching ship for lost map cartoon style",
+      "story": "Captain Jack lost his treasure map and set out with his crew to find it. They sailed to an island and faced a storm but stayed brave. On the island, they found a monkey holding the map. After getting it back kindly, they followed it to find a magic seashell. The shell made soft ocean sounds, and they felt happy and proud of their teamwork."
+    },
+    {
+      "type": "journey",
+      "summary": "They travel to an island and face a storm.",
+      "text": "They sailed through a storm and reached a small island to continue their search.",
+      "image_prompt": "pirate ship sailing storm heading to island cartoon style",
+      "story": "Captain Jack lost his treasure map and set out with his crew to find it. They sailed to an island and faced a storm but stayed brave. On the island, they found a monkey holding the map. After getting it back kindly, they followed it to find a magic seashell. The shell made soft ocean sounds, and they felt happy and proud of their teamwork."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the map with a monkey.",
+      "text": "A friendly monkey gave back the missing map after Captain Jack asked kindly.",
+      "image_prompt": "monkey handing map to pirate smiling island cartoon style",
+      "story": "Captain Jack lost his treasure map and set out with his crew to find it. They sailed to an island and faced a storm but stayed brave. On the island, they found a monkey holding the map. After getting it back kindly, they followed it to find a magic seashell. The shell made soft ocean sounds, and they felt happy and proud of their teamwork."
+    },
+    {
+      "type": "resolution",
+      "summary": "They find the magic seashell and celebrate.",
+      "text": "They followed the map, found the magic seashell, and felt happy after their adventure.",
+      "image_prompt": "pirates holding glowing seashell happy island cartoon style",
+      "story": "Captain Jack lost his treasure map and set out with his crew to find it. They sailed to an island and faced a storm but stayed brave. On the island, they found a monkey holding the map. After getting it back kindly, they followed it to find a magic seashell. The shell made soft ocean sounds, and they felt happy and proud of their teamwork."
+    }
+  ]
+}

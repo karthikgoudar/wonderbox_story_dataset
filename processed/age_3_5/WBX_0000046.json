@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000046",
+  "title": "Captain Penny's Wishing Chest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Captain Penny", "Squeaky", "Tilly", "Max", "Bubble"],
+  "word_count": 377,
+  "moral": "The best treasure is happiness and sharing wishes.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Penny finds a map leading to a special treasure chest.",
+      "text": "Captain Penny woke up on her ship and found a map showing a treasure on a small island, so she set off with her crew.",
+      "image_prompt": "cute pirate captain holding treasure map on ship with friends colorful cartoon style",
+      "story": "Captain Penny woke up early on her ship and found a special map showing treasure on an island. She set off with Squeaky and her crew. A storm came, but they stayed brave and worked together. They reached the island and found a shiny chest under a palm tree. Inside were letters with wishes instead of gold. Penny wished for happiness and adventures. Everyone made wishes and felt joyful. They returned home happily, knowing true treasure is kindness and friendship."
+    },
+    {
+      "type": "conflict",
+      "summary": "A storm makes the journey difficult.",
+      "text": "Dark clouds came and a storm began, but Penny and her crew stayed brave and worked together to guide the ship safely.",
+      "image_prompt": "pirate ship in storm waves crew working together cartoon style",
+      "story": "Captain Penny woke up early on her ship and found a special map showing treasure on an island. She set off with Squeaky and her crew. A storm came, but they stayed brave and worked together. They reached the island and found a shiny chest under a palm tree. Inside were letters with wishes instead of gold. Penny wished for happiness and adventures. Everyone made wishes and felt joyful. They returned home happily, knowing true treasure is kindness and friendship."
+    },
+    {
+      "type": "journey",
+      "summary": "They reach the island and search for the treasure.",
+      "text": "The crew arrived at the island and dug under a tall palm tree where the map showed the treasure.",
+      "image_prompt": "pirates digging sand under palm tree treasure hunt colorful cartoon style",
+      "story": "Captain Penny woke up early on her ship and found a special map showing treasure on an island. She set off with Squeaky and her crew. A storm came, but they stayed brave and worked together. They reached the island and found a shiny chest under a palm tree. Inside were letters with wishes instead of gold. Penny wished for happiness and adventures. Everyone made wishes and felt joyful. They returned home happily, knowing true treasure is kindness and friendship."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the chest contains wishes instead of gold.",
+      "text": "The chest opened gently and revealed letters with wishes instead of gold or jewels.",
+      "image_prompt": "treasure chest glowing with letters instead of gold happy pirates cartoon style",
+      "story": "Captain Penny woke up early on her ship and found a special map showing treasure on an island. She set off with Squeaky and her crew. A storm came, but they stayed brave and worked together. They reached the island and found a shiny chest under a palm tree. Inside were letters with wishes instead of gold. Penny wished for happiness and adventures. Everyone made wishes and felt joyful. They returned home happily, knowing true treasure is kindness and friendship."
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home happily after making wishes.",
+      "text": "Penny and her crew made their wishes and sailed home happily, realizing the best treasure is joy and friendship.",
+      "image_prompt": "pirate ship sailing sunset happy crew colorful cartoon style",
+      "story": "Captain Penny woke up early on her ship and found a special map showing treasure on an island. She set off with Squeaky and her crew. A storm came, but they stayed brave and worked together. They reached the island and found a shiny chest under a palm tree. Inside were letters with wishes instead of gold. Penny wished for happiness and adventures. Everyone made wishes and felt joyful. They returned home happily, knowing true treasure is kindness and friendship."
+    }
+  ]
+}

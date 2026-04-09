@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000061",
+  "title": "Treasure for All",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "sharing",
+  "characters": ["Pip", "Tulla", "Nib", "Flip"],
+  "word_count": 350,
+  "moral": "Sharing with others brings happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Pip finds a map and gathers friends.",
+      "text": "Pip the hedgehog finds a map and invites his friends to find the treasure.",
+      "image_prompt": "hedgehog with animal friends holding map meadow cartoon style",
+      "story": "Pip found a treasure map and went on a journey with his friends. They worked together to overcome obstacles and reached a stone cairn. They carefully uncovered a treasure box with seeds and small items. They shared and planted the seeds, making everyone happy. They learned the treasure was meant for all."
+    },
+    {
+      "type": "conflict",
+      "summary": "They face obstacles during the journey.",
+      "text": "They encounter mud, grass, and logs but work together to overcome them.",
+      "image_prompt": "animals helping each other cross obstacles cartoon style",
+      "story": "Pip found a treasure map and went on a journey with his friends. They worked together to overcome obstacles and reached a stone cairn. They carefully uncovered a treasure box with seeds and small items. They shared and planted the seeds, making everyone happy. They learned the treasure was meant for all."
+    },
+    {
+      "type": "journey",
+      "summary": "They travel together through nature.",
+      "text": "They walk through the meadow and reach the brook where the treasure is hidden.",
+      "image_prompt": "animals walking meadow toward brook cartoon style",
+      "story": "Pip found a treasure map and went on a journey with his friends. They worked together to overcome obstacles and reached a stone cairn. They carefully uncovered a treasure box with seeds and small items. They shared and planted the seeds, making everyone happy. They learned the treasure was meant for all."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They uncover the treasure box.",
+      "text": "They carefully remove stones and find a box with seeds and special items.",
+      "image_prompt": "animals opening treasure box under stones cartoon style",
+      "story": "Pip found a treasure map and went on a journey with his friends. They worked together to overcome obstacles and reached a stone cairn. They carefully uncovered a treasure box with seeds and small items. They shared and planted the seeds, making everyone happy. They learned the treasure was meant for all."
+    },
+    {
+      "type": "resolution",
+      "summary": "They share the treasure with everyone.",
+      "text": "They share the treasure and plant seeds, bringing joy to all.",
+      "image_prompt": "animals sharing seeds and celebrating meadow cartoon style",
+      "story": "Pip found a treasure map and went on a journey with his friends. They worked together to overcome obstacles and reached a stone cairn. They carefully uncovered a treasure box with seeds and small items. They shared and planted the seeds, making everyone happy. They learned the treasure was meant for all."
+    }
+  ]
+}

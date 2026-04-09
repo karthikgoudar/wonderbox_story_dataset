@@ -1,0 +1,45 @@
+{
+  "id": "WBX_000022",
+  "title": "A Dog on a Log",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "humor",
+  "characters": ["dog", "hog", "flea", "flea family", "narrator"],
+  "word_count": 141,
+  "moral": "",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The narrator sits on a beach when a hog notices a dog on a log.",
+      "text": "On a beach by a tree, sat my family and me. Then shouted a hog, There's a Dog On A Log.",
+      "image_prompt": "family sitting on beach near tree with ocean and a surprised hog pointing, colorful cartoon children's book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Everyone wonders why the dog is saving a flea in the water.",
+      "text": "A Dog On A Log Well, how can that be He must be saving that big frightening flea. Now why would a dog be saving a flea Especially in the water on the branch of a tree.",
+      "image_prompt": "dog standing confused on floating log with small flea nearby in water, colorful cartoon children's book style"
+    },
+    {
+      "type": "journey",
+      "summary": "The flea pulls up a boat and its family escapes from the dog.",
+      "text": "I couldn't believe what I saw happen next. Even that Dog On A Log was perplexed. The flea pulled on a rope and up came a boat. I'll bet you can't guess what happened next. A flea family ran from the dog's little toe. They got into the boat and began to row.",
+      "image_prompt": "tiny fleas pulling a rope bringing a boat while dog watches surprised on log, colorful cartoon children's book style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The flea family reaches shore and heads toward the hog.",
+      "text": "Once on the shore, they ran through the sand. Over a cookie in my left hand. Right to the hog that's where they went.",
+      "image_prompt": "tiny flea family running on sand toward a pink hog while child holds cookie, colorful cartoon children's book style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The fleas find a new home on the hog while the dog and narrator continue their day.",
+      "text": "They found a new home with an unpleasant scent. As for the Dog he's still riding that log. As for me Ouch I think I have a flea.",
+      "image_prompt": "fleas sitting on a hog while dog floats on log and child scratches head, colorful cartoon children's book style"
+    }
+  ],
+  "story": "On a beach by a tree, sat my family and me. Then shouted a hog, There's a Dog On A Log. A Dog On A Log Well, how can that be He must be saving that big frightening flea. Now why would a dog be saving a flea Especially in the water on the branch of a tree. I couldn't believe what I saw happen next. Even that Dog On A Log was perplexed. The flea pulled on a rope and up came a boat. I'll bet you can't guess what happened next. A flea family ran from the dog's little toe. They got into the boat and began to row. Once on the shore, they ran through the sand. Over a cookie in my left hand. Right to the hog that's where they went. They found a new home with an unpleasant scent. As for the Dog he's still riding that log. As for me Ouch I think I have a flea."
+}

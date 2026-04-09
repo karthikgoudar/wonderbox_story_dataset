@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000044",
+  "title": "The Healing Crystal Quest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Lady Seraphina", "Snowflake", "unicorn", "griffin"],
+  "word_count": 430,
+  "moral": "Bravery and determination can overcome any challenge.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lady Seraphina begins her quest to save the kingdom.",
+      "text": "Lady Seraphina was a brave knight who set out to find the Healing Crystal to save her kingdom from a terrible curse.",
+      "image_prompt": "female knight riding white horse starting quest magical land cartoon style",
+      "story": "Lady Seraphina was a brave knight who set out to save her kingdom from a curse that turned everything into stone. She traveled with her horse Snowflake and faced many dangers. In the enchanted forest, a unicorn guided her to a mountain. At the top, she fought a griffin and proved her bravery. She took the Healing Crystal and returned home, saving the kingdom. Everyone celebrated her courage and kindness."
+    },
+    {
+      "type": "conflict",
+      "summary": "The kingdom is under a terrible curse.",
+      "text": "A curse turned everything into stone, and the kingdom was in danger, so Lady Seraphina had to act quickly.",
+      "image_prompt": "kingdom turning into stone sad people knight determined cartoon style",
+      "story": "Lady Seraphina was a brave knight who set out to save her kingdom from a curse that turned everything into stone. She traveled with her horse Snowflake and faced many dangers. In the enchanted forest, a unicorn guided her to a mountain. At the top, she fought a griffin and proved her bravery. She took the Healing Crystal and returned home, saving the kingdom. Everyone celebrated her courage and kindness."
+    },
+    {
+      "type": "journey",
+      "summary": "She travels through dangerous lands and meets a unicorn.",
+      "text": "Lady Seraphina journeyed through forests and mountains and met a unicorn who guided her to the crystal’s location.",
+      "image_prompt": "knight meeting unicorn in enchanted forest glowing magical scene cartoon",
+      "story": "Lady Seraphina was a brave knight who set out to save her kingdom from a curse that turned everything into stone. She traveled with her horse Snowflake and faced many dangers. In the enchanted forest, a unicorn guided her to a mountain. At the top, she fought a griffin and proved her bravery. She took the Healing Crystal and returned home, saving the kingdom. Everyone celebrated her courage and kindness."
+    },
+    {
+      "type": "turning_point",
+      "summary": "She defeats the griffin and claims the crystal.",
+      "text": "At the mountain peak, Lady Seraphina fought the griffin and won, proving her bravery and earning the Healing Crystal.",
+      "image_prompt": "knight battling griffin on mountain peak epic cartoon style",
+      "story": "Lady Seraphina was a brave knight who set out to save her kingdom from a curse that turned everything into stone. She traveled with her horse Snowflake and faced many dangers. In the enchanted forest, a unicorn guided her to a mountain. At the top, she fought a griffin and proved her bravery. She took the Healing Crystal and returned home, saving the kingdom. Everyone celebrated her courage and kindness."
+    },
+    {
+      "type": "resolution",
+      "summary": "She returns and saves the kingdom.",
+      "text": "Lady Seraphina used the crystal to break the curse, restoring the kingdom and bringing happiness to everyone.",
+      "image_prompt": "knight holding glowing crystal restoring kingdom people celebrating cartoon style",
+      "story": "Lady Seraphina was a brave knight who set out to save her kingdom from a curse that turned everything into stone. She traveled with her horse Snowflake and faced many dangers. In the enchanted forest, a unicorn guided her to a mountain. At the top, she fought a griffin and proved her bravery. She took the Healing Crystal and returned home, saving the kingdom. Everyone celebrated her courage and kindness."
+    }
+  ]
+}

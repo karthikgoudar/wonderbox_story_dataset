@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000056",
+  "title": "Garden Friendship Treasure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Mia", "Lola", "Nora", "Zoe"],
+  "word_count": 612,
+  "moral": "Friendship grows when shared with kindness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Four friends find a map and begin a treasure hunt in the garden.",
+      "text": "Mia, Lola, Nora, and Zoe find a treasure map in the garden and decide to follow it together with excitement.",
+      "image_prompt": "four little girls in a colorful garden holding a treasure map smiling cartoon style",
+      "story": "Mia, Lola, Nora, and Zoe found a treasure map in the garden. They followed clues at the slide, apple tree, and fountain. Working together, they solved puzzles and opened a wooden box. Inside were friendship bracelets and a message to share and stay together. They made a friendship pact and realized their bond was the true treasure."
+    },
+    {
+      "type": "conflict",
+      "summary": "They face small challenges while solving clues.",
+      "text": "The girls must solve clues by clapping, pressing a button, and listening carefully to find the next steps.",
+      "image_prompt": "children solving treasure clues near slide and tree cartoon style",
+      "story": "Mia, Lola, Nora, and Zoe found a treasure map in the garden. They followed clues at the slide, apple tree, and fountain. Working together, they solved puzzles and opened a wooden box. Inside were friendship bracelets and a message to share and stay together. They made a friendship pact and realized their bond was the true treasure."
+    },
+    {
+      "type": "journey",
+      "summary": "They follow clues through the garden locations.",
+      "text": "They move from the slide to the apple tree and then to the fountain, helping each other along the way.",
+      "image_prompt": "kids walking through garden following clues teamwork cartoon style",
+      "story": "Mia, Lola, Nora, and Zoe found a treasure map in the garden. They followed clues at the slide, apple tree, and fountain. Working together, they solved puzzles and opened a wooden box. Inside were friendship bracelets and a message to share and stay together. They made a friendship pact and realized their bond was the true treasure."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They unlock the treasure box using teamwork.",
+      "text": "By showing bravery, kindness, and teamwork, they unlock the wooden box together.",
+      "image_prompt": "kids opening treasure box together glowing bracelets cartoon style",
+      "story": "Mia, Lola, Nora, and Zoe found a treasure map in the garden. They followed clues at the slide, apple tree, and fountain. Working together, they solved puzzles and opened a wooden box. Inside were friendship bracelets and a message to share and stay together. They made a friendship pact and realized their bond was the true treasure."
+    },
+    {
+      "type": "resolution",
+      "summary": "They realize friendship is the real treasure.",
+      "text": "They wear friendship bracelets and promise to always help and stay together.",
+      "image_prompt": "children wearing friendship bracelets holding hands happy garden cartoon style",
+      "story": "Mia, Lola, Nora, and Zoe found a treasure map in the garden. They followed clues at the slide, apple tree, and fountain. Working together, they solved puzzles and opened a wooden box. Inside were friendship bracelets and a message to share and stay together. They made a friendship pact and realized their bond was the true treasure."
+    }
+  ]
+}

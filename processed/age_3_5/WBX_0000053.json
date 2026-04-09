@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000053",
+  "title": "Stormy Rescue",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Captain Jack", "crew"],
+  "word_count": 260,
+  "moral": "Being brave and helping others is important.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack sails to help a ship in trouble.",
+      "text": "Captain Jack and his crew set out to help a ship that needed rescue.",
+      "image_prompt": "pirate captain spotting ship in trouble ocean cartoon style",
+      "story": "Captain Jack sailed to rescue a ship in trouble. A storm came, but he stayed brave and led his crew through it. They rescued everyone safely and returned home as heroes. Captain Jack reminded everyone that being brave and kind is most important."
+    },
+    {
+      "type": "conflict",
+      "summary": "A storm makes the rescue dangerous.",
+      "text": "Strong winds and waves made the journey difficult during the storm.",
+      "image_prompt": "storm waves pirate ship danger lightning cartoon style",
+      "story": "Captain Jack sailed to rescue a ship in trouble. A storm came, but he stayed brave and led his crew through it. They rescued everyone safely and returned home as heroes. Captain Jack reminded everyone that being brave and kind is most important."
+    },
+    {
+      "type": "journey",
+      "summary": "The crew works together to sail through the storm.",
+      "text": "The crew worked together and followed Captain Jack’s lead through the storm.",
+      "image_prompt": "crew teamwork sailing ship through storm cartoon style",
+      "story": "Captain Jack sailed to rescue a ship in trouble. A storm came, but he stayed brave and led his crew through it. They rescued everyone safely and returned home as heroes. Captain Jack reminded everyone that being brave and kind is most important."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They rescue the people from the ship.",
+      "text": "Captain Jack and his crew saved the people and brought them safely aboard.",
+      "image_prompt": "pirates rescuing people from ship ocean cartoon style",
+      "story": "Captain Jack sailed to rescue a ship in trouble. A storm came, but he stayed brave and led his crew through it. They rescued everyone safely and returned home as heroes. Captain Jack reminded everyone that being brave and kind is most important."
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home after the rescue.",
+      "text": "The storm passed and they returned home safely, proud of their actions.",
+      "image_prompt": "pirate ship returning calm sea sunset cartoon style",
+      "story": "Captain Jack sailed to rescue a ship in trouble. A storm came, but he stayed brave and led his crew through it. They rescued everyone safely and returned home as heroes. Captain Jack reminded everyone that being brave and kind is most important."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000054",
+  "title": "Treasure Tides Quest",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Captain Finley", "Polly", "Bella", "Captain Grump"],
+  "word_count": 320,
+  "moral": "Teamwork and sharing bring happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Finley sets out to find a golden treasure.",
+      "text": "Captain Finley and his friends set sail to find the legendary Golden Treasure.",
+      "image_prompt": "pirate captain with friends sailing adventure cartoon style",
+      "story": "Captain Finley and his friends set out to find treasure. A storm came, but they worked together and reached an island. They met Captain Grump and solved the problem together. They found the treasure chest filled with gold and jewels. They shared it happily and continued their adventures as friends."
+    },
+    {
+      "type": "conflict",
+      "summary": "A storm and a rival pirate challenge them.",
+      "text": "A storm and a pirate named Captain Grump made their journey difficult.",
+      "image_prompt": "storm and pirate rival confrontation cartoon style",
+      "story": "Captain Finley and his friends set out to find treasure. A storm came, but they worked together and reached an island. They met Captain Grump and solved the problem together. They found the treasure chest filled with gold and jewels. They shared it happily and continued their adventures as friends."
+    },
+    {
+      "type": "journey",
+      "summary": "They work together and reach the island.",
+      "text": "They sailed through the storm and reached the island safely.",
+      "image_prompt": "pirate ship reaching island after storm teamwork cartoon style",
+      "story": "Captain Finley and his friends set out to find treasure. A storm came, but they worked together and reached an island. They met Captain Grump and solved the problem together. They found the treasure chest filled with gold and jewels. They shared it happily and continued their adventures as friends."
+    },
+    {
+      "type": "turning_point",
+      "summary": "They defeat the challenge and find the treasure.",
+      "text": "They solved the conflict and found a chest full of treasure.",
+      "image_prompt": "pirates opening treasure chest gold cartoon style",
+      "story": "Captain Finley and his friends set out to find treasure. A storm came, but they worked together and reached an island. They met Captain Grump and solved the problem together. They found the treasure chest filled with gold and jewels. They shared it happily and continued their adventures as friends."
+    },
+    {
+      "type": "resolution",
+      "summary": "They share the treasure and stay friends.",
+      "text": "They shared the treasure and celebrated their teamwork and friendship.",
+      "image_prompt": "pirates celebrating treasure friendship cartoon style",
+      "story": "Captain Finley and his friends set out to find treasure. A storm came, but they worked together and reached an island. They met Captain Grump and solved the problem together. They found the treasure chest filled with gold and jewels. They shared it happily and continued their adventures as friends."
+    }
+  ]
+}

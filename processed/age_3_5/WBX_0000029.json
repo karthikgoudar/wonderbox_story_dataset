@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000029",
+  "title": "Chalk Hearts on the Prairie",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Tommy", "Dusty", "Mei", "Joe"],
+  "word_count": 365,
+  "moral": "Kind actions can bring people together.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Tommy rides across the prairie with his horse Dusty and loves drawing with chalk.",
+      "text": "Tommy the cowboy rode his gentle horse Dusty across the wide warm plains and carried bright chalk to draw happy marks.",
+      "image_prompt": "cowboy riding horse across sunny prairie holding chalk, colorful cartoon children's book style",
+      "story": "Tommy the cowboy rode his gentle horse Dusty across the wide warm plains. The sun was gold. The grass was soft. Tommy smiled and greeted the sky and wind. He had a small box in his saddle with bright chalk. He loved drawing on rocks to share happiness. One day he met travelers, a mother, father, and a girl named Mei. Mei watched Tommy draw and asked to try. Together they drew hearts, stars, and shapes. Later Tommy met an old rancher named Joe. They did not speak the same words but shared smiles and chalk drawings. They became friends. Soon a herd of sheep crossed their path. Tommy and his friends helped guide them gently and calmly. As evening came they reached a canyon. Tommy drew a map with a big heart on a rock. Mei added stars and Joe added a circle. They shared food and stories. Before leaving Tommy drew a final promise to be kind and brave. He rode away leaving bright marks and happy memories."
+    },
+    {
+      "type": "conflict",
+      "summary": "Tommy meets new people who speak different languages but must find a way to connect.",
+      "text": "Tommy met people who spoke different words but they needed to understand each other.",
+      "image_prompt": "cowboy and people smiling and gesturing with chalk drawings, colorful cartoon children's book style",
+      "story": "Tommy the cowboy rode his gentle horse Dusty across the wide warm plains. The sun was gold. The grass was soft. Tommy smiled and greeted the sky and wind. He had a small box in his saddle with bright chalk. He loved drawing on rocks to share happiness. One day he met travelers, a mother, father, and a girl named Mei. Mei watched Tommy draw and asked to try. Together they drew hearts, stars, and shapes. Later Tommy met an old rancher named Joe. They did not speak the same words but shared smiles and chalk drawings. They became friends. Soon a herd of sheep crossed their path. Tommy and his friends helped guide them gently and calmly. As evening came they reached a canyon. Tommy drew a map with a big heart on a rock. Mei added stars and Joe added a circle. They shared food and stories. Before leaving Tommy drew a final promise to be kind and brave. He rode away leaving bright marks and happy memories."
+    },
+    {
+      "type": "journey",
+      "summary": "Tommy travels across the plains making friends and sharing drawings.",
+      "text": "Tommy rode with Dusty meeting people and drawing colorful pictures to spread joy.",
+      "image_prompt": "cowboy and child drawing on rocks with chalk, colorful cartoon children's book style",
+      "story": "Tommy the cowboy rode his gentle horse Dusty across the wide warm plains. The sun was gold. The grass was soft. Tommy smiled and greeted the sky and wind. He had a small box in his saddle with bright chalk. He loved drawing on rocks to share happiness. One day he met travelers, a mother, father, and a girl named Mei. Mei watched Tommy draw and asked to try. Together they drew hearts, stars, and shapes. Later Tommy met an old rancher named Joe. They did not speak the same words but shared smiles and chalk drawings. They became friends. Soon a herd of sheep crossed their path. Tommy and his friends helped guide them gently and calmly. As evening came they reached a canyon. Tommy drew a map with a big heart on a rock. Mei added stars and Joe added a circle. They shared food and stories. Before leaving Tommy drew a final promise to be kind and brave. He rode away leaving bright marks and happy memories."
+    },
+    {
+      "type": "turning_point",
+      "summary": "Tommy and his friends help guide sheep safely together.",
+      "text": "A herd of sheep crossed the path and Tommy and his friends gently guided them safely.",
+      "image_prompt": "people guiding sheep calmly across prairie, colorful cartoon children's book style",
+      "story": "Tommy the cowboy rode his gentle horse Dusty across the wide warm plains. The sun was gold. The grass was soft. Tommy smiled and greeted the sky and wind. He had a small box in his saddle with bright chalk. He loved drawing on rocks to share happiness. One day he met travelers, a mother, father, and a girl named Mei. Mei watched Tommy draw and asked to try. Together they drew hearts, stars, and shapes. Later Tommy met an old rancher named Joe. They did not speak the same words but shared smiles and chalk drawings. They became friends. Soon a herd of sheep crossed their path. Tommy and his friends helped guide them gently and calmly. As evening came they reached a canyon. Tommy drew a map with a big heart on a rock. Mei added stars and Joe added a circle. They shared food and stories. Before leaving Tommy drew a final promise to be kind and brave. He rode away leaving bright marks and happy memories."
+    },
+    {
+      "type": "resolution",
+      "summary": "Tommy leaves behind kindness and continues his journey happily.",
+      "text": "Tommy left bright chalk marks and rode away knowing he had made the world kinder.",
+      "image_prompt": "cowboy riding into sunset leaving colorful chalk drawings on rocks, colorful cartoon children's book style",
+      "story": "Tommy the cowboy rode his gentle horse Dusty across the wide warm plains. The sun was gold. The grass was soft. Tommy smiled and greeted the sky and wind. He had a small box in his saddle with bright chalk. He loved drawing on rocks to share happiness. One day he met travelers, a mother, father, and a girl named Mei. Mei watched Tommy draw and asked to try. Together they drew hearts, stars, and shapes. Later Tommy met an old rancher named Joe. They did not speak the same words but shared smiles and chalk drawings. They became friends. Soon a herd of sheep crossed their path. Tommy and his friends helped guide them gently and calmly. As evening came they reached a canyon. Tommy drew a map with a big heart on a rock. Mei added stars and Joe added a circle. They shared food and stories. Before leaving Tommy drew a final promise to be kind and brave. He rode away leaving bright marks and happy memories."
+    }
+  ]
+}

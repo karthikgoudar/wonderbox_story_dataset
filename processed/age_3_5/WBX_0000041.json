@@ -1,0 +1,49 @@
+{
+  "id": "WBX_0000041",
+  "title": "The Jewel of Friendship",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Sir Cedric", "Toby", "Lady Eleanor", "dragon"],
+  "word_count": 404,
+  "moral": "True treasure is friendship and kindness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Cedric hears about a magical jewel and begins his quest.",
+      "text": "Sir Cedric, a brave and kind knight, heard from his friend Toby about a magical jewel hidden in the Enchanted Forest. With excitement, he decided to go on an adventure with Toby and Lady Eleanor.",
+      "image_prompt": "knight and squire talking about treasure in castle courtyard colorful cartoon style",
+      "story": "Sir Cedric was a brave and kind knight who lived in a beautiful land. One day, his friend Toby told him about a magical jewel hidden in the Enchanted Forest and guarded by a dragon. Sir Cedric, Toby, and Lady Eleanor set out on their journey. In the forest, they met the dragon, who challenged them with a riddle. Sir Cedric solved the riddle, and the dragon allowed them to see the jewel. The dragon explained that the jewel represented friendship and kindness. The group returned home happily, understanding that true treasure is not gold but friendship."
+    },
+    {
+      "type": "conflict",
+      "summary": "They enter the forest and encounter the dragon.",
+      "text": "As they entered the Enchanted Forest, they heard a loud roar and saw a giant dragon guarding the treasure. The dragon questioned their intentions.",
+      "image_prompt": "dragon facing knight and friends in magical forest colorful children illustration",
+      "story": "Sir Cedric was a brave and kind knight who lived in a beautiful land. One day, his friend Toby told him about a magical jewel hidden in the Enchanted Forest and guarded by a dragon. Sir Cedric, Toby, and Lady Eleanor set out on their journey. In the forest, they met the dragon, who challenged them with a riddle. Sir Cedric solved the riddle, and the dragon allowed them to see the jewel. The dragon explained that the jewel represented friendship and kindness. The group returned home happily, understanding that true treasure is not gold but friendship."
+    },
+    {
+      "type": "journey",
+      "summary": "The dragon challenges them with a riddle.",
+      "text": "The dragon gave them a riddle to solve. Sir Cedric thought carefully while Toby encouraged him to find the answer.",
+      "image_prompt": "knight thinking while dragon asks riddle forest magical scene cartoon style",
+      "story": "Sir Cedric was a brave and kind knight who lived in a beautiful land. One day, his friend Toby told him about a magical jewel hidden in the Enchanted Forest and guarded by a dragon. Sir Cedric, Toby, and Lady Eleanor set out on their journey. In the forest, they met the dragon, who challenged them with a riddle. Sir Cedric solved the riddle, and the dragon allowed them to see the jewel. The dragon explained that the jewel represented friendship and kindness. The group returned home happily, understanding that true treasure is not gold but friendship."
+    },
+    {
+      "type": "turning_point",
+      "summary": "Sir Cedric solves the riddle and gains the dragon’s trust.",
+      "text": "Sir Cedric answered the riddle correctly, showing his wisdom. The dragon was pleased and allowed them to see the magical jewel.",
+      "image_prompt": "dragon smiling at knight after solving riddle glowing cave treasure cartoon style",
+      "story": "Sir Cedric was a brave and kind knight who lived in a beautiful land. One day, his friend Toby told him about a magical jewel hidden in the Enchanted Forest and guarded by a dragon. Sir Cedric, Toby, and Lady Eleanor set out on their journey. In the forest, they met the dragon, who challenged them with a riddle. Sir Cedric solved the riddle, and the dragon allowed them to see the jewel. The dragon explained that the jewel represented friendship and kindness. The group returned home happily, understanding that true treasure is not gold but friendship."
+    },
+    {
+      "type": "resolution",
+      "summary": "They learn the true meaning of the treasure and return home.",
+      "text": "The dragon revealed that the jewel symbolized friendship and kindness. Sir Cedric and his friends returned home happily, understanding the true treasure.",
+      "image_prompt": "friends walking home happily with glowing jewel colorful cartoon style",
+      "story": "Sir Cedric was a brave and kind knight who lived in a beautiful land. One day, his friend Toby told him about a magical jewel hidden in the Enchanted Forest and guarded by a dragon. Sir Cedric, Toby, and Lady Eleanor set out on their journey. In the forest, they met the dragon, who challenged them with a riddle. Sir Cedric solved the riddle, and the dragon allowed them to see the jewel. The dragon explained that the jewel represented friendship and kindness. The group returned home happily, understanding that true treasure is not gold but friendship."
+    }
+  ]
+}
