@@ -1,45 +1,50 @@
 {
-  "id": "WBX_0000016",
-  "title": "My Family",
-  "source": "freekidsbooks",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "family love",
-  "characters": ["Mommy", "Daddy", "me", "Tiny"],
-  "word_count": 52,
-  "moral": "Family love grows with kindness and care.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "A child introduces their family members.",
-      "text": "This is my family. Mommy, Daddy, and me!",
-      "image_prompt": "happy cartoon family with mommy daddy and child smiling together colorful children's book style"
-    },
-    {
-      "type": "conflict",
-      "summary": "The child learns that a new baby is coming.",
-      "text": "Mommy is going to have a baby.",
-      "image_prompt": "pregnant mommy with child looking curious and happy bright cartoon style"
-    },
-    {
-      "type": "journey",
-      "summary": "The baby arrives and the child meets their new sister Tiny.",
-      "text": "She brings home a new baby sister. \"This is Tiny,\" says Daddy.",
-      "image_prompt": "family welcoming a newborn baby sister at home joyful colorful cartoon illustration"
-    },
-    {
-      "type": "turning_point",
-      "summary": "The child wonders about the baby and learns that the baby likes them.",
-      "text": "\"Does she like big trucks?\" I ask. \"Tiny likes you,\" says Mommy.",
-      "image_prompt": "child asking parents about baby while imagining toy trucks bright playful cartoon scene"
-    },
-    {
-      "type": "resolution",
-      "summary": "The child plays with the baby and expresses love for Tiny.",
-      "text": "I act silly for Tiny. Tiny smiles. I love Tiny.",
-      "image_prompt": "child making funny faces to make baby laugh heartwarming colorful cartoon illustration"
-    }
-  ],
-  "story": "This is my family. Mommy, Daddy, and me! Mommy is going to have a baby. She brings home a new baby sister. \"This is Tiny,\" says Daddy. \"Does she like big trucks?\" I ask. \"Tiny likes you,\" says Mommy. I act silly for Tiny. Tiny smiles. I love Tiny."
+    "id": "WBX_0000016",
+    "title": "My Family",
+    "source": "freekidsbooks",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "family love",
+    "characters": [
+        "Mommy",
+        "Daddy",
+        "me",
+        "Tiny"
+    ],
+    "word_count": 52,
+    "moral": "Family love grows with kindness and care.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "A child introduces their family members.",
+            "text": "This is my family. Mommy, Daddy, and me!",
+            "image_prompt": "happy cartoon family with mommy daddy and child smiling together colorful children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "The child learns that a new baby is coming.",
+            "text": "Mommy is going to have a baby.",
+            "image_prompt": "pregnant mommy with child looking curious and happy bright cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "The baby arrives and the child meets their new sister Tiny.",
+            "text": "She brings home a new baby sister. \"This is Tiny,\" says Daddy.",
+            "image_prompt": "family welcoming a newborn baby sister at home joyful colorful cartoon illustration"
+        },
+        {
+            "type": "turning_point",
+            "summary": "The child wonders about the baby and learns that the baby likes them.",
+            "text": "\"Does she like big trucks?\" I ask. \"Tiny likes you,\" says Mommy.",
+            "image_prompt": "child asking parents about baby while imagining toy trucks bright playful cartoon scene"
+        },
+        {
+            "type": "resolution",
+            "summary": "The child plays with the baby and expresses love for Tiny.",
+            "text": "I act silly for Tiny. Tiny smiles. I love Tiny.",
+            "image_prompt": "child making funny faces to make baby laugh heartwarming colorful cartoon illustration"
+        }
+    ],
+    "story": "This is my family. Mommy, Daddy, and me! Mommy is going to have a baby. She brings home a new baby sister. \"This is Tiny,\" says Daddy. \"Does she like big trucks?\" I ask. \"Tiny likes you,\" says Mommy. I act silly for Tiny. Tiny smiles. I love Tiny."
 }

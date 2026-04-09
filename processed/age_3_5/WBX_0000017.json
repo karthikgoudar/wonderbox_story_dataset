@@ -1,45 +1,52 @@
 {
-  "id": "WBX_0000017",
-  "title": "Ginger the Giraffe",
-  "source": "freekidsbooks",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "elementary",
-  "theme": "helping others",
-  "characters": ["Ginger", "Mickey", "Leo", "zebras", "antelopes", "animals"],
-  "word_count": 330,
-  "moral": "Helping others and working together can overcome difficult problems.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Ginger the giraffe lives in the savannah and eats leaves from tall trees.",
-      "text": "Once upon a time, there was a giraffe named Ginger. Ginger lived in Africa. She had a long neck and long legs. She could eat leaves from the tops of tall trees. Other animals could not reach as high as Ginger.",
-      "image_prompt": "tall giraffe eating leaves from tree in African savannah with other animals watching, colorful cartoon style"
-    },
-    {
-      "type": "conflict",
-      "summary": "A drought leaves the land dry and Mickey the monkey becomes very hungry.",
-      "text": "One day, the land was very dry because it had not rained. Ginger met her friend Mickey the monkey. Mickey was very tired and hungry. He fell down because he had no food to eat.",
-      "image_prompt": "dry savannah with tired monkey collapsing near giraffe under hot sun, colorful cartoon illustration"
-    },
-    {
-      "type": "journey",
-      "summary": "Ginger helps Mickey and they go to ask Leo the lion for advice.",
-      "text": "Ginger gave Mickey some leaves to eat. Mickey felt better. They decided to ask Leo the lion for help. Mickey rode on Ginger’s back and they walked across the savannah to find Leo.",
-      "image_prompt": "giraffe carrying monkey across savannah toward lion on rock, bright cartoon children's illustration"
-    },
-    {
-      "type": "turning_point",
-      "summary": "All the animals start moving together but a fire suddenly breaks out.",
-      "text": "Leo told them to move closer to the forest for food. All the animals began to travel together. Suddenly, lightning started a fire in the dry grass. The fire spread quickly and the animals were scared.",
-      "image_prompt": "animals running from fire in savannah with flames and lightning, dramatic colorful cartoon style"
-    },
-    {
-      "type": "resolution",
-      "summary": "Ginger leads everyone to safety and rain finally brings food back.",
-      "text": "Ginger used her height to find a safe path. She led all the animals away from the fire. Soon, rain began to fall and put out the fire. The plants grew again and there was food for everyone. All the animals were happy.",
-      "image_prompt": "rain falling on savannah animals safe and happy with giraffe leading, colorful cartoon illustration"
-    }
-  ],
-  "story": "Once upon a time, there was a giraffe named Ginger. Ginger lived in Africa. She had a long neck and long legs. She could eat leaves from the tops of tall trees. Other animals could not reach as high as Ginger. One day, the land was very dry because it had not rained. Ginger met her friend Mickey the monkey. Mickey was very tired and hungry. He fell down because he had no food to eat. Ginger gave Mickey some leaves to eat. Mickey felt better. They decided to ask Leo the lion for help. Mickey rode on Ginger’s back and they walked across the savannah to find Leo. Leo told them to move closer to the forest for food. All the animals began to travel together. Suddenly, lightning started a fire in the dry grass. The fire spread quickly and the animals were scared. Ginger used her height to find a safe path. She led all the animals away from the fire. Soon, rain began to fall and put out the fire. The plants grew again and there was food for everyone. All the animals were happy."
+    "id": "WBX_0000017",
+    "title": "Ginger the Giraffe",
+    "source": "freekidsbooks",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "elementary",
+    "theme": "helping others",
+    "characters": [
+        "Ginger",
+        "Mickey",
+        "Leo",
+        "zebras",
+        "antelopes",
+        "animals"
+    ],
+    "word_count": 330,
+    "moral": "Helping others and working together can overcome difficult problems.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Ginger the giraffe lives in the savannah and eats leaves from tall trees.",
+            "text": "Once upon a time, there was a giraffe named Ginger. Ginger lived in Africa. She had a long neck and long legs. She could eat leaves from the tops of tall trees. Other animals could not reach as high as Ginger.",
+            "image_prompt": "tall giraffe eating leaves from tree in African savannah with other animals watching, colorful cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "A drought leaves the land dry and Mickey the monkey becomes very hungry.",
+            "text": "One day, the land was very dry because it had not rained. Ginger met her friend Mickey the monkey. Mickey was very tired and hungry. He fell down because he had no food to eat.",
+            "image_prompt": "dry savannah with tired monkey collapsing near giraffe under hot sun, colorful cartoon illustration"
+        },
+        {
+            "type": "journey",
+            "summary": "Ginger helps Mickey and they go to ask Leo the lion for advice.",
+            "text": "Ginger gave Mickey some leaves to eat. Mickey felt better. They decided to ask Leo the lion for help. Mickey rode on Ginger’s back and they walked across the savannah to find Leo.",
+            "image_prompt": "giraffe carrying monkey across savannah toward lion on rock, bright cartoon children's illustration"
+        },
+        {
+            "type": "turning_point",
+            "summary": "All the animals start moving together but a fire suddenly breaks out.",
+            "text": "Leo told them to move closer to the forest for food. All the animals began to travel together. Suddenly, lightning started a fire in the dry grass. The fire spread quickly and the animals were scared.",
+            "image_prompt": "animals running from fire in savannah with flames and lightning, dramatic colorful cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "Ginger leads everyone to safety and rain finally brings food back.",
+            "text": "Ginger used her height to find a safe path. She led all the animals away from the fire. Soon, rain began to fall and put out the fire. The plants grew again and there was food for everyone. All the animals were happy.",
+            "image_prompt": "rain falling on savannah animals safe and happy with giraffe leading, colorful cartoon illustration"
+        }
+    ],
+    "story": "Once upon a time, there was a giraffe named Ginger. Ginger lived in Africa. She had a long neck and long legs. She could eat leaves from the tops of tall trees. Other animals could not reach as high as Ginger. One day, the land was very dry because it had not rained. Ginger met her friend Mickey the monkey. Mickey was very tired and hungry. He fell down because he had no food to eat. Ginger gave Mickey some leaves to eat. Mickey felt better. They decided to ask Leo the lion for help. Mickey rode on Ginger’s back and they walked across the savannah to find Leo. Leo told them to move closer to the forest for food. All the animals began to travel together. Suddenly, lightning started a fire in the dry grass. The fire spread quickly and the animals were scared. Ginger used her height to find a safe path. She led all the animals away from the fire. Soon, rain began to fall and put out the fire. The plants grew again and there was food for everyone. All the animals were happy."
 }

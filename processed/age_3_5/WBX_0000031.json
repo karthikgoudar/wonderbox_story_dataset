@@ -1,49 +1,49 @@
 {
-  "id": "WBX_0000031",
-  "title": "The Squeaky Saloon",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "helpfulness",
-  "characters": ["Sheriff Sam", "Farmer Joe", "townsfolk"],
-  "word_count": 180,
-  "moral": "Even small help can make a big difference.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Sheriff Sam lives in a town with a squeaky saloon door.",
-      "text": "In Sunny Creek the saloon door squeaked loudly every time it opened.",
-      "image_prompt": "cowboy sheriff standing near squeaky door in town, colorful cartoon children's book style",
-      "story": "In the town of Sunny Creek there was a saloon with a squeaky door. Sheriff Sam was kind and brave. He wanted to fix the noisy door. He walked around town looking for oil but could not find any. Then he met Farmer Joe who had some oil. Farmer Joe gave it to him kindly. Sheriff Sam went back and oiled the door. The door became quiet. Everyone cheered and thanked him. Sheriff Sam smiled and said he was just doing his job. The town became peaceful and happy again."
-    },
-    {
-      "type": "conflict",
-      "summary": "The saloon door makes loud noise and needs fixing.",
-      "text": "The door squeaks and creaks every time it opens.",
-      "image_prompt": "noisy wooden saloon door squeaking loudly, colorful cartoon children's book style",
-      "story": "In the town of Sunny Creek there was a saloon with a squeaky door. Sheriff Sam was kind and brave. He wanted to fix the noisy door. He walked around town looking for oil but could not find any. Then he met Farmer Joe who had some oil. Farmer Joe gave it to him kindly. Sheriff Sam went back and oiled the door. The door became quiet. Everyone cheered and thanked him. Sheriff Sam smiled and said he was just doing his job. The town became peaceful and happy again."
-    },
-    {
-      "type": "journey",
-      "summary": "Sheriff Sam searches around town for oil.",
-      "text": "He visits different places but cannot find the oil he needs.",
-      "image_prompt": "sheriff walking through small town shops searching, colorful cartoon children's book style",
-      "story": "In the town of Sunny Creek there was a saloon with a squeaky door. Sheriff Sam was kind and brave. He wanted to fix the noisy door. He walked around town looking for oil but could not find any. Then he met Farmer Joe who had some oil. Farmer Joe gave it to him kindly. Sheriff Sam went back and oiled the door. The door became quiet. Everyone cheered and thanked him. Sheriff Sam smiled and said he was just doing his job. The town became peaceful and happy again."
-    },
-    {
-      "type": "turning_point",
-      "summary": "Farmer Joe gives Sheriff Sam the oil needed.",
-      "text": "Farmer Joe shares oil so the door can be fixed.",
-      "image_prompt": "farmer giving small bottle to sheriff smiling, colorful cartoon children's book style",
-      "story": "In the town of Sunny Creek there was a saloon with a squeaky door. Sheriff Sam was kind and brave. He wanted to fix the noisy door. He walked around town looking for oil but could not find any. Then he met Farmer Joe who had some oil. Farmer Joe gave it to him kindly. Sheriff Sam went back and oiled the door. The door became quiet. Everyone cheered and thanked him. Sheriff Sam smiled and said he was just doing his job. The town became peaceful and happy again."
-    },
-    {
-      "type": "resolution",
-      "summary": "The door becomes quiet and the town is happy.",
-      "text": "The door no longer squeaks and everyone feels happy.",
-      "image_prompt": "quiet saloon door with happy townspeople clapping, colorful cartoon children's book style",
-      "story": "In the town of Sunny Creek there was a saloon with a squeaky door. Sheriff Sam was kind and brave. He wanted to fix the noisy door. He walked around town looking for oil but could not find any. Then he met Farmer Joe who had some oil. Farmer Joe gave it to him kindly. Sheriff Sam went back and oiled the door. The door became quiet. Everyone cheered and thanked him. Sheriff Sam smiled and said he was just doing his job. The town became peaceful and happy again."
-    }
-  ]
+    "id": "WBX_0000031",
+    "title": "The Squeaky Saloon",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "helpfulness",
+    "characters": [
+        "Sheriff Sam",
+        "Farmer Joe",
+        "townsfolk"
+    ],
+    "word_count": 180,
+    "moral": "Even small help can make a big difference.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Sheriff Sam lives in a town with a squeaky saloon door.",
+            "text": "In Sunny Creek the saloon door squeaked loudly every time it opened.",
+            "image_prompt": "cowboy sheriff standing near squeaky door in town, colorful cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "The saloon door makes loud noise and needs fixing.",
+            "text": "The door squeaks and creaks every time it opens.",
+            "image_prompt": "noisy wooden saloon door squeaking loudly, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "Sheriff Sam searches around town for oil.",
+            "text": "He visits different places but cannot find the oil he needs.",
+            "image_prompt": "sheriff walking through small town shops searching, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Farmer Joe gives Sheriff Sam the oil needed.",
+            "text": "Farmer Joe shares oil so the door can be fixed.",
+            "image_prompt": "farmer giving small bottle to sheriff smiling, colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "The door becomes quiet and the town is happy.",
+            "text": "The door no longer squeaks and everyone feels happy.",
+            "image_prompt": "quiet saloon door with happy townspeople clapping, colorful cartoon children's book style"
+        }
+    ],
+    "story": "In Sunny Creek the saloon door squeaked loudly every time it opened. The door squeaks and creaks every time it opens. He visits different places but cannot find the oil he needs. Farmer Joe shares oil so the door can be fixed. The door no longer squeaks and everyone feels happy."
 }

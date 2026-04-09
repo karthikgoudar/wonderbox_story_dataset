@@ -1,49 +1,50 @@
 {
-  "id": "WBX_0000034",
-  "title": "Sam’s Prairie Adventure",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "perseverance",
-  "characters": ["Sam", "Dusty", "children", "prairie dogs"],
-  "word_count": 420,
-  "moral": "Be brave, be smart, and never give up.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Sam rides his horse Dusty across the prairie with a mission.",
-      "text": "Sam rides his horse Dusty across the bright prairie carrying marbles for children in the next town.",
-      "image_prompt": "cowboy riding horse across golden prairie with blue sky, colorful cartoon children's book style",
-      "story": "The sun was bright over the wide golden prairie. Sam the cowboy rode his brown horse Dusty. Sam wore a big hat red scarf and shiny boots. He liked to sing as he rode. He was going to the next town to bring a bag of shiny marbles for the children. Sam and Dusty rode along the dusty path. They saw cacti flowers and prairie dogs. After a while Sam saw a deep rocky cliff. The path looked broken and unsafe. Sam stopped and remembered to be brave and smart. He searched for another way. He found a hidden path through tall grass. He carefully led Dusty along the narrow path. A rock blocked the way so Sam pushed it away with effort. They continued slowly and safely. Soon they reached the safe path again. Sam and Dusty arrived in town where children welcomed them happily. Sam gave each child a marble. The children laughed and played. Sam felt proud for being brave and not giving up. As the sun set Sam and Dusty rested happily under the sky."
-    },
-    {
-      "type": "conflict",
-      "summary": "Sam encounters a dangerous broken cliff path.",
-      "text": "Sam finds the path broken near a cliff and realizes it is unsafe to continue.",
-      "image_prompt": "cowboy and horse stopping near dangerous cliff edge, colorful cartoon children's book style",
-      "story": "The sun was bright over the wide golden prairie. Sam the cowboy rode his brown horse Dusty. Sam wore a big hat red scarf and shiny boots. He liked to sing as he rode. He was going to the next town to bring a bag of shiny marbles for the children. Sam and Dusty rode along the dusty path. They saw cacti flowers and prairie dogs. After a while Sam saw a deep rocky cliff. The path looked broken and unsafe. Sam stopped and remembered to be brave and smart. He searched for another way. He found a hidden path through tall grass. He carefully led Dusty along the narrow path. A rock blocked the way so Sam pushed it away with effort. They continued slowly and safely. Soon they reached the safe path again. Sam and Dusty arrived in town where children welcomed them happily. Sam gave each child a marble. The children laughed and played. Sam felt proud for being brave and not giving up. As the sun set Sam and Dusty rested happily under the sky."
-    },
-    {
-      "type": "journey",
-      "summary": "Sam searches carefully for a safer path.",
-      "text": "Sam finds a hidden path and slowly leads Dusty through it.",
-      "image_prompt": "cowboy leading horse through tall grass narrow path, colorful cartoon children's book style",
-      "story": "The sun was bright over the wide golden prairie. Sam the cowboy rode his brown horse Dusty. Sam wore a big hat red scarf and shiny boots. He liked to sing as he rode. He was going to the next town to bring a bag of shiny marbles for the children. Sam and Dusty rode along the dusty path. They saw cacti flowers and prairie dogs. After a while Sam saw a deep rocky cliff. The path looked broken and unsafe. Sam stopped and remembered to be brave and smart. He searched for another way. He found a hidden path through tall grass. He carefully led Dusty along the narrow path. A rock blocked the way so Sam pushed it away with effort. They continued slowly and safely. Soon they reached the safe path again. Sam and Dusty arrived in town where children welcomed them happily. Sam gave each child a marble. The children laughed and played. Sam felt proud for being brave and not giving up. As the sun set Sam and Dusty rested happily under the sky."
-    },
-    {
-      "type": "turning_point",
-      "summary": "Sam clears a rock blocking the path.",
-      "text": "Sam pushes a big rock away to clear the path forward.",
-      "image_prompt": "cowboy pushing big rock while horse watches, colorful cartoon children's book style",
-      "story": "The sun was bright over the wide golden prairie. Sam the cowboy rode his brown horse Dusty. Sam wore a big hat red scarf and shiny boots. He liked to sing as he rode. He was going to the next town to bring a bag of shiny marbles for the children. Sam and Dusty rode along the dusty path. They saw cacti flowers and prairie dogs. After a while Sam saw a deep rocky cliff. The path looked broken and unsafe. Sam stopped and remembered to be brave and smart. He searched for another way. He found a hidden path through tall grass. He carefully led Dusty along the narrow path. A rock blocked the way so Sam pushed it away with effort. They continued slowly and safely. Soon they reached the safe path again. Sam and Dusty arrived in town where children welcomed them happily. Sam gave each child a marble. The children laughed and played. Sam felt proud for being brave and not giving up. As the sun set Sam and Dusty rested happily under the sky."
-    },
-    {
-      "type": "resolution",
-      "summary": "Sam reaches the town and shares marbles with the children.",
-      "text": "Sam arrives safely and gives marbles to happy children.",
-      "image_prompt": "cowboy giving marbles to happy children in town, colorful cartoon children's book style",
-      "story": "The sun was bright over the wide golden prairie. Sam the cowboy rode his brown horse Dusty. Sam wore a big hat red scarf and shiny boots. He liked to sing as he rode. He was going to the next town to bring a bag of shiny marbles for the children. Sam and Dusty rode along the dusty path. They saw cacti flowers and prairie dogs. After a while Sam saw a deep rocky cliff. The path looked broken and unsafe. Sam stopped and remembered to be brave and smart. He searched for another way. He found a hidden path through tall grass. He carefully led Dusty along the narrow path. A rock blocked the way so Sam pushed it away with effort. They continued slowly and safely. Soon they reached the safe path again. Sam and Dusty arrived in town where children welcomed them happily. Sam gave each child a marble. The children laughed and played. Sam felt proud for being brave and not giving up. As the sun set Sam and Dusty rested happily under the sky."
-    }
-  ]
+    "id": "WBX_0000034",
+    "title": "Sam’s Prairie Adventure",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "perseverance",
+    "characters": [
+        "Sam",
+        "Dusty",
+        "children",
+        "prairie dogs"
+    ],
+    "word_count": 420,
+    "moral": "Be brave, be smart, and never give up.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Sam rides his horse Dusty across the prairie with a mission.",
+            "text": "Sam rides his horse Dusty across the bright prairie carrying marbles for children in the next town.",
+            "image_prompt": "cowboy riding horse across golden prairie with blue sky, colorful cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "Sam encounters a dangerous broken cliff path.",
+            "text": "Sam finds the path broken near a cliff and realizes it is unsafe to continue.",
+            "image_prompt": "cowboy and horse stopping near dangerous cliff edge, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "Sam searches carefully for a safer path.",
+            "text": "Sam finds a hidden path and slowly leads Dusty through it.",
+            "image_prompt": "cowboy leading horse through tall grass narrow path, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Sam clears a rock blocking the path.",
+            "text": "Sam pushes a big rock away to clear the path forward.",
+            "image_prompt": "cowboy pushing big rock while horse watches, colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "Sam reaches the town and shares marbles with the children.",
+            "text": "Sam arrives safely and gives marbles to happy children.",
+            "image_prompt": "cowboy giving marbles to happy children in town, colorful cartoon children's book style"
+        }
+    ],
+    "story": "Sam rides his horse Dusty across the bright prairie carrying marbles for children in the next town. Sam finds the path broken near a cliff and realizes it is unsafe to continue. Sam finds a hidden path and slowly leads Dusty through it. Sam pushes a big rock away to clear the path forward. Sam arrives safely and gives marbles to happy children."
 }

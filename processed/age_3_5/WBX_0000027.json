@@ -1,49 +1,51 @@
 {
-  "id": "WBX_0000027",
-  "title": "Maya and the Cool Spring",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "kindness",
-  "characters": ["Maya", "Dusty", "boy", "mother", "father"],
-  "word_count": 285,
-  "moral": "Helping others with kindness brings happiness.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Maya lives near a river and loves helping people in her town.",
-      "text": "Maya wore a wide hat and rode a small brown horse named Dusty. She lived by a long slow river and loved her town where people came in wagons. She liked to watch them and wanted to help.",
-      "image_prompt": "young cowgirl with horse near river and wagons in sunny field, colorful cartoon children's book style",
-      "story": "Maya wore a wide hat. She rode a small brown horse named Dusty. The sun was warm on her face. The plain was wide and gold. Crows flew high. Blue sky spread like a big sheet. Maya lived by a long slow river. She loved the river. She loved the town at the bend. People came in wagons. They came tired and dusty. Maya saw them from her porch. She wanted to help. One morning she heard wheels. New folks she said. She put on her boots. She took a pitcher and a small wooden cup. Dusty neighed. Lets go said Maya. The road was bumpy. Maya and Dusty rode fast. They crossed a dry field. They jumped a little stream. Maya held the pitcher tight. The sun was hot. Her hat shaded her eyes. She thought of cool water. At the wagons people smiled but looked hot. A boy wiped his brow. A mother had a baby. The father tipped his hat. Maya gave them water to drink. Then a big wind blew. A box fell and Maya helped fix it. The father asked for more water. Maya led them to a spring on a hill. The spring bubbled and she filled the pitcher. They drank and felt happy. They returned to the wagons. Everyone laughed and rested. That night Maya sat on her porch feeling happy because she had helped new friends."
-    },
-    {
-      "type": "conflict",
-      "summary": "New travelers arrive tired and thirsty needing help.",
-      "text": "New people came in wagons looking tired and dusty. They needed water and help on their journey.",
-      "image_prompt": "tired travelers with wagons under hot sun looking thirsty, colorful cartoon children's book style",
-      "story": "Maya wore a wide hat. She rode a small brown horse named Dusty. The sun was warm on her face. The plain was wide and gold. Crows flew high. Blue sky spread like a big sheet. Maya lived by a long slow river. She loved the river. She loved the town at the bend. People came in wagons. They came tired and dusty. Maya saw them from her porch. She wanted to help. One morning she heard wheels. New folks she said. She put on her boots. She took a pitcher and a small wooden cup. Dusty neighed. Lets go said Maya. The road was bumpy. Maya and Dusty rode fast. They crossed a dry field. They jumped a little stream. Maya held the pitcher tight. The sun was hot. Her hat shaded her eyes. She thought of cool water. At the wagons people smiled but looked hot. A boy wiped his brow. A mother had a baby. The father tipped his hat. Maya gave them water to drink. Then a big wind blew. A box fell and Maya helped fix it. The father asked for more water. Maya led them to a spring on a hill. The spring bubbled and she filled the pitcher. They drank and felt happy. They returned to the wagons. Everyone laughed and rested. That night Maya sat on her porch feeling happy because she had helped new friends."
-    },
-    {
-      "type": "journey",
-      "summary": "Maya rides with Dusty carrying water to help the travelers.",
-      "text": "Maya rode quickly with Dusty carrying a pitcher and cup. She crossed fields and streams thinking about helping with cool water.",
-      "image_prompt": "girl riding horse across fields holding water pitcher, colorful cartoon children's book style",
-      "story": "Maya wore a wide hat. She rode a small brown horse named Dusty. The sun was warm on her face. The plain was wide and gold. Crows flew high. Blue sky spread like a big sheet. Maya lived by a long slow river. She loved the river. She loved the town at the bend. People came in wagons. They came tired and dusty. Maya saw them from her porch. She wanted to help. One morning she heard wheels. New folks she said. She put on her boots. She took a pitcher and a small wooden cup. Dusty neighed. Lets go said Maya. The road was bumpy. Maya and Dusty rode fast. They crossed a dry field. They jumped a little stream. Maya held the pitcher tight. The sun was hot. Her hat shaded her eyes. She thought of cool water. At the wagons people smiled but looked hot. A boy wiped his brow. A mother had a baby. The father tipped his hat. Maya gave them water to drink. Then a big wind blew. A box fell and Maya helped fix it. The father asked for more water. Maya led them to a spring on a hill. The spring bubbled and she filled the pitcher. They drank and felt happy. They returned to the wagons. Everyone laughed and rested. That night Maya sat on her porch feeling happy because she had helped new friends."
-    },
-    {
-      "type": "turning_point",
-      "summary": "Maya finds a cool spring and fills water for everyone.",
-      "text": "Maya led the travelers to a spring on a hill. The water bubbled and she filled the pitcher with fresh cool water.",
-      "image_prompt": "girl filling pitcher at bubbling spring on hill with flowers, colorful cartoon children's book style",
-      "story": "Maya wore a wide hat. She rode a small brown horse named Dusty. The sun was warm on her face. The plain was wide and gold. Crows flew high. Blue sky spread like a big sheet. Maya lived by a long slow river. She loved the river. She loved the town at the bend. People came in wagons. They came tired and dusty. Maya saw them from her porch. She wanted to help. One morning she heard wheels. New folks she said. She put on her boots. She took a pitcher and a small wooden cup. Dusty neighed. Lets go said Maya. The road was bumpy. Maya and Dusty rode fast. They crossed a dry field. They jumped a little stream. Maya held the pitcher tight. The sun was hot. Her hat shaded her eyes. She thought of cool water. At the wagons people smiled but looked hot. A boy wiped his brow. A mother had a baby. The father tipped his hat. Maya gave them water to drink. Then a big wind blew. A box fell and Maya helped fix it. The father asked for more water. Maya led them to a spring on a hill. The spring bubbled and she filled the pitcher. They drank and felt happy. They returned to the wagons. Everyone laughed and rested. That night Maya sat on her porch feeling happy because she had helped new friends."
-    },
-    {
-      "type": "resolution",
-      "summary": "The travelers are happy and Maya feels proud after helping them.",
-      "text": "The people drank water and felt better. They thanked Maya. That night Maya felt happy because she had helped new friends.",
-      "image_prompt": "happy people resting with water at sunset while girl sits peacefully, colorful cartoon children's book style",
-      "story": "Maya wore a wide hat. She rode a small brown horse named Dusty. The sun was warm on her face. The plain was wide and gold. Crows flew high. Blue sky spread like a big sheet. Maya lived by a long slow river. She loved the river. She loved the town at the bend. People came in wagons. They came tired and dusty. Maya saw them from her porch. She wanted to help. One morning she heard wheels. New folks she said. She put on her boots. She took a pitcher and a small wooden cup. Dusty neighed. Lets go said Maya. The road was bumpy. Maya and Dusty rode fast. They crossed a dry field. They jumped a little stream. Maya held the pitcher tight. The sun was hot. Her hat shaded her eyes. She thought of cool water. At the wagons people smiled but looked hot. A boy wiped his brow. A mother had a baby. The father tipped his hat. Maya gave them water to drink. Then a big wind blew. A box fell and Maya helped fix it. The father asked for more water. Maya led them to a spring on a hill. The spring bubbled and she filled the pitcher. They drank and felt happy. They returned to the wagons. Everyone laughed and rested. That night Maya sat on her porch feeling happy because she had helped new friends."
-    }
-  ]
+    "id": "WBX_0000027",
+    "title": "Maya and the Cool Spring",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "kindness",
+    "characters": [
+        "Maya",
+        "Dusty",
+        "boy",
+        "mother",
+        "father"
+    ],
+    "word_count": 285,
+    "moral": "Helping others with kindness brings happiness.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Maya lives near a river and loves helping people in her town.",
+            "text": "Maya wore a wide hat and rode a small brown horse named Dusty. She lived by a long slow river and loved her town where people came in wagons. She liked to watch them and wanted to help.",
+            "image_prompt": "young cowgirl with horse near river and wagons in sunny field, colorful cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "New travelers arrive tired and thirsty needing help.",
+            "text": "New people came in wagons looking tired and dusty. They needed water and help on their journey.",
+            "image_prompt": "tired travelers with wagons under hot sun looking thirsty, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "Maya rides with Dusty carrying water to help the travelers.",
+            "text": "Maya rode quickly with Dusty carrying a pitcher and cup. She crossed fields and streams thinking about helping with cool water.",
+            "image_prompt": "girl riding horse across fields holding water pitcher, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Maya finds a cool spring and fills water for everyone.",
+            "text": "Maya led the travelers to a spring on a hill. The water bubbled and she filled the pitcher with fresh cool water.",
+            "image_prompt": "girl filling pitcher at bubbling spring on hill with flowers, colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "The travelers are happy and Maya feels proud after helping them.",
+            "text": "The people drank water and felt better. They thanked Maya. That night Maya felt happy because she had helped new friends.",
+            "image_prompt": "happy people resting with water at sunset while girl sits peacefully, colorful cartoon children's book style"
+        }
+    ],
+    "story": "Maya wore a wide hat and rode a small brown horse named Dusty. She lived by a long slow river and loved her town where people came in wagons. She liked to watch them and wanted to help. New people came in wagons looking tired and dusty. They needed water and help on their journey. Maya rode quickly with Dusty carrying a pitcher and cup. She crossed fields and streams thinking about helping with cool water. Maya led the travelers to a spring on a hill. The water bubbled and she filled the pitcher with fresh cool water. The people drank water and felt better. They thanked Maya. That night Maya felt happy because she had helped new friends."
 }

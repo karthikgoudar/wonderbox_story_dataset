@@ -1,6 +1,5 @@
-```json
 {
-  "id": "WBX_0000036",
+  "id": "WBX_000036",
   "title": "The Shining Bell Quest",
   "source": "ohmytales",
   "source_url": "",
@@ -14,38 +13,33 @@
     {
       "type": "introduction",
       "summary": "Sir Teddy learns about the missing magic bell and begins his quest.",
-      "text": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star.",
-      "image_prompt": "cute knight in shining armor talking to owl outside castle colorful children book style",
-      "story": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star. In the forest, they met Felix the fox who told them about a shiny object near a brook. They went there and saw the bell stuck high on a branch. A little bird named Blue helped push it down. Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. Sir Teddy said teamwork helped them succeed. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures."
+      "text": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star.",
+      "image_prompt": "cute knight in shining armor talking to owl outside castle colorful children book style"
     },
     {
       "type": "conflict",
       "summary": "Sir Teddy searches the forest and learns the bell is near the brook.",
-      "text": "Sir Teddy rode into the forest and met Felix the fox, who told him about a shiny object near the brook. Sir Teddy hurried there to look for the bell.",
-      "image_prompt": "knight riding horse meeting friendly fox in forest cartoon style",
-      "story": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star. In the forest, they met Felix the fox who told them about a shiny object near a brook. They went there and saw the bell stuck high on a branch. A little bird named Blue helped push it down. Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. Sir Teddy said teamwork helped them succeed. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures."
+      "text": "In the forest, they met Felix the fox who told them about a shiny object near a brook. Sir Teddy and Star went there to look for the bell.",
+      "image_prompt": "knight riding horse meeting friendly fox in forest cartoon style"
     },
     {
       "type": "journey",
       "summary": "Sir Teddy finds the bell but cannot reach it.",
-      "text": "At the brook, Sir Teddy saw the bell shining on a high branch, but it was too far to reach, and he wondered how to get it down.",
-      "image_prompt": "knight looking at golden bell stuck on tree branch near stream colorful cartoon",
-      "story": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star. In the forest, they met Felix the fox who told them about a shiny object near a brook. They went there and saw the bell stuck high on a branch. A little bird named Blue helped push it down. Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. Sir Teddy said teamwork helped them succeed. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures."
+      "text": "They went to the brook and saw the bell stuck high on a branch. Sir Teddy could not reach it and wondered how to get it down.",
+      "image_prompt": "knight looking at golden bell stuck on tree branch near stream colorful cartoon"
     },
     {
       "type": "turning_point",
       "summary": "Blue the bird helps knock the bell down.",
-      "text": "A small bird named Blue flew in and pushed the bell gently until it fell into Sir Teddy’s hands.",
-      "image_prompt": "small bird pushing golden bell from tree into knight hands cute illustration",
-      "story": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star. In the forest, they met Felix the fox who told them about a shiny object near a brook. They went there and saw the bell stuck high on a branch. A little bird named Blue helped push it down. Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. Sir Teddy said teamwork helped them succeed. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures."
+      "text": "A little bird named Blue helped push the bell down from the branch until it fell into Sir Teddy’s hands.",
+      "image_prompt": "small bird pushing golden bell from tree into knight hands cute illustration"
     },
     {
       "type": "resolution",
       "summary": "Sir Teddy returns the bell and everyone celebrates.",
-      "text": "Sir Teddy returned the bell to the monastery. Brother Owl thanked him, and the bell rang again. Everyone felt happy, and Sir Teddy went home proud of his teamwork.",
-      "image_prompt": "knight returning bell to owl at monastery happy celebration colorful children style",
-      "story": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star. In the forest, they met Felix the fox who told them about a shiny object near a brook. They went there and saw the bell stuck high on a branch. A little bird named Blue helped push it down. Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. Sir Teddy said teamwork helped them succeed. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures."
+      "text": "Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures.",
+      "image_prompt": "knight returning bell to owl at monastery happy celebration colorful children style"
     }
-  ]
+  ],
+  "story": "Once upon a time, in a land far away, there was a brave knight named Sir Teddy. Sir Teddy wore shiny armor and carried a big bright shield. He lived in a tall castle. One morning, Brother Owl came and said the monastery’s magic bell was missing. Sir Teddy promised to find it and rode off on his horse Star. In the forest, they met Felix the fox who told them about a shiny object near a brook. They went there and saw the bell stuck high on a branch. A little bird named Blue helped push it down. Sir Teddy thanked his friends and returned the bell to the monastery. Brother Owl was happy and praised him. Sir Teddy said teamwork helped them succeed. The bell rang again and everyone felt joyful. Sir Teddy returned home, proud and ready for more adventures."
 }
-```

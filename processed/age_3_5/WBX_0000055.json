@@ -1,49 +1,51 @@
 {
-  "id": "WBX_0000055",
-  "title": "Tickles and Treasures",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "friendship",
-  "characters": ["Captain Chuckles", "Lila", "Benny", "Polly", "Pirate Snicker"],
-  "word_count": 330,
-  "moral": "Friendship and laughter are the greatest treasures.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Captain Chuckles begins a fun treasure adventure.",
-      "text": "Captain Chuckles and his crew set sail to find treasure on Ticklish Island.",
-      "image_prompt": "funny pirate captain and kids sailing ship cartoon colorful style",
-      "story": "Captain Chuckles and his crew sailed to Ticklish Island to find treasure. They met Pirate Snicker who challenged them with a tickle test. They passed by being clever and brave. They found a treasure chest with gold and jewels. They realized the real treasure was laughter and friendship and returned home happy."
-    },
-    {
-      "type": "conflict",
-      "summary": "They face Pirate Snicker’s tickle challenge.",
-      "text": "Pirate Snicker challenged them to pass a tickle test before getting the treasure.",
-      "image_prompt": "funny pirate with feather tickle challenge cartoon style",
-      "story": "Captain Chuckles and his crew sailed to Ticklish Island to find treasure. They met Pirate Snicker who challenged them with a tickle test. They passed by being clever and brave. They found a treasure chest with gold and jewels. They realized the real treasure was laughter and friendship and returned home happy."
-    },
-    {
-      "type": "journey",
-      "summary": "They explore the island and face the challenge.",
-      "text": "They explored the island and worked together to face the tickle test.",
-      "image_prompt": "kids pirates laughing jungle island cartoon style",
-      "story": "Captain Chuckles and his crew sailed to Ticklish Island to find treasure. They met Pirate Snicker who challenged them with a tickle test. They passed by being clever and brave. They found a treasure chest with gold and jewels. They realized the real treasure was laughter and friendship and returned home happy."
-    },
-    {
-      "type": "turning_point",
-      "summary": "They pass the test and find the treasure.",
-      "text": "They passed the challenge and discovered a chest filled with treasure.",
-      "image_prompt": "treasure chest gold jewels happy pirates cartoon style",
-      "story": "Captain Chuckles and his crew sailed to Ticklish Island to find treasure. They met Pirate Snicker who challenged them with a tickle test. They passed by being clever and brave. They found a treasure chest with gold and jewels. They realized the real treasure was laughter and friendship and returned home happy."
-    },
-    {
-      "type": "resolution",
-      "summary": "They return home valuing friendship and fun.",
-      "text": "They sailed home happily, knowing laughter and friendship are the greatest treasures.",
-      "image_prompt": "happy pirate crew laughing sailing sunset cartoon style",
-      "story": "Captain Chuckles and his crew sailed to Ticklish Island to find treasure. They met Pirate Snicker who challenged them with a tickle test. They passed by being clever and brave. They found a treasure chest with gold and jewels. They realized the real treasure was laughter and friendship and returned home happy."
-    }
-  ]
+    "id": "WBX_0000055",
+    "title": "Tickles and Treasures",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "friendship",
+    "characters": [
+        "Captain Chuckles",
+        "Lila",
+        "Benny",
+        "Polly",
+        "Pirate Snicker"
+    ],
+    "word_count": 330,
+    "moral": "Friendship and laughter are the greatest treasures.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Captain Chuckles begins a fun treasure adventure.",
+            "text": "Captain Chuckles and his crew set sail to find treasure on Ticklish Island.",
+            "image_prompt": "funny pirate captain and kids sailing ship cartoon colorful style"
+        },
+        {
+            "type": "conflict",
+            "summary": "They face Pirate Snicker’s tickle challenge.",
+            "text": "Pirate Snicker challenged them to pass a tickle test before getting the treasure.",
+            "image_prompt": "funny pirate with feather tickle challenge cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "They explore the island and face the challenge.",
+            "text": "They explored the island and worked together to face the tickle test.",
+            "image_prompt": "kids pirates laughing jungle island cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "They pass the test and find the treasure.",
+            "text": "They passed the challenge and discovered a chest filled with treasure.",
+            "image_prompt": "treasure chest gold jewels happy pirates cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "They return home valuing friendship and fun.",
+            "text": "They sailed home happily, knowing laughter and friendship are the greatest treasures.",
+            "image_prompt": "happy pirate crew laughing sailing sunset cartoon style"
+        }
+    ],
+    "story": "Captain Chuckles and his crew set sail to find treasure on Ticklish Island. Pirate Snicker challenged them to pass a tickle test before getting the treasure. They explored the island and worked together to face the tickle test. They passed the challenge and discovered a chest filled with treasure. They sailed home happily, knowing laughter and friendship are the greatest treasures."
 }

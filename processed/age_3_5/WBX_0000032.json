@@ -1,49 +1,50 @@
 {
-  "id": "WBX_0000032",
-  "title": "Annie and the Lanterns",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "helpfulness",
-  "characters": ["Annie", "Daisy", "Benny", "Sheriff"],
-  "word_count": 238,
-  "moral": "Working together helps others stay safe.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Annie is asked by the Sheriff to place lanterns to help travelers.",
-      "text": "Annie, a brave cowgirl, is asked by the Sheriff to put lanterns along the path to help travelers at night.",
-      "image_prompt": "cowgirl with horse talking to sheriff in sunny wild west, colorful cartoon children's book style",
-      "story": "Once upon a time in the sunny Wild West there was a brave cowgirl named Annie. Annie wore a big brown hat and shiny boots. She loved riding her horse Daisy across the wide open plains. One day the Sheriff came and asked Annie to place lanterns along the path so travelers could see at night. Annie agreed happily. She packed lanterns and set off with Daisy. Along the way she met a friendly rabbit named Benny who joined her. Together they placed lanterns. They reached a river and built a small bridge with logs to cross safely. At sunset they placed the final lantern and lit them all. The path glowed brightly and safely. Annie felt proud. She and her friends returned home knowing they had helped many travelers."
-    },
-    {
-      "type": "conflict",
-      "summary": "Annie must find a way to cross a river to continue her task.",
-      "text": "Annie reaches a wide river and wonders how to cross it safely.",
-      "image_prompt": "cowgirl and rabbit looking at wide river unsure, colorful cartoon children's book style",
-      "story": "Once upon a time in the sunny Wild West there was a brave cowgirl named Annie. Annie wore a big brown hat and shiny boots. She loved riding her horse Daisy across the wide open plains. One day the Sheriff came and asked Annie to place lanterns along the path so travelers could see at night. Annie agreed happily. She packed lanterns and set off with Daisy. Along the way she met a friendly rabbit named Benny who joined her. Together they placed lanterns. They reached a river and built a small bridge with logs to cross safely. At sunset they placed the final lantern and lit them all. The path glowed brightly and safely. Annie felt proud. She and her friends returned home knowing they had helped many travelers."
-    },
-    {
-      "type": "journey",
-      "summary": "Annie and her friends travel placing lanterns along the path.",
-      "text": "Annie, Daisy, and Benny move along the path placing lanterns together.",
-      "image_prompt": "cowgirl placing lanterns with rabbit helping, colorful cartoon children's book style",
-      "story": "Once upon a time in the sunny Wild West there was a brave cowgirl named Annie. Annie wore a big brown hat and shiny boots. She loved riding her horse Daisy across the wide open plains. One day the Sheriff came and asked Annie to place lanterns along the path so travelers could see at night. Annie agreed happily. She packed lanterns and set off with Daisy. Along the way she met a friendly rabbit named Benny who joined her. Together they placed lanterns. They reached a river and built a small bridge with logs to cross safely. At sunset they placed the final lantern and lit them all. The path glowed brightly and safely. Annie felt proud. She and her friends returned home knowing they had helped many travelers."
-    },
-    {
-      "type": "turning_point",
-      "summary": "They build a bridge and successfully cross the river.",
-      "text": "Annie and her friends build a small bridge with logs and cross safely.",
-      "image_prompt": "cowgirl and rabbit building log bridge over river, colorful cartoon children's book style",
-      "story": "Once upon a time in the sunny Wild West there was a brave cowgirl named Annie. Annie wore a big brown hat and shiny boots. She loved riding her horse Daisy across the wide open plains. One day the Sheriff came and asked Annie to place lanterns along the path so travelers could see at night. Annie agreed happily. She packed lanterns and set off with Daisy. Along the way she met a friendly rabbit named Benny who joined her. Together they placed lanterns. They reached a river and built a small bridge with logs to cross safely. At sunset they placed the final lantern and lit them all. The path glowed brightly and safely. Annie felt proud. She and her friends returned home knowing they had helped many travelers."
-    },
-    {
-      "type": "resolution",
-      "summary": "The lanterns light the path and Annie feels proud.",
-      "text": "The lanterns shine brightly and Annie feels happy for helping others.",
-      "image_prompt": "glowing lantern path at sunset with happy cowgirl and friends, colorful cartoon children's book style",
-      "story": "Once upon a time in the sunny Wild West there was a brave cowgirl named Annie. Annie wore a big brown hat and shiny boots. She loved riding her horse Daisy across the wide open plains. One day the Sheriff came and asked Annie to place lanterns along the path so travelers could see at night. Annie agreed happily. She packed lanterns and set off with Daisy. Along the way she met a friendly rabbit named Benny who joined her. Together they placed lanterns. They reached a river and built a small bridge with logs to cross safely. At sunset they placed the final lantern and lit them all. The path glowed brightly and safely. Annie felt proud. She and her friends returned home knowing they had helped many travelers."
-    }
-  ]
+    "id": "WBX_0000032",
+    "title": "Annie and the Lanterns",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "helpfulness",
+    "characters": [
+        "Annie",
+        "Daisy",
+        "Benny",
+        "Sheriff"
+    ],
+    "word_count": 238,
+    "moral": "Working together helps others stay safe.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Annie is asked by the Sheriff to place lanterns to help travelers.",
+            "text": "Annie, a brave cowgirl, is asked by the Sheriff to put lanterns along the path to help travelers at night.",
+            "image_prompt": "cowgirl with horse talking to sheriff in sunny wild west, colorful cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "Annie must find a way to cross a river to continue her task.",
+            "text": "Annie reaches a wide river and wonders how to cross it safely.",
+            "image_prompt": "cowgirl and rabbit looking at wide river unsure, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "Annie and her friends travel placing lanterns along the path.",
+            "text": "Annie, Daisy, and Benny move along the path placing lanterns together.",
+            "image_prompt": "cowgirl placing lanterns with rabbit helping, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "They build a bridge and successfully cross the river.",
+            "text": "Annie and her friends build a small bridge with logs and cross safely.",
+            "image_prompt": "cowgirl and rabbit building log bridge over river, colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "The lanterns light the path and Annie feels proud.",
+            "text": "The lanterns shine brightly and Annie feels happy for helping others.",
+            "image_prompt": "glowing lantern path at sunset with happy cowgirl and friends, colorful cartoon children's book style"
+        }
+    ],
+    "story": "Annie, a brave cowgirl, is asked by the Sheriff to put lanterns along the path to help travelers at night. Annie reaches a wide river and wonders how to cross it safely. Annie, Daisy, and Benny move along the path placing lanterns together. Annie and her friends build a small bridge with logs and cross safely. The lanterns shine brightly and Annie feels happy for helping others."
 }

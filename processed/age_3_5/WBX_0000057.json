@@ -1,49 +1,49 @@
 {
-  "id": "WBX_0000057",
-  "title": "Lily's Village Treasure",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "adventure",
-  "characters": ["Lily", "Grandma", "Benny"],
-  "word_count": 273,
-  "moral": "The joy of adventure is the greatest treasure.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Lily receives a treasure map from her grandma.",
-      "text": "Lily gets a map from her grandma and starts a treasure hunt with her teddy bear Benny.",
-      "image_prompt": "little girl with teddy bear holding map in village cartoon style",
-      "story": "Lily received a treasure map from her grandma and began an adventure with her teddy bear Benny. She followed clues through the village to a tree, garden, and playground. At the oak tree, she found a treasure chest with small items and a note. She learned the real treasure was the adventure and joy she experienced."
-    },
-    {
-      "type": "conflict",
-      "summary": "She follows clues and searches for the treasure.",
-      "text": "Lily follows clues through different places, unsure but excited about what she will find.",
-      "image_prompt": "girl searching clues in garden and playground cartoon style",
-      "story": "Lily received a treasure map from her grandma and began an adventure with her teddy bear Benny. She followed clues through the village to a tree, garden, and playground. At the oak tree, she found a treasure chest with small items and a note. She learned the real treasure was the adventure and joy she experienced."
-    },
-    {
-      "type": "journey",
-      "summary": "She travels through the village locations.",
-      "text": "Lily visits the tree, flower garden, and playground following the map clues.",
-      "image_prompt": "child walking through village garden following map cartoon style",
-      "story": "Lily received a treasure map from her grandma and began an adventure with her teddy bear Benny. She followed clues through the village to a tree, garden, and playground. At the oak tree, she found a treasure chest with small items and a note. She learned the real treasure was the adventure and joy she experienced."
-    },
-    {
-      "type": "turning_point",
-      "summary": "She finds the treasure chest under the oak tree.",
-      "text": "Lily discovers a wooden chest with small treasures and a note.",
-      "image_prompt": "girl opening treasure chest under tree cartoon style",
-      "story": "Lily received a treasure map from her grandma and began an adventure with her teddy bear Benny. She followed clues through the village to a tree, garden, and playground. At the oak tree, she found a treasure chest with small items and a note. She learned the real treasure was the adventure and joy she experienced."
-    },
-    {
-      "type": "resolution",
-      "summary": "She learns the real treasure is the experience.",
-      "text": "Lily returns home happy, realizing the adventure itself was the treasure.",
-      "image_prompt": "happy girl hugging grandma sunset cartoon style",
-      "story": "Lily received a treasure map from her grandma and began an adventure with her teddy bear Benny. She followed clues through the village to a tree, garden, and playground. At the oak tree, she found a treasure chest with small items and a note. She learned the real treasure was the adventure and joy she experienced."
-    }
-  ]
+    "id": "WBX_0000057",
+    "title": "Lily's Village Treasure",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "adventure",
+    "characters": [
+        "Lily",
+        "Grandma",
+        "Benny"
+    ],
+    "word_count": 273,
+    "moral": "The joy of adventure is the greatest treasure.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Lily receives a treasure map from her grandma.",
+            "text": "Lily gets a map from her grandma and starts a treasure hunt with her teddy bear Benny.",
+            "image_prompt": "little girl with teddy bear holding map in village cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "She follows clues and searches for the treasure.",
+            "text": "Lily follows clues through different places, unsure but excited about what she will find.",
+            "image_prompt": "girl searching clues in garden and playground cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "She travels through the village locations.",
+            "text": "Lily visits the tree, flower garden, and playground following the map clues.",
+            "image_prompt": "child walking through village garden following map cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "She finds the treasure chest under the oak tree.",
+            "text": "Lily discovers a wooden chest with small treasures and a note.",
+            "image_prompt": "girl opening treasure chest under tree cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "She learns the real treasure is the experience.",
+            "text": "Lily returns home happy, realizing the adventure itself was the treasure.",
+            "image_prompt": "happy girl hugging grandma sunset cartoon style"
+        }
+    ],
+    "story": "Lily gets a map from her grandma and starts a treasure hunt with her teddy bear Benny. Lily follows clues through different places, unsure but excited about what she will find. Lily visits the tree, flower garden, and playground following the map clues. Lily discovers a wooden chest with small treasures and a note. Lily returns home happy, realizing the adventure itself was the treasure."
 }

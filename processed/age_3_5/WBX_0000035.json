@@ -1,49 +1,51 @@
 {
-  "id": "WBX_0000035",
-  "title": "The Trail to Rainbow Ranch",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "kindness",
-  "characters": ["May", "Button", "Little Jo", "baker", "rancher"],
-  "word_count": 420,
-  "moral": "Kindness and helping others make journeys better.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "May begins her journey to Rainbow Ranch with a special box.",
-      "text": "May rides her horse Button carrying a special box to Rainbow Ranch.",
-      "image_prompt": "cowgirl riding horse across prairie with bag, colorful cartoon children's book style",
-      "story": "Morning came on the wide prairie as cowgirl May prepared for a journey. She rode her horse Button carrying a wooden box for Little Jo at Rainbow Ranch. May traveled across the bright land with care and kindness. She reached a gate and carefully opened and closed it behind her. At a river she met a baker who helped her cross using stones and a rope. They shared food kindly. Along the trail she helped guide a small calf back safely to its herd. When strong wind came she waited patiently until it passed. Finally May reached Rainbow Ranch where Little Jo welcomed her warmly. May gave the wooden box which held a star pin and a message to be brave and kind. Everyone gathered happily sharing food and songs. May felt joyful knowing her journey helped others and spread kindness."
-    },
-    {
-      "type": "conflict",
-      "summary": "May faces challenges like gates and a river crossing.",
-      "text": "May encounters obstacles like a closed gate and a fast river.",
-      "image_prompt": "cowgirl opening gate and looking at river, colorful cartoon children's book style",
-      "story": "Morning came on the wide prairie as cowgirl May prepared for a journey. She rode her horse Button carrying a wooden box for Little Jo at Rainbow Ranch. May traveled across the bright land with care and kindness. She reached a gate and carefully opened and closed it behind her. At a river she met a baker who helped her cross using stones and a rope. They shared food kindly. Along the trail she helped guide a small calf back safely to its herd. When strong wind came she waited patiently until it passed. Finally May reached Rainbow Ranch where Little Jo welcomed her warmly. May gave the wooden box which held a star pin and a message to be brave and kind. Everyone gathered happily sharing food and songs. May felt joyful knowing her journey helped others and spread kindness."
-    },
-    {
-      "type": "journey",
-      "summary": "May travels and helps others along the way.",
-      "text": "May crosses paths with others and helps them kindly.",
-      "image_prompt": "cowgirl helping baker and animals on trail, colorful cartoon children's book style",
-      "story": "Morning came on the wide prairie as cowgirl May prepared for a journey. She rode her horse Button carrying a wooden box for Little Jo at Rainbow Ranch. May traveled across the bright land with care and kindness. She reached a gate and carefully opened and closed it behind her. At a river she met a baker who helped her cross using stones and a rope. They shared food kindly. Along the trail she helped guide a small calf back safely to its herd. When strong wind came she waited patiently until it passed. Finally May reached Rainbow Ranch where Little Jo welcomed her warmly. May gave the wooden box which held a star pin and a message to be brave and kind. Everyone gathered happily sharing food and songs. May felt joyful knowing her journey helped others and spread kindness."
-    },
-    {
-      "type": "turning_point",
-      "summary": "May successfully crosses the river with help.",
-      "text": "With help from the baker May crosses the river safely.",
-      "image_prompt": "cowgirl crossing river with rope and stones, colorful cartoon children's book style",
-      "story": "Morning came on the wide prairie as cowgirl May prepared for a journey. She rode her horse Button carrying a wooden box for Little Jo at Rainbow Ranch. May traveled across the bright land with care and kindness. She reached a gate and carefully opened and closed it behind her. At a river she met a baker who helped her cross using stones and a rope. They shared food kindly. Along the trail she helped guide a small calf back safely to its herd. When strong wind came she waited patiently until it passed. Finally May reached Rainbow Ranch where Little Jo welcomed her warmly. May gave the wooden box which held a star pin and a message to be brave and kind. Everyone gathered happily sharing food and songs. May felt joyful knowing her journey helped others and spread kindness."
-    },
-    {
-      "type": "resolution",
-      "summary": "May delivers the box and everyone celebrates together.",
-      "text": "May gives the box to Little Jo and they celebrate happily.",
-      "image_prompt": "happy ranch scene with cowgirl children sharing food sunset, colorful cartoon children's book style",
-      "story": "Morning came on the wide prairie as cowgirl May prepared for a journey. She rode her horse Button carrying a wooden box for Little Jo at Rainbow Ranch. May traveled across the bright land with care and kindness. She reached a gate and carefully opened and closed it behind her. At a river she met a baker who helped her cross using stones and a rope. They shared food kindly. Along the trail she helped guide a small calf back safely to its herd. When strong wind came she waited patiently until it passed. Finally May reached Rainbow Ranch where Little Jo welcomed her warmly. May gave the wooden box which held a star pin and a message to be brave and kind. Everyone gathered happily sharing food and songs. May felt joyful knowing her journey helped others and spread kindness."
-    }
-  ]
+    "id": "WBX_0000035",
+    "title": "The Trail to Rainbow Ranch",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "kindness",
+    "characters": [
+        "May",
+        "Button",
+        "Little Jo",
+        "baker",
+        "rancher"
+    ],
+    "word_count": 420,
+    "moral": "Kindness and helping others make journeys better.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "May begins her journey to Rainbow Ranch with a special box.",
+            "text": "May rides her horse Button carrying a special box to Rainbow Ranch.",
+            "image_prompt": "cowgirl riding horse across prairie with bag, colorful cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "May faces challenges like gates and a river crossing.",
+            "text": "May encounters obstacles like a closed gate and a fast river.",
+            "image_prompt": "cowgirl opening gate and looking at river, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "May travels and helps others along the way.",
+            "text": "May crosses paths with others and helps them kindly.",
+            "image_prompt": "cowgirl helping baker and animals on trail, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "May successfully crosses the river with help.",
+            "text": "With help from the baker May crosses the river safely.",
+            "image_prompt": "cowgirl crossing river with rope and stones, colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "May delivers the box and everyone celebrates together.",
+            "text": "May gives the box to Little Jo and they celebrate happily.",
+            "image_prompt": "happy ranch scene with cowgirl children sharing food sunset, colorful cartoon children's book style"
+        }
+    ],
+    "story": "May rides her horse Button carrying a special box to Rainbow Ranch. May encounters obstacles like a closed gate and a fast river. May crosses paths with others and helps them kindly. With help from the baker May crosses the river safely. May gives the box to Little Jo and they celebrate happily."
 }

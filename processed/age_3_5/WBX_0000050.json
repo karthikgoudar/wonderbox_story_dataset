@@ -1,49 +1,51 @@
 {
-  "id": "WBX_0000050",
-  "title": "Captain Milo and the Golden Shell",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "teamwork",
-  "characters": ["Captain Milo", "Lulu", "Bongo", "Tiny Tim", "dolphins"],
-  "word_count": 320,
-  "moral": "Staying together and helping each other makes challenges easier.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Captain Milo begins a journey to find a magical shell.",
-      "text": "Captain Milo and his crew set out to find the Golden Shell of Calm Seas.",
-      "image_prompt": "pirate captain with crew sailing cheerful sea cartoon style",
-      "story": "Captain Milo sailed with his crew to find a golden shell that could calm the sea. A storm came, but they stayed together and followed dolphins who showed the safe way. They reached an island and found the glowing shell. The sea became calm again. They felt proud and safe, knowing teamwork helped them succeed."
-    },
-    {
-      "type": "conflict",
-      "summary": "A storm makes the sea rough and scary.",
-      "text": "The sky turned gray and waves grew big, making the journey difficult.",
-      "image_prompt": "stormy ocean pirate ship waves dolphins guiding cartoon style",
-      "story": "Captain Milo sailed with his crew to find a golden shell that could calm the sea. A storm came, but they stayed together and followed dolphins who showed the safe way. They reached an island and found the glowing shell. The sea became calm again. They felt proud and safe, knowing teamwork helped them succeed."
-    },
-    {
-      "type": "journey",
-      "summary": "Dolphins guide them through the storm.",
-      "text": "The crew followed dolphins who showed them a safe path through the rough sea.",
-      "image_prompt": "dolphins guiding pirate ship through waves friendly cartoon style",
-      "story": "Captain Milo sailed with his crew to find a golden shell that could calm the sea. A storm came, but they stayed together and followed dolphins who showed the safe way. They reached an island and found the glowing shell. The sea became calm again. They felt proud and safe, knowing teamwork helped them succeed."
-    },
-    {
-      "type": "turning_point",
-      "summary": "They find the glowing golden shell on the island.",
-      "text": "On the island, they discovered the glowing Golden Shell hidden under a rock.",
-      "image_prompt": "golden glowing shell on island under rock pirates amazed cartoon style",
-      "story": "Captain Milo sailed with his crew to find a golden shell that could calm the sea. A storm came, but they stayed together and followed dolphins who showed the safe way. They reached an island and found the glowing shell. The sea became calm again. They felt proud and safe, knowing teamwork helped them succeed."
-    },
-    {
-      "type": "resolution",
-      "summary": "The sea becomes calm and they feel proud.",
-      "text": "The shell made the sea calm, and the crew returned safely, happy and proud.",
-      "image_prompt": "calm ocean pirate ship sunset peaceful crew cartoon style",
-      "story": "Captain Milo sailed with his crew to find a golden shell that could calm the sea. A storm came, but they stayed together and followed dolphins who showed the safe way. They reached an island and found the glowing shell. The sea became calm again. They felt proud and safe, knowing teamwork helped them succeed."
-    }
-  ]
+    "id": "WBX_0000050",
+    "title": "Captain Milo and the Golden Shell",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "teamwork",
+    "characters": [
+        "Captain Milo",
+        "Lulu",
+        "Bongo",
+        "Tiny Tim",
+        "dolphins"
+    ],
+    "word_count": 320,
+    "moral": "Staying together and helping each other makes challenges easier.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Captain Milo begins a journey to find a magical shell.",
+            "text": "Captain Milo and his crew set out to find the Golden Shell of Calm Seas.",
+            "image_prompt": "pirate captain with crew sailing cheerful sea cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "A storm makes the sea rough and scary.",
+            "text": "The sky turned gray and waves grew big, making the journey difficult.",
+            "image_prompt": "stormy ocean pirate ship waves dolphins guiding cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "Dolphins guide them through the storm.",
+            "text": "The crew followed dolphins who showed them a safe path through the rough sea.",
+            "image_prompt": "dolphins guiding pirate ship through waves friendly cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "They find the glowing golden shell on the island.",
+            "text": "On the island, they discovered the glowing Golden Shell hidden under a rock.",
+            "image_prompt": "golden glowing shell on island under rock pirates amazed cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "The sea becomes calm and they feel proud.",
+            "text": "The shell made the sea calm, and the crew returned safely, happy and proud.",
+            "image_prompt": "calm ocean pirate ship sunset peaceful crew cartoon style"
+        }
+    ],
+    "story": "Captain Milo and his crew set out to find the Golden Shell of Calm Seas. The sky turned gray and waves grew big, making the journey difficult. The crew followed dolphins who showed them a safe path through the rough sea. On the island, they discovered the glowing Golden Shell hidden under a rock. The shell made the sea calm, and the crew returned safely, happy and proud."
 }

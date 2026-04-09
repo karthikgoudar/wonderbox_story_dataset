@@ -1,49 +1,49 @@
 {
-  "id": "WBX_0000030",
-  "title": "Maggie and the Little Water Pump",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "problem solving",
-  "characters": ["Maggie", "Star", "neighbors"],
-  "word_count": 230,
-  "moral": "With patience and courage, problems can be solved.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Maggie rides her horse Star and checks the ranch water pump.",
-      "text": "Maggie rides at dawn with her horse Star and checks the water pump that the ranch needs.",
-      "image_prompt": "young cowgirl with horse near water pump at sunrise, colorful cartoon children's book style",
-      "story": "Maggie rides her horse Star at dawn across the wide prairie. She looks after the ranch and checks the water pump every day. The ranch needs water for calves and flowers. One morning the pump does not work. Maggie stays calm and uses her tools. She finds a pebble stuck inside and fixes it. Water flows again and everyone is happy. Later a storm comes and shakes the ranch. Maggie keeps the pump safe and ties it strong. Neighbors come to help and they work together. After the storm the sun shines again. Maggie waters everything and rests. She feels proud because she helped and kept the ranch safe."
-    },
-    {
-      "type": "conflict",
-      "summary": "The water pump stops working and the ranch needs water.",
-      "text": "The pump handle becomes stiff and water does not come out.",
-      "image_prompt": "girl trying to fix broken pump looking concerned, colorful cartoon children's book style",
-      "story": "Maggie rides her horse Star at dawn across the wide prairie. She looks after the ranch and checks the water pump every day. The ranch needs water for calves and flowers. One morning the pump does not work. Maggie stays calm and uses her tools. She finds a pebble stuck inside and fixes it. Water flows again and everyone is happy. Later a storm comes and shakes the ranch. Maggie keeps the pump safe and ties it strong. Neighbors come to help and they work together. After the storm the sun shines again. Maggie waters everything and rests. She feels proud because she helped and kept the ranch safe."
-    },
-    {
-      "type": "journey",
-      "summary": "Maggie carefully fixes the pump using tools.",
-      "text": "Maggie uses a wrench and carefully removes a small pebble from the pump.",
-      "image_prompt": "child fixing pump with wrench and tools, colorful cartoon children's book style",
-      "story": "Maggie rides her horse Star at dawn across the wide prairie. She looks after the ranch and checks the water pump every day. The ranch needs water for calves and flowers. One morning the pump does not work. Maggie stays calm and uses her tools. She finds a pebble stuck inside and fixes it. Water flows again and everyone is happy. Later a storm comes and shakes the ranch. Maggie keeps the pump safe and ties it strong. Neighbors come to help and they work together. After the storm the sun shines again. Maggie waters everything and rests. She feels proud because she helped and kept the ranch safe."
-    },
-    {
-      "type": "turning_point",
-      "summary": "Water flows again after Maggie fixes the pump.",
-      "text": "After fixing the pebble the pump works and water splashes again.",
-      "image_prompt": "water splashing from pump with happy girl and horse, colorful cartoon children's book style",
-      "story": "Maggie rides her horse Star at dawn across the wide prairie. She looks after the ranch and checks the water pump every day. The ranch needs water for calves and flowers. One morning the pump does not work. Maggie stays calm and uses her tools. She finds a pebble stuck inside and fixes it. Water flows again and everyone is happy. Later a storm comes and shakes the ranch. Maggie keeps the pump safe and ties it strong. Neighbors come to help and they work together. After the storm the sun shines again. Maggie waters everything and rests. She feels proud because she helped and kept the ranch safe."
-    },
-    {
-      "type": "resolution",
-      "summary": "Maggie keeps the ranch safe and feels happy after helping.",
-      "text": "After the storm Maggie keeps everything safe and feels proud of her work.",
-      "image_prompt": "peaceful ranch at sunset with girl and horse resting, colorful cartoon children's book style",
-      "story": "Maggie rides her horse Star at dawn across the wide prairie. She looks after the ranch and checks the water pump every day. The ranch needs water for calves and flowers. One morning the pump does not work. Maggie stays calm and uses her tools. She finds a pebble stuck inside and fixes it. Water flows again and everyone is happy. Later a storm comes and shakes the ranch. Maggie keeps the pump safe and ties it strong. Neighbors come to help and they work together. After the storm the sun shines again. Maggie waters everything and rests. She feels proud because she helped and kept the ranch safe."
-    }
-  ]
+    "id": "WBX_0000030",
+    "title": "Maggie and the Little Water Pump",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "problem solving",
+    "characters": [
+        "Maggie",
+        "Star",
+        "neighbors"
+    ],
+    "word_count": 230,
+    "moral": "With patience and courage, problems can be solved.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Maggie rides her horse Star and checks the ranch water pump.",
+            "text": "Maggie rides at dawn with her horse Star and checks the water pump that the ranch needs.",
+            "image_prompt": "young cowgirl with horse near water pump at sunrise, colorful cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "The water pump stops working and the ranch needs water.",
+            "text": "The pump handle becomes stiff and water does not come out.",
+            "image_prompt": "girl trying to fix broken pump looking concerned, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "Maggie carefully fixes the pump using tools.",
+            "text": "Maggie uses a wrench and carefully removes a small pebble from the pump.",
+            "image_prompt": "child fixing pump with wrench and tools, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Water flows again after Maggie fixes the pump.",
+            "text": "After fixing the pebble the pump works and water splashes again.",
+            "image_prompt": "water splashing from pump with happy girl and horse, colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "Maggie keeps the ranch safe and feels happy after helping.",
+            "text": "After the storm Maggie keeps everything safe and feels proud of her work.",
+            "image_prompt": "peaceful ranch at sunset with girl and horse resting, colorful cartoon children's book style"
+        }
+    ],
+    "story": "Maggie rides at dawn with her horse Star and checks the water pump that the ranch needs. The pump handle becomes stiff and water does not come out. Maggie uses a wrench and carefully removes a small pebble from the pump. After fixing the pebble the pump works and water splashes again. After the storm Maggie keeps everything safe and feels proud of her work."
 }

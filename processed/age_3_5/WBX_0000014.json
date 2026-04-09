@@ -1,45 +1,49 @@
 {
-  "id": "WBX_0000014",
-  "title": "My Horse Glory",
-  "source": "freekidsbooks",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "responsibility",
-  "characters": ["Tory", "Glory", "animal doctor"],
-  "word_count": 49,
-  "moral": "Take care of your responsibilities and fix your mistakes.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Tory introduces herself, her farm, and her horse Glory.",
-      "text": "My name is Tory. I live on a farm. I have a horse. Her name is Glory.",
-      "image_prompt": "young girl on a farm smiling beside her horse, barn and fields in background, colorful cartoon style"
-    },
-    {
-      "type": "conflict",
-      "summary": "Tory forgets to close the gate and Glory escapes.",
-      "text": "Glory plays in her corral. I forgot to close the gate, and Glory got out.",
-      "image_prompt": "horse escaping through open gate in a farm corral, girl looking surprised, bright cartoon illustration"
-    },
-    {
-      "type": "journey",
-      "summary": "Tory searches for Glory after realizing she is missing.",
-      "text": "I had to find her!",
-      "image_prompt": "girl searching for her lost horse around farm with worried expression, colorful cartoon style"
-    },
-    {
-      "type": "turning_point",
-      "summary": "Tory finds Glory hurt and calls the animal doctor.",
-      "text": "I found her with a thorn in her foot. I called the animal doctor for help.",
-      "image_prompt": "girl finding horse with injured foot and calling a veterinarian, caring scene, cartoon illustration"
-    },
-    {
-      "type": "resolution",
-      "summary": "Glory is treated and returns to normal.",
-      "text": "Now Glory is back to normal.",
-      "image_prompt": "happy girl hugging healthy horse with veterinarian nearby, sunny farm setting, colorful cartoon style"
-    }
-  ],
-  "story": "My name is Tory. I live on a farm. I have a horse. Her name is Glory. Glory plays in her corral. I forgot to close the gate, and Glory got out. I had to find her! I found her with a thorn in her foot. I called the animal doctor for help. Now Glory is back to normal."
+    "id": "WBX_0000014",
+    "title": "My Horse Glory",
+    "source": "freekidsbooks",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "responsibility",
+    "characters": [
+        "Tory",
+        "Glory",
+        "animal doctor"
+    ],
+    "word_count": 49,
+    "moral": "Take care of your responsibilities and fix your mistakes.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Tory introduces herself, her farm, and her horse Glory.",
+            "text": "My name is Tory. I live on a farm. I have a horse. Her name is Glory.",
+            "image_prompt": "young girl on a farm smiling beside her horse, barn and fields in background, colorful cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "Tory forgets to close the gate and Glory escapes.",
+            "text": "Glory plays in her corral. I forgot to close the gate, and Glory got out.",
+            "image_prompt": "horse escaping through open gate in a farm corral, girl looking surprised, bright cartoon illustration"
+        },
+        {
+            "type": "journey",
+            "summary": "Tory searches for Glory after realizing she is missing.",
+            "text": "I had to find her!",
+            "image_prompt": "girl searching for her lost horse around farm with worried expression, colorful cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Tory finds Glory hurt and calls the animal doctor.",
+            "text": "I found her with a thorn in her foot. I called the animal doctor for help.",
+            "image_prompt": "girl finding horse with injured foot and calling a veterinarian, caring scene, cartoon illustration"
+        },
+        {
+            "type": "resolution",
+            "summary": "Glory is treated and returns to normal.",
+            "text": "Now Glory is back to normal.",
+            "image_prompt": "happy girl hugging healthy horse with veterinarian nearby, sunny farm setting, colorful cartoon style"
+        }
+    ],
+    "story": "My name is Tory. I live on a farm. I have a horse. Her name is Glory. Glory plays in her corral. I forgot to close the gate, and Glory got out. I had to find her! I found her with a thorn in her foot. I called the animal doctor for help. Now Glory is back to normal."
 }

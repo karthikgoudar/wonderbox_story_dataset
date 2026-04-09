@@ -1,45 +1,47 @@
 {
-  "id": "WBX_000002",
-  "title": "Peg the Hen",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "adventure",
-  "characters": ["Peg"],
-  "word_count": 41,
-  "moral": "",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Peg is introduced as a red hen.",
-      "text": "Peg is a red hen.",
-      "image_prompt": "cute red hen character standing proudly, colorful children's book illustration"
-    },
-    {
-      "type": "conflict",
-      "summary": "Peg prepares to go and starts her journey.",
-      "text": "Peg gets set to go. Peg gets in a jet.",
-      "image_prompt": "cartoon hen wearing goggles getting ready to fly in a small jet, bright playful style"
-    },
-    {
-      "type": "journey",
-      "summary": "Peg flies fast and gets wet during her trip.",
-      "text": "The jet is fast. Peg gets wet.",
-      "image_prompt": "cartoon hen flying in a jet through rain clouds, colorful fun children's illustration"
-    },
-    {
-      "type": "turning_point",
-      "summary": "The jet gets stuck and Peg begins to fall.",
-      "text": "The jet gets in a web! Peg falls and falls!",
-      "image_prompt": "cartoon hen falling from the sky with a parachute after jet gets stuck in web, dramatic but playful style"
-    },
-    {
-      "type": "resolution",
-      "summary": "Peg safely lands and rests in bed.",
-      "text": "Peg falls into bed.",
-      "image_prompt": "cute hen tucked into bed sleeping peacefully at night, cozy children's book scene"
-    }
-  ],
-  "story": "Peg is a red hen. Peg gets set to go. Peg gets in a jet. The jet is fast. Peg gets wet. The jet gets in a web! Peg falls and falls! Peg falls into bed."
+    "id": "WBX_000002",
+    "title": "Peg the Hen",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "adventure",
+    "characters": [
+        "Peg"
+    ],
+    "word_count": 41,
+    "moral": "",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Peg is introduced as a red hen.",
+            "text": "Peg is a red hen.",
+            "image_prompt": "cute red hen character standing proudly, colorful children's book illustration"
+        },
+        {
+            "type": "conflict",
+            "summary": "Peg prepares to go and starts her journey.",
+            "text": "Peg gets set to go. Peg gets in a jet.",
+            "image_prompt": "cartoon hen wearing goggles getting ready to fly in a small jet, bright playful style"
+        },
+        {
+            "type": "journey",
+            "summary": "Peg flies fast and gets wet during her trip.",
+            "text": "The jet is fast. Peg gets wet.",
+            "image_prompt": "cartoon hen flying in a jet through rain clouds, colorful fun children's illustration"
+        },
+        {
+            "type": "turning_point",
+            "summary": "The jet gets stuck and Peg begins to fall.",
+            "text": "The jet gets in a web! Peg falls and falls!",
+            "image_prompt": "cartoon hen falling from the sky with a parachute after jet gets stuck in web, dramatic but playful style"
+        },
+        {
+            "type": "resolution",
+            "summary": "Peg safely lands and rests in bed.",
+            "text": "Peg falls into bed.",
+            "image_prompt": "cute hen tucked into bed sleeping peacefully at night, cozy children's book scene"
+        }
+    ],
+    "story": "Peg is a red hen. Peg gets set to go. Peg gets in a jet. The jet is fast. Peg gets wet. The jet gets in a web! Peg falls and falls! Peg falls into bed."
 }

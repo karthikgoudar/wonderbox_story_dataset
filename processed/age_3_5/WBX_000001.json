@@ -1,57 +1,48 @@
 {
-  "id": "WBX_000001",
-  "title": "The Brave Little Turtle",
-
-  "age_group": "3-5",
-  "reading_level": "very simple",
-
-  "theme": "friendship",
-
-  "characters": [
-    "Tim the Turtle",
-    "Ricky the Rabbit"
-  ],
-
-  "source": "panchatantra",
-
-  "word_count": 120,
-
-  "moral": "Slow and steady wins the race.",
-
-  "illustration_style": "colorful children's book illustration",
-
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Turtle meets rabbit",
-      "text": "Tim the turtle was walking slowly through the sunny meadow when he met Ricky the rabbit.",
-      "image_prompt": "cute cartoon turtle meeting a smiling rabbit in a sunny meadow, colorful children's book illustration"
-    },
-    {
-      "type": "conflict",
-      "summary": "Rabbit challenges turtle to a race",
-      "text": "The rabbit laughed and said he could run much faster than the turtle.",
-      "image_prompt": "rabbit laughing and challenging turtle to a race, children's book style"
-    },
-    {
-      "type": "journey",
-      "summary": "The race begins",
-      "text": "The race started and the rabbit quickly ran far ahead while the turtle walked slowly.",
-      "image_prompt": "rabbit running fast on a forest path while turtle walks slowly behind"
-    },
-    {
-      "type": "turning_point",
-      "summary": "Rabbit gets tired and falls asleep",
-      "text": "The rabbit got tired and decided to rest under a big tree.",
-      "image_prompt": "rabbit sleeping under a tree while turtle slowly walks past"
-    },
-    {
-      "type": "resolution",
-      "summary": "Turtle wins the race",
-      "text": "The turtle kept walking and finally crossed the finish line first.",
-      "image_prompt": "happy turtle crossing finish line while rabbit wakes up surprised, children's book illustration"
-    }
-  ],
-
-  "story": "Once upon a time there was a small turtle named Tim. One day he met a rabbit who loved to run very fast. The rabbit laughed at the turtle's slow walking and challenged him to a race..."
+    "id": "WBX_000001",
+    "title": "The Brave Little Turtle",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "friendship",
+    "characters": [
+        "Tim the Turtle",
+        "Ricky the Rabbit"
+    ],
+    "source": "panchatantra",
+    "word_count": 120,
+    "moral": "Slow and steady wins the race.",
+    "illustration_style": "colorful children's book illustration",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Turtle meets rabbit",
+            "text": "Tim the turtle was walking slowly through the sunny meadow when he met Ricky the rabbit.",
+            "image_prompt": "cute cartoon turtle meeting a smiling rabbit in a sunny meadow, colorful children's book illustration"
+        },
+        {
+            "type": "conflict",
+            "summary": "Rabbit challenges turtle to a race",
+            "text": "The rabbit laughed and said he could run much faster than the turtle.",
+            "image_prompt": "rabbit laughing and challenging turtle to a race, children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "The race begins",
+            "text": "The race started and the rabbit quickly ran far ahead while the turtle walked slowly.",
+            "image_prompt": "rabbit running fast on a forest path while turtle walks slowly behind"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Rabbit gets tired and falls asleep",
+            "text": "The rabbit got tired and decided to rest under a big tree.",
+            "image_prompt": "rabbit sleeping under a tree while turtle slowly walks past"
+        },
+        {
+            "type": "resolution",
+            "summary": "Turtle wins the race",
+            "text": "The turtle kept walking and finally crossed the finish line first.",
+            "image_prompt": "happy turtle crossing finish line while rabbit wakes up surprised, children's book illustration"
+        }
+    ],
+    "story": "Once upon a time there was a small turtle named Tim. One day he met a rabbit who loved to run very fast. The rabbit laughed at the turtle's slow walking and challenged him to a race..."
 }

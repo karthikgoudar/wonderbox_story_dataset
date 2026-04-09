@@ -1,49 +1,51 @@
 {
-  "id": "WBX_0000026",
-  "title": "Billy and the Lost Colors",
-  "source": "crawler",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "bravery",
-  "characters": ["Billy", "Dusty", "Mr. Hanks", "fox", "Wind"],
-  "word_count": 207,
-  "moral": "With bravery and kindness, problems can be solved.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Billy lives on a colorful ranch and meets Mr. Hanks who needs help.",
-      "text": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr. Hanks came to Billy and said the colors of the ranch were gone.",
-      "image_prompt": "young cowboy boy on colorful ranch with animals and smiling farmer, bright cartoon children's book style",
-      "story": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr Hanks came to Billy and said the colors of the ranch were gone. Billy said he would find the colors. He rode his horse Dusty across green fields and saw a rainbow. He met a kind fox who told him to follow the breeze. Billy followed the wind through yellow fields and found the Wind playing. The Wind said it had borrowed the colors but would give them back. The colors returned to the ranch. Billy rode back and everyone cheered. That night Billy and Dusty rested under the stars and were happy."
-    },
-    {
-      "type": "conflict",
-      "summary": "The ranch loses its colors and Billy decides to help.",
-      "text": "Mr Hanks said the colors of the ranch were gone and they needed them back. Billy said he would help and find the colors.",
-      "image_prompt": "sad ranch without colors and boy deciding to help, colorful cartoon children's book style",
-      "story": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr Hanks came to Billy and said the colors of the ranch were gone. Billy said he would find the colors. He rode his horse Dusty across green fields and saw a rainbow. He met a kind fox who told him to follow the breeze. Billy followed the wind through yellow fields and found the Wind playing. The Wind said it had borrowed the colors but would give them back. The colors returned to the ranch. Billy rode back and everyone cheered. That night Billy and Dusty rested under the stars and were happy."
-    },
-    {
-      "type": "journey",
-      "summary": "Billy rides with Dusty and follows clues to find the colors.",
-      "text": "Billy rode on Dusty across green fields and saw a rainbow. He met a fox who told him to follow the breeze. He followed the wind through the fields.",
-      "image_prompt": "cowboy riding horse across fields meeting a fox near rainbow, colorful cartoon children's book style",
-      "story": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr Hanks came to Billy and said the colors of the ranch were gone. Billy said he would find the colors. He rode his horse Dusty across green fields and saw a rainbow. He met a kind fox who told him to follow the breeze. Billy followed the wind through yellow fields and found the Wind playing. The Wind said it had borrowed the colors but would give them back. The colors returned to the ranch. Billy rode back and everyone cheered. That night Billy and Dusty rested under the stars and were happy."
-    },
-    {
-      "type": "turning_point",
-      "summary": "Billy finds the Wind who has the colors and asks for them back.",
-      "text": "Billy found the Wind and asked for the colors. The Wind said it had borrowed them but would give them back.",
-      "image_prompt": "boy talking to playful wind swirling around fields, magical colorful cartoon children's book style",
-      "story": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr Hanks came to Billy and said the colors of the ranch were gone. Billy said he would find the colors. He rode his horse Dusty across green fields and saw a rainbow. He met a kind fox who told him to follow the breeze. Billy followed the wind through yellow fields and found the Wind playing. The Wind said it had borrowed the colors but would give them back. The colors returned to the ranch. Billy rode back and everyone cheered. That night Billy and Dusty rested under the stars and were happy."
-    },
-    {
-      "type": "resolution",
-      "summary": "The colors return and Billy is celebrated as a hero.",
-      "text": "The colors came back to the ranch and everything became bright again. Billy returned and everyone cheered. He rested happily under the stars with Dusty.",
-      "image_prompt": "colorful ranch restored with happy animals and boy under starry sky, cheerful cartoon children's book style",
-      "story": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr Hanks came to Billy and said the colors of the ranch were gone. Billy said he would find the colors. He rode his horse Dusty across green fields and saw a rainbow. He met a kind fox who told him to follow the breeze. Billy followed the wind through yellow fields and found the Wind playing. The Wind said it had borrowed the colors but would give them back. The colors returned to the ranch. Billy rode back and everyone cheered. That night Billy and Dusty rested under the stars and were happy."
-    }
-  ]
+    "id": "WBX_0000026",
+    "title": "Billy and the Lost Colors",
+    "source": "crawler",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "bravery",
+    "characters": [
+        "Billy",
+        "Dusty",
+        "Mr. Hanks",
+        "fox",
+        "Wind"
+    ],
+    "word_count": 207,
+    "moral": "With bravery and kindness, problems can be solved.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Billy lives on a colorful ranch and meets Mr. Hanks who needs help.",
+            "text": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr. Hanks came to Billy and said the colors of the ranch were gone.",
+            "image_prompt": "young cowboy boy on colorful ranch with animals and smiling farmer, bright cartoon children's book style"
+        },
+        {
+            "type": "conflict",
+            "summary": "The ranch loses its colors and Billy decides to help.",
+            "text": "Mr Hanks said the colors of the ranch were gone and they needed them back. Billy said he would help and find the colors.",
+            "image_prompt": "sad ranch without colors and boy deciding to help, colorful cartoon children's book style"
+        },
+        {
+            "type": "journey",
+            "summary": "Billy rides with Dusty and follows clues to find the colors.",
+            "text": "Billy rode on Dusty across green fields and saw a rainbow. He met a fox who told him to follow the breeze. He followed the wind through the fields.",
+            "image_prompt": "cowboy riding horse across fields meeting a fox near rainbow, colorful cartoon children's book style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Billy finds the Wind who has the colors and asks for them back.",
+            "text": "Billy found the Wind and asked for the colors. The Wind said it had borrowed them but would give them back.",
+            "image_prompt": "boy talking to playful wind swirling around fields, magical colorful cartoon children's book style"
+        },
+        {
+            "type": "resolution",
+            "summary": "The colors return and Billy is celebrated as a hero.",
+            "text": "The colors came back to the ranch and everything became bright again. Billy returned and everyone cheered. He rested happily under the stars with Dusty.",
+            "image_prompt": "colorful ranch restored with happy animals and boy under starry sky, cheerful cartoon children's book style"
+        }
+    ],
+    "story": "In the wide sunny land of the West there lived a young cowboy named Billy. Billy wore a big brown hat and shiny boots. He lived on a bright colorful ranch with friendly horses and cows. One day Mr. Hanks came to Billy and said the colors of the ranch were gone. Mr Hanks said the colors of the ranch were gone and they needed them back. Billy said he would help and find the colors. Billy rode on Dusty across green fields and saw a rainbow. He met a fox who told him to follow the breeze. He followed the wind through the fields. Billy found the Wind and asked for the colors. The Wind said it had borrowed them but would give them back. The colors came back to the ranch and everything became bright again. Billy returned and everyone cheered. He rested happily under the stars with Dusty."
 }

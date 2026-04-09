@@ -1,49 +1,51 @@
 {
-  "id": "WBX_0000042",
-  "title": "The Crystal Crown Quest",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "teamwork",
-  "characters": ["Sir Cedric", "Princess Lily", "Max", "fox", "bear"],
-  "word_count": 497,
-  "moral": "Teamwork and kindness lead to success.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Sir Cedric begins a quest to find the Crystal Crown.",
-      "text": "Sir Cedric lived in a beautiful castle and was brave and kind. One day, Princess Lily told him about the magical Crystal Crown hidden in the Forest of Whispers, and they decided to find it together with Max.",
-      "image_prompt": "knight princess and mouse planning adventure in castle courtyard colorful cartoon style",
-      "story": "Sir Cedric was a brave knight who lived in a shining castle. One day, Princess Lily told him about the Crystal Crown hidden in the Forest of Whispers. Sir Cedric, Lily, and Max set out on their journey. In the forest, they met a fox who gave them a riddle. Max solved it, and they continued. They faced a river and crossed it using stones. Finally, they reached a magical chest guarded by a bear. They showed their kind hearts, and the bear allowed them to take the crown. They returned home happily, ready to use it for good."
-    },
-    {
-      "type": "conflict",
-      "summary": "They face challenges in the forest and meet a tricky fox.",
-      "text": "In the forest, a clever fox stopped them and gave them a riddle to solve before they could continue their journey.",
-      "image_prompt": "fox asking riddle to knight princess and mouse in forest cartoon style",
-      "story": "Sir Cedric was a brave knight who lived in a shining castle. One day, Princess Lily told him about the Crystal Crown hidden in the Forest of Whispers. Sir Cedric, Lily, and Max set out on their journey. In the forest, they met a fox who gave them a riddle. Max solved it, and they continued. They faced a river and crossed it using stones. Finally, they reached a magical chest guarded by a bear. They showed their kind hearts, and the bear allowed them to take the crown. They returned home happily, ready to use it for good."
-    },
-    {
-      "type": "journey",
-      "summary": "They continue their journey and cross a difficult river.",
-      "text": "The group followed a glowing path and reached a wide river. With teamwork, they carefully crossed by stepping on stones.",
-      "image_prompt": "knight princess and mouse crossing river on stones teamwork cartoon style",
-      "story": "Sir Cedric was a brave knight who lived in a shining castle. One day, Princess Lily told him about the Crystal Crown hidden in the Forest of Whispers. Sir Cedric, Lily, and Max set out on their journey. In the forest, they met a fox who gave them a riddle. Max solved it, and they continued. They faced a river and crossed it using stones. Finally, they reached a magical chest guarded by a bear. They showed their kind hearts, and the bear allowed them to take the crown. They returned home happily, ready to use it for good."
-    },
-    {
-      "type": "turning_point",
-      "summary": "They prove their kindness to the guardian bear.",
-      "text": "A guardian bear asked why they wanted the crown. They answered with kindness, showing they wanted to help others.",
-      "image_prompt": "friendly bear talking to knight and friends near treasure chest magical forest cartoon",
-      "story": "Sir Cedric was a brave knight who lived in a shining castle. One day, Princess Lily told him about the Crystal Crown hidden in the Forest of Whispers. Sir Cedric, Lily, and Max set out on their journey. In the forest, they met a fox who gave them a riddle. Max solved it, and they continued. They faced a river and crossed it using stones. Finally, they reached a magical chest guarded by a bear. They showed their kind hearts, and the bear allowed them to take the crown. They returned home happily, ready to use it for good."
-    },
-    {
-      "type": "resolution",
-      "summary": "They obtain the crown and return home happily.",
-      "text": "The bear allowed them to take the Crystal Crown. They returned home with joy, ready to use it for kindness and happiness.",
-      "image_prompt": "friends returning to castle with glowing crown celebration colorful cartoon style",
-      "story": "Sir Cedric was a brave knight who lived in a shining castle. One day, Princess Lily told him about the Crystal Crown hidden in the Forest of Whispers. Sir Cedric, Lily, and Max set out on their journey. In the forest, they met a fox who gave them a riddle. Max solved it, and they continued. They faced a river and crossed it using stones. Finally, they reached a magical chest guarded by a bear. They showed their kind hearts, and the bear allowed them to take the crown. They returned home happily, ready to use it for good."
-    }
-  ]
+    "id": "WBX_0000042",
+    "title": "The Crystal Crown Quest",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "teamwork",
+    "characters": [
+        "Sir Cedric",
+        "Princess Lily",
+        "Max",
+        "fox",
+        "bear"
+    ],
+    "word_count": 497,
+    "moral": "Teamwork and kindness lead to success.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Sir Cedric begins a quest to find the Crystal Crown.",
+            "text": "Sir Cedric lived in a beautiful castle and was brave and kind. One day, Princess Lily told him about the magical Crystal Crown hidden in the Forest of Whispers, and they decided to find it together with Max.",
+            "image_prompt": "knight princess and mouse planning adventure in castle courtyard colorful cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "They face challenges in the forest and meet a tricky fox.",
+            "text": "In the forest, a clever fox stopped them and gave them a riddle to solve before they could continue their journey.",
+            "image_prompt": "fox asking riddle to knight princess and mouse in forest cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "They continue their journey and cross a difficult river.",
+            "text": "The group followed a glowing path and reached a wide river. With teamwork, they carefully crossed by stepping on stones.",
+            "image_prompt": "knight princess and mouse crossing river on stones teamwork cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "They prove their kindness to the guardian bear.",
+            "text": "A guardian bear asked why they wanted the crown. They answered with kindness, showing they wanted to help others.",
+            "image_prompt": "friendly bear talking to knight and friends near treasure chest magical forest cartoon"
+        },
+        {
+            "type": "resolution",
+            "summary": "They obtain the crown and return home happily.",
+            "text": "The bear allowed them to take the Crystal Crown. They returned home with joy, ready to use it for kindness and happiness.",
+            "image_prompt": "friends returning to castle with glowing crown celebration colorful cartoon style"
+        }
+    ],
+    "story": "Sir Cedric lived in a beautiful castle and was brave and kind. One day, Princess Lily told him about the magical Crystal Crown hidden in the Forest of Whispers, and they decided to find it together with Max. In the forest, a clever fox stopped them and gave them a riddle to solve before they could continue their journey. The group followed a glowing path and reached a wide river. With teamwork, they carefully crossed by stepping on stones. A guardian bear asked why they wanted the crown. They answered with kindness, showing they wanted to help others. The bear allowed them to take the Crystal Crown. They returned home with joy, ready to use it for kindness and happiness."
 }

@@ -1,45 +1,48 @@
 {
-  "id": "WBX_0000013",
-  "title": "Car Race",
-  "source": "freekidsbooks",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "competition",
-  "characters": ["Carla", "Mark"],
-  "word_count": 38,
-  "moral": "Keep trying and you can win.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Carla and Mark have go-carts and get ready to race.",
-      "text": "Carla and Mark have go carts. Carla is number five. Mark is number seven.",
-      "image_prompt": "two kids with colorful go-karts getting ready for a race, numbers on carts, bright cartoon style"
-    },
-    {
-      "type": "conflict",
-      "summary": "Mark suggests racing and the race begins.",
-      "text": "Let’s race, says Mark. Get ready, get set, go!",
-      "image_prompt": "children starting a go-kart race on a track with starting line, energetic cartoon illustration"
-    },
-    {
-      "type": "journey",
-      "summary": "Carla struggles to pass Mark during the race.",
-      "text": "Carla can’t pass Mark.",
-      "image_prompt": "two go-karts racing closely with one trying to overtake, winding track, cartoon style"
-    },
-    {
-      "type": "turning_point",
-      "summary": "Mark hits a bump and Carla takes the lead.",
-      "text": "Mark hits a bump. Carla is in the lead.",
-      "image_prompt": "one go-kart hitting a bump while another speeds ahead, action moment, colorful cartoon"
-    },
-    {
-      "type": "resolution",
-      "summary": "Carla wins the race and becomes the star.",
-      "text": "Carla wins! She is the star.",
-      "image_prompt": "happy girl holding trophy with checkered flags, celebrating victory, bright cartoon style"
-    }
-  ],
-  "story": "Carla and Mark have go carts. Carla is number five. Mark is number seven. Let’s race, says Mark. Get ready, get set, go! Carla can’t pass Mark. Mark hits a bump. Carla is in the lead. Carla wins! She is the star."
+    "id": "WBX_0000013",
+    "title": "Car Race",
+    "source": "freekidsbooks",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "competition",
+    "characters": [
+        "Carla",
+        "Mark"
+    ],
+    "word_count": 38,
+    "moral": "Keep trying and you can win.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Carla and Mark have go-carts and get ready to race.",
+            "text": "Carla and Mark have go carts. Carla is number five. Mark is number seven.",
+            "image_prompt": "two kids with colorful go-karts getting ready for a race, numbers on carts, bright cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "Mark suggests racing and the race begins.",
+            "text": "Let’s race, says Mark. Get ready, get set, go!",
+            "image_prompt": "children starting a go-kart race on a track with starting line, energetic cartoon illustration"
+        },
+        {
+            "type": "journey",
+            "summary": "Carla struggles to pass Mark during the race.",
+            "text": "Carla can’t pass Mark.",
+            "image_prompt": "two go-karts racing closely with one trying to overtake, winding track, cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "Mark hits a bump and Carla takes the lead.",
+            "text": "Mark hits a bump. Carla is in the lead.",
+            "image_prompt": "one go-kart hitting a bump while another speeds ahead, action moment, colorful cartoon"
+        },
+        {
+            "type": "resolution",
+            "summary": "Carla wins the race and becomes the star.",
+            "text": "Carla wins! She is the star.",
+            "image_prompt": "happy girl holding trophy with checkered flags, celebrating victory, bright cartoon style"
+        }
+    ],
+    "story": "Carla and Mark have go carts. Carla is number five. Mark is number seven. Let’s race, says Mark. Get ready, get set, go! Carla can’t pass Mark. Mark hits a bump. Carla is in the lead. Carla wins! She is the star."
 }

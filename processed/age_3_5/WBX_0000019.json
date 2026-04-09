@@ -1,45 +1,49 @@
 {
-  "id": "WBX_0000019",
-  "title": "Doing My Chores",
-  "source": "freekidsbooks",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "responsibility",
-  "characters": ["child", "Mommy", "Daddy"],
-  "word_count": 154,
-  "moral": "Doing chores helps others and can be fun.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "A child talks about liking to do chores.",
-      "text": "I like doing my chores. Well, maybe not all of them but most of them. Hmm, maybe not most of them. But a lot of them.",
-      "image_prompt": "happy little girl in colorful bedroom talking about chores, cartoon style"
-    },
-    {
-      "type": "conflict",
-      "summary": "The child admits they do not always like chores.",
-      "text": "Okay, maybe not a lot of them. But a few of them. Well, maybe not a few of them but none of them!",
-      "image_prompt": "child looking confused in messy room with toys scattered, cartoon illustration"
-    },
-    {
-      "type": "journey",
-      "summary": "The child realizes chores help parents and make them feel important.",
-      "text": "Just fooling, I really do like doing my chores. When I do my chores, it helps my Mommy and Daddy, and as you know Mummies and Daddies sometimes need a lot of help. When I do my chores, it makes me feel important and I like to be important.",
-      "image_prompt": "child helping parents in kitchen washing dishes, cheerful cartoon style"
-    },
-    {
-      "type": "turning_point",
-      "summary": "The child finds ways to make chores fun.",
-      "text": "Sometimes I get bored so I do some chores, even if they are not my chores. Sometimes I have chores that I do not like to do. When that happens I make up a silly game and that makes the chore easier.",
-      "image_prompt": "child turning chores into a fun game while cleaning room, playful cartoon style"
-    },
-    {
-      "type": "resolution",
-      "summary": "Completing chores leads to rewards and happiness.",
-      "text": "Like yesterday, I had to put my laundry away and I pretended that I was hiding it from my Mommy. It was fun. Sometimes when all my chores are done, we go to the park or have special time. So be important and have some fun. Do your chores until they are done.",
-      "image_prompt": "family happily going to park after chores, bright colorful cartoon illustration"
-    }
-  ],
-  "story": "I like doing my chores. Well, maybe not all of them but most of them. Hmm, maybe not most of them. But a lot of them. Okay, maybe not a lot of them. But a few of them. Well, maybe not a few of them but none of them! Just fooling, I really do like doing my chores. When I do my chores, it helps my Mommy and Daddy, and as you know Mummies and Daddies sometimes need a lot of help. When I do my chores, it makes me feel important and I like to be important. Sometimes I get bored so I do some chores, even if they are not my chores. Sometimes I have chores that I do not like to do. When that happens I make up a silly game and that makes the chore easier. Like yesterday, I had to put my laundry away and I pretended that I was hiding it from my Mommy. It was fun. Sometimes when all my chores are done, we go to the park or have special time. So be important and have some fun. Do your chores until they are done."
+    "id": "WBX_0000019",
+    "title": "Doing My Chores",
+    "source": "freekidsbooks",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "responsibility",
+    "characters": [
+        "child",
+        "Mommy",
+        "Daddy"
+    ],
+    "word_count": 154,
+    "moral": "Doing chores helps others and can be fun.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "A child talks about liking to do chores.",
+            "text": "I like doing my chores. Well, maybe not all of them but most of them. Hmm, maybe not most of them. But a lot of them.",
+            "image_prompt": "happy little girl in colorful bedroom talking about chores, cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "The child admits they do not always like chores.",
+            "text": "Okay, maybe not a lot of them. But a few of them. Well, maybe not a few of them but none of them!",
+            "image_prompt": "child looking confused in messy room with toys scattered, cartoon illustration"
+        },
+        {
+            "type": "journey",
+            "summary": "The child realizes chores help parents and make them feel important.",
+            "text": "Just fooling, I really do like doing my chores. When I do my chores, it helps my Mommy and Daddy, and as you know Mummies and Daddies sometimes need a lot of help. When I do my chores, it makes me feel important and I like to be important.",
+            "image_prompt": "child helping parents in kitchen washing dishes, cheerful cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "The child finds ways to make chores fun.",
+            "text": "Sometimes I get bored so I do some chores, even if they are not my chores. Sometimes I have chores that I do not like to do. When that happens I make up a silly game and that makes the chore easier.",
+            "image_prompt": "child turning chores into a fun game while cleaning room, playful cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "Completing chores leads to rewards and happiness.",
+            "text": "Like yesterday, I had to put my laundry away and I pretended that I was hiding it from my Mommy. It was fun. Sometimes when all my chores are done, we go to the park or have special time. So be important and have some fun. Do your chores until they are done.",
+            "image_prompt": "family happily going to park after chores, bright colorful cartoon illustration"
+        }
+    ],
+    "story": "I like doing my chores. Well, maybe not all of them but most of them. Hmm, maybe not most of them. But a lot of them. Okay, maybe not a lot of them. But a few of them. Well, maybe not a few of them but none of them! Just fooling, I really do like doing my chores. When I do my chores, it helps my Mommy and Daddy, and as you know Mummies and Daddies sometimes need a lot of help. When I do my chores, it makes me feel important and I like to be important. Sometimes I get bored so I do some chores, even if they are not my chores. Sometimes I have chores that I do not like to do. When that happens I make up a silly game and that makes the chore easier. Like yesterday, I had to put my laundry away and I pretended that I was hiding it from my Mommy. It was fun. Sometimes when all my chores are done, we go to the park or have special time. So be important and have some fun. Do your chores until they are done."
 }

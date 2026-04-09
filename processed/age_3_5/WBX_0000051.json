@@ -1,49 +1,50 @@
 {
-  "id": "WBX_0000051",
-  "title": "Rainbow Island Adventure",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "kindness",
-  "characters": ["Captain Rosie", "Polly", "Sam", "crew"],
-  "word_count": 246,
-  "moral": "Helping others and sharing makes adventures special.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Captain Rosie sets out to find treasure on Rainbow Island.",
-      "text": "Captain Rosie sailed her ship with her crew to find the Lost Treasure of Rainbow Island.",
-      "image_prompt": "girl pirate captain with parrot sailing ship toward rainbow island cartoon style",
-      "story": "Captain Rosie sailed her ship to find treasure on Rainbow Island. A storm came, but she stayed brave and guided her crew safely. On the island, they helped a lost sailor named Sam before finding treasure. Inside the chest were jewels and a book of stories. They returned home happy, knowing kindness and friendship matter most."
-    },
-    {
-      "type": "conflict",
-      "summary": "A storm threatens their journey.",
-      "text": "A strong storm arrived with wind and rain, making the journey difficult for Rosie and her crew.",
-      "image_prompt": "pirate ship in storm brave captain steering cartoon style",
-      "story": "Captain Rosie sailed her ship to find treasure on Rainbow Island. A storm came, but she stayed brave and guided her crew safely. On the island, they helped a lost sailor named Sam before finding treasure. Inside the chest were jewels and a book of stories. They returned home happy, knowing kindness and friendship matter most."
-    },
-    {
-      "type": "journey",
-      "summary": "They reach the island and help a lost sailor.",
-      "text": "On the island, Rosie and her crew found Sam who was lost and helped him safely.",
-      "image_prompt": "pirates helping lost sailor on colorful island cartoon style",
-      "story": "Captain Rosie sailed her ship to find treasure on Rainbow Island. A storm came, but she stayed brave and guided her crew safely. On the island, they helped a lost sailor named Sam before finding treasure. Inside the chest were jewels and a book of stories. They returned home happy, knowing kindness and friendship matter most."
-    },
-    {
-      "type": "turning_point",
-      "summary": "They find the treasure chest.",
-      "text": "They followed the map and found a treasure chest filled with jewels and a book.",
-      "image_prompt": "pirates opening treasure chest with jewels and book cartoon style",
-      "story": "Captain Rosie sailed her ship to find treasure on Rainbow Island. A storm came, but she stayed brave and guided her crew safely. On the island, they helped a lost sailor named Sam before finding treasure. Inside the chest were jewels and a book of stories. They returned home happy, knowing kindness and friendship matter most."
-    },
-    {
-      "type": "resolution",
-      "summary": "They return home happily after the adventure.",
-      "text": "Rosie and her crew sailed home, proud of their adventure and kindness.",
-      "image_prompt": "pirate ship sailing home sunset happy crew cartoon style",
-      "story": "Captain Rosie sailed her ship to find treasure on Rainbow Island. A storm came, but she stayed brave and guided her crew safely. On the island, they helped a lost sailor named Sam before finding treasure. Inside the chest were jewels and a book of stories. They returned home happy, knowing kindness and friendship matter most."
-    }
-  ]
+    "id": "WBX_0000051",
+    "title": "Rainbow Island Adventure",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "kindness",
+    "characters": [
+        "Captain Rosie",
+        "Polly",
+        "Sam",
+        "crew"
+    ],
+    "word_count": 246,
+    "moral": "Helping others and sharing makes adventures special.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Captain Rosie sets out to find treasure on Rainbow Island.",
+            "text": "Captain Rosie sailed her ship with her crew to find the Lost Treasure of Rainbow Island.",
+            "image_prompt": "girl pirate captain with parrot sailing ship toward rainbow island cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "A storm threatens their journey.",
+            "text": "A strong storm arrived with wind and rain, making the journey difficult for Rosie and her crew.",
+            "image_prompt": "pirate ship in storm brave captain steering cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "They reach the island and help a lost sailor.",
+            "text": "On the island, Rosie and her crew found Sam who was lost and helped him safely.",
+            "image_prompt": "pirates helping lost sailor on colorful island cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "They find the treasure chest.",
+            "text": "They followed the map and found a treasure chest filled with jewels and a book.",
+            "image_prompt": "pirates opening treasure chest with jewels and book cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "They return home happily after the adventure.",
+            "text": "Rosie and her crew sailed home, proud of their adventure and kindness.",
+            "image_prompt": "pirate ship sailing home sunset happy crew cartoon style"
+        }
+    ],
+    "story": "Captain Rosie sailed her ship with her crew to find the Lost Treasure of Rainbow Island. A strong storm arrived with wind and rain, making the journey difficult for Rosie and her crew. On the island, Rosie and her crew found Sam who was lost and helped him safely. They followed the map and found a treasure chest filled with jewels and a book. Rosie and her crew sailed home, proud of their adventure and kindness."
 }

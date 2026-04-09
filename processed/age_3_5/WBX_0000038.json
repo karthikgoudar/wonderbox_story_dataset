@@ -1,49 +1,52 @@
 {
-  "id": "WBX_0000038",
-  "title": "Lady Mira and the Golden Bell",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "perseverance",
-  "characters": ["Lady Mira", "Pepper", "Gardener Bram", "king", "queen", "baker"],
-  "word_count": 331,
-  "moral": "Do not give up, even small efforts lead to success.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Lady Mira learns that the golden bell is missing and begins her journey.",
-      "text": "Lady Mira lived in a bright castle and was known for being kind and brave. One day, the golden bell stopped ringing. She promised the king and queen that she would find it and set out on her journey with her pony Pepper.",
-      "image_prompt": "kind knight girl in castle holding helmet with pony beside her colorful cartoon style",
-      "story": "Lady Mira lived in a bright castle and was kind and brave. One day, the golden bell was missing and the castle felt quiet. She promised to find it and left with her pony Pepper. She met Gardener Bram who said the bell was not lost but quiet. In the village, a baker told her he heard a sound near the bridge. At the bridge, she found the bell stuck under wooden boards. She worked patiently and lifted the board to get it. She cleaned the bell and brought it back. Everyone was happy as the bell rang again, and Mira felt proud and hopeful."
-    },
-    {
-      "type": "conflict",
-      "summary": "Lady Mira searches but cannot easily find the bell.",
-      "text": "Lady Mira went to the village and asked people about the bell. A baker told her he heard a sound near the bridge, so she went there to investigate.",
-      "image_prompt": "knight asking villagers near bakery small town cartoon children style",
-      "story": "Lady Mira lived in a bright castle and was kind and brave. One day, the golden bell was missing and the castle felt quiet. She promised to find it and left with her pony Pepper. She met Gardener Bram who said the bell was not lost but quiet. In the village, a baker told her he heard a sound near the bridge. At the bridge, she found the bell stuck under wooden boards. She worked patiently and lifted the board to get it. She cleaned the bell and brought it back. Everyone was happy as the bell rang again, and Mira felt proud and hopeful."
-    },
-    {
-      "type": "journey",
-      "summary": "She finds the bell stuck under the bridge but struggles to reach it.",
-      "text": "At the bridge, Lady Mira saw the bell stuck under wooden boards. She tried to lift the board carefully but it was difficult.",
-      "image_prompt": "knight girl lifting wooden plank under bridge finding golden bell cartoon style",
-      "story": "Lady Mira lived in a bright castle and was kind and brave. One day, the golden bell was missing and the castle felt quiet. She promised to find it and left with her pony Pepper. She met Gardener Bram who said the bell was not lost but quiet. In the village, a baker told her he heard a sound near the bridge. At the bridge, she found the bell stuck under wooden boards. She worked patiently and lifted the board to get it. She cleaned the bell and brought it back. Everyone was happy as the bell rang again, and Mira felt proud and hopeful."
-    },
-    {
-      "type": "turning_point",
-      "summary": "With patience, she successfully retrieves the bell.",
-      "text": "Lady Mira kept trying and finally lifted the board enough to reach the bell and free it carefully.",
-      "image_prompt": "knight girl holding golden bell smiling success colorful kids illustration",
-      "story": "Lady Mira lived in a bright castle and was kind and brave. One day, the golden bell was missing and the castle felt quiet. She promised to find it and left with her pony Pepper. She met Gardener Bram who said the bell was not lost but quiet. In the village, a baker told her he heard a sound near the bridge. At the bridge, she found the bell stuck under wooden boards. She worked patiently and lifted the board to get it. She cleaned the bell and brought it back. Everyone was happy as the bell rang again, and Mira felt proud and hopeful."
-    },
-    {
-      "type": "resolution",
-      "summary": "Lady Mira returns the bell and restores happiness in the castle.",
-      "text": "Lady Mira brought the bell back to the castle. It rang again, and everyone celebrated her bravery and kindness.",
-      "image_prompt": "castle celebration knight ringing bell people happy colorful cartoon style",
-      "story": "Lady Mira lived in a bright castle and was kind and brave. One day, the golden bell was missing and the castle felt quiet. She promised to find it and left with her pony Pepper. She met Gardener Bram who said the bell was not lost but quiet. In the village, a baker told her he heard a sound near the bridge. At the bridge, she found the bell stuck under wooden boards. She worked patiently and lifted the board to get it. She cleaned the bell and brought it back. Everyone was happy as the bell rang again, and Mira felt proud and hopeful."
-    }
-  ]
+    "id": "WBX_0000038",
+    "title": "Lady Mira and the Golden Bell",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "perseverance",
+    "characters": [
+        "Lady Mira",
+        "Pepper",
+        "Gardener Bram",
+        "king",
+        "queen",
+        "baker"
+    ],
+    "word_count": 331,
+    "moral": "Do not give up, even small efforts lead to success.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Lady Mira learns that the golden bell is missing and begins her journey.",
+            "text": "Lady Mira lived in a bright castle and was known for being kind and brave. One day, the golden bell stopped ringing. She promised the king and queen that she would find it and set out on her journey with her pony Pepper.",
+            "image_prompt": "kind knight girl in castle holding helmet with pony beside her colorful cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "Lady Mira searches but cannot easily find the bell.",
+            "text": "Lady Mira went to the village and asked people about the bell. A baker told her he heard a sound near the bridge, so she went there to investigate.",
+            "image_prompt": "knight asking villagers near bakery small town cartoon children style"
+        },
+        {
+            "type": "journey",
+            "summary": "She finds the bell stuck under the bridge but struggles to reach it.",
+            "text": "At the bridge, Lady Mira saw the bell stuck under wooden boards. She tried to lift the board carefully but it was difficult.",
+            "image_prompt": "knight girl lifting wooden plank under bridge finding golden bell cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "With patience, she successfully retrieves the bell.",
+            "text": "Lady Mira kept trying and finally lifted the board enough to reach the bell and free it carefully.",
+            "image_prompt": "knight girl holding golden bell smiling success colorful kids illustration"
+        },
+        {
+            "type": "resolution",
+            "summary": "Lady Mira returns the bell and restores happiness in the castle.",
+            "text": "Lady Mira brought the bell back to the castle. It rang again, and everyone celebrated her bravery and kindness.",
+            "image_prompt": "castle celebration knight ringing bell people happy colorful cartoon style"
+        }
+    ],
+    "story": "Lady Mira lived in a bright castle and was known for being kind and brave. One day, the golden bell stopped ringing. She promised the king and queen that she would find it and set out on her journey with her pony Pepper. Lady Mira went to the village and asked people about the bell. A baker told her he heard a sound near the bridge, so she went there to investigate. At the bridge, Lady Mira saw the bell stuck under wooden boards. She tried to lift the board carefully but it was difficult. Lady Mira kept trying and finally lifted the board enough to reach the bell and free it carefully. Lady Mira brought the bell back to the castle. It rang again, and everyone celebrated her bravery and kindness."
 }

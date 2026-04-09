@@ -1,49 +1,50 @@
 {
-  "id": "WBX_0000058",
-  "title": "Ollie's Secret Garden",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "teamwork",
-  "characters": ["Ollie", "Daisy", "bunny", "butterfly"],
-  "word_count": 310,
-  "moral": "Sharing and teamwork make adventures special.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Ollie finds a key and begins an adventure.",
-      "text": "Ollie finds a shiny key and decides to search for a hidden treasure with Daisy.",
-      "image_prompt": "boy holding key with dog in garden cartoon style",
-      "story": "Ollie found a shiny key and went on an adventure with his dog Daisy. They followed clues into a tunnel leading to a secret garden. There they found a treasure chest filled with beautiful items. Ollie shared the experience by drawing and inviting friends to join. He learned teamwork and friendship make the best treasure."
-    },
-    {
-      "type": "conflict",
-      "summary": "He searches for where the key fits.",
-      "text": "Ollie explores the garden and shed to find where the key belongs.",
-      "image_prompt": "boy searching shed and garden curious cartoon style",
-      "story": "Ollie found a shiny key and went on an adventure with his dog Daisy. They followed clues into a tunnel leading to a secret garden. There they found a treasure chest filled with beautiful items. Ollie shared the experience by drawing and inviting friends to join. He learned teamwork and friendship make the best treasure."
-    },
-    {
-      "type": "journey",
-      "summary": "He enters a secret tunnel to a hidden garden.",
-      "text": "Ollie opens a small door and crawls through a tunnel into a magical garden.",
-      "image_prompt": "child crawling tunnel into magical garden cartoon style",
-      "story": "Ollie found a shiny key and went on an adventure with his dog Daisy. They followed clues into a tunnel leading to a secret garden. There they found a treasure chest filled with beautiful items. Ollie shared the experience by drawing and inviting friends to join. He learned teamwork and friendship make the best treasure."
-    },
-    {
-      "type": "turning_point",
-      "summary": "He opens the treasure chest.",
-      "text": "Ollie opens the chest and finds marbles, bells, stones, and a crown.",
-      "image_prompt": "boy opening treasure chest colorful items cartoon style",
-      "story": "Ollie found a shiny key and went on an adventure with his dog Daisy. They followed clues into a tunnel leading to a secret garden. There they found a treasure chest filled with beautiful items. Ollie shared the experience by drawing and inviting friends to join. He learned teamwork and friendship make the best treasure."
-    },
-    {
-      "type": "resolution",
-      "summary": "He shares the experience with friends.",
-      "text": "Ollie shares the moment with animals and realizes teamwork is important.",
-      "image_prompt": "child drawing with animals happy teamwork cartoon style",
-      "story": "Ollie found a shiny key and went on an adventure with his dog Daisy. They followed clues into a tunnel leading to a secret garden. There they found a treasure chest filled with beautiful items. Ollie shared the experience by drawing and inviting friends to join. He learned teamwork and friendship make the best treasure."
-    }
-  ]
+    "id": "WBX_0000058",
+    "title": "Ollie's Secret Garden",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "teamwork",
+    "characters": [
+        "Ollie",
+        "Daisy",
+        "bunny",
+        "butterfly"
+    ],
+    "word_count": 310,
+    "moral": "Sharing and teamwork make adventures special.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Ollie finds a key and begins an adventure.",
+            "text": "Ollie finds a shiny key and decides to search for a hidden treasure with Daisy.",
+            "image_prompt": "boy holding key with dog in garden cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "He searches for where the key fits.",
+            "text": "Ollie explores the garden and shed to find where the key belongs.",
+            "image_prompt": "boy searching shed and garden curious cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "He enters a secret tunnel to a hidden garden.",
+            "text": "Ollie opens a small door and crawls through a tunnel into a magical garden.",
+            "image_prompt": "child crawling tunnel into magical garden cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "He opens the treasure chest.",
+            "text": "Ollie opens the chest and finds marbles, bells, stones, and a crown.",
+            "image_prompt": "boy opening treasure chest colorful items cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "He shares the experience with friends.",
+            "text": "Ollie shares the moment with animals and realizes teamwork is important.",
+            "image_prompt": "child drawing with animals happy teamwork cartoon style"
+        }
+    ],
+    "story": "Ollie finds a shiny key and decides to search for a hidden treasure with Daisy. Ollie explores the garden and shed to find where the key belongs. Ollie opens a small door and crawls through a tunnel into a magical garden. Ollie opens the chest and finds marbles, bells, stones, and a crown. Ollie shares the moment with animals and realizes teamwork is important."
 }

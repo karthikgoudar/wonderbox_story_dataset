@@ -1,49 +1,50 @@
 {
-  "id": "WBX_0000059",
-  "title": "Mia's Growing Treasure",
-  "source": "ohmytales",
-  "source_url": "",
-  "age_group": "3-5",
-  "reading_level": "very simple",
-  "theme": "sharing",
-  "characters": ["Mia", "Mommy", "Grandma", "Leo"],
-  "word_count": 420,
-  "moral": "Treasure grows when shared with others.",
-  "scenes": [
-    {
-      "type": "introduction",
-      "summary": "Mia finds a map and begins a treasure hunt.",
-      "text": "Mia finds a tiny bottle with a map and starts a treasure hunt with her mommy.",
-      "image_prompt": "little girl holding bottle map garden cartoon style",
-      "story": "Mia found a treasure map and followed clues with her mommy. They solved a weighing puzzle to get a key and opened a box. Inside were small treasures and a message to share. Mia shared the treasures with her family and friends. She learned that sharing makes treasure grow."
-    },
-    {
-      "type": "conflict",
-      "summary": "They solve a puzzle to find the key.",
-      "text": "Mia and her mommy use a scale to figure out how to get the key.",
-      "image_prompt": "child using scale puzzle garden cartoon style",
-      "story": "Mia found a treasure map and followed clues with her mommy. They solved a weighing puzzle to get a key and opened a box. Inside were small treasures and a message to share. Mia shared the treasures with her family and friends. She learned that sharing makes treasure grow."
-    },
-    {
-      "type": "journey",
-      "summary": "They follow clues to a fountain.",
-      "text": "They follow red dots and sounds of water to reach the next treasure location.",
-      "image_prompt": "child walking garden following clues fountain cartoon style",
-      "story": "Mia found a treasure map and followed clues with her mommy. They solved a weighing puzzle to get a key and opened a box. Inside were small treasures and a message to share. Mia shared the treasures with her family and friends. She learned that sharing makes treasure grow."
-    },
-    {
-      "type": "turning_point",
-      "summary": "They find and open the treasure box.",
-      "text": "They open a box filled with small treasures and a message about sharing.",
-      "image_prompt": "child opening treasure box sharing items cartoon style",
-      "story": "Mia found a treasure map and followed clues with her mommy. They solved a weighing puzzle to get a key and opened a box. Inside were small treasures and a message to share. Mia shared the treasures with her family and friends. She learned that sharing makes treasure grow."
-    },
-    {
-      "type": "resolution",
-      "summary": "Mia shares the treasure with others.",
-      "text": "Mia shares the treasures with her family and friends and feels happy.",
-      "image_prompt": "child sharing stickers and shells with family cartoon style",
-      "story": "Mia found a treasure map and followed clues with her mommy. They solved a weighing puzzle to get a key and opened a box. Inside were small treasures and a message to share. Mia shared the treasures with her family and friends. She learned that sharing makes treasure grow."
-    }
-  ]
+    "id": "WBX_0000059",
+    "title": "Mia's Growing Treasure",
+    "source": "ohmytales",
+    "source_url": "",
+    "age_group": "3-5",
+    "reading_level": "very simple",
+    "theme": "sharing",
+    "characters": [
+        "Mia",
+        "Mommy",
+        "Grandma",
+        "Leo"
+    ],
+    "word_count": 420,
+    "moral": "Treasure grows when shared with others.",
+    "scenes": [
+        {
+            "type": "introduction",
+            "summary": "Mia finds a map and begins a treasure hunt.",
+            "text": "Mia finds a tiny bottle with a map and starts a treasure hunt with her mommy.",
+            "image_prompt": "little girl holding bottle map garden cartoon style"
+        },
+        {
+            "type": "conflict",
+            "summary": "They solve a puzzle to find the key.",
+            "text": "Mia and her mommy use a scale to figure out how to get the key.",
+            "image_prompt": "child using scale puzzle garden cartoon style"
+        },
+        {
+            "type": "journey",
+            "summary": "They follow clues to a fountain.",
+            "text": "They follow red dots and sounds of water to reach the next treasure location.",
+            "image_prompt": "child walking garden following clues fountain cartoon style"
+        },
+        {
+            "type": "turning_point",
+            "summary": "They find and open the treasure box.",
+            "text": "They open a box filled with small treasures and a message about sharing.",
+            "image_prompt": "child opening treasure box sharing items cartoon style"
+        },
+        {
+            "type": "resolution",
+            "summary": "Mia shares the treasure with others.",
+            "text": "Mia shares the treasures with her family and friends and feels happy.",
+            "image_prompt": "child sharing stickers and shells with family cartoon style"
+        }
+    ],
+    "story": "Mia finds a tiny bottle with a map and starts a treasure hunt with her mommy. Mia and her mommy use a scale to figure out how to get the key. They follow red dots and sounds of water to reach the next treasure location. They open a box filled with small treasures and a message about sharing. Mia shares the treasures with her family and friends and feels happy."
 }
