@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000062",
+  "title": "Benny’s Everyday Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness and bravery",
+  "characters": ["Benny the Bunny", "Shelly the Snail", "Mama Bunny", "Granny Fern", "sparrows"],
+  "word_count": 930,
+  "moral": "Being kind, brave, and helpful makes everyday moments special.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Benny starts his Helper Day by taking muffins to Granny and begins his adventure.",
+      "text": "Benny the Bunny woke up in his cozy burrow. The morning sun made warm squares on the floor. Today was Helper Day. Mama Bunny gave him a basket of muffins to take to Granny Fern. Benny promised to be brave and hopped along the everyday path, imagining it as a grand adventure.",
+      "image_prompt": "cute bunny with basket of muffins starting journey, sunny meadow, colorful flowers, cartoon style children illustration"
+    },
+    {
+      "type": "conflict",
+      "summary": "Benny meets Shelly the snail who is afraid to cross the big path.",
+      "text": "Near the garden gate, Benny heard a worried voice. A small snail named Shelly was afraid to cross the big path. Benny kindly offered to help. Walking slowly beside Shelly, he encouraged him step by step until they safely reached the other side.",
+      "image_prompt": "friendly bunny helping small snail cross path, soft pastel colors, gentle and cute cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Benny faces fear on a creaky bridge and helps sparrows find their button.",
+      "text": "Benny continued his journey and reached a wooden bridge that creaked loudly. He felt scared but calmed himself by counting to ten and crossed safely. Later, he met sparrows who lost a shiny button under a bench. Using a stick, Benny helped retrieve it, and the birds happily thanked him.",
+      "image_prompt": "bunny crossing creaky bridge and later helping birds find shiny button under bench, bright cheerful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Benny reaches Granny’s house and learns about resilience.",
+      "text": "Benny arrived at Granny Fern’s home and delivered the muffins. He shared his adventures with her. Granny praised him for being brave, kind, and clever, and taught him the word resilience, meaning to keep going even when things feel hard.",
+      "image_prompt": "cozy bunny and grandmother inside warm home sharing muffins, soft lighting, cute cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Benny shares food with friends and returns home happily.",
+      "text": "Shelly the snail visited, and Granny shared a muffin with him. The sparrows chirped happily outside. Later, Benny returned home with extra muffins to share. He felt proud of his adventure and went to sleep dreaming of kind moments and brave actions.",
+      "image_prompt": "happy bunny returning home at sunset with basket, peaceful cozy ending, colorful children book style"
+    }
+  ],
+  "story": "Benny the Bunny woke up in his cozy burrow. The morning sun made warm squares on the floor. Today was Helper Day. Mama Bunny gave him muffins to take to Granny Fern. Benny promised to be brave and hopped along the path. On the way, he met Shelly the snail, who was afraid to cross the path. Benny helped him step by step. Then Benny reached a creaky bridge and felt scared, but he calmed himself by counting to ten and crossed it. Later, he helped sparrows find their lost button using a stick. Finally, Benny reached Granny’s house and gave her the muffins. He told her about his adventure, and she praised his courage and kindness, calling it resilience. Shelly visited, and they shared muffins together. Benny returned home happily with extra muffins and went to sleep feeling proud of his kind and brave day."
+}
