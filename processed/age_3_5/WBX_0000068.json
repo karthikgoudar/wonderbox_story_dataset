@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000068",
+  "title": "Pip and Timo’s Bridge",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Pip", "Timo"],
+  "word_count": 187,
+  "moral": "Working together makes challenges easier and builds strong friendships.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Pip and Timo begin their journey with a map to reach the hill.",
+      "text": "Pip the rabbit and Timo the turtle woke up in the meadow and decided to follow the sun to reach the far hill, making a simple map on a leaf.",
+      "image_prompt": "rabbit and turtle drawing map on leaf in sunny meadow, bright cheerful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face obstacles while following the path to the hill.",
+      "text": "As they walked through grass and clover fields, they had to find their way carefully using their map and shadows.",
+      "image_prompt": "rabbit and turtle walking through tall grass and clover, soft colorful cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They reach a brook that blocks their path.",
+      "text": "Pip and Timo reached a flowing brook at the foot of the hill and realized they could not cross it easily.",
+      "image_prompt": "rabbit and turtle looking at small stream blocking path, cute cartoon nature scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They decide to build a bridge together.",
+      "text": "They gathered sticks and leaves and worked together to build a small bridge across the brook.",
+      "image_prompt": "rabbit and turtle building bridge with sticks and leaves, teamwork cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "They cross the bridge and enjoy their success together.",
+      "text": "They crossed their friendship bridge and reached the hill, sharing food and resting happily together.",
+      "image_prompt": "rabbit and turtle sitting happily on hill sharing food, warm sunset cartoon style"
+    }
+  ],
+  "story": "Pip the rabbit and Timo the turtle decided to follow the sun to reach the far hill. They made a map on a leaf and began their journey through grass and clover. They carefully followed their path until they reached a brook that blocked their way. Pip had an idea to build a bridge. Together they gathered sticks and leaves and built a small bridge. They crossed it safely and reached the hill. There they shared food and rested happily, proud of their teamwork and friendship."
+}

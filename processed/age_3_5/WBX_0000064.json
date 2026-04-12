@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000064",
+  "title": "Little Bear Finds His Light",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "perseverance",
+  "characters": ["Little Bear", "Bunny", "Squirrel"],
+  "word_count": 193,
+  "moral": "Never give up and friends can help you solve problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Little Bear wakes up and wants to use his flashlight but cannot find it.",
+      "text": "Little Bear woke up in his cozy room and wanted to use his flashlight to make stars on the wall, but it was missing.",
+      "image_prompt": "cute little bear in cozy room looking for flashlight, soft warm colors, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Little Bear searches his house but cannot find the flashlight.",
+      "text": "Little Bear looked under his bed and around his room but could not find the flashlight anywhere.",
+      "image_prompt": "bear searching under bed and around room, playful children illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Little Bear and his friends search outside but still cannot find it.",
+      "text": "With Bunny and Squirrel, Little Bear searched outside in the garden, looking under leaves and near the tree, but the flashlight was still missing.",
+      "image_prompt": "bear, bunny, squirrel searching garden together, bright colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Little Bear remembers where he left the flashlight.",
+      "text": "Little Bear thought carefully and remembered that he had taken the flashlight into his play tent the day before.",
+      "image_prompt": "bear thinking and remembering, lightbulb moment, cute cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Little Bear finds the flashlight and enjoys with his friends.",
+      "text": "They found the flashlight in the tent and made shining stars together, feeling happy and proud before going to sleep.",
+      "image_prompt": "bear and friends inside tent with glowing stars, cozy night cartoon illustration"
+    }
+  ],
+  "story": "Little Bear woke up and wanted to use his flashlight but could not find it. He searched his room but it was missing. Bunny helped him look in the house, but they still could not find it. Then they went outside and searched with Squirrel in the garden, but it was not there. Little Bear felt sad but then remembered he had used it in his play tent. They rushed to the tent and found the flashlight. Together they made glowing stars and felt happy and proud before going to sleep."
+}

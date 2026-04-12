@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000070",
+  "title": "Felix and the Rainbow Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "imagination",
+  "characters": ["Felix", "Ollie"],
+  "word_count": 198,
+  "moral": "Imagination can turn simple moments into magical adventures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Felix decides to go on an adventure to find Rainbow Lake.",
+      "text": "Felix the fox imagined going on a big adventure to find the magical Rainbow Lake.",
+      "image_prompt": "cute fox dreaming of adventure under tree, colorful fantasy cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Felix is unsure how to find the magical lake.",
+      "text": "Felix wondered where the Rainbow Lake was and how he would reach it.",
+      "image_prompt": "fox looking confused in forest, soft bright children illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Felix travels with Ollie and follows clues.",
+      "text": "With Ollie the owl, Felix followed a stream and found a shiny rainbow pebble that guided them.",
+      "image_prompt": "fox and owl walking along stream with glowing pebble, magical cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the magical Rainbow Lake.",
+      "text": "They followed the sparkling path and finally found the beautiful Rainbow Lake shining with colors.",
+      "image_prompt": "rainbow lake glowing with bright colors, fox and owl amazed, fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Felix feels happy and proud after the adventure.",
+      "text": "Felix and Ollie enjoyed the magical lake and felt happy, proud, and ready for more adventures.",
+      "image_prompt": "fox and owl sitting by rainbow lake at sunset, peaceful colorful cartoon"
+    }
+  ],
+  "story": "Felix the fox imagined going on a big adventure to find the magical Rainbow Lake. He met Ollie the owl, who joined him. Together they followed a stream and found a shiny rainbow pebble. The pebble helped guide them along a sparkling path. Soon, they discovered the beautiful Rainbow Lake shining with many colors. Felix felt proud and happy. They sat together and enjoyed the magical place, dreaming of more adventures to come."
+}

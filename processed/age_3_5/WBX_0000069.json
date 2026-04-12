@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000069",
+  "title": "Benny’s Magical Key",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "adventure",
+  "characters": ["Benny", "Tilly", "Owl"],
+  "word_count": 206,
+  "moral": "Curiosity and friendship lead to magical adventures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Benny finds a magical key and decides to explore.",
+      "text": "Benny the bunny found a glowing key in the meadow and decided to discover what it could open.",
+      "image_prompt": "cute bunny holding glowing key in meadow with flowers, bright magical cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Benny does not know what the key opens.",
+      "text": "Benny wondered what the key was for and decided to search for a hidden door near the old oak tree.",
+      "image_prompt": "bunny thinking while holding key near big tree, colorful children illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Benny and Tilly travel together to find the door.",
+      "text": "Benny met Tilly the tortoise and together they went to the oak tree to look for a magical door.",
+      "image_prompt": "bunny and tortoise walking together toward big tree, cheerful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover and open the magical door.",
+      "text": "They found a tiny door in the tree and used the key to open it, entering a magical world.",
+      "image_prompt": "small magical door in tree glowing as bunny opens it, fantasy cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "They enjoy the magical world and return home happily.",
+      "text": "After exploring and making wishes with friends, they returned home feeling happy and excited for more adventures.",
+      "image_prompt": "bunny and tortoise returning home smiling, soft magical sunset cartoon style"
+    }
+  ],
+  "story": "Benny the bunny found a glowing key in the meadow and wondered what it could open. He decided to visit the old oak tree and search for a door. On the way, he met his friend Tilly the tortoise, who joined him. Together they found a tiny door in the tree and used the key to open it. Inside, they discovered a magical world filled with wonder. They made wishes and played with friends. After their adventure, they returned home happily, ready for more magical journeys."
+}

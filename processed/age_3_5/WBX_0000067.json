@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000067",
+  "title": "Timmy’s Magical Garden",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Timmy", "Benny", "Owl"],
+  "word_count": 190,
+  "moral": "Friendship and caring for nature make adventures meaningful.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Timmy decides to find the hidden magical garden.",
+      "text": "Timmy the turtle wanted to find a magical hidden garden and asked his friend Benny to join him.",
+      "image_prompt": "cute turtle and bunny starting adventure in neighborhood, bright cheerful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a tall fence blocking their way.",
+      "text": "Timmy and Benny reached a tall fence and wondered how to get past it.",
+      "image_prompt": "turtle and bunny looking at tall fence, colorful kids illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They work together to enter the garden.",
+      "text": "Using a rock and a small opening, they managed to climb and crawl into the magical garden.",
+      "image_prompt": "turtle and bunny entering garden through small gap, playful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They meet a wise owl who guides them.",
+      "text": "Inside the garden, they met a wise owl who asked them to take care of the garden and help gather flowers.",
+      "image_prompt": "turtle and bunny talking to wise owl in magical garden, bright colorful scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "They enjoy the garden and return home happily.",
+      "text": "They gathered flowers, promised to care for the garden, and returned home happy after their adventure.",
+      "image_prompt": "turtle and bunny leaving magical garden at sunset, warm happy cartoon style"
+    }
+  ],
+  "story": "Timmy the turtle wanted to find a magical garden and asked his friend Benny to join him. They walked until they reached a tall fence. Using a rock and a small opening, they entered the garden. Inside, they saw beautiful flowers and met a wise owl. The owl asked them to take care of the garden and gather flowers. They helped happily and promised to return. After their adventure, they went home feeling joyful and excited for the future."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000066",
+  "title": "Sparky’s Secret Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Sparky", "Twinkle", "Puffy"],
+  "word_count": 183,
+  "moral": "Being brave and clever helps you discover wonderful things.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sparky discovers a secret door in his treehouse.",
+      "text": "Sparky the little dragon found a hidden door in his treehouse and decided to explore it.",
+      "image_prompt": "cute dragon opening secret door in treehouse, magical glowing cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Sparky enters a mysterious magical room.",
+      "text": "Inside the door, Sparky found a magical room and felt unsure but curious about what to do next.",
+      "image_prompt": "dragon in magical glowing room with stars and clouds, fantasy cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Sparky follows a path and meets challenges.",
+      "text": "With help from Twinkle the fairy, Sparky followed rainbow stones and faced a challenge with a ticklish cloud.",
+      "image_prompt": "dragon following rainbow path with fairy, fluffy cloud scene, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Sparky solves the challenge by making the cloud laugh.",
+      "text": "Sparky sang a funny song to make the cloud laugh and successfully passed the challenge.",
+      "image_prompt": "dragon singing to laughing cloud, joyful magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Sparky finds the treasure and returns home.",
+      "text": "Sparky found a glowing lantern treasure and returned home feeling brave and happy.",
+      "image_prompt": "dragon holding glowing lantern treasure, cozy magical ending cartoon"
+    }
+  ],
+  "story": "Sparky the dragon found a hidden door in his treehouse and entered a magical room. He met Twinkle the fairy who guided him to find a treasure. Sparky followed rainbow stones and reached a ticklish cloud. He made the cloud laugh by singing a funny song and passed the challenge. At the end, he found a glowing lantern as treasure. Sparky returned home feeling brave and happy, ready for more adventures."
+}

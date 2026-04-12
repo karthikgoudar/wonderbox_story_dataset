@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000063",
+  "title": "The Clever Fox and the Forest Fix",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "problem solving",
+  "characters": ["Finley the fox", "Bella the bunny", "Charlie the chipmunk", "Lily the squirrel", "Sammy the hedgehog"],
+  "word_count": 180,
+  "moral": "Using clever thinking and help from friends can solve problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Finley the fox sets out to visit his friend Bella with his wagon.",
+      "text": "In a sunny forest, Finley the fox wanted to visit his friend Bella the bunny. He got into his red wagon and started his journey along the leafy path.",
+      "image_prompt": "cute fox riding red wagon in sunny forest with trees and flowers, colorful cartoon children illustration"
+    },
+    {
+      "type": "conflict",
+      "summary": "Finley discovers his wagon wheel is broken and cannot continue.",
+      "text": "As Finley began moving, he heard a clunk. One wheel of his wagon was loose and wobbly. He stopped and wondered how he could fix it to continue his journey.",
+      "image_prompt": "little fox looking worried at broken wagon wheel in forest, soft colorful cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Finley asks different forest friends for help but their ideas do not work.",
+      "text": "Finley searched for a solution. He tried a pebble, an acorn from Charlie the chipmunk, and a button from Lily the squirrel, but none of them fit the wheel properly.",
+      "image_prompt": "fox trying different objects with chipmunk and squirrel helping, bright forest cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Finley finds the perfect solution with Sammy the hedgehog’s help.",
+      "text": "Finley met Sammy the hedgehog, who had a round piece of bark. When Finley tried it on the wheel, it fit perfectly and fixed the wagon.",
+      "image_prompt": "happy fox and hedgehog fixing wagon with round bark piece, cheerful cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Finley reaches Bella and enjoys a happy day after solving the problem.",
+      "text": "With his wagon fixed, Finley reached Bella’s home. They played and laughed together, and Finley felt proud of solving the problem with help from his friends.",
+      "image_prompt": "fox and bunny playing happily near burrow in sunny forest, warm colorful children illustration"
+    }
+  ],
+  "story": "In a sunny forest, Finley the fox wanted to visit his friend Bella the bunny. He got into his red wagon and started his journey. Soon he heard a clunk and saw that his wagon wheel was loose. Finley tried to fix it with a pebble but it did not work. He met Charlie the chipmunk, who gave him an acorn, but it did not fit. Then Lily the squirrel gave him a button, but it was too big. Finley kept trying and did not give up. Finally, he met Sammy the hedgehog, who had a round piece of bark. It fit perfectly and fixed the wheel. Finley happily rolled to Bella’s home. They played and laughed together, and Finley felt proud of solving his problem with help from his friends."
+}

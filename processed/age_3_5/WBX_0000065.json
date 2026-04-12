@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000065",
+  "title": "Little Wolf and the Muffins",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Little Wolf", "Mama Wolf", "Bunny", "Grandma Fox"],
+  "word_count": 176,
+  "moral": "Being kind and helpful makes every journey special.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Little Wolf sets out to deliver muffins to Grandma Fox.",
+      "text": "Little Wolf woke up and prepared to take muffins to Grandma Fox, promising to be kind and brave.",
+      "image_prompt": "cute little wolf holding muffins box starting journey, sunny meadow cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Little Wolf needs to remember the time to reach on time.",
+      "text": "Little Wolf had to remember ten o’clock so he could reach Grandma’s house on time.",
+      "image_prompt": "wolf thinking about clock time with notebook, colorful children illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Little Wolf helps Bunny and continues his journey.",
+      "text": "On the way, Little Wolf helped Bunny get a stuck paper boat and shared a muffin before continuing.",
+      "image_prompt": "wolf helping bunny near puddle with paper boat, cheerful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Little Wolf checks the time and realizes he is on schedule.",
+      "text": "Little Wolf checked his notebook and the clock and saw it was exactly ten o’clock.",
+      "image_prompt": "wolf checking time on clock happily, bright simple cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Little Wolf reaches Grandma and shares muffins happily.",
+      "text": "Little Wolf reached Grandma Fox’s home on time and shared muffins with her and Bunny happily.",
+      "image_prompt": "wolf, bunny, grandma fox sharing muffins inside cozy home, warm cartoon style"
+    }
+  ],
+  "story": "Little Wolf woke up and prepared muffins to take to Grandma Fox. His mother reminded him to be kind and reach by ten o’clock. He wrote the time in his notebook. On the way, he met Bunny and helped rescue a stuck paper boat and shared a muffin. He continued his journey and checked the time using his drawing and a clock. It was exactly ten o’clock. He reached Grandma Fox’s home on time and shared muffins with her and Bunny. Everyone felt happy and warm."
+}
