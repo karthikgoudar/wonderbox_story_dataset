@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000100",
+  "title": "Max and Friends Treasure Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Max", "Charlie", "Lily"],
+  "word_count": 247,
+  "moral": "Friendship and teamwork make every adventure special.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Max finds a mysterious map and invites his friends on an adventure.",
+      "text": "Max found a crinkly old map in his backyard and showed it to his friends Charlie and Lily.",
+      "image_prompt": "kids looking at old treasure map in backyard, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They follow the map and discover a hidden path behind a fence.",
+      "text": "They followed the map through the neighborhood and found a tiny hidden door in a wooden fence.",
+      "image_prompt": "kids crawling through small door in fence into secret path, bright cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They travel along a magical path and cross a pond.",
+      "text": "They walked along a flower-lined path and used a rowboat to reach a small island.",
+      "image_prompt": "kids rowing small boat across pond to island, cheerful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find and open a treasure box under a tree.",
+      "text": "They dug near a big tree and found a wooden treasure box filled with marbles and shells.",
+      "image_prompt": "kids opening treasure chest under tree with colorful marbles, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home happy and value their friendship.",
+      "text": "They returned home smiling, knowing their friendship was the best treasure.",
+      "image_prompt": "kids walking home together smiling at sunset, warm cartoon"
+    }
+  ],
+  "story": "Max found a mysterious map in his backyard and showed it to his friends Charlie and Lily. Together, they followed the map through their neighborhood and found a hidden door in a fence. On the other side, they discovered a secret path and used a small boat to reach an island. There, they dug near a big tree and found a treasure box filled with marbles, shells, and a book. After their adventure, they returned home happy, realizing that their friendship was the greatest treasure."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000093",
+  "title": "The Crystal Cave Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Lily", "Alex", "Mia", "Noah"],
+  "word_count": 245,
+  "moral": "Courage and teamwork help overcome fears.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily and friends begin a journey to find a magical crystal.",
+      "text": "Lily and her friends went to a snowy mountain to find a magical crystal.",
+      "image_prompt": "kids climbing snowy mountain with backpacks, bright cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a frozen river.",
+      "text": "They had to cross a frozen river carefully to continue their journey.",
+      "image_prompt": "kids crossing frozen river on branches, winter cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They enter a cave and face a blocked path.",
+      "text": "Inside the cave, a big rock blocked their way to the crystal.",
+      "image_prompt": "kids inside cave with giant rock obstacle, fantasy cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They move the rock and find the crystal.",
+      "text": "They used a lever to move the rock and found the glowing crystal.",
+      "image_prompt": "kids pulling lever and discovering crystal, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Lily makes a wish and they return home.",
+      "text": "Lily wished for courage and returned home happily with her friends.",
+      "image_prompt": "kids smiling after adventure in snowy village, warm cartoon"
+    }
+  ],
+  "story": "Lily and her friends went to a snowy mountain to find a magical crystal. They crossed a frozen river and entered a cave where a big rock blocked their way. Using teamwork, they moved the rock and found the crystal. Lily wished for courage, and they returned home happy and proud."
+}

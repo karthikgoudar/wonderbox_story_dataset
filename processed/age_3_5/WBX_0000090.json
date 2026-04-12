@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000090",
+  "title": "Lily’s Jungle Rescue",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Lily", "Tommy", "Emily", "Sam"],
+  "word_count": 220,
+  "moral": "Teamwork and bravery can help save others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily and friends start a jungle rescue mission.",
+      "text": "Lily and her friends entered the jungle to rescue an animal in danger.",
+      "image_prompt": "kids entering jungle with backpacks ready for rescue, colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They must cross a strong river.",
+      "text": "They reached a wide river and needed to find a safe way across.",
+      "image_prompt": "kids building bridge over river with sticks, teamwork cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They overcome hills and monkeys.",
+      "text": "They climbed a muddy hill and used bananas to pass safely by monkeys.",
+      "image_prompt": "kids climbing hill and offering bananas to monkeys, fun cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find and free the trapped jaguar.",
+      "text": "They found a baby jaguar in a net and carefully freed it.",
+      "image_prompt": "kids freeing baby jaguar from net, emotional cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home proud and happy.",
+      "text": "They returned home as heroes, proud of their teamwork and courage.",
+      "image_prompt": "kids walking home happily after rescue, warm sunset cartoon"
+    }
+  ],
+  "story": "Lily and her friends went into the jungle to rescue an animal. They crossed a river by building a bridge and climbed a muddy hill. They used bananas to safely pass monkeys. Finally, they found a baby jaguar trapped in a net and freed it. They returned home proud and happy after their brave rescue mission."
+}

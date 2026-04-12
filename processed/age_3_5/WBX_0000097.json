@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000097",
+  "title": "The Backyard Treasure Hunt",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Jack", "Tom"],
+  "word_count": 205,
+  "moral": "Exploring with friends makes every adventure special.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jack and Tom start a treasure hunt in the backyard.",
+      "text": "Jack and Tom made a treasure map and started exploring their backyard.",
+      "image_prompt": "two kids with map in backyard near tree, colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face obstacles like crossing a river.",
+      "text": "They imagined a garden hose as a river and needed to cross it.",
+      "image_prompt": "kids crossing plank over hose river, playful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore jungle and sandbox areas.",
+      "text": "They pretended the garden was a jungle and searched the sandbox for treasure.",
+      "image_prompt": "kids digging sandbox treasure, bright cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find a treasure box.",
+      "text": "They found a wooden box with a note inside it.",
+      "image_prompt": "kids opening treasure box in sandbox, cheerful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They feel happy and plan more adventures.",
+      "text": "They felt happy and excited for more adventures together.",
+      "image_prompt": "kids smiling and planning next adventure, warm cartoon"
+    }
+  ],
+  "story": "Jack and Tom made a treasure map and explored their backyard. They crossed a pretend river and searched through a jungle and sandbox. They found a treasure box with a note inside. They were happy and excited to go on more adventures together."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000096",
+  "title": "Max and Leo’s Big Red X",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Max", "Leo"],
+  "word_count": 212,
+  "moral": "Sharing and helping each other makes adventures fun.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Max and Leo start an adventure using a map.",
+      "text": "Max showed Leo a map with a big red X and they began their adventure.",
+      "image_prompt": "two boys looking at treasure map indoors, bright cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face challenges like crossing a pretend river.",
+      "text": "They had to cross a laundry basket river using a stool as a bridge.",
+      "image_prompt": "kids crossing laundry basket river using stool, playful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore different places like a bush and bookshelf.",
+      "text": "They explored the bush, crossed obstacles, and reached the bookshelf tower.",
+      "image_prompt": "kids exploring house like jungle and climbing shelf, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure safely with help.",
+      "text": "With help from mom, they reached the top shelf and got the treasure.",
+      "image_prompt": "child reaching shelf with parent support, warm cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They celebrate and enjoy their adventure together.",
+      "text": "They shared the treasure and felt happy after their fun adventure.",
+      "image_prompt": "kids sharing snacks and smiling together, cozy cartoon"
+    }
+  ],
+  "story": "Max and Leo used a map with a big red X to go on an adventure. They explored their house, crossed a pretend river, and climbed to find treasure. With help, they reached the shelf and got raisins and apples. They shared the treasure and enjoyed their adventure together."
+}

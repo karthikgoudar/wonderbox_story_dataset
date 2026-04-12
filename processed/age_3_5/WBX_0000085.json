@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000085",
+  "title": "The Mirror Words Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "learning",
+  "characters": ["Mia", "Mom", "Dad", "Button"],
+  "word_count": 248,
+  "moral": "Trying carefully and thinking helps solve problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mia discovers a secret mirror word challenge.",
+      "text": "Mia found a note that could only be read using a mirror and started her fun puzzle adventure.",
+      "image_prompt": "little girl reading note with mirror in kitchen, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Mia struggles to read the mirror word.",
+      "text": "She looked at the letters in the mirror and tried hard to understand the strange shapes.",
+      "image_prompt": "girl concentrating on mirror letters, cute learning cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Mia follows clues and solves small challenges.",
+      "text": "She followed clues around the house, helping objects and solving puzzles step by step.",
+      "image_prompt": "girl exploring house solving clues, playful cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mia reads the final mirror message.",
+      "text": "She used the mirror again and successfully read the words 'YOU CAN' with confidence.",
+      "image_prompt": "girl smiling reading YOU CAN in mirror, cheerful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Mia celebrates her success with her family.",
+      "text": "Her family hugged her and she felt proud of solving the adventure.",
+      "image_prompt": "family hugging child proudly in living room, warm cartoon"
+    }
+  ],
+  "story": "Mia found a secret note that could be read using a mirror. She worked hard to understand the letters and followed clues around her house. Along the way, she helped tidy things and solved puzzles. At the end, she read the final message 'YOU CAN' and felt proud. Her family celebrated her success, and she learned that trying and thinking carefully helps solve problems."
+}

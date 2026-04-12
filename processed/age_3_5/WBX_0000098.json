@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000098",
+  "title": "The Puzzle Tree Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Mia", "Sam", "Leo", "Noor"],
+  "word_count": 230,
+  "moral": "Helping each other makes solving problems fun and easy.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Four friends begin a puzzle adventure.",
+      "text": "Mia, Sam, Leo, and Noor started building a puzzle and went to find missing pieces.",
+      "image_prompt": "kids sitting with puzzle pieces on carpet, bright cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They need to find hidden puzzle pieces.",
+      "text": "They searched around the house for special puzzle pieces.",
+      "image_prompt": "kids searching puzzle pieces under couch and near lamp, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore different places like garden and sandbox.",
+      "text": "They explored the backyard, sandbox, and laundry area to find pieces.",
+      "image_prompt": "kids exploring backyard and sandbox for puzzle pieces, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find all pieces and complete the puzzle.",
+      "text": "They gathered all pieces and carefully put them together.",
+      "image_prompt": "kids completing puzzle together, joyful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They celebrate and rest happily.",
+      "text": "They felt proud, shared their story, and went to rest happily.",
+      "image_prompt": "kids resting and smiling after puzzle, cozy cartoon"
+    }
+  ],
+  "story": "Mia, Sam, Leo, and Noor played a puzzle adventure. They searched their house and backyard to find missing pieces. They worked together and completed the puzzle of a tree. They felt proud and happy, knowing teamwork made their adventure fun."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000086",
+  "title": "Lucy’s Backyard Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "curiosity",
+  "characters": ["Lucy", "Mommy"],
+  "word_count": 258,
+  "moral": "Being careful and curious helps you learn new things.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lucy begins exploring her backyard.",
+      "text": "Lucy went into her backyard ready for a fun adventure and discovery.",
+      "image_prompt": "little girl in backyard exploring with flowers and trees, bright cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Lucy finds mysterious paw prints.",
+      "text": "She noticed paw prints and wondered which animal made them.",
+      "image_prompt": "girl looking at paw prints on ground, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Lucy follows clues like a bunny and a cat.",
+      "text": "She followed the tracks, hopping like a bunny and creeping like a cat.",
+      "image_prompt": "girl acting like bunny and cat following tracks, playful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Lucy finds a red button at the end of the trail.",
+      "text": "She found a red button and realized she had solved her backyard mystery.",
+      "image_prompt": "girl finding red button near tree, cheerful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Lucy returns home happily and shares her story.",
+      "text": "Lucy went home proudly and shared her adventure with her mom.",
+      "image_prompt": "child hugging mother and telling story, cozy cartoon scene"
+    }
+  ],
+  "story": "Lucy explored her backyard one sunny morning. She found paw prints and followed them like a bunny and a cat. She carefully avoided a puddle and continued her journey. At the end, she found a red button and felt proud of solving the mystery. She returned home happy and shared her adventure with her mom."
+}

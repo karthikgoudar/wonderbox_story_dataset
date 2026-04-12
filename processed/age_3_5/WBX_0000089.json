@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000089",
+  "title": "Lily’s Jungle Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Lily", "Coco", "Ollie", "Nutmeg"],
+  "word_count": 210,
+  "moral": "Kindness and courage can help others and bring happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily finds a map and enters a mysterious jungle.",
+      "text": "Lily found an old map and entered a jungle filled with tall trees and strange sounds.",
+      "image_prompt": "little girl holding map entering jungle with tall trees and birds, colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Lily hears a cry and finds a trapped monkey.",
+      "text": "She heard a cry and found a baby monkey trapped in a thorny bush.",
+      "image_prompt": "girl helping baby monkey stuck in bush, bright cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They travel to an enchanted forest and meet friends.",
+      "text": "With the monkey, she entered an enchanted forest and met a wise owl and other animals.",
+      "image_prompt": "girl monkey owl in magical forest with glowing lights, cheerful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They rescue a squirrel from goblins.",
+      "text": "They followed clues and rescued a squirrel from goblins using teamwork.",
+      "image_prompt": "girl and animals saving squirrel from goblins, fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Lily returns home as a hero.",
+      "text": "Lily returned home happily, remembering her brave adventure.",
+      "image_prompt": "girl returning home smiling after adventure, warm cartoon"
+    }
+  ],
+  "story": "Lily found an old map and entered a mysterious jungle full of tall trees and sounds. She heard a cry and helped a baby monkey stuck in a bush. Together they entered an enchanted forest and met a wise owl. They worked together to rescue a squirrel from goblins. Lily returned home happy and proud of her adventure."
+}

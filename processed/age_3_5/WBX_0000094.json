@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000094",
+  "title": "Lily’s Desert Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Lily", "Sam", "Emma", "Jack"],
+  "word_count": 250,
+  "moral": "Working together helps overcome even the hardest challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily and friends explore a mysterious desert.",
+      "text": "Lily and her friends went into the desert to explore and find secrets.",
+      "image_prompt": "kids walking in desert with backpacks and pyramid, bright cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They enter a pyramid and face puzzles.",
+      "text": "They entered a pyramid and solved a maze of puzzles inside.",
+      "image_prompt": "kids solving maze inside pyramid, adventurous cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They search for water under the hot sun.",
+      "text": "They faced the hot sun and searched for water to stay safe.",
+      "image_prompt": "kids walking in hot desert toward oasis, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They survive a sandstorm together.",
+      "text": "They built a shelter and stayed safe during a big sandstorm.",
+      "image_prompt": "kids hiding in shelter during sandstorm, dramatic cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They find a way home through a portal.",
+      "text": "They found a glowing portal and returned home safely together.",
+      "image_prompt": "kids entering glowing portal in desert, magical cartoon"
+    }
+  ],
+  "story": "Lily and her friends explored a desert and found a pyramid. Inside, they solved puzzles and found a golden key. They faced the hot sun and a strong sandstorm but worked together to stay safe. Finally, they discovered a glowing portal and returned home, proud of their teamwork and adventure."
+}

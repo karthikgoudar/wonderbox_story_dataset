@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000092",
+  "title": "Lily and the Enchanted Forest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Lily", "Charlie"],
+  "word_count": 240,
+  "moral": "Friendship and courage can overcome any challenge.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily goes into the forest to find her missing friend.",
+      "text": "Lily entered the forest to find her missing friend Charlie the fox.",
+      "image_prompt": "girl entering magical forest searching for fox, colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "She faces obstacles like a river and cave.",
+      "text": "She crossed a river and entered a dark cave while searching.",
+      "image_prompt": "girl crossing river and entering cave, adventure cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "She solves a riddle in the cave.",
+      "text": "Inside the cave, she solved a riddle to move forward.",
+      "image_prompt": "girl solving glowing riddle in cave, magical cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "She finds and frees Charlie.",
+      "text": "She found Charlie trapped and freed him with courage.",
+      "image_prompt": "girl hugging fox after rescue, emotional cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home happily together.",
+      "text": "They returned home safely and their friendship grew stronger.",
+      "image_prompt": "girl and fox returning home happily, warm cartoon"
+    }
+  ],
+  "story": "Lily went into the forest to find her missing friend Charlie the fox. She crossed a river and entered a cave. Inside, she solved a riddle and found Charlie trapped. She freed him and they returned home together. Their friendship became stronger after the adventure."
+}

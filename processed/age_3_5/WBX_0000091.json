@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000091",
+  "title": "The Brave Flower Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "love",
+  "characters": ["Lily", "Emma", "Oliver", "Noah", "Grandmother"],
+  "word_count": 230,
+  "moral": "Love and courage help overcome difficult challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily sets out to find a flower to help her grandmother.",
+      "text": "Lily and her friends went into the forest to find a special flower to cure her grandmother.",
+      "image_prompt": "kids entering forest on mission to find flower, bright cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face fog and strange sounds.",
+      "text": "They walked through fog and heard strange sounds that made them nervous.",
+      "image_prompt": "kids in foggy forest hearing sounds, mysterious cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They continue through a storm bravely.",
+      "text": "They walked through heavy rain and strong winds without giving up.",
+      "image_prompt": "kids walking in storm holding hands, dramatic cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the rare flower.",
+      "text": "They reached the clearing and found the glowing rare flower.",
+      "image_prompt": "kids discovering glowing flower in forest, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The grandmother is cured and they are celebrated.",
+      "text": "They brought the flower home and their grandmother recovered happily.",
+      "image_prompt": "family celebrating grandmother recovery, warm cartoon"
+    }
+  ],
+  "story": "Lily and her friends went into the forest to find a rare flower to help her grandmother. They faced fog, strange sounds, and a storm but stayed brave. Finally, they found the flower and returned home. The grandmother was cured, and everyone celebrated their courage and love."
+}

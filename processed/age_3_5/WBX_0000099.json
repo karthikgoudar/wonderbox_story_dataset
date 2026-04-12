@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000099",
+  "title": "The Magic of Friendship",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Lily", "Jack", "Emily"],
+  "word_count": 235,
+  "moral": "Friendship is the greatest treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Three friends find a key and a treasure map.",
+      "text": "Lily found a golden key and with her friends discovered a treasure map.",
+      "image_prompt": "kids holding golden key and map near tree, magical cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They follow the map through different paths.",
+      "text": "They traveled through the garden and climbed a hill to find the treasure.",
+      "image_prompt": "kids walking through garden and hill, adventure cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the forest together.",
+      "text": "They entered a forest and followed clues while helping each other.",
+      "image_prompt": "kids exploring forest together, bright cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure box.",
+      "text": "They found a wooden box and opened it to see a glowing globe.",
+      "image_prompt": "kids opening glowing treasure box with globe, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They realize friendship is the real treasure.",
+      "text": "They understood that friendship was the greatest treasure and returned home happy.",
+      "image_prompt": "kids hugging and smiling together, warm cartoon"
+    }
+  ],
+  "story": "Lily, Jack, and Emily found a golden key and a treasure map. They followed the map through the garden and forest. After working together, they found a treasure box with a glowing globe. They realized friendship was the greatest treasure and returned home happy."
+}

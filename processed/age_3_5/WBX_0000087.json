@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000087",
+  "title": "The Whispering Woods Treasure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Lily", "Jake", "Maya"],
+  "word_count": 270,
+  "moral": "Working together helps solve problems and achieve goals.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily and her friends plan to explore the Whispering Woods.",
+      "text": "Lily and her friends decided to explore the Whispering Woods to find hidden treasure.",
+      "image_prompt": "kids entering magical forest with backpacks, colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a stream blocking their path.",
+      "text": "They reached a stream and had to carefully cross using stones.",
+      "image_prompt": "kids stepping on stones across stream, bright cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow a map and overcome obstacles.",
+      "text": "They followed a map, crawled past bushes, and worked together through challenges.",
+      "image_prompt": "kids solving map puzzle and crawling through bushes, playful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover a treasure chest in a clearing.",
+      "text": "They found a chest filled with jewels and realized they had succeeded.",
+      "image_prompt": "kids opening treasure chest in forest clearing, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home proud and happy.",
+      "text": "They shared their story and became known as brave explorers.",
+      "image_prompt": "kids celebrating in village after adventure, joyful cartoon"
+    }
+  ],
+  "story": "Lily and her friends Jake and Maya explored the Whispering Woods to find treasure. They crossed a stream, followed a map, and worked together to overcome obstacles. After solving challenges, they found a chest filled with jewels. They returned home proud and happy, known as brave explorers who worked as a team."
+}

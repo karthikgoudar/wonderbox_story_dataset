@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000095",
+  "title": "The Gentle Clue Hunt",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Lily", "Mina", "Joy"],
+  "word_count": 211,
+  "moral": "Being gentle and working together makes adventures happy and safe.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Three friends start a clue hunt game at home.",
+      "text": "Lily, Mina, and Joy decided to play a clue hunt game in their house using small treasures.",
+      "image_prompt": "three kids playing clue hunt in cozy living room with colorful rug, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They create rules to stay safe and gentle.",
+      "text": "They made rules like being gentle and not touching plants while playing.",
+      "image_prompt": "kids discussing rules near small plant indoors, warm cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow clues and search carefully around the house.",
+      "text": "They searched near the window, chair, and bookshelf to find hidden objects.",
+      "image_prompt": "kids searching clues near window chair and books, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They solve the final clue with teamwork.",
+      "text": "Working together, they safely found all hidden treasures without breaking rules.",
+      "image_prompt": "kids celebrating finding treasures together, happy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They finish the game happily and feel proud.",
+      "text": "They shared their adventure and felt proud, calm, and happy together.",
+      "image_prompt": "kids sitting together smiling after game, cozy cartoon"
+    }
+  ],
+  "story": "Lily, Mina, and Joy played a clue hunt game inside their house. They made gentle rules and hid small treasures like a ribbon and pinecone. They followed clues near the window, chair, and bookshelf carefully. Using teamwork, they found all the treasures safely. They ended the game feeling proud, calm, and happy together."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000088",
+  "title": "Lily’s Magical Plant Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Lily", "Mama", "Teddy"],
+  "word_count": 265,
+  "moral": "Being brave and kind helps you overcome challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily sets out to find a magical plant.",
+      "text": "Lily went into the forest to find a glowing magical plant.",
+      "image_prompt": "little girl entering forest with teddy, magical cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "She faces obstacles like a stream and prickly plants.",
+      "text": "She crossed a stream and carefully avoided prickly leaves along the way.",
+      "image_prompt": "girl stepping on stones and avoiding plants, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "She solves problems and continues forward.",
+      "text": "She climbed logs, followed clues, and stayed brave during her journey.",
+      "image_prompt": "girl climbing log and exploring forest, adventurous cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "She finds the glowing magical plant.",
+      "text": "She discovered the glowing plant and gently cared for it.",
+      "image_prompt": "girl holding glowing plant in forest, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "She brings the plant home safely.",
+      "text": "She returned home with her mom and kept the plant safe, feeling proud.",
+      "image_prompt": "child placing glowing plant in jar at home, cozy cartoon"
+    }
+  ],
+  "story": "Lily went into the forest to find a magical glowing plant. She crossed a stream, avoided prickly plants, and climbed logs. She stayed brave and solved problems along the way. Finally, she found the glowing plant and carefully brought it home. With her mom, she kept it safe and felt proud of her adventure."
+}

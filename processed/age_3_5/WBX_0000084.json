@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000084",
+  "title": "Lily’s Secret Garden Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "exploration",
+  "characters": ["Lily", "Whiskers", "Benny"],
+  "word_count": 238,
+  "moral": "Curiosity and kindness lead to joyful discoveries.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily discovers a tiny door leading to a magical garden.",
+      "text": "Lily found a tiny hidden door in her backyard and stepped into a magical garden full of flowers and a sparkling stream.",
+      "image_prompt": "little girl opening tiny door to magical garden with flowers and stream, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Lily is given a treasure hunt challenge in the garden.",
+      "text": "She met a rabbit named Benny who invited her to find a hidden treasure using clues in the garden.",
+      "image_prompt": "girl with rabbit in magical garden discussing treasure hunt, bright cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Lily follows clues through flowers and the stream.",
+      "text": "Lily followed clues near flowers and the stream, finding notes and solving the puzzle step by step.",
+      "image_prompt": "girl searching flowers and stream for clues, cheerful colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Lily finds the treasure inside the tree.",
+      "text": "She returned to the tree and found a wooden box filled with shiny shells, stones, and a golden key.",
+      "image_prompt": "girl opening treasure box inside tree hollow, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Lily returns home happy after her adventure.",
+      "text": "Lily went home happily, sharing her adventure and dreaming of more magical journeys.",
+      "image_prompt": "girl telling parents about adventure at home, cozy cartoon scene"
+    }
+  ],
+  "story": "Lily found a tiny hidden door in her backyard and stepped into a magical garden. There she met a rabbit named Benny who invited her to find a hidden treasure. Lily followed clues near flowers and a stream, solving each puzzle carefully. She finally found a wooden box inside a tree filled with shells, stones, and a golden key. Lily returned home happily, excited about her magical adventure."
+}
