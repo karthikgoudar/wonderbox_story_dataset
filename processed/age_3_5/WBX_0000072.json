@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000072",
+  "title": "Benny’s Treasure Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Benny", "Lily", "Max", "Owl"],
+  "word_count": 213,
+  "moral": "The greatest treasure is friendship and teamwork.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Benny finds a treasure map and starts an adventure.",
+      "text": "Benny the bear found a secret treasure map in the forest and invited his friends Lily and Max to join him.",
+      "image_prompt": "cute bear holding treasure map with rabbit and squirrel in forest, colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They are unsure about the path and face challenges.",
+      "text": "They followed the map into the mysterious woods and felt unsure about what they might encounter.",
+      "image_prompt": "bear rabbit squirrel walking through dark forest, soft adventurous cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They meet a wise owl and continue their path.",
+      "text": "They met a wise owl who warned them about a tricky stream and guided them forward.",
+      "image_prompt": "animals talking to owl on branch in forest, magical cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They successfully cross the tricky stream together.",
+      "text": "Working together, they carefully crossed the stream using stepping stones and reached the other side.",
+      "image_prompt": "bear rabbit squirrel crossing stream on stones, teamwork colorful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They find the treasure and realize friendship is most important.",
+      "text": "They found a treasure chest with jewels and felt happy, knowing their friendship was the greatest treasure.",
+      "image_prompt": "friends opening treasure chest with glowing jewels, happy cartoon forest scene"
+    }
+  ],
+  "story": "Benny the bear found a secret treasure map and invited his friends Lily the rabbit and Max the squirrel to join him. They followed the map into the forest and met a wise owl who warned them about a tricky stream. Working together, they crossed the stream safely using stepping stones. Finally, they found a hidden treasure chest filled with colorful jewels. They felt happy and proud, realizing that their friendship and teamwork were the greatest treasures of all."
+}

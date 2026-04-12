@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000081",
+  "title": "Tommy’s Island Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Tommy", "Lily", "Max", "Emma"],
+  "word_count": 226,
+  "moral": "Bravery and teamwork can solve big problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Tommy and friends travel to a mysterious island.",
+      "text": "Tommy and his friends set out on a boat to explore a mysterious island.",
+      "image_prompt": "kids sailing boat to island, bright cheerful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They discover a dangerous volcano.",
+      "text": "They found a volcano about to erupt and realized they must act quickly.",
+      "image_prompt": "kids looking at erupting volcano on island, dramatic cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They gather water to stop the volcano.",
+      "text": "They carried water from a river and poured it onto the volcano together.",
+      "image_prompt": "kids carrying buckets of water to volcano, teamwork cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The volcano stops erupting.",
+      "text": "Their efforts cooled the volcano and stopped the danger.",
+      "image_prompt": "volcano calming down with steam, kids relieved, colorful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They are praised and return home as heroes.",
+      "text": "The villagers praised them and they returned home proud and happy.",
+      "image_prompt": "kids being cheered by villagers, joyful cartoon scene"
+    }
+  ],
+  "story": "Tommy and his friends traveled to a mysterious island to explore. They discovered a volcano about to erupt and worked together to stop it by pouring water on it. Their teamwork helped calm the volcano and save the island. The villagers praised them, and they returned home as heroes, proud of their bravery and teamwork."
+}

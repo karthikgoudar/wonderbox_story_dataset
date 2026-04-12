@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000075",
+  "title": "Quest for the Crystal",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Oliver", "Lily", "Max", "Emma"],
+  "word_count": 202,
+  "moral": "Working together with courage can overcome darkness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Oliver and friends set out to save a kingdom.",
+      "text": "Oliver and his friends formed a group and decided to find the Crystal of Light to save their land.",
+      "image_prompt": "children starting quest in magical forest with map, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face danger in the dark forest.",
+      "text": "The forest was dark and full of strange creatures, making their journey difficult.",
+      "image_prompt": "children walking through dark forest with glowing eyes around, fantasy cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They overcome a storm using clever thinking.",
+      "text": "A storm hit, but Oliver guided his friends using the stars to find the path.",
+      "image_prompt": "kids walking in rain storm using stars for direction, magical cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach the Crystal of Light.",
+      "text": "They found the glowing crystal that could remove the darkness.",
+      "image_prompt": "glowing crystal shining in forest, children amazed, colorful fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They defeat darkness and become heroes.",
+      "text": "The crystal’s light removed the darkness and saved the kingdom, making them heroes.",
+      "image_prompt": "bright light spreading across land, children celebrating, magical cartoon"
+    }
+  ],
+  "story": "Oliver and his friends set out to find the Crystal of Light to save their kingdom from darkness. They walked through a dark forest filled with strange creatures. A storm made things harder, but Oliver used the stars to guide them. They finally found the glowing crystal and used its light to remove the darkness. The kingdom was saved, and they became heroes, proud of their courage and teamwork."
+}

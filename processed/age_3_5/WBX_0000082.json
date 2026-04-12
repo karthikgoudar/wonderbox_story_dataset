@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000082",
+  "title": "Brave Explorers’ Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Oliver", "Lily", "Thomas", "Emily"],
+  "word_count": 236,
+  "moral": "Friendship and courage help defeat challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Oliver and friends plan to explore a mysterious forest.",
+      "text": "Oliver and his friends decided to explore a forest to protect their village.",
+      "image_prompt": "kids entering magical forest together, bright cartoon illustration"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a river blocking their path.",
+      "text": "They found a river and had to build a raft to cross it safely.",
+      "image_prompt": "kids building raft near river, teamwork cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They enter a cavern filled with puzzles.",
+      "text": "They entered a cavern and solved puzzles together to move forward.",
+      "image_prompt": "kids solving glowing puzzles in cave, magical cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They confront a sorcerer.",
+      "text": "They faced a dark sorcerer and used a crystal to defeat him.",
+      "image_prompt": "kids holding glowing crystal facing shadowy figure, fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They save the village and return as heroes.",
+      "text": "They defeated the sorcerer and returned home as heroes, proud and happy.",
+      "image_prompt": "kids celebrated in village as heroes, colorful joyful cartoon"
+    }
+  ],
+  "story": "Oliver and his friends explored a mysterious forest to protect their village. They crossed a river using a raft and entered a cavern full of puzzles. Working together, they solved challenges and faced a dark sorcerer. Using a crystal, they defeated him and saved their village. They returned home as heroes, proud of their friendship and courage."
+}

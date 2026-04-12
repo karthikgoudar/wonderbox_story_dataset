@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000077",
+  "title": "Alex and the Magic Pendant",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Alex", "Emma", "Liam", "Mia"],
+  "word_count": 210,
+  "moral": "Courage and friendship can bring happiness and change.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Alex finds a map and starts an adventure with friends.",
+      "text": "Alex and his friends found a map leading to a mysterious village and decided to explore.",
+      "image_prompt": "children holding map in forest starting adventure, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face challenges reaching the village.",
+      "text": "They crossed difficult paths and a broken bridge to reach the village.",
+      "image_prompt": "kids crossing bridge using vines, adventurous cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They search for a magical pendant.",
+      "text": "Inside the village, they explored and searched for a magical pendant hidden somewhere.",
+      "image_prompt": "children exploring old village ruins, fantasy cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They overcome an obstacle using teamwork.",
+      "text": "They solved a problem with an enchanted stone and reached the pendant.",
+      "image_prompt": "kids solving glowing stone puzzle, magical cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Alex uses the pendant to restore the village.",
+      "text": "Alex used the pendant to bring life back to the village, making everyone happy.",
+      "image_prompt": "village glowing with magic as children celebrate, colorful cartoon"
+    }
+  ],
+  "story": "Alex and his friends found a map to a mysterious village and decided to explore it. They crossed a broken bridge using vines and reached the village. Inside, they searched for a magical pendant. After solving a challenge, they found it. Alex used the pendant to restore the village, bringing joy and life back. They returned home happy, proud of their courage and friendship."
+}

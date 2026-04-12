@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000074",
+  "title": "The Cave of Courage",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Max", "Lily", "Ben", "Bear"],
+  "word_count": 214,
+  "moral": "Courage and teamwork help overcome fears.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Max and his friends decide to explore a secret cave.",
+      "text": "Max, Lily, and Ben set off into the forest to find a secret cave and explore it together.",
+      "image_prompt": "three children entering forest with backpacks, adventurous cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face a puzzle at the cave entrance.",
+      "text": "They found a rock with symbols and solved a puzzle by saying they were brave explorers.",
+      "image_prompt": "kids solving glowing puzzle rock with symbols, magical cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the cave and face fear of the unknown.",
+      "text": "Inside the cave, they used a flashlight and saw a shadow that scared them.",
+      "image_prompt": "children with flashlight inside cave, mysterious shadows cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the shadow is a cursed bear needing help.",
+      "text": "They found a sad bear who needed a golden key to break a curse.",
+      "image_prompt": "children meeting sad bear inside cave, glowing crystals cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They help the bear and find treasure.",
+      "text": "They found the key, freed the bear, and discovered treasure, feeling proud and happy.",
+      "image_prompt": "kids opening treasure chest with bear smiling, colorful cave cartoon"
+    }
+  ],
+  "story": "Max, Lily, and Ben went into the forest to find a secret cave. At the entrance, they solved a puzzle by saying they were brave explorers. Inside, they used a flashlight and saw a shadow that scared them. It turned out to be a bear under a curse who needed help. They searched and found a golden key, freed the bear, and discovered treasure. They returned home feeling proud and brave."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000073",
+  "title": "Milo’s Backyard Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Milo", "Mom"],
+  "word_count": 168,
+  "moral": "Being kind and careful makes adventures safe and happy.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Milo prepares for an adventure in his backyard.",
+      "text": "Milo wore his yellow boots and packed his backpack, ready to explore his backyard like a wild land.",
+      "image_prompt": "little boy with yellow boots and backpack in backyard, soft pastel cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Milo finds ants in his camp spot and must decide what to do.",
+      "text": "Milo saw a line of ants in his camp spot and realized he should not step on them.",
+      "image_prompt": "child looking at ants on grass thinking carefully, cute children book illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Milo finds a way to safely build his camp.",
+      "text": "He used sticks and a bowl to make a safe path for the ants and moved his camp to another spot.",
+      "image_prompt": "child placing sticks and bowl as bridge for ants, bright friendly cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Milo enjoys his careful camping experience.",
+      "text": "Milo sat at his camp, ate a cracker, and felt proud of being careful and kind.",
+      "image_prompt": "child sitting on blanket camping peacefully in backyard, warm cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Milo cleans up and ends his adventure happily.",
+      "text": "Milo packed up neatly, left everything safe, and went home feeling proud of his adventure.",
+      "image_prompt": "child cleaning backyard and going home with parent, cozy sunset cartoon"
+    }
+  ],
+  "story": "Milo wore his yellow boots and packed his backpack for a backyard adventure. He chose a spot and called it Camp Milo. When he saw ants walking through, he decided not to step on them. Instead, he used sticks and a bowl to help them pass safely and moved his camp. Milo enjoyed his time, eating a cracker and listening to the breeze. Later, he cleaned up everything carefully and went home feeling proud and happy."
+}

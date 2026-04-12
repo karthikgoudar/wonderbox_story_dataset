@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000079",
+  "title": "The Treasure Hunters",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Jack", "Lily", "Oliver", "Mia"],
+  "word_count": 228,
+  "moral": "Courage and teamwork lead to great discoveries.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Jack and his friends plan to find hidden treasure.",
+      "text": "Jack heard about a hidden treasure and decided to explore an abandoned village with his friends.",
+      "image_prompt": "kids preparing for treasure hunt in village, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They enter a mysterious maze filled with puzzles.",
+      "text": "They found a maze at the village entrance and had to solve puzzles to move forward.",
+      "image_prompt": "kids solving puzzles in maze with vines and stones, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They work together to solve challenges.",
+      "text": "Each friend used their skills to solve riddles and overcome obstacles in the maze.",
+      "image_prompt": "team of kids solving riddles together, cheerful cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the hidden treasure.",
+      "text": "They reached the center and found a treasure chest full of jewels and artifacts.",
+      "image_prompt": "kids opening treasure chest glowing with gems, magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home with pride and happiness.",
+      "text": "They returned home happily, proud of their courage and teamwork.",
+      "image_prompt": "kids walking back home smiling at sunset, warm cartoon style"
+    }
+  ],
+  "story": "Jack heard about a hidden treasure in an abandoned village and set off with his friends Lily, Oliver, and Mia. They entered a maze and solved puzzles using teamwork. Each friend helped overcome challenges along the way. Finally, they found a treasure chest filled with jewels and artifacts. They returned home happy and proud, knowing their courage and teamwork led them to success."
+}

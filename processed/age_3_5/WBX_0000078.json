@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000078",
+  "title": "Leo’s Island Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Leo", "Lily", "Sam", "Emma"],
+  "word_count": 230,
+  "moral": "Teamwork and courage help overcome challenges and achieve goals.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Leo finds a treasure map and plans an island adventure with friends.",
+      "text": "Leo found a map in a bottle and decided with his friends to explore a mysterious island for treasure.",
+      "image_prompt": "kids finding treasure map on beach and planning adventure, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They arrive at the island and face difficult terrain.",
+      "text": "On the island, they faced jungles and mountains while following the map through challenging paths.",
+      "image_prompt": "kids walking through jungle and mountains on island, bright adventure cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They cross obstacles like a river and cave.",
+      "text": "They crossed a river using vines and passed through a dark cave using teamwork and courage.",
+      "image_prompt": "kids swinging on vines over river and exploring cave, fun cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They finally discover the treasure near a waterfall.",
+      "text": "They reached a waterfall and found a treasure chest filled with gold and jewels.",
+      "image_prompt": "kids discovering treasure chest near waterfall, magical colorful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home happily after their adventure.",
+      "text": "They celebrated their success and returned home with joy, proud of their friendship and adventure.",
+      "image_prompt": "kids sailing back home with treasure at sunset, cheerful cartoon style"
+    }
+  ],
+  "story": "Leo found a map in a bottle on the beach and decided to explore a mysterious island with his friends Lily, Sam, and Emma. They traveled to the island and faced jungles, mountains, and a river. Using teamwork, they crossed the river and explored a dark cave. Finally, they reached a waterfall and found a treasure chest filled with gold and jewels. Happy and proud, they returned home, remembering their exciting adventure and strong friendship."
+}

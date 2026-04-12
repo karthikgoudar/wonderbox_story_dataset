@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000071",
+  "title": "The Feathered Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "friendship",
+  "characters": ["Felix", "Tilly", "Benny", "Bluebird", "Owl"],
+  "word_count": 205,
+  "moral": "Friendship and teamwork make adventures joyful and meaningful.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Felix finds a mysterious blue feather near the river.",
+      "text": "Felix the fox found a shiny blue feather near the river and became curious about where it came from.",
+      "image_prompt": "cute fox holding blue feather near sparkling river, bright colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Felix does not know where the feather came from.",
+      "text": "Felix wondered about the feather and decided to ask his friends to help solve the mystery.",
+      "image_prompt": "fox talking with bunny and turtle about feather, cheerful cartoon forest scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They search the forest and meet a wise owl for guidance.",
+      "text": "Felix, Tilly, and Benny explored the forest and met a wise owl who told them to follow the stream.",
+      "image_prompt": "fox bunny turtle meeting owl on tree branch, magical forest cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the Bluebird who owns the feather.",
+      "text": "Following the stream, they found the magical Bluebird who had lost the feather while singing.",
+      "image_prompt": "colorful bluebird on tree with friends looking amazed, bright fantasy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The Bluebird rewards them and they celebrate their friendship.",
+      "text": "The Bluebird sang a beautiful song and gave them sparkling feathers, and they returned home happy and proud.",
+      "image_prompt": "friends receiving glowing feathers from bird, joyful colorful cartoon illustration"
+    }
+  ],
+  "story": "Felix the fox found a shiny blue feather near the river and wondered where it came from. He asked his friends Tilly the turtle and Benny the bunny to help him. Together they explored the forest and met a wise owl who told them to follow the stream. They followed the path and found a magical Bluebird who had lost the feather. The Bluebird thanked them and sang a beautiful song. She gave them sparkling feathers as a gift. Felix and his friends returned home happy, proud, and full of joy from their adventure together."
+}

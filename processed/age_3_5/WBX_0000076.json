@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000076",
+  "title": "Tim’s Jungle Quest",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Tim", "Lily", "Jack", "Mia"],
+  "word_count": 205,
+  "moral": "Teamwork and courage lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Tim and friends begin a jungle adventure for treasure.",
+      "text": "Tim and his friends entered the jungle to search for hidden treasure.",
+      "image_prompt": "children entering jungle with backpacks, bright adventure cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They face danger on a bridge with tigers nearby.",
+      "text": "They reached a bridge where tigers appeared, blocking their path.",
+      "image_prompt": "children on rope bridge with tigers nearby, exciting cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They work together to overcome the challenge.",
+      "text": "Using teamwork, they distracted the tigers and crossed the bridge safely.",
+      "image_prompt": "kids cooperating to cross bridge while tigers watch, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They reach the hidden treasure.",
+      "text": "They found a chest filled with gold and gems deep in the jungle.",
+      "image_prompt": "children opening treasure chest in jungle, glowing colorful cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They realize friendship is the real treasure.",
+      "text": "They returned home happy, knowing their friendship was the greatest treasure.",
+      "image_prompt": "friends walking home happily from jungle, warm sunset cartoon"
+    }
+  ],
+  "story": "Tim and his friends entered the jungle to find hidden treasure. They walked through thick plants and reached a bridge where tigers appeared. Working together, they distracted the tigers and crossed safely. Deep in the jungle, they found a treasure chest full of gold and gems. They returned home feeling happy and proud, realizing their friendship was the greatest treasure."
+}

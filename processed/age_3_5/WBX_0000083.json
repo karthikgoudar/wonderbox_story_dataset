@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000083",
+  "title": "Snowy Mountain Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "courage",
+  "characters": ["Alex", "Sammy"],
+  "word_count": 242,
+  "moral": "Courage and clever thinking help overcome challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Alex begins his journey to find a treasure on a mountain.",
+      "text": "Alex saw a treasure on a snowy mountain and decided to go on an adventure.",
+      "image_prompt": "boy starting snowy mountain adventure with backpack, bright winter cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "He faces a maze of icy caves.",
+      "text": "Alex entered icy caves and carefully navigated the slippery maze.",
+      "image_prompt": "boy walking through icy cave maze with icicles, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "He meets a squirrel and continues his journey.",
+      "text": "With help from a squirrel, Alex safely moved through challenges.",
+      "image_prompt": "boy with talking squirrel guiding through snow, cute cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "An avalanche blocks the treasure.",
+      "text": "An avalanche buried the treasure, but Alex thought of a solution.",
+      "image_prompt": "snow avalanche scene with boy surprised, dramatic cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Alex finds the treasure and returns home happily.",
+      "text": "He built a snowman to dig out the treasure and returned home proud and happy.",
+      "image_prompt": "boy with snowman uncovering treasure chest, cheerful cartoon"
+    }
+  ],
+  "story": "Alex saw a treasure on a snowy mountain and set out on an adventure. He crossed icy caves with the help of a squirrel. Suddenly, an avalanche buried the treasure. Thinking cleverly, Alex built a snowman to help dig it out. He found the treasure and returned home happily, proud of his courage and smart thinking."
+}

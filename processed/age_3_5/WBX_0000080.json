@@ -1,0 +1,45 @@
+{
+  "id": "WBX_0000080",
+  "title": "The Glowing Plant Secret",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "care",
+  "characters": ["Tommy", "Lily", "Jack", "Mia", "Emily"],
+  "word_count": 238,
+  "moral": "Helping others with courage and teamwork brings happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Tommy and friends set out to find a cure for his sister.",
+      "text": "Tommy and his friends went into the forest to find a cure for his sister Emily.",
+      "image_prompt": "kids entering forest on mission to help sister, bright emotional cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They discover clues inside an old house.",
+      "text": "They found a book with symbols that revealed the cure was hidden behind a waterfall.",
+      "image_prompt": "kids reading magical book with symbols in old house, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They solve a riddle and head to the waterfall.",
+      "text": "They solved a riddle and traveled through the forest toward the waterfall.",
+      "image_prompt": "kids walking toward waterfall with determination, bright cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They face wolves but reach the cave.",
+      "text": "They faced wolves but bravely reached the cave behind the waterfall.",
+      "image_prompt": "kids running from wolves into cave, adventurous cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They find the glowing plant and save Emily.",
+      "text": "They found the glowing plant, cured Emily, and celebrated happily together.",
+      "image_prompt": "kids holding glowing plant and celebrating with family, warm cartoon"
+    }
+  ],
+  "story": "Tommy and his friends went into the forest to find a cure for his sister Emily. They explored an abandoned village and found a book with clues. After solving a riddle, they traveled to a waterfall. They bravely faced wolves and entered a cave where they found a glowing plant. They used it to cure Emily and returned home happy, proud of their courage and teamwork."
+}
