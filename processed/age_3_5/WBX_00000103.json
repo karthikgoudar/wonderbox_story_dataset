@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000103",
+  "title": "Little Wolf and the Glowing Sea Shell Bell",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Little Wolf", "Sea Shell Bell", "fish", "crab", "turtle"],
+  "word_count": 689,
+  "moral": "Being gentle and kind brings light and happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Little Wolf finds a magical shell that speaks to him.",
+      "text": "Little Wolf lived by the sea and one day found a shiny shell that spoke to him. The shell said it would glow if he swam kindly and reached the Coral Gate.",
+      "image_prompt": "cute little wolf holding glowing shell near sea shore colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Little Wolf faces a tangled net with a crab stuck inside.",
+      "text": "While swimming, Little Wolf found a crab stuck in a tangled net. He felt worried but stayed calm and decided to help.",
+      "image_prompt": "little wolf helping crab stuck in seaweed net underwater cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "He carefully frees the crab and continues his journey.",
+      "text": "Little Wolf gently loosened the net step by step until the crab was free. Then he continued following the sea grass path toward the Coral Gate.",
+      "image_prompt": "wolf swimming carefully following sea grass path underwater cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The shell begins to glow when he reaches the Coral Gate.",
+      "text": "At the Coral Gate, the shell began to glow brightly because Little Wolf had been kind and gentle during his journey.",
+      "image_prompt": "glowing shell lighting coral gate underwater magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Little Wolf returns home happy and peaceful.",
+      "text": "Little Wolf swam back home slowly, feeling proud and calm. He rested on the sand with the glowing shell beside him.",
+      "image_prompt": "little wolf resting on beach with glowing shell peaceful night cartoon"
+    }
+  ],
+  "story": "Little Wolf lived by the sea and found a magical shell that spoke to him. It told him to be gentle and swim to the Coral Gate. Along the way, he found a crab stuck in a net and carefully helped it. He continued his journey calmly and kindly. When he reached the Coral Gate, the shell began to glow. Little Wolf returned home feeling happy, peaceful, and proud of his kindness."
+}

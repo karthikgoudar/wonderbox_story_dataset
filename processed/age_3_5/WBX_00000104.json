@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000104",
+  "title": "Little Wolf and the Glowing Shell",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "exploration",
+  "characters": ["Little Wolf", "turtle", "fish", "seal", "jellyfish"],
+  "word_count": 980,
+  "moral": "Be brave, listen carefully, and ask for help when needed.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Little Wolf sets out to find a glowing shell he saw in a dream.",
+      "text": "Little Wolf woke by the shore and decided to find a glowing shell he had seen in a dream. A fish guided him along a pebble path.",
+      "image_prompt": "little wolf walking along beach following glowing pebbles cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "He gets lost in tall sea grass and feels unsure.",
+      "text": "While swimming, Little Wolf reached tall sea grass and felt lost. The path disappeared and he did not know where to go.",
+      "image_prompt": "little wolf surrounded by tall sea grass underwater looking confused cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "He listens carefully and follows a sound to a glowing cave.",
+      "text": "Little Wolf listened closely and followed a soft bell sound. With the turtle’s help, he found a glowing cave filled with light.",
+      "image_prompt": "wolf and turtle entering glowing underwater cave with jellyfish lights cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He finds the glowing shell inside the cave.",
+      "text": "Inside the cave, Little Wolf found the glowing shell resting on a pearl. He picked it up and felt brave and happy.",
+      "image_prompt": "little wolf holding glowing shell inside cave magical underwater cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "He returns safely home with help from friends.",
+      "text": "Little Wolf returned to the shore with help from a seal. He felt safe, happy, and proud of his adventure.",
+      "image_prompt": "seal helping little wolf reach shore sunset beach cartoon"
+    }
+  ],
+  "story": "Little Wolf wanted to find a glowing shell he saw in a dream. A fish guided him along a pebble path into the sea. While swimming, he got lost in tall sea grass but stayed calm. He listened carefully and followed a soft sound to a glowing cave. Inside, he found the shell and felt brave. With help from friends, he returned safely home, feeling happy and proud."
+}

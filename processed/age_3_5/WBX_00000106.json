@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000106",
+  "title": "Bubbles and the Quest for the Shimmering Leaf",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Bubbles", "Inky", "Glimmer", "Old Turtle"],
+  "word_count": 870,
+  "moral": "Patience and teamwork can solve problems and help others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Bubbles notices the ocean is not healthy.",
+      "text": "Bubbles the seahorse lived happily until one day she noticed the ocean was not clear. She remembered advice about finding the Shimmering Leaf.",
+      "image_prompt": "cute seahorse noticing dull ocean water worried cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "She begins her journey to find the leaf.",
+      "text": "Bubbles set out alone on a twisty path, searching carefully for the magical leaf to help the ocean.",
+      "image_prompt": "seahorse swimming through ocean searching path colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "She meets friends who help her along the way.",
+      "text": "Bubbles met Inky the octopus and Glimmer the fish. Together they solved problems and continued the journey.",
+      "image_prompt": "seahorse octopus and fish swimming together teamwork underwater cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the Shimmering Leaf in a coral cave.",
+      "text": "After searching carefully, they found the glowing leaf hidden in seaweed inside a coral cave.",
+      "image_prompt": "glowing leaf hidden in seaweed inside colorful coral cave cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The ocean becomes clear and bright again.",
+      "text": "They placed the leaf back and the ocean became bright and clean again. Everyone was happy and thankful.",
+      "image_prompt": "bright ocean restored with happy sea creatures colorful cartoon"
+    }
+  ],
+  "story": "Bubbles the seahorse noticed the ocean was not clear. She remembered that the Shimmering Leaf could help. She began her journey and met friends who helped her along the way. Together they found the leaf hidden in a coral cave. When they brought it back, the ocean became clear and bright again. Bubbles felt proud and happy, knowing teamwork and patience made a difference."
+}

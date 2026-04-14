@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000105",
+  "title": "The Adventure of the Magic Singing Shell",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "teamwork",
+  "characters": ["Luna", "Coral", "Crab", "Octopus"],
+  "word_count": 540,
+  "moral": "Working together makes hard tasks easier.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Luna meets Coral and Crab and they explore together.",
+      "text": "Luna the seapony met Coral the starfish and a little crab. They decided to explore the ocean together.",
+      "image_prompt": "cute seapony starfish and crab swimming together colorful ocean cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They find a shell stuck under a heavy rock.",
+      "text": "They discovered a magic shell stuck under a big rock and could not move it easily.",
+      "image_prompt": "shell trapped under rock with sea creatures trying to move it cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They work together to move the rock.",
+      "text": "Luna, Coral, and Crab pushed together using all their strength to move the rock.",
+      "image_prompt": "three sea friends pushing rock together teamwork underwater cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The shell is freed and starts singing.",
+      "text": "The rock moved and the shell was free. It began to sing a happy song.",
+      "image_prompt": "glowing shell singing with sparkles underwater cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "They return home happy and proud.",
+      "text": "They swam home together happily, proud of their teamwork and friendship.",
+      "image_prompt": "happy sea friends swimming home together colorful ocean cartoon"
+    }
+  ],
+  "story": "Luna the seapony met Coral and Crab and they explored the ocean together. They found a magic shell stuck under a rock. Working together, they pushed the rock away and freed the shell. The shell sang a happy song. They returned home feeling proud and happy, knowing teamwork made them strong."
+}

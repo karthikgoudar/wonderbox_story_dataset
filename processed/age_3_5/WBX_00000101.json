@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000101",
+  "title": "The Little Star-Pony and the Coral Path Duty",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "responsibility",
+  "characters": ["star-pony", "Turtle", "blue fish", "silver fish", "octopus"],
+  "word_count": 724,
+  "moral": "Be responsible, stay calm, and work together to solve problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A star-pony wakes up and prepares to check the coral path.",
+      "text": "In the soft blue sea, a little star-pony woke up. It had a tail like a ribbon of light. It had small fins that fluttered like flags. When it blinked, tiny sparkles drifted up like bubbles. “Good morning, sea,” it said. Nearby, a coral garden waved in pink, orange, and yellow. A crab shuffled by and a seahorse peeked out. Today was a special day because the star-pony had a duty to check the coral path and keep it safe for fish.",
+      "image_prompt": "cute glowing star pony underwater near colorful coral with fish and seahorse cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Seaweed blocks the coral path and fish cannot pass.",
+      "text": "As the star-pony swam along, it found a long piece of seaweed wrapped across the path like a rope. A tiny blue fish bumped into it and turned around. The star-pony said it would help. It tried to pull the seaweed, but it did not move. The star-pony felt worried but whispered that it could be brave and smart.",
+      "image_prompt": "star pony trying to pull seaweed blocking path with small fish nearby underwater cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The star-pony asks Turtle for help and they work together.",
+      "text": "The star-pony asked Turtle for help. Together they made a plan. Turtle held one end and the star-pony pushed the middle. They lifted the seaweed slowly. The star-pony rested when tired and kept trying. A school of silver fish waited calmly as they worked together.",
+      "image_prompt": "turtle and star pony lifting seaweed together underwater with waiting fish colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The path is cleared and the star-pony practices careful swimming.",
+      "text": "At last, they moved the seaweed aside and the path was clear. The fish swam through happily. The star-pony then practiced gliding over the coral without touching it. It moved slowly and carefully while an octopus watched and praised its grace.",
+      "image_prompt": "star pony gliding above coral carefully with octopus watching underwater cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The star-pony finishes its duty and rests proudly.",
+      "text": "After checking the path again, the star-pony felt proud. Turtle said it was brave and steady. As the sea turned golden, the star-pony rested near the coral with fish safe nearby. It whispered good night and fell asleep, dreaming of another peaceful day.",
+      "image_prompt": "star pony sleeping near coral reef with turtle and fish peaceful underwater night cartoon"
+    }
+  ],
+  "story": "In the soft blue sea, a little star-pony woke up. It had a tail like a ribbon of light and fins that fluttered like flags. Sparkles drifted like bubbles. It greeted the sea and began its duty to check the coral path. Along the way, it found seaweed blocking the path. A fish could not pass. The star-pony tried to move it but failed. It asked Turtle for help. Together they pushed, lifted, and rested until the seaweed moved aside. The fish swam happily again. The star-pony practiced swimming gently above coral without touching it. After checking everything again, it rested proudly near the coral and fell asleep, happy and calm."
+}

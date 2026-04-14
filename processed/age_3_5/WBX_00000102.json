@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000102",
+  "title": "Finley and the Shimmering Sea Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Finley", "Tilly"],
+  "word_count": 612,
+  "moral": "Being brave and staying close to friends helps you explore safely.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Finley meets Tilly and learns about a magical place.",
+      "text": "Finley was a small silver fish who loved exploring. One day he met a wise turtle named Tilly who told him about a magical glowing place under the sea. Finley felt excited and wanted to go.",
+      "image_prompt": "cute silver fish and turtle talking underwater colorful coral cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They reach a narrow passage that looks dark and scary.",
+      "text": "As they swam deeper, they reached a narrow passage between rocks. It was dark and a little scary. Finley felt nervous but stayed close to Tilly.",
+      "image_prompt": "small fish and turtle entering dark narrow underwater passage cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Finley stays brave and follows Tilly through the passage.",
+      "text": "Finley listened to Tilly and swam carefully. He stayed close and moved step by step. With courage, they passed through the narrow path together.",
+      "image_prompt": "fish and turtle swimming carefully through passage glowing water cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the glowing garden full of beauty.",
+      "text": "They came out into a glowing garden filled with shining coral and shimmering shells. Finley was amazed by the beauty and felt very happy.",
+      "image_prompt": "bright glowing coral garden with colorful fish underwater magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Finley returns home feeling brave and happy.",
+      "text": "Finley thanked Tilly and swam home happily. He felt brave and proud after the adventure and looked forward to exploring again.",
+      "image_prompt": "happy fish swimming home with sunset light underwater cartoon"
+    }
+  ],
+  "story": "Finley was a small silver fish who loved exploring. One day he met a wise turtle named Tilly who told him about a magical glowing place under the sea. Finley felt excited and went with Tilly. They swam through seaweed forests and reached a narrow passage. It was dark and scary, but Finley stayed brave and close to Tilly. They passed through and found a glowing garden full of shining coral and shells. Finley was amazed and happy. After exploring, they returned home. Finley thanked Tilly and felt brave and ready for more adventures."
+}
