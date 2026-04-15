@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000108",
+  "title": "Leo and the Rainbow Shell Adventure",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "kindness",
+  "characters": ["Leo", "Mom", "Dad", "Marina", "fish"],
+  "word_count": 628,
+  "moral": "Being kind and helping the ocean is more important than keeping treasures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Leo goes to the beach with his family and prepares for an ocean adventure.",
+      "text": "Leo was four years old and loved the sea. One calm evening he went to the beach with his mom and dad. A friendly guide named Marina joined them. Leo felt excited and said he would be brave and smart as they stepped into the water together.",
+      "image_prompt": "small boy with parents and diver entering shallow ocean water colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Leo searches for the rainbow shell but finds something unexpected.",
+      "text": "They explored the coral garden and Marina showed Leo a map to find the Rainbow Shell. Leo swam carefully and saw something shiny under a rock. He picked it up but it was only an old spoon. Leo felt sad and thought he made a mistake.",
+      "image_prompt": "child underwater holding shiny spoon near coral looking confused cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Leo learns to help the ocean by removing trash.",
+      "text": "Marina and his parents encouraged Leo. He placed the spoon in a bag to help the ocean. Then he saw plastic stuck around a sea plant. He carefully pulled it free using slow and gentle hands.",
+      "image_prompt": "child gently removing plastic from sea plant underwater colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Leo finds the rainbow shell but chooses not to take it.",
+      "text": "Soon Leo found the real rainbow shell glowing near coral. He remembered kindness and decided not to take it. He said it belongs to the ocean and should stay there.",
+      "image_prompt": "child pointing at glowing rainbow shell underwater without touching cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Leo returns home feeling proud and kind.",
+      "text": "Leo returned to the shore feeling warm and happy. His parents praised him for being brave, smart, and kind. Leo smiled and looked forward to another adventure.",
+      "image_prompt": "happy child wrapped in towel on beach with parents sunset cartoon"
+    }
+  ],
+  "story": "Leo was four years old and loved the sea. One evening he went to the beach with his mom and dad. A guide named Marina helped them explore. Leo said he would be brave and smart. They swam over coral and saw many fish. Marina showed Leo a map to find a rainbow shell. Leo searched carefully and found something shiny under a rock, but it was only a spoon. He felt sad but learned he could help the ocean by picking it up. He also removed plastic from a sea plant with gentle hands. Soon Leo saw the real rainbow shell glowing near coral. He chose not to take it because it belonged to the ocean. Leo returned home happy. His parents told him he was brave, smart, and kind. Leo smiled and dreamed of more adventures."
+}

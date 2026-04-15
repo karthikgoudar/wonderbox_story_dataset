@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000107",
+  "title": "Finn and the Secret Coral Garden",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "bravery",
+  "characters": ["Finn", "Mama", "Turtle", "fish", "crabs"],
+  "word_count": 573,
+  "moral": "Be brave, patient, and careful while exploring new things.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Finn prepares for an underwater adventure to draw the sea.",
+      "text": "Finn was a little boy with messy brown hair who loved to draw. Every morning he looked at the bright blue sea from his window and smiled. One day he decided to draw coral under the sea. His mama encouraged him to be brave and careful. Finn put on his flippers and mask, walked into the warm water, and greeted the small fish and crabs around him.",
+      "image_prompt": "cute little boy with flippers and mask entering ocean with fish and crabs colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Finn finds it difficult to draw underwater.",
+      "text": "Finn swam gently and discovered a beautiful coral garden full of bright colors and dancing fish. He opened his drawing book but the water made the pages move and his crayon got wet. Finn felt sad and wondered how he could draw in the water.",
+      "image_prompt": "child underwater trying to draw on paper while fish and coral around colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "A turtle helps Finn solve his problem.",
+      "text": "A friendly turtle swam by and offered to help. The turtle told Finn to hold his drawing book up high to keep it dry and stay steady. Finn sat on a smooth rock, held his book carefully, and began drawing the coral and fish with patience.",
+      "image_prompt": "friendly turtle helping child draw underwater while sitting on rock colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Finn overcomes a challenge and completes his drawing.",
+      "text": "A gentle wave made Finn slip and his drawing almost fell. He stayed calm, held it tight, and told himself he could do it. The wave passed, and Finn successfully finished his beautiful drawing.",
+      "image_prompt": "child holding drawing carefully as wave passes underwater coral scene cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Finn returns home proud and happy with his drawing.",
+      "text": "Finn thanked the turtle and swam back home happily. The fish and crabs waved goodbye. At home, his mama hugged him and praised his drawing. Finn felt proud, went to bed smiling, and dreamed of the coral garden.",
+      "image_prompt": "happy child showing drawing to mother at home bedtime cozy cartoon"
+    }
+  ],
+  "story": "Finn was a little boy with messy brown hair who loved to draw. Every morning he looked at the bright blue sea and smiled. One day he decided to draw coral under the sea. His mama told him to be brave and careful. Finn put on his flippers and mask and walked into the warm water. Small fish swam around him and tiny crabs waved. Finn swam and found a colorful coral garden with many fish. He wanted to draw it but his book and crayon got wet. He felt sad and did not know what to do. A friendly turtle came and told him to hold his book high and stay steady. Finn sat on a rock and carefully drew the coral and fish. A wave made him slip but he stayed calm and held his drawing tight. He finished his drawing and felt proud. Finn thanked the turtle and swam back home. His mama hugged him and loved his drawing. Finn went to sleep happy, dreaming of the sea."
+}

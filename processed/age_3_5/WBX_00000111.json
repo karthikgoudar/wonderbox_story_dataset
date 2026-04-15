@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000111",
+  "title": "Oliver and the Secrets of the Sea",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "curiosity",
+  "characters": ["Oliver", "Sparkle", "Tilly", "Mom", "Dad"],
+  "word_count": 655,
+  "moral": "Be curious, brave, and protect the world around you.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Oliver discovers a magical shell and meets Sparkle the seahorse.",
+      "text": "Oliver loved the ocean and one day found a shiny shell at the beach. When he picked it up, a tiny seahorse named Sparkle spoke to him and asked for help.",
+      "image_prompt": "child holding glowing shell with tiny seahorse talking cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Oliver decides to explore the ocean with Sparkle.",
+      "text": "Sparkle invited Oliver to dive underwater. Oliver felt excited but needed courage to explore the unknown sea.",
+      "image_prompt": "child holding seahorse diving underwater colorful ocean cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Oliver explores the underwater world and meets a giant turtle.",
+      "text": "Oliver saw fish, seaweed, and a large turtle named Tilly. The turtle guided him to a coral cave.",
+      "image_prompt": "child swimming with turtle and fish toward coral cave cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Oliver learns the secret of the ocean.",
+      "text": "Inside the coral cave, Oliver learned the ocean is full of wonders and must be explored and protected with kindness.",
+      "image_prompt": "child inside glowing coral cave learning ocean secret magical cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Oliver returns home happy and inspired.",
+      "text": "Oliver returned to the beach, thanked Sparkle, and shared his adventure with his parents. He felt proud and inspired to explore again.",
+      "image_prompt": "happy child on beach telling parents about ocean adventure cartoon"
+    }
+  ],
+  "story": "Oliver loved the ocean and dreamed of exploring it. One day he found a shiny shell and met a tiny seahorse named Sparkle who asked for help. Oliver followed Sparkle underwater and explored a magical world full of fish and sea plants. He met a big turtle named Tilly who guided him to a coral cave. There Oliver learned that the ocean is full of wonders and should be protected. After the adventure, Oliver returned home and told his parents. He felt happy, brave, and excited to explore again."
+}

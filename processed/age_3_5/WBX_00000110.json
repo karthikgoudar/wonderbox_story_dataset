@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000110",
+  "title": "Max and the Singing Sea",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "exploration",
+  "characters": ["Max", "Mummy", "turtle", "fish", "crab"],
+  "word_count": 560,
+  "moral": "Exploring with curiosity and calmness brings joy and learning.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Max wants to explore the sea with his mother.",
+      "text": "Max was a little boy who loved the sea. One day he told his mummy he wanted to explore underwater and find a special song book.",
+      "image_prompt": "little boy holding mother's hand near ocean ready for adventure cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Max enters the sea and experiences a new magical world.",
+      "text": "A magic bubble helped Max and his mummy breathe underwater. Max felt surprised and excited as he saw fish and sea plants.",
+      "image_prompt": "child inside magic bubble underwater with fish and seaweed cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Max follows sea creatures to find the singing book.",
+      "text": "Max followed a turtle and singing fish through the sea. He listened to their songs and swam past jellyfish and a crab.",
+      "image_prompt": "child following fish and turtle underwater with singing bubbles cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Max finds the song book inside a shell.",
+      "text": "Max discovered a shiny shell with a small song book inside. He opened it and sang with the fish happily.",
+      "image_prompt": "child opening glowing shell with tiny book underwater cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Max returns home happy after his magical adventure.",
+      "text": "Max and his mummy returned to the shore. Max felt calm and happy, remembering the magical sea and songs.",
+      "image_prompt": "child hugging mother on beach after underwater adventure cartoon"
+    }
+  ],
+  "story": "Max loved the sea and wanted to explore it. One day he went with his mummy to look for a special song book. A magic bubble helped them breathe underwater. Max saw fish, seaweed, and many sea creatures. He followed a turtle and singing fish through the ocean. Soon he found a shiny shell with a small song book inside. Max opened it and sang happily with the fish. After the adventure, Max and his mummy returned to the shore. Max felt calm, happy, and excited to explore again."
+}

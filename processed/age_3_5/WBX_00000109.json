@@ -1,0 +1,45 @@
+{
+  "id": "WBX_00000109",
+  "title": "Leo and the Missing Shiny Shell",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "3-5",
+  "reading_level": "very simple",
+  "theme": "honesty",
+  "characters": ["Leo", "Captain Mia", "Diver Ben", "fisherman", "turtle", "crab"],
+  "word_count": 602,
+  "moral": "Seek the truth calmly and be kind when solving problems.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Leo joins Captain Mia and Diver Ben to help find a missing shell.",
+      "text": "Leo was a little boy who loved the sea. One day he stood on a boat with Captain Mia and Diver Ben. A fisherman said his shiny shell was taken and blamed Ben. Leo held Ben’s hand and said they would find it together.",
+      "image_prompt": "child on boat with captain and diver talking about missing shell colorful cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "They search underwater but find the wrong shiny object.",
+      "text": "They dived into the bright sea and followed a sandy path to a coral garden. A crab appeared holding something shiny, but it was only a bottle cap. The real shell was still missing.",
+      "image_prompt": "underwater scene with crab holding bottle cap and people searching cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They follow clues with the help of a turtle.",
+      "text": "Diver Ben noticed tracks in the sand. A turtle said it saw a crab carrying something. They followed the turtle through seaweed and a rock arch to search further.",
+      "image_prompt": "turtle leading group underwater through seaweed and rock arch cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the shell and kindly get it back from a crab.",
+      "text": "They found a crab in a cozy nook with treasures including the shiny shell. Leo spoke gently and offered a pebble. The crab gave the shell back without fear.",
+      "image_prompt": "child gently trading pebble with crab for shell underwater cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The truth is revealed and everyone feels happy.",
+      "text": "They returned to the boat and gave the shell to the fisherman. He apologized to Ben. Leo felt proud because they solved the problem together calmly and kindly.",
+      "image_prompt": "happy group on boat returning shell and smiling cartoon"
+    }
+  ],
+  "story": "Leo loved the sea and went on a boat with Captain Mia and Diver Ben. A fisherman said his shiny shell was stolen and blamed Ben. Leo believed they could find it. They went underwater and searched a coral garden. They first found a bottle cap but not the shell. Ben saw tracks and a turtle helped guide them. They followed the path and found a crab with treasures including the shell. Leo spoke kindly and offered a pebble, and the crab gave it back. They returned the shell to the fisherman who apologized to Ben. Leo felt proud because they worked together and found the truth."
+}
