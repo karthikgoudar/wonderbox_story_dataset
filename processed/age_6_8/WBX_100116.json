@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100116",
+  "title": "Vikram and Betal: The Smart Rabbit",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "cleverness",
+  "characters": ["King Vikram", "Betal", "Rabbit", "Lion", "Animals"],
+  "word_count": 182,
+  "moral": "Intelligence is stronger than power.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a lion and animals.",
+      "text": "Betal told Vikram about animals living in fear of a lion.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Animals send one animal each day.",
+      "text": "Animals decided to send one animal daily to the lion.",
+      "image_prompt": "animals sadly choosing one animal cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The rabbit makes a plan.",
+      "text": "The rabbit delayed and told the lion about another lion.",
+      "image_prompt": "rabbit talking to angry lion cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The lion jumps into the well.",
+      "text": "The lion saw his reflection and jumped into the well.",
+      "image_prompt": "lion jumping into well cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The rabbit saves everyone.",
+      "text": "The rabbit saved all animals. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "rabbit happy while animals celebrate cartoon"
+    }
+  ],
+  "story": "A clever rabbit tricked a cruel lion by showing his reflection in a well. The lion jumped in and was defeated. Vikram said intelligence is stronger than power."
+}

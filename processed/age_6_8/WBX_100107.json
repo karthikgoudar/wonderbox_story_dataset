@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100107",
+  "title": "Vikram and Betal: The Two Brothers",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["King Vikram", "Betal", "Elder Brother", "Younger Brother"],
+  "word_count": 170,
+  "moral": "True wealth lies in kindness and honesty.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about two brothers.",
+      "text": "Betal told Vikram about two brothers, one greedy and one kind.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The elder brother takes more than his share.",
+      "text": "The elder brother secretly took more land and money.",
+      "image_prompt": "elder brother hiding money while younger looks unaware cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The younger brother works honestly.",
+      "text": "The younger brother worked hard and stayed honest.",
+      "image_prompt": "younger brother farming land happily cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The elder brother loses everything.",
+      "text": "The elder brother lost his wealth due to greed.",
+      "image_prompt": "elder brother looking sad after losing wealth cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Vikram answers wisely.",
+      "text": "Vikram said the younger brother was truly rich. Betal flew away again.",
+      "image_prompt": "betal flying away while vikram stands calm cartoon"
+    }
+  ],
+  "story": "Two brothers chose different paths—one greedy, one kind. The greedy one lost everything, while the kind one succeeded. Vikram said true wealth is kindness, and Betal flew away."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100118",
+  "title": "Vikram and Betal: The Wise Old Woman",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["King Vikram", "Betal", "Old Woman", "Two Men"],
+  "word_count": 176,
+  "moral": "Careful thinking leads to the right decision.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a wise old woman.",
+      "text": "Betal told Vikram about a wise old woman from a village.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Two men argue over a pot of coins.",
+      "text": "Two men claimed ownership of the same pot.",
+      "image_prompt": "two men arguing over pot of coins cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The old woman observes the pot.",
+      "text": "She kept the pot and carefully observed a mark on it.",
+      "image_prompt": "old woman examining pot closely cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "She questions both men.",
+      "text": "She asked both men to describe the pot.",
+      "image_prompt": "old woman questioning two men cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The truth is revealed.",
+      "text": "The honest man described the mark correctly and got the pot. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "old woman giving pot to honest man cartoon"
+    }
+  ],
+  "story": "Two men argued over a pot of coins. A wise old woman observed a mark and tested them. The truthful man identified it correctly and received the pot. Vikram said wisdom comes from careful thinking."
+}

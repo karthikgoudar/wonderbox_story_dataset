@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100133",
+  "title": "Vikram and Betal: The Broken Promise",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "trust",
+  "characters": ["King Vikram", "Betal", "Man", "Friend"],
+  "word_count": 166,
+  "moral": "Always keep your promises.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a man who breaks promises.",
+      "text": "Betal told Vikram about a man who did not keep promises.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The man fails to help his friend.",
+      "text": "The man broke his promise and did not help his friend.",
+      "image_prompt": "friend waiting while man does not come cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The man later needs help.",
+      "text": "The man asked his friend for help later.",
+      "image_prompt": "man asking friend for help cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The friend refuses.",
+      "text": "The friend refused because the promise was broken.",
+      "image_prompt": "friend refusing help cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The man learns a lesson.",
+      "text": "The man learned to keep promises. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "man realizing mistake cartoon"
+    }
+  ],
+  "story": "A man broke his promise and lost trust. Later, he learned the importance of keeping promises. Vikram said trust depends on promises."
+}

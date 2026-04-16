@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100128",
+  "title": "Vikram and Betal: The Caring Daughter",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "respect",
+  "characters": ["King Vikram", "Betal", "Daughter", "Old Man", "King"],
+  "word_count": 172,
+  "moral": "Respect and care for your parents.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a caring daughter.",
+      "text": "Betal told Vikram about a daughter who cared for her father.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The father becomes weak.",
+      "text": "The old man became weak and could not work.",
+      "image_prompt": "old man sitting weak while daughter helps cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The daughter works hard.",
+      "text": "The daughter worked daily to take care of her father.",
+      "image_prompt": "daughter working and caring for father cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "People question her actions.",
+      "text": "People questioned why she worked so hard.",
+      "image_prompt": "people talking while daughter listens calmly cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The king rewards her.",
+      "text": "The king praised and rewarded her. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king rewarding daughter while smiling cartoon"
+    }
+  ],
+  "story": "A daughter cared for her weak father with love and dedication. The king rewarded her. Vikram said love and duty make a person special."
+}

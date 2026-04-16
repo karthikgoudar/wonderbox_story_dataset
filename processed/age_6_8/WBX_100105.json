@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100105",
+  "title": "Vikram and Betal: The Clever Farmer",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Farmer", "Merchant", "King"],
+  "word_count": 180,
+  "moral": "Honesty always wins over greed.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a farmer.",
+      "text": "Betal told Vikram a story about a poor but honest farmer.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The farmer finds gold and returns it.",
+      "text": "The farmer found gold coins and returned them to a merchant.",
+      "image_prompt": "farmer handing gold bag to merchant cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The merchant accuses the farmer.",
+      "text": "The merchant accused the farmer of stealing some coins.",
+      "image_prompt": "merchant accusing farmer angrily cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The king questions the merchant.",
+      "text": "The king asked the merchant about the exact number of coins.",
+      "image_prompt": "king questioning merchant in court cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Truth is revealed and justice is done.",
+      "text": "The merchant could not answer, and the farmer was rewarded for honesty.",
+      "image_prompt": "king rewarding farmer while merchant looks ashamed cartoon"
+    }
+  ],
+  "story": "A farmer found gold and returned it, but a merchant falsely accused him. The king tested the merchant and revealed the truth. The honest farmer was rewarded, and Vikram answered Betal wisely."
+}

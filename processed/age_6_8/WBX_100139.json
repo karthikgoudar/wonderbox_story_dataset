@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100139",
+  "title": "Vikram and Betal: The Wise Decision",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["King Vikram", "Betal", "Two Friends", "Elder", "Man"],
+  "word_count": 166,
+  "moral": "Patience and fairness lead to the right decision.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about two friends.",
+      "text": "Betal told Vikram about two friends who found money.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The friends argue over the money.",
+      "text": "The friends argued about who should keep the purse.",
+      "image_prompt": "two friends arguing over purse cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They go to a wise elder.",
+      "text": "The elder asked them to wait for the owner.",
+      "image_prompt": "elder speaking calmly to two friends cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The owner arrives.",
+      "text": "The real owner came and described the purse.",
+      "image_prompt": "man describing purse while others listen cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The purse is returned.",
+      "text": "The elder returned the purse to the owner. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "elder giving purse back to man cartoon"
+    }
+  ],
+  "story": "Two friends argued over found money. A wise elder waited for the real owner and returned it. Vikram said patience and fairness lead to the right decision."
+}

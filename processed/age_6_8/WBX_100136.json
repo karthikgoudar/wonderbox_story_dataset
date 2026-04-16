@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100136",
+  "title": "Vikram and Betal: The Fair Leader",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "fairness",
+  "characters": ["King Vikram", "Betal", "Leader", "Two Villagers"],
+  "word_count": 160,
+  "moral": "Fairness brings peace.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a fair leader.",
+      "text": "Betal told Vikram about a leader who treated everyone equally.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Two villagers argue over land.",
+      "text": "Two villagers wanted the same land.",
+      "image_prompt": "two villagers arguing over land cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The leader listens carefully.",
+      "text": "The leader listened to both sides before deciding.",
+      "image_prompt": "leader listening to both villagers cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The leader makes a fair decision.",
+      "text": "He asked them to share the land equally.",
+      "image_prompt": "leader explaining sharing solution cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Peace is restored.",
+      "text": "Both villagers agreed and peace returned. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "villagers smiling and shaking hands cartoon"
+    }
+  ],
+  "story": "A fair leader solved a land dispute by sharing it equally. Vikram said fairness brings peace."
+}

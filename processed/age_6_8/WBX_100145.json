@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100145",
+  "title": "Vikram and Betal: The Honest Answer Test",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Teacher", "Students", "Student"],
+  "word_count": 174,
+  "moral": "Be honest, even when no one is watching.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a teacher’s test.",
+      "text": "Betal told Vikram about a teacher testing honesty.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Students are given a task.",
+      "text": "The teacher told students to eat fruit where no one could see them.",
+      "image_prompt": "teacher giving fruit to students cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Students return after completing the task.",
+      "text": "Most students said they had eaten the fruit.",
+      "image_prompt": "students returning and speaking to teacher cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "One student does not eat the fruit.",
+      "text": "One student said he could always see himself.",
+      "image_prompt": "student holding fruit and explaining cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The student is praised.",
+      "text": "The teacher praised the honest student. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "teacher praising student while others watch cartoon"
+    }
+  ],
+  "story": "A student refused to eat fruit secretly because he believed he is always watching himself. Vikram said true honesty comes from within."
+}

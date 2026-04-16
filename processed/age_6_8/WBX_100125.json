@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100125",
+  "title": "Vikram and Betal: The Honest Answer",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["King Vikram", "Betal", "Boy", "King"],
+  "word_count": 166,
+  "moral": "Helping others is the most important duty.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about an honest boy.",
+      "text": "Betal told Vikram about a boy who always spoke the truth.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The king asks a question.",
+      "text": "The king asked the boy who was the most important person.",
+      "image_prompt": "king asking question to boy cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The boy thinks carefully.",
+      "text": "The boy thought and gave a thoughtful answer.",
+      "image_prompt": "boy thinking and answering confidently cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The boy gives a wise answer.",
+      "text": "The boy said the most important person is the one who needs help.",
+      "image_prompt": "boy explaining answer to king cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The king rewards the boy.",
+      "text": "The king praised and rewarded the boy. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king rewarding boy while smiling cartoon"
+    }
+  ],
+  "story": "A boy answered the king wisely by saying the most important person is the one who needs help. The king rewarded him. Vikram said it showed kindness and honesty."
+}

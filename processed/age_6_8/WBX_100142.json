@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100142",
+  "title": "Vikram and Betal: The Honest Friend",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["King Vikram", "Betal", "Friend 1", "Friend 2"],
+  "word_count": 162,
+  "moral": "Honesty makes friendships stronger.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about two friends.",
+      "text": "Betal told Vikram about two close friends.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "One friend hides a mistake.",
+      "text": "One friend tried to hide his mistake.",
+      "image_prompt": "friend looking worried hiding something cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The truth is revealed.",
+      "text": "The friend admitted the truth when asked.",
+      "image_prompt": "friend confessing honestly cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The other friend reacts kindly.",
+      "text": "The friend supported him instead of getting angry.",
+      "image_prompt": "friends talking kindly cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Their friendship grows stronger.",
+      "text": "Their friendship became stronger. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "friends smiling together cartoon"
+    }
+  ],
+  "story": "Two friends strengthened their bond through honesty and understanding. Vikram said honesty builds strong friendships."
+}

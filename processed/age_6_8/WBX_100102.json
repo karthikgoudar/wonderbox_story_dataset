@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100102",
+  "title": "Vikram and Betal: The Honest Choice",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Boy", "Rich Man", "King"],
+  "word_count": 182,
+  "moral": "Honesty is always rewarded.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal begins a story while Vikram carries him.",
+      "text": "As King Vikram carried Betal through the forest, Betal began telling a story about a boy who found a purse of gold.",
+      "image_prompt": "vikram carrying betal in dark forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The rich man accuses the boy.",
+      "text": "The boy returned the purse, but the rich man accused him of stealing some coins.",
+      "image_prompt": "rich man accusing honest boy while holding purse cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The case is taken to the king.",
+      "text": "The matter was brought to the king, who carefully listened to both sides.",
+      "image_prompt": "king listening to boy and rich man in court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The king makes a clever judgment.",
+      "text": "The king declared that the purse did not belong to the rich man because his story did not match.",
+      "image_prompt": "king making judgment while people look surprised cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Betal asks a question and Vikram answers.",
+      "text": "Betal asked Vikram who was right. Vikram answered wisely, and Betal flew back to the tree.",
+      "image_prompt": "betal flying back to tree while vikram looks determined cartoon"
+    }
+  ],
+  "story": "While carrying Betal, Vikram heard a story about an honest boy who returned a purse. A greedy man falsely accused him, but a wise king judged fairly and rewarded honesty. Vikram answered Betal’s question correctly, and Betal flew away."
+}

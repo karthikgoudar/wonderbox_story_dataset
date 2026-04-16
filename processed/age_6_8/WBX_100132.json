@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100132",
+  "title": "Vikram and Betal: The Sharing Child",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "sharing",
+  "characters": ["King Vikram", "Betal", "Child", "Friend"],
+  "word_count": 158,
+  "moral": "Sharing brings happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a child who loves sweets.",
+      "text": "Betal told Vikram about a child who did not like to share.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The child refuses to share.",
+      "text": "The child did not share sweets with his friend.",
+      "image_prompt": "child eating sweets alone while friend watches cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The friend shares generously.",
+      "text": "The friend shared sweets happily later.",
+      "image_prompt": "friend sharing sweets with smile cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The child feels ashamed.",
+      "text": "The child realized his mistake.",
+      "image_prompt": "child looking ashamed cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The child learns to share.",
+      "text": "The child began sharing with others. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "children sharing sweets happily cartoon"
+    }
+  ],
+  "story": "A child learned the value of sharing when his friend showed kindness. Vikram said kindness teaches kindness."
+}

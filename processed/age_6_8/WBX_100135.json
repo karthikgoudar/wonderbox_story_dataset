@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100135",
+  "title": "Vikram and Betal: The Grateful Boy",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "gratitude",
+  "characters": ["King Vikram", "Betal", "Boy", "Kind Man"],
+  "word_count": 162,
+  "moral": "Always be thankful for help.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a boy who forgets gratitude.",
+      "text": "Betal told Vikram about a boy who never said thank you.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The boy gets lost.",
+      "text": "The boy got lost in the forest.",
+      "image_prompt": "boy looking lost in forest cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "A man helps the boy.",
+      "text": "A kind man helped him find his way home.",
+      "image_prompt": "man guiding boy through forest cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The boy says thank you.",
+      "text": "The boy thanked the man and learned an important lesson.",
+      "image_prompt": "boy thanking man with smile cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy changes his behavior.",
+      "text": "The boy became grateful. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "boy happily thanking others cartoon"
+    }
+  ],
+  "story": "A boy learned to be thankful after being helped when lost. Vikram said gratitude is important."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100117",
+  "title": "Vikram and Betal: The Lost Necklace",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["King Vikram", "Betal", "Queen", "Minister", "Servants"],
+  "word_count": 180,
+  "moral": "Fear can reveal the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a lost necklace.",
+      "text": "Betal told Vikram about a queen who lost her necklace.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The necklace cannot be found.",
+      "text": "The king asked everyone to find the missing necklace.",
+      "image_prompt": "queen worried about missing necklace cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The minister creates a plan.",
+      "text": "The minister gave sticks to all servants and said they were magical.",
+      "image_prompt": "minister giving sticks to servants cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief cuts his stick.",
+      "text": "The thief cut his stick out of fear.",
+      "image_prompt": "servant secretly cutting stick cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The thief is caught.",
+      "text": "The shorter stick revealed the thief. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "minister pointing at guilty servant while others watch cartoon"
+    }
+  ],
+  "story": "A queen lost her necklace. A clever minister used a trick with sticks to find the thief. The guilty servant revealed himself out of fear. Vikram said fear exposes truth."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100129",
+  "title": "Vikram and Betal: The Truthful Child",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Child", "Parents", "King"],
+  "word_count": 170,
+  "moral": "Always tell the truth, even when it is difficult.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a truthful child.",
+      "text": "Betal told Vikram about a child who always spoke the truth.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The child breaks a pot.",
+      "text": "The child accidentally broke a pot while playing.",
+      "image_prompt": "child looking at broken pot worried cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The child admits the truth.",
+      "text": "The child admitted his mistake honestly.",
+      "image_prompt": "child speaking honestly to parents cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The parents react positively.",
+      "text": "The parents praised the child for honesty.",
+      "image_prompt": "parents smiling at child proudly cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The king rewards the child.",
+      "text": "The king rewarded the child. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king rewarding child while smiling cartoon"
+    }
+  ],
+  "story": "A child told the truth after breaking a pot. His honesty was appreciated by his parents and the king. Vikram said truth is more important than mistakes."
+}

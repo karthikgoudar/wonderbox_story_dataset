@@ -1,0 +1,51 @@
+{
+  "id": "WBX_100148",
+  "title": "Vikram and Betal: The Lost Book",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": [
+    "King Vikram",
+    "Betal",
+    "Student",
+    "Another Student",
+    "Teacher"
+  ],
+  "word_count": 164,
+  "moral": "Admitting mistakes is a sign of honesty.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a lost book.",
+      "text": "Betal told Vikram about a student who lost his book.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Another student keeps the book.",
+      "text": "Another student found the book but did not return it.",
+      "image_prompt": "student hiding book secretly cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The teacher asks about the book.",
+      "text": "The teacher asked if anyone had found the book.",
+      "image_prompt": "teacher asking students in classroom cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The student returns the book.",
+      "text": "The student felt guilty and returned it.",
+      "image_prompt": "student returning book with regret cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The student learns a lesson.",
+      "text": "The teacher appreciated honesty. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "teacher smiling at student cartoon"
+    }
+  ],
+  "story": "A student corrected his mistake by returning a lost book. Vikram said true honesty is accepting and fixing mistakes."
+}

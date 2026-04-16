@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100144",
+  "title": "Vikram and Betal: The Careful Speaker",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "speech",
+  "characters": ["King Vikram", "Betal", "Man", "Friend", "Elder"],
+  "word_count": 182,
+  "moral": "Think before you speak.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a man who speaks carelessly.",
+      "text": "Betal told Vikram about a man who spoke without thinking.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The man hurts his friend.",
+      "text": "The man said something hurtful to his friend.",
+      "image_prompt": "friend looking sad after hearing harsh words cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The elder gives a lesson.",
+      "text": "The elder asked the man to drop feathers around the village.",
+      "image_prompt": "man dropping feathers in village cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The man cannot collect feathers.",
+      "text": "The man could not collect the scattered feathers.",
+      "image_prompt": "man trying to collect feathers in wind cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The man learns his lesson.",
+      "text": "The man learned to speak carefully. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "man speaking gently to friend cartoon"
+    }
+  ],
+  "story": "A man learned that words cannot be taken back, just like feathers in the wind. Vikram said we should think before speaking."
+}

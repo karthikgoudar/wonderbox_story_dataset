@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100108",
+  "title": "Vikram and Betal: The Clever Girl",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "intelligence",
+  "characters": ["King Vikram", "Betal", "Girl", "Rich Man", "King"],
+  "word_count": 178,
+  "moral": "Intelligence helps reveal the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a clever girl.",
+      "text": "Betal told Vikram about a clever girl who lived with her mother.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The girl is falsely accused.",
+      "text": "A rich man accused the girl of stealing his ring.",
+      "image_prompt": "rich man accusing girl angrily cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The girl suggests a test.",
+      "text": "The girl suggested giving everyone a stick to reveal the truth.",
+      "image_prompt": "girl explaining idea in court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "No stick changes size.",
+      "text": "All sticks remained the same, showing no one was guilty.",
+      "image_prompt": "people holding same size sticks cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The truth is revealed.",
+      "text": "The king realized the rich man was lying. Vikram said the girl was clever, and Betal flew away.",
+      "image_prompt": "king praising girl while betal flies away cartoon"
+    }
+  ],
+  "story": "A clever girl was falsely accused of theft. She suggested a smart test to reveal the truth. The king realized she was innocent. Vikram praised her intelligence, and Betal flew away."
+}

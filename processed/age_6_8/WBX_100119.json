@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100119",
+  "title": "Vikram and Betal: The Three Questions",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["King Vikram", "Betal", "King", "Wise Man"],
+  "word_count": 172,
+  "moral": "Always do good in the present moment.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a king with questions.",
+      "text": "Betal told Vikram about a king who asked three important questions.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "No one can answer the questions.",
+      "text": "The courtiers could not answer the king’s questions.",
+      "image_prompt": "confused courtiers in royal court cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "A wise man arrives.",
+      "text": "A wise man came and listened to the questions.",
+      "image_prompt": "wise man standing calmly in court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The wise man answers.",
+      "text": "He said the right time is now, the important person is with you, and the important thing is to do good.",
+      "image_prompt": "wise man explaining to king cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Vikram explains the lesson.",
+      "text": "Vikram said the answers teach us to live well. Betal flew away again.",
+      "image_prompt": "betal flying away while vikram stands firm cartoon"
+    }
+  ],
+  "story": "A king asked three questions about life. A wise man answered that the present moment, the person with you, and doing good are most important. Vikram explained the lesson, and Betal flew away."
+}

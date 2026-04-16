@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100104",
+  "title": "Vikram and Betal: The True Friend",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["King Vikram", "Betal", "Two Friends", "Bear"],
+  "word_count": 178,
+  "moral": "A true friend stays with you in difficult times.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about two friends.",
+      "text": "While Vikram carried Betal, he told a story about two friends traveling together.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A bear appears in the forest.",
+      "text": "A bear came towards the two friends while they were walking in the forest.",
+      "image_prompt": "bear approaching two scared friends in forest cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "One friend runs away, the other pretends to be dead.",
+      "text": "One friend climbed a tree while the other lay still on the ground.",
+      "image_prompt": "one friend on tree and other lying on ground with bear cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The bear leaves without harming.",
+      "text": "The bear sniffed the man on the ground and walked away.",
+      "image_prompt": "bear sniffing man lying still cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Vikram answers Betal’s question.",
+      "text": "Vikram said a true friend does not leave you in danger. Betal flew away again.",
+      "image_prompt": "betal flying back to tree while vikram stands firm cartoon"
+    }
+  ],
+  "story": "Betal told a story of two friends and a bear. One friend ran away while the other stayed calm and survived. Vikram said a true friend never leaves you in danger, and Betal flew away."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100111",
+  "title": "Vikram and Betal: The Honest Woodcutter",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Woodcutter", "Spirit"],
+  "word_count": 182,
+  "moral": "Honesty is always rewarded.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a woodcutter.",
+      "text": "Betal told Vikram about a poor woodcutter who worked in the forest.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The woodcutter loses his axe.",
+      "text": "The woodcutter’s axe fell into the river while he was working.",
+      "image_prompt": "woodcutter dropping axe into river cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The spirit tests the woodcutter.",
+      "text": "The spirit showed him golden and silver axes, but he refused them.",
+      "image_prompt": "spirit showing golden and silver axe to woodcutter cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The woodcutter chooses honesty.",
+      "text": "The woodcutter accepted only his iron axe.",
+      "image_prompt": "woodcutter happily holding iron axe cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The woodcutter is rewarded.",
+      "text": "The spirit rewarded him for honesty. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "spirit rewarding woodcutter with axes cartoon"
+    }
+  ],
+  "story": "A woodcutter lost his axe in a river. When tested with gold and silver axes, he chose honesty. The spirit rewarded him. Vikram said honesty brings rewards, and Betal flew away."
+}

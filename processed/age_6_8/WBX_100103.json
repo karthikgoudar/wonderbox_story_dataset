@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100103",
+  "title": "Vikram and Betal: The Three Friends",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "teamwork",
+  "characters": ["King Vikram", "Betal", "Three Friends", "Man"],
+  "word_count": 176,
+  "moral": "Teamwork makes success possible.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story to Vikram.",
+      "text": "As Vikram carried Betal, he told a story about three friends on a journey.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They find an unconscious man.",
+      "text": "The three friends found a man lying unconscious in the forest.",
+      "image_prompt": "three friends finding unconscious man in forest cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Each friend uses his strength.",
+      "text": "One used intelligence, one bravery, and one kindness to help the man.",
+      "image_prompt": "friends helping man together teamwork cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The man wants to reward one friend.",
+      "text": "The man could not decide who deserved the reward the most.",
+      "image_prompt": "man offering reward looking confused cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Vikram gives the answer.",
+      "text": "Vikram said all deserved the reward equally. Betal agreed and flew away.",
+      "image_prompt": "betal flying away while vikram stands calm cartoon"
+    }
+  ],
+  "story": "Betal told a story about three friends who saved a man using intelligence, bravery, and kindness. When asked who deserved a reward, Vikram said all of them did. Betal agreed and flew back to the tree."
+}

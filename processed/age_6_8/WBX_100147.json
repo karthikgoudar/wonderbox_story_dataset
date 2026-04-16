@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100147",
+  "title": "Vikram and Betal: The Wise Choice",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "decision making",
+  "characters": ["King Vikram", "Betal", "Boy", "Friends", "Father"],
+  "word_count": 172,
+  "moral": "Always choose what is right, not what is easy.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a boy’s choice.",
+      "text": "Betal told Vikram about a boy who had to choose between two paths.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The boy faces two choices.",
+      "text": "One path was easy but wrong, the other was hard but right.",
+      "image_prompt": "boy standing at two paths thinking cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The boy chooses the difficult path.",
+      "text": "The boy chose the harder but right path.",
+      "image_prompt": "boy walking on difficult path cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The boy learns and grows.",
+      "text": "The boy learned many things and improved.",
+      "image_prompt": "boy learning and growing confident cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy succeeds.",
+      "text": "The boy became successful. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "boy achieving success smiling cartoon"
+    }
+  ],
+  "story": "A boy chose a difficult but right path and succeeded, while others chose the easy path and failed. Vikram said right choices lead to success."
+}

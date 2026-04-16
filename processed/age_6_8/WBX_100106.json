@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100106",
+  "title": "Vikram and Betal: The Foolish King",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["King Vikram", "Betal", "King", "Honest Man", "Courtiers"],
+  "word_count": 184,
+  "moral": "Always value truth over flattery.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a king who loved praise.",
+      "text": "Betal told Vikram about a king who liked hearing only good things about himself.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers flatter the king.",
+      "text": "Courtiers praised the king, but one honest man always spoke the truth.",
+      "image_prompt": "courtiers praising king while one man looks serious cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The king asks a question.",
+      "text": "The king asked who was the greatest king in the world.",
+      "image_prompt": "king asking question in court cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The honest man speaks the truth.",
+      "text": "The honest man said a great king listens to truth, not praise.",
+      "image_prompt": "honest man speaking boldly in court cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The king realizes his mistake.",
+      "text": "The king understood the truth and respected the honest man.",
+      "image_prompt": "king appreciating honest man while others look surprised cartoon"
+    }
+  ],
+  "story": "A king liked flattery, but one man spoke the truth. Though punished at first, the king later realized his mistake and valued honesty. Vikram said the honest man was wise, and Betal flew away."
+}

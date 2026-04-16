@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100124",
+  "title": "Vikram and Betal: The Helpful Stranger",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["King Vikram", "Betal", "Traveler", "Stranger"],
+  "word_count": 168,
+  "moral": "Kindness always comes back to you.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a traveler.",
+      "text": "Betal told Vikram about a tired traveler in a forest.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A stranger helps the traveler.",
+      "text": "A stranger gave food and water to the traveler.",
+      "image_prompt": "stranger giving food to tired traveler cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The traveler becomes successful.",
+      "text": "The traveler later became successful in life.",
+      "image_prompt": "traveler becoming successful in village cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The traveler helps the stranger.",
+      "text": "The traveler helped the same stranger later.",
+      "image_prompt": "traveler helping stranger with food cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Kindness is returned.",
+      "text": "Vikram said kindness returns, and Betal flew away.",
+      "image_prompt": "both smiling while helping each other cartoon"
+    }
+  ],
+  "story": "A traveler was helped by a stranger and later returned the kindness. Vikram said kindness always comes back."
+}
