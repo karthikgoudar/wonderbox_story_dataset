@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100152",
+  "title": "Grandma’s Story: The Mango Tree",
+  "source": "grandma_story",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "gratitude",
+  "characters": ["Grandma", "Ravi", "Mango Tree"],
+  "word_count": 198,
+  "moral": "Parents always give selflessly—respect and care for them.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Grandma begins the story.",
+      "text": "Grandma starts telling a story about Ravi and a mango tree.",
+      "image_prompt": "grandmother telling story to kids at home cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Ravi grows and leaves the tree.",
+      "text": "Ravi grows up and stops visiting the tree.",
+      "image_prompt": "boy walking away from tree growing older cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The tree keeps helping Ravi.",
+      "text": "The tree gives mangoes and branches to help Ravi.",
+      "image_prompt": "tree giving fruits and branches to boy cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Ravi returns as an old man.",
+      "text": "Ravi comes back tired and old.",
+      "image_prompt": "old man sitting near tree stump cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Grandma explains the lesson.",
+      "text": "Grandma explains the tree is like parents.",
+      "image_prompt": "kids listening emotionally to grandma cartoon"
+    }
+  ],
+  "story": "A tree keeps giving everything to a boy throughout his life. In the end, it represents parents' selfless love."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100197",
+  "title": "The Bridge of Kindness",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness and courage",
+  "characters": ["Sir Maris", "Tobin", "Emissaries", "Guards"],
+  "word_count": 1482,
+  "moral": "Kindness and courage together build trust and strong connections.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Maris prepares to welcome emissaries to the castle.",
+      "text": "At Castle Rowan, Sir Maris prepares for the arrival of emissaries from distant kingdoms. Determined to show kindness and courage, she sets out to greet them warmly.",
+      "image_prompt": "young knight preparing at castle gate with sunrise and banners, bright medieval cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Maris helps injured travelers and faces an approaching storm.",
+      "text": "On her journey, Maris helps a boy and his injured sister, showing care and quick thinking. As a storm approaches, she remains calm and encourages her companions.",
+      "image_prompt": "knight helping injured girl near forest path with rain clouds gathering, emotional cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Maris finds the bridge washed away and must solve the problem.",
+      "text": "At the river, Maris discovers the bridge is gone. Using her skills, she builds a makeshift crossing with logs and ropes, guiding the emissaries safely across.",
+      "image_prompt": "knight building wooden bridge with ropes across river helping people cross, adventurous cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The emissaries safely cross and begin to trust Maris.",
+      "text": "With courage and teamwork, the emissaries cross the river safely. Their trust in Maris grows as they see her leadership and kindness.",
+      "image_prompt": "people crossing makeshift bridge with knight guiding them, relieved expressions, cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "Maris welcomes the emissaries and builds lasting friendship.",
+      "text": "At the castle, Maris hosts a warm feast and builds friendships with the emissaries. She realizes that kindness and courage create strong bonds between people.",
+      "image_prompt": "castle feast with knight and guests sharing food and smiling, warm joyful cartoon style"
+    }
+  ],
+  "story": "At Castle Rowan, Sir Maris prepared for an important day as emissaries from distant kingdoms were arriving. She wanted to welcome them with kindness and courage, knowing that trust was important.\n\nOn her journey to meet them, she helped a young boy and his injured sister by making a splint and guiding them safely. As rain clouds gathered, she stayed calm and encouraged her companions.\n\nWhen she reached the river, she found the bridge had been washed away. Instead of turning back, she used logs and ropes to build a safe path across the river. She guided the emissaries step by step, helping them cross safely.\n\nThe emissaries began to trust her as they saw her bravery and kindness in action.\n\nBack at the castle, a warm feast was prepared. Maris welcomed the guests with smiles and thoughtful conversation.\n\nShe understood that true strength comes from kindness and courage, and that these qualities help build lasting friendships."
+}

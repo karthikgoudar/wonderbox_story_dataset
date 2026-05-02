@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100173",
+  "title": "The Treasure of Neptune",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "courage",
+  "characters": ["Captain Amelia", "Pirate Crew", "Pirate Queen Isadora"],
+  "word_count": 356,
+  "moral": "Courage and clever thinking lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Amelia begins her quest for Neptune’s treasure.",
+      "text": "Captain Amelia set sail on The Golden Wave with her crew to search for the legendary Treasure of Neptune.",
+      "image_prompt": "girl pirate captain leading crew on ship with sails open ocean cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces storms and dangerous challenges at sea.",
+      "text": "They encountered storms, whirlpools, and rival pirates, testing their courage and teamwork.",
+      "image_prompt": "pirate ship in storm with whirlpools and lightning crew working together cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores a mysterious island and cave.",
+      "text": "They reached an island and followed clues through jungle and caves to find the treasure.",
+      "image_prompt": "pirates exploring jungle cave with map and glowing treasure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Captain Amelia defeats Pirate Queen Isadora.",
+      "text": "Captain Amelia outsmarted Isadora in a battle and protected her crew.",
+      "image_prompt": "two pirate captains sword fighting dramatic scene cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew returns home with treasure and lessons learned.",
+      "text": "They sailed home with treasure, realizing courage and friendship were the true rewards.",
+      "image_prompt": "pirate ship sailing at sunset with happy crew cartoon style"
+    }
+  ],
+  "story": "Captain Amelia sailed the seas with her crew on The Golden Wave in search of the Treasure of Neptune. They faced storms, whirlpools, and rival pirates but stayed strong together. On a mysterious island, they found a hidden cave where the treasure was kept. Pirate Queen Isadora tried to stop them, but Captain Amelia used clever thinking to defeat her. The crew returned home with gold and jewels, but more importantly, they learned that courage and friendship were the greatest treasures."
+}

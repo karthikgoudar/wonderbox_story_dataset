@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100153",
+  "title": "Grandma’s Story: The Two Seeds",
+  "source": "grandma_story",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "courage",
+  "characters": ["Grandma", "Two Seeds", "Bird"],
+  "word_count": 170,
+  "moral": "Be brave and take chances to grow.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Grandma begins the story.",
+      "text": "Grandma tells a story about two seeds.",
+      "image_prompt": "grandmother telling story to kids at night cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "One seed is brave, the other is afraid.",
+      "text": "One seed wants to grow, the other is scared.",
+      "image_prompt": "two seeds underground thinking differently cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The brave seed grows.",
+      "text": "The brave seed grows into a plant.",
+      "image_prompt": "small plant growing out of soil cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The scared seed stays hidden.",
+      "text": "The second seed stays under the soil.",
+      "image_prompt": "seed hiding underground cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The scared seed is eaten.",
+      "text": "A bird eats the seed that never tried to grow.",
+      "image_prompt": "bird picking seed from ground cartoon"
+    }
+  ],
+  "story": "Two seeds faced a choice—one grew with courage while the other stayed afraid and was lost. Grandma teaches that courage helps us grow."
+}

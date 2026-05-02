@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100176",
+  "title": "The Secret Treasure of Willow Park",
+  "source": "freekidsbooks",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["Mia", "Ruby", "Zoe"],
+  "word_count": 1186,
+  "moral": "Friendship, teamwork, and sharing are the greatest treasures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Three friends find a mysterious map in Willow Park.",
+      "text": "On the first day of summer, Mia, Ruby, and Zoe found a faded map under a tree root in Willow Park with a clue about a hidden treasure.",
+      "image_prompt": "three girls finding old treasure map under tree in park sunny day cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The girls decode the map and begin their adventure.",
+      "text": "They used heat from a hair dryer to reveal a hidden X on the map pointing to the park fountain and followed clues toward sunflowers and a shadowy grove.",
+      "image_prompt": "girls using hair dryer to reveal map clue and walking through sunflower field cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They solve clues and find a golden key.",
+      "text": "In a shady grove, they followed instructions, found a hidden golden key, and used it to unlock a secret door in a willow tree that revealed another riddle.",
+      "image_prompt": "girls solving puzzle in forest grove finding golden key cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the final clue and uncover the treasure.",
+      "text": "Following clues at the pond, they found a special stone hiding a note that led them to dig under a bench where they uncovered a treasure box.",
+      "image_prompt": "girls digging under bench finding treasure box cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They realize the true treasure and share it.",
+      "text": "Inside the box they found simple treasures and a note about friendship, so they shared the items, added their own gift, and left it for others.",
+      "image_prompt": "girls sharing small treasures and leaving note happily cartoon style"
+    }
+  ],
+  "story": "It was the first day of summer vacation, and the sun was shining through the leaves of Willow Park. Three best friends, Mia, Ruby, and Zoe, sat under their favorite tree, sharing a picnic of peanut butter sandwiches and giggling about nothing at all. Ruby wished for excitement, and soon Mia discovered a crumpled map hidden near a tree root. The map revealed a clue: 'To find the treasure, let warmth reveal the way.' The girls used a hair dryer to reveal a hidden X pointing to the park fountain. Following the map, they reached sunflowers and a fork in the path, choosing the shady grove based on a clue. There, they solved a puzzle and found a golden key. The key opened a secret door in a willow tree, revealing a riddle that led them to the pond. Searching carefully, they found a stone with silver wings hiding another clue that directed them to dig under their favorite bench. Beneath the bench, they discovered a wooden box containing colorful marbles, a tiny stuffed bear, and a note explaining that friendship and sharing were the real treasures. The girls happily shared the treasure, added a friendship bracelet, and returned the box for future adventurers. As they walked home, they promised to stay friends, help others, and continue their adventures together, knowing their friendship was the greatest treasure of all."
+}

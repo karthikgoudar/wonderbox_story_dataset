@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100172",
+  "title": "Captain Amelia’s Treasure Quest",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "teamwork",
+  "characters": ["Captain Amelia", "Pirate Crew", "Captain Blackbeard"],
+  "word_count": 378,
+  "moral": "Courage and teamwork lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Amelia finds a mysterious map and begins her quest.",
+      "text": "Captain Amelia found a map in a bottle and decided to search for a hidden treasure with her crew.",
+      "image_prompt": "girl pirate captain holding old map on ship with crew excited cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces dangerous waters and sea monsters.",
+      "text": "They sailed through treacherous waters filled with whirlpools and dangers, testing their courage.",
+      "image_prompt": "pirate ship in dangerous sea with whirlpools and sea creatures cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They battle a rival pirate ship.",
+      "text": "Captain Amelia fought against Captain Blackbeard and his ship, protecting their mission.",
+      "image_prompt": "two pirate ships battling with cannons and swords cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The crew reaches the island and finds the treasure.",
+      "text": "They explored the island, overcame challenges, and discovered the hidden treasure in a cave.",
+      "image_prompt": "pirates finding treasure in cave with gold and jewels cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew returns home with lessons learned.",
+      "text": "They sailed home, realizing that teamwork and courage were the greatest treasures.",
+      "image_prompt": "pirate ship sailing into sunset with happy crew cartoon style"
+    }
+  ],
+  "story": "Captain Amelia sailed with her crew on The Crimson Wave when she found a mysterious map in a bottle. She set out to find a hidden treasure. Along the way, they faced dangerous waters, sea monsters, and a battle with Captain Blackbeard. Using courage and teamwork, they overcame every challenge. On the island, they found a cave filled with treasure. Captain Amelia realized that their true treasure was their unity and bravery. They sailed home as heroes, ready for more adventures."
+}

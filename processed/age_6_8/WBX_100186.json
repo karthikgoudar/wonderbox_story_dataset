@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100186",
+  "title": "The Hidden Treasure of Willow Creek",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "adventure and friendship",
+  "characters": ["Lily", "Ben", "Buttons"],
+  "word_count": 982,
+  "moral": "Adventures are best when shared with friends.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily finds a treasure map in her grandmother’s attic and decides to follow it.",
+      "text": "In Willow Creek, Lily discovers an old treasure map hidden in a dusty chest in her grandmother’s attic. Excited by the possibility of adventure, she shares it with her friend Ben and decides to follow the clues.",
+      "image_prompt": "girl finding treasure map in dusty attic with cat, warm sunlight, colorful cartoon illustration"
+    },
+    {
+      "type": "conflict",
+      "summary": "Lily and Ben begin their journey and face the challenge of entering the forest.",
+      "text": "Lily and Ben follow the map through a meadow and reach a dark forest. Although they feel a little nervous, they encourage each other and bravely continue their journey together.",
+      "image_prompt": "two kids entering slightly dark forest holding map, adventurous mood, bright cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They cross a stream and search for clues leading to the treasure.",
+      "text": "The friends cross a stream using a fallen log and continue following the map. They search for a turtle-shaped rock and discover a hidden cave behind it, bringing them closer to the treasure.",
+      "image_prompt": "kids crossing stream on log and finding turtle shaped rock, forest adventure scene, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find the treasure chest inside the cave.",
+      "text": "Inside the cave, Lily and Ben discover a wooden chest filled with shiny stones, gems, and coins. They realize they have found the hidden treasure they were searching for.",
+      "image_prompt": "kids opening treasure chest in glowing cave with gems and coins, magical cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "They leave a clue for future adventurers and return home happily.",
+      "text": "Following a note’s instructions, Lily and Ben leave a hidden sign to guide the next adventurer. They return home feeling proud, happy, and grateful for their shared adventure.",
+      "image_prompt": "kids placing secret sign near cave and walking home at sunset, warm friendly cartoon scene"
+    }
+  ],
+  "story": "Once upon a time, in the cheerful village of Willow Creek, there lived an adventurous little girl named Lily. At eight years old, Lily had a curious mind and a heart full of courage. She loved exploring the fields and forests around her home, always hoping to find something magical.\n\nOne sunny morning, while playing in her grandmother's attic, Lily stumbled upon an old chest. It was covered in dust and cobwebs. With a little cough and a big sneeze, she opened it to find a faded, ancient map. Her eyes widened in excitement. \"A treasure map!\" she exclaimed.\n\nThe map showed the village and beyond, with a dotted line leading to a place marked with an X. \"This is it, Buttons!\" Lily said to her cat. \"We're going on a treasure hunt!\"\n\nShe hurried outside and showed the map to her best friend Ben. Together, they decided to follow it.\n\nThey walked across a meadow filled with flowers and reached a dark forest. Though a little scared, they encouraged each other and continued.\n\nThey crossed a stream using a fallen log and followed the path until they found a large rock shaped like a turtle. Behind it, they discovered a hidden cave.\n\nInside the cave, they found a wooden chest. When they opened it, they saw shiny stones, colorful gems, and old coins.\n\nThere was also a note telling them to leave a clue for the next adventurer.\n\nThey painted a small arrow on a stone and left it near the cave entrance.\n\nWith their adventure complete, they returned home feeling proud and happy.\n\nThat night, Lily smiled, knowing there would always be more adventures ahead."
+}

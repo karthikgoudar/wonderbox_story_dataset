@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100169",
+  "title": "Captain Marina and the Dragon’s Treasure",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["Captain Marina", "Pirate Crew", "Dragon"],
+  "word_count": 371,
+  "moral": "The greatest treasure is friendship and teamwork.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Marina sets sail in search of treasure.",
+      "text": "Captain Marina sailed on The Crimson Serpent with her crew, searching for a legendary treasure on a distant island.",
+      "image_prompt": "girl pirate captain steering ship with crew at sunset cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A powerful storm threatens the ship.",
+      "text": "A fierce storm hit the sea, but Captain Marina and her crew worked together to survive it.",
+      "image_prompt": "pirate ship in storm with lightning and big waves crew holding ropes cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores the island and faces challenges.",
+      "text": "They followed a map through a jungle, solving puzzles and overcoming traps together.",
+      "image_prompt": "pirates exploring jungle solving puzzles cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Captain Marina defeats the dragon guarding the treasure.",
+      "text": "At the cave entrance, Captain Marina bravely fought and defeated the dragon.",
+      "image_prompt": "pirate captain fighting dragon with sword in cave entrance cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew finds treasure and values friendship.",
+      "text": "They found treasure but realized friendship and teamwork were the greatest rewards.",
+      "image_prompt": "pirate crew celebrating treasure and friendship cartoon style"
+    }
+  ],
+  "story": "Captain Marina sailed the seas with her crew on The Crimson Serpent in search of treasure. They faced a powerful storm but stayed strong together. Reaching a mysterious island, they followed a map through a jungle and solved challenges. At a hidden cave, Captain Marina defeated a dragon guarding the treasure. They found gold and jewels, but she realized that friendship and teamwork were the true treasures. The crew sailed away happily, stronger and united."
+}

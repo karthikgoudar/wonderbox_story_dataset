@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100200",
+  "title": "The Heart of a Knightess",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness and courage",
+  "characters": ["Seraphina", "Leo", "Grizzlefang", "Sir Cedric"],
+  "word_count": 1489,
+  "moral": "True bravery comes from kindness, understanding, and compassion.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Seraphina learns about a dragon threatening her kingdom.",
+      "text": "In the kingdom of Eldoria, the brave knightess Seraphina hears about a dragon named Grizzlefang frightening the villages. Determined to protect her people, she prepares for a quest.",
+      "image_prompt": "young knightess in shining armor with sword in castle courtyard, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Seraphina and the knights begin their journey to face the dragon.",
+      "text": "Seraphina gathers fellow knights and sets out toward the Enchanted Forest. Along the way, they seek guidance and prepare themselves for the challenge ahead.",
+      "image_prompt": "group of knights riding through green fields toward forest, bright adventure cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They reach the dragon’s cave and confront Grizzlefang.",
+      "text": "Inside the cave, Seraphina bravely speaks to the dragon instead of attacking. She learns that Grizzlefang is lonely rather than evil.",
+      "image_prompt": "knightess facing dragon inside glowing cave, emotional cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Seraphina offers friendship instead of fighting.",
+      "text": "Instead of battling, Seraphina offers friendship and understanding to the dragon. Grizzlefang accepts, and the conflict is resolved peacefully.",
+      "image_prompt": "knightess reaching out hand to dragon peacefully, warm magical cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "The dragon becomes a guardian and the kingdom celebrates.",
+      "text": "Grizzlefang becomes a protector of the kingdom, and the villagers welcome him. Seraphina realizes that compassion is the greatest strength.",
+      "image_prompt": "dragon and knight with villagers celebrating together, joyful colorful cartoon style"
+    }
+  ],
+  "story": "Once upon a time, in the enchanting kingdom of Eldoria, there lived a brave knightess named Seraphina. She had sparkling hazel eyes, chestnut hair, and wore shining armor. More than her strength, she was known for her kind heart and loyalty.\n\nRumors spread of a fierce dragon named Grizzlefang who frightened the village of Willowdale. While others were afraid, Seraphina believed courage meant facing fear. With her squire Leo, she gathered the knights and set out on a quest.\n\nThey traveled through fields and into the Enchanted Forest, where a wise owl reminded them that true strength comes from the heart. Encouraged, they continued their journey with laughter and determination.\n\nAt last, they reached the dragon’s cave. When Grizzlefang appeared, the knights were afraid, but Seraphina stepped forward and spoke calmly. She learned the dragon was lonely, not cruel.\n\nInstead of fighting, Seraphina offered friendship. Grizzlefang accepted, touched by her kindness.\n\nThe dragon returned with them and became a guardian of the kingdom. The villagers celebrated, and peace returned.\n\nSeraphina understood that true bravery comes from kindness and understanding, not from battle.\n\nFrom that day on, her story inspired many, showing that even the fiercest hearts can change through compassion."
+}

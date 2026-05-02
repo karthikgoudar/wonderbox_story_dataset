@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100157",
+  "title": "The Pirate with the Green Hat",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "courage and kindness",
+  "characters": ["Captain Finn", "Molly", "Patch", "Old Toby", "Big Red"],
+  "word_count": 566,
+  "moral": "Courage and kindness help you overcome challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Finn and his crew realize they are lost at sea.",
+      "text": "Captain Finn stood on his ship, the Merry Gull, wearing his bright green hat. With him were Molly, Patch, and Old Toby. After sailing through thick fog, they realized they were lost with no land in sight.",
+      "image_prompt": "pirate captain with green hat on ship with crew looking at ocean worried cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces the dangerous Singing Reef.",
+      "text": "Finn spotted a glowing reef in the water that sang softly. Old Toby warned it was dangerous and no one had crossed it safely before. The crew felt unsure about what to do.",
+      "image_prompt": "glowing underwater reef with colorful stones and pirate ship approaching cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Finn uses clever thinking to cross the reef and later meets another crew.",
+      "text": "Finn noticed the stones blinking in patterns and guided the ship by matching the rhythm. They crossed safely. Later, they met the Crabby Crew, and instead of fighting, Finn shared tea and made friends.",
+      "image_prompt": "pirates clapping rhythm while sailing over glowing reef and later sharing tea with another pirate crew cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "A storm tests the crew’s courage and teamwork.",
+      "text": "A strong storm hit the ship. Finn used his compass to guide them while the crew worked together to keep the ship safe. Everyone stayed brave and helped each other.",
+      "image_prompt": "pirate ship in storm with captain holding compass and crew working together cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew returns home and reflects on their journey.",
+      "text": "The storm passed, and soon they saw their home island. The crew celebrated and shared stories. Finn realized that courage, kindness, and teamwork brought them home safely.",
+      "image_prompt": "pirate ship arriving home island sunset crew celebrating cartoon style"
+    }
+  ],
+  "story": "The sun winked on the sparkling sea as Captain Finn tugged his bright green hat down over his wild brown hair. His ship, the Merry Gull, bobbed on the waves like a cork. Finn was not the scariest pirate, nor the strongest, but he was certainly the cleverest—and, some said, the kindest. As the morning breeze tickled his nose, Finn called to his crew, “All hands on deck!” Out came Molly, who loved to juggle lemons, Patch the parrot with a slight stutter, and Old Toby, who could tie a hundred knots with his eyes closed. The ship had drifted into a thick fog, and now they were lost. Finn stayed calm and encouraged his crew. Soon, he spotted a glowing reef that sang. By watching the pattern and rhythm, he guided the ship safely across it. Later, they met another pirate crew, but instead of fighting, Finn shared tea and made friends. The other captain helped them find their way. Then a storm hit, but Finn trusted his compass and led his crew through it. Everyone worked together bravely. At last, they reached home safely. Finn and his crew celebrated, knowing that courage, kindness, and teamwork helped them on their journey."
+}

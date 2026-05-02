@@ -1,0 +1,51 @@
+{
+  "id": "WBX_100198",
+  "title": "Sir Elenora and the Path of Honor",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honor and wisdom",
+  "characters": [
+    "Sir Elenora",
+    "Finn",
+    "Queen Mirabel",
+    "Master Cedric",
+    "Badger"
+  ],
+  "word_count": 1543,
+  "moral": "True honor comes from wisdom, kindness, and working together.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Sir Elenora is given a quest to clear the path to the Sacred Spring.",
+      "text": "In the Kingdom of Luminor, Sir Elenora is summoned by Queen Mirabel to clear the blocked path to the Sacred Spring. With her loyal squire Finn, she sets out on her mission with courage and determination.",
+      "image_prompt": "brave knight and young squire in castle courtyard receiving quest, colorful cartoon medieval style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They encounter obstacles in the forest and solve them with clever thinking.",
+      "text": "In the Forest of Whispers, Elenora and Finn face a fallen log tangled in vines. Instead of cutting it, they carefully untangle the vines, clearing the path through teamwork and patience.",
+      "image_prompt": "knight and boy untangling vines from fallen log in forest, teamwork cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They solve the badger’s riddle and pass the stone trial.",
+      "text": "At a clearing, they meet a badger who challenges them with a riddle. Using wisdom and bravery, they choose the correct stones and clear the path forward.",
+      "image_prompt": "knight and boy solving riddle with glowing stones and friendly badger, magical cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They find a way through the brambles with help from rabbits.",
+      "text": "Facing a wall of thorny brambles and an approaching storm, Elenora and Finn follow rabbits through a hidden tunnel, showing patience and kindness to find a safe path.",
+      "image_prompt": "knight and boy crawling through tunnel with rabbits under thorny bushes, warm adventurous cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They reach the Sacred Spring and complete their quest successfully.",
+      "text": "Elenora and Finn reach the Sacred Spring, where pilgrims celebrate their success. They realize that honor comes from wisdom, kindness, and working together.",
+      "image_prompt": "knight and boy at glowing magical spring with happy villagers, peaceful cartoon scene"
+    }
+  ],
+  "story": "In the Kingdom of Luminor, Sir Elenora was known as the bravest knight. One morning, Queen Mirabel asked her to clear the path to the Sacred Spring so pilgrims could travel safely.\n\nWith her squire Finn, Elenora set off on her journey. In the Forest of Whispers, they encountered a fallen log tangled in vines. Instead of cutting it, they carefully untangled the vines, clearing the way.\n\nFurther along, they met a badger who challenged them with a riddle. By choosing symbols of bravery and wisdom, they solved the puzzle and continued.\n\nSoon, they faced a wall of thorny brambles. With help from rabbits, they found a hidden tunnel and safely passed through, even as a storm began.\n\nAt last, they reached the Sacred Spring, where pilgrims rejoiced.\n\nElenora understood that true honor is not just about strength, but about wisdom, kindness, and teamwork.\n\nWith their quest complete, they rested peacefully, ready for future adventures."
+}

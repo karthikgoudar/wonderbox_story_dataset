@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100163",
+  "title": "The Diamond of the Deep",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "courage",
+  "characters": ["Captain Jack", "Pirate Crew", "Serpent"],
+  "word_count": 384,
+  "moral": "Courage and teamwork lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack discovers a map to a magical treasure.",
+      "text": "Captain Jack sailed the seas with his crew. One day, they found a map leading to the Diamond of the Deep.",
+      "image_prompt": "pirate captain holding ancient map on ship with crew cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A dangerous storm challenges the crew.",
+      "text": "A strong storm hit the ship, but Captain Jack and his crew worked together to survive it.",
+      "image_prompt": "pirate ship in storm with big waves and lightning cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores a mysterious island.",
+      "text": "They reached a misty island filled with jungle, puzzles, and traps, and carefully made their way through.",
+      "image_prompt": "pirates exploring jungle island solving puzzles cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Captain Jack battles the guardian serpent.",
+      "text": "Inside a cave, a giant serpent attacked, but Captain Jack bravely fought and defeated it.",
+      "image_prompt": "pirate captain fighting giant serpent in cave cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew returns home with treasure and pride.",
+      "text": "They returned home with the diamond and were celebrated, realizing teamwork and courage were the true treasure.",
+      "image_prompt": "pirate crew celebrating with treasure at port cartoon style"
+    }
+  ],
+  "story": "Captain Jack sailed the seas with his crew in search of treasure. One day, they found a map leading to the Diamond of the Deep. They faced a powerful storm but worked together to survive. Reaching a mysterious island, they solved puzzles and entered a cave. A giant serpent guarded the treasure, but Captain Jack defeated it with bravery. The crew returned home as heroes, knowing that courage and teamwork helped them succeed."
+}

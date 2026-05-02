@@ -1,0 +1,51 @@
+{
+  "id": "WBX_100158",
+  "title": "Captain Jack and Emerald Cove",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "teamwork",
+  "characters": [
+    "Captain Jack",
+    "Lily",
+    "Big Joe",
+    "Redbeard",
+    "Captain Blackbeard"
+  ],
+  "word_count": 401,
+  "moral": "Teamwork and friendship are more valuable than treasure.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack finds a mysterious map to Emerald Cove.",
+      "text": "Captain Jack sailed the sea on his ship, the Sea Serpent. One day, a mysterious map appeared, showing a hidden treasure at Emerald Cove. He gathered his crew and prepared for the journey.",
+      "image_prompt": "pirate captain holding treasure map on ship with crew excited cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A rival pirate ship attacks during the journey.",
+      "text": "On their way, they encountered Captain Blackbeard and his ship, the Black Pearl. A fierce battle began as both crews fought for the treasure.",
+      "image_prompt": "two pirate ships fighting with cannons and swords cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew reaches Emerald Cove and explores the island.",
+      "text": "After winning the battle, they reached Emerald Cove. The island was full of jungles, caves, and obstacles, but the crew worked together to move forward.",
+      "image_prompt": "pirates exploring jungle island with cliffs and caves cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They solve riddles and find the treasure but face Blackbeard again.",
+      "text": "Inside a hidden cave behind a waterfall, they solved riddles to unlock a treasure. But Blackbeard returned, leading to a final battle.",
+      "image_prompt": "pirates solving cave puzzle with glowing treasure and enemy pirate appearing cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Captain Jack realizes the true treasure is friendship.",
+      "text": "After the battle, Captain Jack and his crew realized that friendship and teamwork mattered more than gold. They sailed away happily.",
+      "image_prompt": "pirate crew sailing into sunset smiling after adventure cartoon style"
+    }
+  ],
+  "story": "Once upon a time, Captain Jack sailed the sea on his ship, the Sea Serpent. One day, he found a mysterious map leading to Emerald Cove. With his crew, he set out to find the treasure. Along the way, they fought a rival pirate, Captain Blackbeard, and won. Reaching the island, they faced many challenges but worked together to overcome them. Inside a hidden cave, they found a great treasure but had to fight Blackbeard again. In the end, they realized that teamwork and friendship were more valuable than gold and sailed home happily."
+}

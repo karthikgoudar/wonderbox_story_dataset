@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100166",
+  "title": "The Dolphins’ Secret Corridor",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "humility",
+  "characters": ["Captain Mira", "Jun", "Bongo Bill", "Pip", "Coral"],
+  "word_count": 320,
+  "moral": "True leadership comes from listening and learning from others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Mira finds a map and begins a new journey.",
+      "text": "Captain Mira discovered an old map showing a path through dangerous reefs, and she decided to follow it with her crew.",
+      "image_prompt": "young girl pirate holding old map on ship with crew cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew enters the dangerous Grumpy Reefs.",
+      "text": "The ship sailed into dark waters filled with hidden rocks, making the journey risky.",
+      "image_prompt": "pirate ship entering reef area with hidden rocks and tense crew cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Dolphins guide the ship safely through the reefs.",
+      "text": "Dolphins appeared and showed the crew a safe path, and Mira carefully followed them.",
+      "image_prompt": "dolphins leading pirate ship through narrow water path cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mira learns to trust the dolphins and her crew.",
+      "text": "Mira realized she needed to listen and trust others to guide the ship safely.",
+      "image_prompt": "girl pirate watching dolphins and crew working together cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew safely exits the reefs and gains wisdom.",
+      "text": "The ship reached calm waters, and Mira learned that leadership means humility and teamwork.",
+      "image_prompt": "pirate ship sailing calmly with dolphins at sunset cartoon style"
+    }
+  ],
+  "story": "Captain Mira sailed with her crew on the Sea Sprout when she found a map leading through the Grumpy Reefs. The journey was dangerous, but dolphins appeared and guided them safely. Mira trusted their guidance and led her crew carefully through the narrow path. They reached calm waters, and Mira learned that true leadership comes from listening, humility, and teamwork. The crew sailed forward, stronger and wiser."
+}

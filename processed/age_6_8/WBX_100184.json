@@ -1,0 +1,52 @@
+{
+  "id": "WBX_100184",
+  "title": "The Little Drawer of Smiles",
+  "source": "crawler",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness and sharing",
+  "characters": [
+    "Lily",
+    "Mateo",
+    "Ruby",
+    "Mr Hobb",
+    "Mrs Pritchard",
+    "Mrs Kettle"
+  ],
+  "word_count": 1112,
+  "moral": "True treasures are found in kindness, sharing, and community.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Lily discovers a mysterious map in her attic and decides to follow it.",
+      "text": "Lily finds a crinkled map in her attic and becomes curious about a possible treasure. She shares the discovery with her friends Mateo and Ruby, and together they decide to follow the clues and uncover the truth.",
+      "image_prompt": "young girl finding old map in attic with sunlight beams, cozy warm cartoon illustration"
+    },
+    {
+      "type": "conflict",
+      "summary": "The children follow clues by the stream and learn how to test treasure.",
+      "text": "At the stream, Lily, Mateo, and Ruby find a jar of small objects and meet Mr Hobb, who teaches them how to test treasure using weight, sound, and heart. They begin to understand that treasure may not always be what it seems.",
+      "image_prompt": "kids exploring near stream with jar of objects and friendly fisherman, colorful nature cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They find a chest under an oak tree and examine its contents.",
+      "text": "The children discover a chest beneath an old oak tree containing a painted pebble and a note. Lily carefully examines the pebble using the three tests and realizes it may not be real treasure, but it still holds meaning.",
+      "image_prompt": "kids opening wooden chest under large oak tree, soft sunlight, magical adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Lily understands the true meaning of the treasure and chooses to share it.",
+      "text": "Reading the note, Lily realizes the treasure is meant to bring smiles and be shared. Instead of keeping it, she decides to involve the community and understand its value together.",
+      "image_prompt": "girl holding painted pebble with thoughtful expression, warm glowing atmosphere, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The village creates a shared treasure box, celebrating kindness and community.",
+      "text": "The villagers come together to create a box of shared treasures, including the painted pebble. Lily places it in a special drawer, and everyone feels joy and connection, understanding that kindness is the greatest treasure.",
+      "image_prompt": "children and villagers placing items in shared treasure box, happy community scene, warm cartoon illustration"
+    }
+  ],
+  "story": "Lily found the map because she liked pressing her ear to old things. The attic smelled of sun-warmed wood and lavender sachets. Light came through the little window in a soft gold ribbon. Lily, seven years old, knelt and brushed dust from a box until a corner of paper peeked out.\n\n\"It’s a map!\" she whispered, heart like a drum. The paper was crinkled and smelled faintly of apples and sea salt. The drawing showed crooked trees, a stream that looked like a silver ribbon, and an X that sat beside a sketch of an old oak tree.\n\n\"I must know if this is real,\" Lily told her stuffed rabbit, Buttons. \"And if the treasure is fake, I want to know how to tell.\"\n\nButtons blinked his one sewn eye. \"Detective Lily,\" she said, feeling brave. She folded the map carefully and ran downstairs, the wooden steps warm under her feet.\n\nOutside, the village hummed. Neighbours were trimming hedges, Mrs Pritchard was baking something that smelled like cinnamon, and somewhere a dog barked in a friendly way. Lily called to her friends, Mateo and Ruby, who loved adventures almost as much as she did.\n\n\"Everyone smells like baking!\" Ruby giggled. \"Do you think treasure smells like cinnamon too?\"\n\n\"Only one way to find out,\" said Mateo.\n\nThey agreed to follow the map together. Along the way, they explored the path by a stream where they found a jar filled with buttons, a ribbon, and a bell. They met Mr Hobb, who explained that treasure could be tested using weight, sound, and heart.\n\nContinuing their journey, they reached an old oak tree where a wooden chest waited. Inside, they found a painted pebble and a note encouraging the finder to share it.\n\nLily tested the pebble and realized it wasn’t valuable in the usual way, but it was special because it could bring joy.\n\nInstead of keeping it, Lily suggested sharing it with the whole village. Everyone gathered and added small meaningful items to a shared treasure box.\n\nFinally, Lily placed the pebble into a small drawer inside the box, creating a \"drawer of smiles.\" The village celebrated together, knowing that the greatest treasure was kindness, sharing, and the happiness they created together.\n\nThat night, Lily went to sleep feeling proud and peaceful, knowing she had discovered something truly special."
+}

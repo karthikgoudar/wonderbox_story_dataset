@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100171",
+  "title": "Captain Lila’s Treasure Quest",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "teamwork",
+  "characters": ["Captain Lila", "Barnaby", "Timmy", "Miss Clara", "Benny"],
+  "word_count": 423,
+  "moral": "Teamwork and sharing bring the greatest rewards.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Lila begins a new adventure after hearing about a treasure map.",
+      "text": "Captain Lila lived peacefully until Barnaby told her about a treasure map on Thistle Island. She gathered a crew and set sail.",
+      "image_prompt": "retired pirate woman with parrot planning adventure near seaside cottage cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces a dangerous storm at sea.",
+      "text": "A powerful storm struck the ship, but the crew worked together bravely to stay safe.",
+      "image_prompt": "pirate ship in storm with crew working together waves lightning cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores Thistle Island and follows clues.",
+      "text": "They reached the island, found the map, and followed clues through the jungle to a waterfall.",
+      "image_prompt": "pirates exploring jungle with map and waterfall cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the treasure and the journal’s meaning.",
+      "text": "They found treasure and learned about Captain Grizzlebeard’s story from the journal.",
+      "image_prompt": "pirates opening treasure chest with journal glowing cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew shares the treasure and helps their community.",
+      "text": "They returned home and used the treasure to help others, bringing people together.",
+      "image_prompt": "village celebration building community center pirate crew smiling cartoon style"
+    }
+  ],
+  "story": "Captain Lila lived near the sea until she heard about a treasure map from her friend Barnaby. She gathered her crew and sailed to Thistle Island. Along the way, they faced a storm but worked together to overcome it. On the island, they found a map, followed clues, and discovered a treasure chest behind a waterfall. Inside, they found gold and a journal telling the story of Captain Grizzlebeard. Lila realized the treasure was not just gold but also history and truth. They returned home and shared the treasure with their village, using it to help everyone. Lila learned that teamwork, courage, and sharing bring the greatest rewards."
+}
