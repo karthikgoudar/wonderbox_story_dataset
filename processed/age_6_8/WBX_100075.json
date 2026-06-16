@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100075",
+  "title": "Birbal and the Most Important Thing",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "time",
+  "characters": ["Akbar", "Birbal", "Courtiers"],
+  "word_count": 130,
+  "moral": "Time is the most valuable thing in life.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks what is most important in life.",
+      "text": "One day, Emperor Akbar asked his court what the most important thing in life was.",
+      "image_prompt": "king asking thoughtful question in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers give different answers.",
+      "text": "Some courtiers said wealth was important, while others said power was the most important.",
+      "image_prompt": "people giving different opinions in court, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Akbar asks Birbal for his opinion.",
+      "text": "Akbar turned to Birbal and asked what he thought was the most important.",
+      "image_prompt": "king looking at birbal expecting answer, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal says time is the most important.",
+      "text": "Birbal replied that time is the most important thing in life.",
+      "image_prompt": "birbal confidently answering in court, bright cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains and Akbar agrees.",
+      "text": "Birbal explained that lost time cannot be regained. Akbar agreed. Time is the most valuable thing in life.",
+      "image_prompt": "king nodding in agreement while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked what the most important thing in life was. Courtiers gave answers like wealth and power. Birbal said time is the most important because once lost, it cannot be brought back. Akbar agreed with his wise answer."
+}

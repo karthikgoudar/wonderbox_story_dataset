@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100156",
+  "title": "Captain Jake and the Treasure of the Spice Isles",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "sharing",
+  "characters": ["Captain Jake", "Squawk", "Sam", "Bella", "Tim"],
+  "word_count": 548,
+  "moral": "True treasure is helping others and sharing knowledge.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jake and his crew begin their journey to find a safe spice route.",
+      "text": "Captain Jake stood at the helm of his ship, the Sea Breeze, looking out at the vast ocean. His parrot Squawk sat on his shoulder. With him were Sam the cook, Bella the navigator, and Tim the cabin boy. Their mission was to find a safe route through the Spice Isles.",
+      "image_prompt": "pirate captain steering ship with parrot on shoulder and crew working on deck colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A powerful storm challenges the crew during their journey.",
+      "text": "As they sailed, dark clouds gathered and a fierce storm struck. The waves grew high and the wind roared. Captain Jake stayed calm and guided the crew as they worked together to keep the ship safe through the storm.",
+      "image_prompt": "pirate ship in big storm with lightning waves crew holding ropes cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew reaches the Spice Isles and explores the island.",
+      "text": "After the storm passed, they reached the Spice Isles. The air smelled sweet and the waters were calm. The crew explored the island and found a chest buried in the sand.",
+      "image_prompt": "pirates exploring tropical island with palm trees and treasure chest cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover the real treasure is a map for safe sailing.",
+      "text": "Inside the chest, they found gold and a special map showing a safe route through the Spice Isles. Captain Jake realized this map was more valuable than treasure because it could help many sailors.",
+      "image_prompt": "pirates opening treasure chest with gold and glowing map cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Captain Jake shares the map to help others sail safely.",
+      "text": "Captain Jake returned and shared the map with other captains. Everyone was grateful. The crew sailed home proudly, knowing they had made the seas safer for all.",
+      "image_prompt": "pirate captain sharing map with other sailors at port happy scene cartoon style"
+    }
+  ],
+  "story": "Captain Jake stood at the helm of his ship, the Sea Breeze, gazing at the vast blue ocean before him. His trusty parrot, Squawk, sat on his shoulder, chirping with excitement. Jake was a cheerful pirate with a kind heart. His mission was to find a safe route through the Spice Isles. His crew included Sam the cook, Bella the navigator, and Tim the cabin boy. As the ship sailed forward, Jake encouraged everyone to stay strong and work together. Soon, dark clouds filled the sky and a powerful storm began. The waves rose high, and the wind roared loudly. Captain Jake stayed calm and guided his crew through the storm. Everyone worked together, holding ropes and securing sails. After a long struggle, the storm passed, and the sun returned. The crew cheered with relief. Days later, they reached the Spice Isles. The air smelled sweet, and the sea was calm and clear. They explored the island and discovered a chest buried in the sand. Inside, they found gold and a special map. The map showed a safe route through the dangerous waters. Captain Jake realized this was the true treasure. It could help all sailors travel safely. They returned to the mainland and shared the map with other captains. Everyone was grateful for their discovery. The crew sailed home proudly, knowing they had helped others. Captain Jake smiled, knowing that true treasure is not gold, but helping others and sharing what you find."
+}

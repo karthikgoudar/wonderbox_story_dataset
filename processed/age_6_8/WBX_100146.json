@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100146",
+  "title": "Vikram and Betal: The Hardworking Girl",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "hard work",
+  "characters": ["King Vikram", "Betal", "Girl", "Villagers"],
+  "word_count": 158,
+  "moral": "Hard work leads to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a hardworking girl.",
+      "text": "Betal told Vikram about a girl who worked very hard.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "People laugh at her efforts.",
+      "text": "People laughed at the girl for working too much.",
+      "image_prompt": "villagers laughing while girl works cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The girl continues working.",
+      "text": "The girl continued her work and studies.",
+      "image_prompt": "girl studying and working happily cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The girl becomes successful.",
+      "text": "The girl became successful over time.",
+      "image_prompt": "girl achieving success cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "People change their view.",
+      "text": "People praised her. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "villagers praising girl cartoon"
+    }
+  ],
+  "story": "A hardworking girl achieved success despite others laughing at her. Vikram said hard work brings success."
+}

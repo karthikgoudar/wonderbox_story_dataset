@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100168",
+  "title": "The Treasure of Trust",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "trust",
+  "characters": ["Captain Mira", "Tessa", "Finn", "Ludo", "Old Jo"],
+  "word_count": 350,
+  "moral": "Trust is built through honesty, teamwork, and good choices.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Mira begins her journey to build a trustworthy crew.",
+      "text": "Captain Mira stood on her ship with her Rule Book, choosing a crew who could work together and be honest.",
+      "image_prompt": "girl pirate captain selecting crew at dock with ship in background cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces teamwork challenges and difficult choices.",
+      "text": "At first, people tried to show off and failed, but teamwork helped solve the tasks.",
+      "image_prompt": "pirate crew struggling with tasks then working together cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew follows clues and learns to make fair decisions.",
+      "text": "They followed a map to islands, shared resources, and made careful decisions together.",
+      "image_prompt": "pirates exploring island with box and sharing items cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mira trusts her crew to choose the safer path.",
+      "text": "In the fog, Mira asked her crew for help and chose the safer route, showing trust.",
+      "image_prompt": "pirate ship in fog with crew discussing path cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew earns trust and continues their journey together.",
+      "text": "They raised a flag of trust, and the wind returned, helping them sail forward.",
+      "image_prompt": "pirate ship sailing with trust flag and wind blowing cartoon style"
+    }
+  ],
+  "story": "Captain Mira sailed the Sea Star with her crew, searching not for gold but for trust. She chose teammates who worked together and helped each other. Along their journey, they shared resources, made careful decisions, and supported one another. In a difficult moment, Mira trusted her crew’s advice, and together they chose the right path. In the end, they raised a flag of trust, and the wind returned. Mira realized that trust, honesty, and teamwork were the greatest treasures of all."
+}

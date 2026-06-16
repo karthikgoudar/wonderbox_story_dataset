@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100093",
+  "title": "Tenali Rama and the Stolen Mangoes",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["Tenali Rama", "King Krishnadevaraya", "Servants"],
+  "word_count": 158,
+  "moral": "Truth always comes out.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "The king's mangoes go missing.",
+      "text": "One day, King Krishnadevaraya found that some of his favorite mangoes were missing from the royal garden.",
+      "image_prompt": "king looking at mango tree with missing mangoes cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The king suspects the servants.",
+      "text": "The king suspected that one of the servants had stolen the mangoes but no one admitted it.",
+      "image_prompt": "servants standing nervously in front of king cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali makes a clever plan to find the thief.",
+      "text": "Tenali Rama said he could find the thief and gave each servant a stick, saying it would grow if they were guilty.",
+      "image_prompt": "Tenali giving sticks to servants with clever smile cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The guilty servant cuts his stick.",
+      "text": "The guilty servant got scared and cut his stick shorter so it would not grow.",
+      "image_prompt": "servant secretly cutting stick at night cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali catches the thief.",
+      "text": "The next day, Tenali saw one stick was shorter and caught the thief. The king praised him. Truth always comes out.",
+      "image_prompt": "Tenali pointing at shorter stick while king praises him cartoon"
+    }
+  ],
+  "story": "When the king’s mangoes went missing, Tenali Rama gave each servant a stick and said it would grow if they were guilty. The guilty servant cut his stick out of fear. The next day, Tenali found the shorter stick and caught the thief."
+}

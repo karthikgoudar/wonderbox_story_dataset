@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100127",
+  "title": "Vikram and Betal: The Lost Ring",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["King Vikram", "Betal", "Man", "Minister", "Servants"],
+  "word_count": 176,
+  "moral": "Fear reveals the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a lost ring.",
+      "text": "Betal told Vikram about a man who lost his ring.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The ring cannot be found.",
+      "text": "The man could not find his ring and asked the king for help.",
+      "image_prompt": "man worried about missing ring cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The minister creates a plan.",
+      "text": "The minister gave flowers to all servants to find the thief.",
+      "image_prompt": "minister giving flowers to servants cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief becomes nervous.",
+      "text": "The thief became nervous and behaved differently.",
+      "image_prompt": "nervous servant sweating cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The thief is caught.",
+      "text": "The minister identified the thief by his behavior. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "minister pointing at guilty servant cartoon"
+    }
+  ],
+  "story": "A man lost his ring. A minister used a clever trick to observe behavior and find the thief. Vikram said fear reveals the truth."
+}

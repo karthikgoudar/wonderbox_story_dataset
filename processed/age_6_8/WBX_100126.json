@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100126",
+  "title": "Vikram and Betal: The Patient Farmer",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "patience",
+  "characters": ["King Vikram", "Betal", "Farmer", "Villagers"],
+  "word_count": 162,
+  "moral": "Patience and hard work lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a farmer.",
+      "text": "Betal told Vikram about a hardworking farmer.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The farmer’s crops fail.",
+      "text": "The farmer’s crops did not grow well at first.",
+      "image_prompt": "farmer looking worried at dry field cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The farmer continues working.",
+      "text": "The farmer kept working and caring for his fields.",
+      "image_prompt": "farmer watering crops daily cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The crops grow successfully.",
+      "text": "After some time, the crops grew strong and healthy.",
+      "image_prompt": "green healthy crops in field cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The farmer succeeds.",
+      "text": "The farmer succeeded through patience. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "happy farmer with harvest cartoon"
+    }
+  ],
+  "story": "A farmer did not give up even when his crops failed. With patience and hard work, he succeeded. Vikram said patience leads to success."
+}

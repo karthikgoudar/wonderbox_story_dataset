@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100115",
+  "title": "Vikram and Betal: The Honest Servant",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "King", "Servant"],
+  "word_count": 178,
+  "moral": "Honesty is proven through actions.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about an honest servant.",
+      "text": "Betal told Vikram about a loyal and honest servant.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The king loses his necklace.",
+      "text": "The king could not find his precious necklace.",
+      "image_prompt": "king searching for necklace worried cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The servant searches for the necklace.",
+      "text": "The servant looked everywhere and found the necklace in the garden.",
+      "image_prompt": "servant finding necklace in garden cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The servant returns the necklace.",
+      "text": "The servant returned the necklace honestly without keeping it.",
+      "image_prompt": "servant giving necklace to king cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The king trusts the servant.",
+      "text": "The king trusted the servant’s honesty. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king praising servant while betal flies away cartoon"
+    }
+  ],
+  "story": "A king lost his necklace. An honest servant found and returned it without greed. The king trusted him because of his actions. Vikram said honesty is shown through actions."
+}

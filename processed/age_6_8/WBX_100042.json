@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100042",
+  "title": "Boo Learns to Finish",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "focus",
+  "characters": ["Boo", "Tara the Tortoise"],
+  "word_count": 258,
+  "moral": "Finishing one task at a time leads to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Boo the rabbit loves starting new activities but never finishes them.",
+      "text": "Bunny Boo Who Didn’t Finish Tasks\n\nIn a sunny meadow full of flowers, lived a little rabbit named Boo.\n\nBoo loved starting new things.\n\nDrawing, digging, building—he tried them all!\n\nBut there was one problem…\n\nBoo never finished what he started.",
+      "image_prompt": "cute rabbit starting many activities in meadow, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Boo keeps switching tasks and leaves everything unfinished.",
+      "text": "Boo began drawing a picture.\n\nHalfway through…\n\nHe stopped.\n\n“I want to build a tunnel instead!” he said.\n\nThen he started digging.\n\nBut soon—\n\n“I want to play!” he said.\n\nAnd off he went.",
+      "image_prompt": "rabbit leaving drawing and digging halfway, playful messy scene cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Boo realizes his unfinished tasks are causing confusion.",
+      "text": "Everywhere around Boo were unfinished things.\n\nHalf-dug tunnels…\n\nHalf-drawn pictures…\n\nHalf-built toys…\n\n“I feel confused,” Boo said.\n\n“I didn’t finish anything.”",
+      "image_prompt": "messy meadow with unfinished projects and confused rabbit, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Tara advises Boo to focus on finishing one task at a time.",
+      "text": "Just then, Tara the Tortoise walked by.\n\n“Why so puzzled?” she asked.\n\n“I start many things,” Boo said,\n\n“but I don’t finish them.”\n\nTara smiled.\n\n“Try finishing one thing at a time,” she said.",
+      "image_prompt": "tortoise giving advice to rabbit in meadow, warm friendly cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Boo finishes his tasks and feels proud of his work.",
+      "text": "Boo thought for a moment.\n\n“Okay,” he said.\n\n“I’ll finish my drawing first.”\n\nHe sat down.\n\nSlowly, carefully…\n\nHe completed the picture.\n\n“Wow! I did it!” Boo said.\n\nHe felt proud.\n\nThen he finished his tunnel too.\n\nFinish what you start.\n\nOne step at a time leads to success.\n\nThe End",
+      "image_prompt": "happy rabbit finishing drawing and tunnel proudly, bright cheerful cartoon"
+    }
+  ],
+  "story": "Bunny Boo Who Didn’t Finish Tasks\n\nIn a sunny meadow full of flowers, lived a little rabbit named Boo.\n\nBoo loved starting new things.\n\nDrawing, digging, building—he tried them all!\n\nBut there was one problem…\n\nBoo never finished what he started.\n\nBoo began drawing a picture.\n\nHalfway through…\n\nHe stopped.\n\n“I want to build a tunnel instead!” he said.\n\nThen he started digging.\n\nBut soon—\n\n“I want to play!” he said.\n\nAnd off he went.\n\nEverywhere around Boo were unfinished things.\n\nHalf-dug tunnels…\n\nHalf-drawn pictures…\n\nHalf-built toys…\n\n“I feel confused,” Boo said.\n\n“I didn’t finish anything.”\n\nJust then, Tara the Tortoise walked by.\n\n“Why so puzzled?” she asked.\n\n“I start many things,” Boo said,\n\n“but I don’t finish them.”\n\nTara smiled.\n\n“Try finishing one thing at a time,” she said.\n\nBoo thought for a moment.\n\n“Okay,” he said.\n\n“I’ll finish my drawing first.”\n\nHe sat down.\n\nSlowly, carefully…\n\nHe completed the picture.\n\n“Wow! I did it!” Boo said.\n\nHe felt proud.\n\nThen he finished his tunnel too.\n\nFinish what you start.\n\nOne step at a time leads to success.\n\nThe End"
+}

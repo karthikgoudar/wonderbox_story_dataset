@@ -1,0 +1,51 @@
+{
+  "id": "WBX_100130",
+  "title": "Vikram and Betal: The Helpful Neighbor",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": [
+    "King Vikram",
+    "Betal",
+    "Kind Neighbor",
+    "Selfish Neighbor",
+    "Villagers"
+  ],
+  "word_count": 172,
+  "moral": "Helping others brings true happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about two neighbors.",
+      "text": "Betal told Vikram about a kind neighbor and a selfish neighbor.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A storm hits the village.",
+      "text": "A strong storm damaged many houses in the village.",
+      "image_prompt": "storm damaging village houses cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The kind neighbor helps others.",
+      "text": "The kind neighbor helped fix homes and shared food.",
+      "image_prompt": "neighbor helping villagers repair houses cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The selfish neighbor does nothing.",
+      "text": "The selfish neighbor stayed inside and did not help.",
+      "image_prompt": "selfish neighbor sitting inside while others struggle cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The lesson is learned.",
+      "text": "The villagers thanked the kind neighbor. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "villagers thanking kind neighbor cartoon"
+    }
+  ],
+  "story": "A kind neighbor helped others during a storm while a selfish one did nothing. The kind neighbor found true happiness. Vikram said helping others brings happiness."
+}

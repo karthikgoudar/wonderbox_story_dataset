@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100080",
+  "title": "Birbal and the Impossible Task",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Akbar", "Birbal"],
+  "word_count": 146,
+  "moral": "Good and bad times do not last forever.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar gives Birbal a challenging task.",
+      "text": "One day, Emperor Akbar asked Birbal to bring something that could make him both happy and sad.",
+      "image_prompt": "king giving challenge to birbal in court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal thinks about the difficult task.",
+      "text": "Birbal thought carefully about how to solve the unusual problem.",
+      "image_prompt": "birbal thinking deeply with thoughtful expression, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal prepares a meaningful answer.",
+      "text": "The next day, Birbal brought a ring with a special message written on it.",
+      "image_prompt": "birbal presenting ring to king in royal court, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Akbar reads the message on the ring.",
+      "text": "Akbar read the words “This too shall pass” written on the ring.",
+      "image_prompt": "king reading ring with thoughtful expression, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains the meaning and Akbar is pleased.",
+      "text": "Birbal explained that both happiness and sadness are temporary. Akbar was pleased. Good and bad times do not last forever.",
+      "image_prompt": "king smiling in understanding while birbal stands beside, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked Birbal to bring something that would make him happy when sad and sad when happy. Birbal brought a ring with the words “This too shall pass.” He explained that both happiness and sadness are temporary. Akbar was pleased with the wise answer."
+}

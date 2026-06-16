@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100101",
+  "title": "Tenali Rama and the Two Thieves",
+  "source": "tenali_rama",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "cleverness",
+  "characters": ["Tenali Rama", "Tenali’s Wife", "Two Thieves"],
+  "word_count": 170,
+  "moral": "Intelligence is stronger than strength.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Two thieves plan to rob Tenali.",
+      "text": "Two thieves decided to rob Tenali Rama’s house at night.",
+      "image_prompt": "two thieves planning robbery at night cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Tenali prepares a fake pot of gold.",
+      "text": "Tenali filled a pot with stones and pretended it was full of gold.",
+      "image_prompt": "Tenali filling pot with stones and covering it cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The thieves hear the plan and follow it.",
+      "text": "The thieves heard Tenali and waited for him to throw the pot into the river.",
+      "image_prompt": "thieves hiding and listening near house cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thieves search in the river.",
+      "text": "The thieves jumped into the river and searched all night for the pot.",
+      "image_prompt": "thieves diving in river searching cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Tenali reveals his trick.",
+      "text": "Tenali laughed as the thieves realized they were tricked and ran away.",
+      "image_prompt": "Tenali laughing while thieves run away cartoon"
+    }
+  ],
+  "story": "Tenali tricked two thieves by pretending to throw a pot of gold into a river. The thieves searched all night but found only stones. In the morning, Tenali laughed as they ran away."
+}

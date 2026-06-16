@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100079",
+  "title": "Birbal and the Greatest Fool",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "logic",
+  "characters": ["Akbar", "Birbal", "Man", "Donkey"],
+  "word_count": 134,
+  "moral": "Foolish thinking leads to unnecessary trouble.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks who the greatest fool is.",
+      "text": "One day, Emperor Akbar asked Birbal who the greatest fool in the kingdom was.",
+      "image_prompt": "king asking question in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal promises to show the answer.",
+      "text": "Birbal said he would show the greatest fool the next day.",
+      "image_prompt": "birbal confidently speaking to king, cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal brings a man to the court.",
+      "text": "The next day, Birbal brought a man who was riding a donkey while carrying a load on his head.",
+      "image_prompt": "man riding donkey with bundle on head, funny cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The man explains his strange behavior.",
+      "text": "The man said he did not want to trouble the donkey, so he carried the load himself.",
+      "image_prompt": "man explaining while others look surprised, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal shows that foolish thinking causes trouble.",
+      "text": "Birbal explained that the man was still burdening the donkey. Akbar understood the lesson. Foolish thinking leads to unnecessary trouble.",
+      "image_prompt": "king laughing while birbal explains, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked who the greatest fool in the kingdom was. Birbal brought a man riding a donkey while carrying a load on his head. When asked, the man said he did not want to burden the donkey. Birbal explained that the donkey was still carrying both him and the load. Akbar understood that foolish thinking causes unnecessary trouble."
+}

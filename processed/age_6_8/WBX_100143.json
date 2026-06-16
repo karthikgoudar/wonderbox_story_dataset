@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100143",
+  "title": "Vikram and Betal: The Honest King’s Test",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "King", "Boy", "People"],
+  "word_count": 174,
+  "moral": "Honesty is more important than success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a king’s test.",
+      "text": "Betal told Vikram about a king testing honesty.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "People grow plants from seeds.",
+      "text": "People planted seeds and brought plants.",
+      "image_prompt": "people bringing plants to king cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The boy’s pot is empty.",
+      "text": "One boy brought an empty pot honestly.",
+      "image_prompt": "boy holding empty pot nervously cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The king reveals the truth.",
+      "text": "The king said the seeds were boiled and could not grow.",
+      "image_prompt": "king explaining truth cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy is rewarded.",
+      "text": "The boy was rewarded for honesty. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king rewarding boy while others look surprised cartoon"
+    }
+  ],
+  "story": "A king tested honesty with boiled seeds. Only one boy told the truth and was rewarded. Vikram said honesty matters more than success."
+}

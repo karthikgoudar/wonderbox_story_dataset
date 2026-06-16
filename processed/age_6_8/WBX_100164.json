@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100164",
+  "title": "The Map in a Bottle",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["Mara", "Finn", "Captain Lina", "Ada", "Shellfolk"],
+  "word_count": 332,
+  "moral": "Kindness and teamwork build strong friendships.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mara finds a map in a bottle that leads to a new world.",
+      "text": "Mara found a glass bottle in the sea with a map inside. She and her crew decided to follow it to discover a new world.",
+      "image_prompt": "girl pirate holding bottle with map on ship with crew excited cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces the Singing Cliffs and Whispering Fog.",
+      "text": "The crew sailed through cliffs that made them sleepy and a fog that whispered doubts, but they stayed strong.",
+      "image_prompt": "pirate ship near glowing cliffs and misty fog with crew singing cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "Mara helps her crew and saves sea turtles.",
+      "text": "Mara helped retrieve Finn’s toy and freed trapped sea turtles while guiding the crew safely.",
+      "image_prompt": "girl pirate saving turtles and helping crew cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They meet the Shellfolk and solve a problem together.",
+      "text": "They reached a new land, met the Shellfolk, and worked together to fix a blocked water well.",
+      "image_prompt": "pirates and small island people working together fixing well cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Mara forms friendships and learns the value of kindness.",
+      "text": "Mara and the Shellfolk became friends, and she learned that kindness and teamwork create lasting bonds.",
+      "image_prompt": "girl pirate shaking hands with small island people smiling cartoon style"
+    }
+  ],
+  "story": "Mara sailed on the Starling with her crew when she found a map in a bottle. They followed it through the Singing Cliffs and Whispering Fog, using teamwork and clever thinking to stay safe. Mara helped her crew and rescued sea turtles along the way. They reached a new land and met the Shellfolk, who welcomed them kindly. When the Shellfolk faced a problem, Mara and her crew helped fix it. They became friends and shared a warm goodbye. Mara learned that kindness, courage, and teamwork bring people together."
+}

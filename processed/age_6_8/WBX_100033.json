@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100033",
+  "title": "Bruno Remembers Everything",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "organization",
+  "characters": ["Bruno", "Coco the Cat"],
+  "word_count": 286,
+  "moral": "Planning ahead helps you stay organized and prepared.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Bruno the dog enjoys going out but often forgets his things.",
+      "text": "Bruno the Dog Who Forgot His Things\n\nIn a busy little town, lived a cheerful dog named Bruno.\n\nBruno loved going out every day.\n\nHe went to the park, visited friends, and played games.\n\nBut there was one problem…\n\nBruno always forgot his things.",
+      "image_prompt": "happy dog heading out in town without belongings, bright cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Bruno repeatedly forgets important items despite reminders.",
+      "text": "“Don’t forget your hat!” said his owner.\n\n“Okay!” Bruno said.\n\nBut when he reached the park…\n\n“Oh no! My hat!” he barked.\n\nAnother day—\n\n“Take your water bottle,” said his owner.\n\n“Got it!” Bruno said.\n\nBut he forgot it too!",
+      "image_prompt": "dog realizing he forgot items at park, looking surprised, colorful cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Bruno faces discomfort because he forgot important items on a hot day.",
+      "text": "One sunny day, Bruno went out to play.\n\nThe sun was very hot.\n\n“I’m thirsty,” he said.\n\nBut he had no water.\n\n“And it’s too bright!” he added.\n\nBut no hat either!\n\nBruno felt uncomfortable.",
+      "image_prompt": "dog tired under hot sun without hat or water, bright cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Coco suggests making a checklist to help Bruno remember things.",
+      "text": "Just then, Coco the Cat came by.\n\n“Why do you look so tired?” she asked.\n\n“I forgot my things again,” Bruno said.\n\nCoco smiled.\n\n“I have an idea,” she said.\n\n“Make a checklist.”\n\n“Before you leave, check everything.”\n\nBruno nodded.\n\n“That’s smart!”",
+      "image_prompt": "cat giving advice to dog about checklist, friendly cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Bruno uses a checklist and enjoys a well-prepared day.",
+      "text": "The next day, Bruno made a list:\n\nHat ✔️\nWater bottle ✔️\nSnacks ✔️\n\nHe checked each item carefully.\n\n“This time, I won’t forget!” he said.\n\nBruno went to the park.\n\nHe had his hat.\n\nHe had his water.\n\nHe had everything!\n\n“I feel great!” he said.\n\nBeing organized helps you avoid problems.\n\nA little planning makes things easier.\n\nThe End",
+      "image_prompt": "happy dog at park with all items checking list, cheerful cartoon style"
+    }
+  ],
+  "story": "Bruno the Dog Who Forgot His Things\n\nIn a busy little town, lived a cheerful dog named Bruno.\n\nBruno loved going out every day.\n\nHe went to the park, visited friends, and played games.\n\nBut there was one problem…\n\nBruno always forgot his things.\n\n“Don’t forget your hat!” said his owner.\n\n“Okay!” Bruno said.\n\nBut when he reached the park…\n\n“Oh no! My hat!” he barked.\n\nAnother day—\n\n“Take your water bottle,” said his owner.\n\n“Got it!” Bruno said.\n\nBut he forgot it too!\n\nOne sunny day, Bruno went out to play.\n\nThe sun was very hot.\n\n“I’m thirsty,” he said.\n\nBut he had no water.\n\n“And it’s too bright!” he added.\n\nBut no hat either!\n\nBruno felt uncomfortable.\n\nJust then, Coco the Cat came by.\n\n“Why do you look so tired?” she asked.\n\n“I forgot my things again,” Bruno said.\n\nCoco smiled.\n\n“I have an idea,” she said.\n\n“Make a checklist.”\n\n“Before you leave, check everything.”\n\nBruno nodded.\n\n“That’s smart!”\n\nThe next day, Bruno made a list:\n\nHat ✔️\nWater bottle ✔️\nSnacks ✔️\n\nHe checked each item carefully.\n\n“This time, I won’t forget!” he said.\n\nBruno went to the park.\n\nHe had his hat.\n\nHe had his water.\n\nHe had everything!\n\n“I feel great!” he said.\n\nBeing organized helps you avoid problems.\n\nA little planning makes things easier.\n\nThe End"
+}

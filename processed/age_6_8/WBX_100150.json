@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100150",
+  "title": "Vikram and Betal: The Careful Planner",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "planning",
+  "characters": ["King Vikram", "Betal", "Boy", "Friends"],
+  "word_count": 164,
+  "moral": "Planning and patience lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a careful boy.",
+      "text": "Betal told Vikram about a boy who planned his work.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Friends build a weak bridge.",
+      "text": "The friends rushed and their bridge broke.",
+      "image_prompt": "bridge breaking with friends surprised cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The boy plans carefully.",
+      "text": "The boy measured and built slowly.",
+      "image_prompt": "boy measuring and building bridge cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The bridge stands strong.",
+      "text": "The boy’s bridge was strong and safe.",
+      "image_prompt": "strong bridge over stream cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Everyone uses the bridge.",
+      "text": "People used the bridge safely. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "people crossing bridge happily cartoon"
+    }
+  ],
+  "story": "A boy built a strong bridge through planning and patience, unlike his friends who rushed. Vikram said careful planning leads to success."
+}

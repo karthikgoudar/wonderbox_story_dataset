@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100062",
+  "title": "Birbal and the Mango Tree",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Akbar", "Birbal", "Two Men"],
+  "word_count": 178,
+  "moral": "The true owner is the one who truly cares.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Two men argue over the ownership of a mango tree.",
+      "text": "One day, two men came to Emperor Akbar. Both claimed that a mango tree belonged to them.",
+      "image_prompt": "two men arguing over mango tree in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Both men insist the tree is theirs.",
+      "text": "One man said he planted and cared for the tree. The other also claimed it was his. Akbar became confused.",
+      "image_prompt": "king listening to two men arguing in court, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal creates a plan to test the truth.",
+      "text": "Birbal thought carefully and made a plan to find the real owner.",
+      "image_prompt": "birbal thinking with clever expression in court, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal tests both men with a false message.",
+      "text": "Birbal told a guard to say that the tree had been stolen. One man became worried and ran to check, while the other stayed calm.",
+      "image_prompt": "one man running worried while other stands calm, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal identifies the true owner based on concern.",
+      "text": "Birbal said the worried man was the true owner. Akbar agreed and gave him the tree. The true owner is the one who truly cares.",
+      "image_prompt": "king rewarding honest man while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One day, two men came to Emperor Akbar with a problem. They both claimed ownership of a mango tree. One man said he planted and cared for it, while the other said it was his. Akbar was confused and asked Birbal for help. Birbal made a plan. He told a guard to inform them that the tree had been stolen. The first man became worried and rushed to check it. The second man remained calm. Birbal said the worried man was the true owner. Akbar agreed and gave him the tree."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100170",
+  "title": "The Map of Marvelous Islands",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["Cap'n Molly", "Sammy", "Jin", "Cookie"],
+  "word_count": 344,
+  "moral": "The greatest treasure is friendship and shared adventures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Cap’n Molly finds a magical map and begins an adventure.",
+      "text": "Cap’n Molly found a map in a bottle and decided to explore magical islands with her crew.",
+      "image_prompt": "girl pirate captain holding map with crew on ship colorful cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces riddles and challenges on the first island.",
+      "text": "They reached Giggling Jungle Isle and had to solve a tricky riddle to continue.",
+      "image_prompt": "pirates solving riddle near bridge in magical jungle cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew proves loyalty and teamwork on different islands.",
+      "text": "They explored magical islands, helping each other and staying united.",
+      "image_prompt": "pirates helping each other on magical island with creatures cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Molly chooses kindness instead of force with the Boulder Beast.",
+      "text": "Instead of fighting, Molly spoke kindly to the Boulder Beast and earned its trust.",
+      "image_prompt": "girl pirate talking kindly to giant rock creature cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew finds the true treasure of friendship.",
+      "text": "They discovered that friendship, courage, and teamwork were the real treasure.",
+      "image_prompt": "pirate crew celebrating glowing treasure together cartoon style"
+    }
+  ],
+  "story": "Cap’n Molly sailed with her crew on The Starfish Surprise when she found a magical map in a bottle. The map led them to three mysterious islands filled with challenges. On the first island, they solved a riddle together. On the second, they proved their loyalty by helping each other. On the third, Molly showed kindness to a powerful creature instead of fighting. In the end, they found a treasure that taught them that friendship, courage, and teamwork were more valuable than gold. They sailed away happily, ready for new adventures."
+}

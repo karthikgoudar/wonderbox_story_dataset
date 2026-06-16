@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100140",
+  "title": "Vikram and Betal: The Helpful Child",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["King Vikram", "Betal", "Child", "Old Woman", "Owner"],
+  "word_count": 170,
+  "moral": "Kindness and honesty make a person great.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a helpful child.",
+      "text": "Betal told Vikram about a child who helped others.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The child sees someone in need.",
+      "text": "The child saw an old woman struggling with a basket.",
+      "image_prompt": "child helping old woman carry basket cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The child learns a lesson.",
+      "text": "The old woman blessed the child for his kindness.",
+      "image_prompt": "old woman blessing child cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The child finds a purse.",
+      "text": "The child found a lost purse and decided to return it.",
+      "image_prompt": "child finding purse on road cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The child is rewarded.",
+      "text": "The owner rewarded the child. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "child returning purse and being rewarded cartoon"
+    }
+  ],
+  "story": "A helpful child showed kindness and honesty by helping others and returning lost money. Vikram said these qualities make a person great."
+}

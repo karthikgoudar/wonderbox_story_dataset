@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100054",
+  "title": "The Lion and the Clever Rabbit",
+  "source": "panchatantra",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["Lion", "Rabbit", "Forest Animals"],
+  "word_count": 196,
+  "moral": "Wisdom is stronger than brute force.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A fierce lion terrorizes animals in the forest.",
+      "text": "Once upon a time, in a forest, there lived a fierce lion. Every day, he hunted many animals, and the animals were very scared.",
+      "image_prompt": "fierce lion in jungle scaring animals, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Animals agree to send one animal daily to the lion.",
+      "text": "One day, all the animals gathered and made a plan. They went to the lion and said, “Please don’t hunt us every day. We will send one animal to you daily as food.” The lion agreed.",
+      "image_prompt": "animals talking to lion in forest, fearful but hopeful cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "The rabbit is chosen and deliberately arrives late.",
+      "text": "Each day, one animal went to the lion. One day, it was a small rabbit’s turn. The rabbit walked slowly on purpose and reached the lion very late.",
+      "image_prompt": "small rabbit walking slowly in forest thinking, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The rabbit tricks the lion into looking into a well.",
+      "text": "The lion roared, “Why are you so late?” The rabbit said, “On the way, another lion stopped me.” The lion got angry and asked to see him. The rabbit showed him a deep well. The lion saw his reflection and thought it was another lion.",
+      "image_prompt": "lion looking into well seeing reflection, rabbit nearby, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The lion jumps into the well and the animals are saved.",
+      "text": "The lion roared and jumped into the well in anger. He could not escape. The animals were finally free and lived happily. Wisdom is stronger than brute force.",
+      "image_prompt": "animals celebrating happily in forest after lion gone, bright cartoon scene"
+    }
+  ],
+  "story": "Once upon a time, in a forest, there lived a fierce lion. Every day, he hunted many animals, and the animals were very scared. One day, all the animals gathered and made a plan. They went to the lion and said, “Please don’t hunt us every day. We will send one animal to you daily as food.” The lion agreed. Each day, one animal went to the lion. One day, it was a small rabbit’s turn. The rabbit walked slowly on purpose and reached the lion very late. The lion roared, “Why are you so late?” The rabbit said, “On the way, another lion stopped me. He said he is the real king of the forest.” The lion became very angry. “Take me to that lion!” he shouted. The rabbit led him to a deep well and said, “He lives inside here.” The lion looked into the well and saw his own reflection in the water. Thinking it was another lion, he roared loudly. The reflection roared back. In anger, the lion jumped into the well and fell inside. He could not escape. The animals were finally free and lived happily."
+}

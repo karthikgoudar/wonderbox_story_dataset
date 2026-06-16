@@ -1,0 +1,51 @@
+{
+  "id": "WBX_100165",
+  "title": "The Loyal Salute",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "loyalty",
+  "characters": [
+    "Captain Mina",
+    "Old Tom",
+    "Pippin",
+    "Bea",
+    "Lighthouse Keeper"
+  ],
+  "word_count": 298,
+  "moral": "Loyalty and teamwork make us stronger.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Mina prepares to sail and salute the lighthouse.",
+      "text": "Captain Mina stood on the Sea-Sparrow and prepared to sail, remembering the lighthouse and its keeper.",
+      "image_prompt": "girl pirate captain on ship looking at lighthouse with crew cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces tricky winds and fog.",
+      "text": "The crew sailed through changing winds and thick fog, making it hard to see and navigate.",
+      "image_prompt": "pirate ship in fog and shifting winds crew working together cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore Hidden Bay and solve a cave puzzle.",
+      "text": "The crew found a cave with singing shells and solved its puzzle together.",
+      "image_prompt": "pirates exploring cave with glowing singing shells cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The crew faces and overcomes a playful storm.",
+      "text": "During a small storm, Mina and her crew worked together to control the ship and stay safe.",
+      "image_prompt": "pirate crew managing ship in playful storm cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Mina salutes the lighthouse and affirms loyalty.",
+      "text": "Mina lowered the pennant in salute, and the lighthouse keeper responded, honoring their loyalty.",
+      "image_prompt": "pirate captain saluting lighthouse with crew at sunset cartoon style"
+    }
+  ],
+  "story": "Captain Mina sailed the Sea-Sparrow with her crew and wished to honor the lighthouse that guided her. Along the journey, they explored a cave, faced tricky winds and fog, and overcame a playful storm together. Through teamwork and courage, they stayed strong. When they returned, Mina saluted the lighthouse, showing loyalty and respect. The crew sailed forward, knowing that loyalty and teamwork would guide them always."
+}

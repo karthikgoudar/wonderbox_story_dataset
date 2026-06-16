@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100134",
+  "title": "Vikram and Betal: The Careless Worker",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "responsibility",
+  "characters": ["King Vikram", "Betal", "Worker", "Master", "Another Worker"],
+  "word_count": 168,
+  "moral": "Careful work leads to better results.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a careless worker.",
+      "text": "Betal told Vikram about a worker who rushed his work.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The worker makes mistakes.",
+      "text": "The worker finished quickly but made mistakes.",
+      "image_prompt": "worker making mistakes while working fast cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Another worker works carefully.",
+      "text": "Another worker completed the task slowly and correctly.",
+      "image_prompt": "worker carefully doing task cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The master compares the work.",
+      "text": "The master praised the careful worker.",
+      "image_prompt": "master praising careful worker cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The careless worker learns.",
+      "text": "The worker learned to work carefully. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "worker learning and improving cartoon"
+    }
+  ],
+  "story": "A careless worker made mistakes by rushing, while another succeeded by being careful. Vikram said careful work is better than quick work."
+}

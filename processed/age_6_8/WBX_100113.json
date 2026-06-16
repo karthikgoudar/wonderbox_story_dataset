@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100113",
+  "title": "Vikram and Betal: The Brave Boy",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "bravery",
+  "characters": ["King Vikram", "Betal", "Boy", "Villagers", "Animal"],
+  "word_count": 176,
+  "moral": "Bravery comes from courage and intelligence.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a brave boy.",
+      "text": "Betal told Vikram about a brave boy from a village.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A wild animal scares the village.",
+      "text": "A wild animal entered the village and frightened everyone.",
+      "image_prompt": "wild animal in village with people running away cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The boy faces the danger.",
+      "text": "The boy used noise and fire to scare the animal.",
+      "image_prompt": "boy lighting fire and making noise to scare animal cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The animal runs away.",
+      "text": "The animal got scared and ran back into the forest.",
+      "image_prompt": "animal running away into forest cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Vikram answers Betal’s question.",
+      "text": "Vikram said bravery comes from courage and intelligence. Betal flew away again.",
+      "image_prompt": "betal flying away while vikram stands calm cartoon"
+    }
+  ],
+  "story": "A brave boy saved his village from a wild animal using intelligence and courage. Vikram said true bravery is smart thinking, and Betal flew away."
+}

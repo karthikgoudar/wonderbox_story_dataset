@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100149",
+  "title": "Vikram and Betal: The Generous Farmer",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "generosity",
+  "characters": ["King Vikram", "Betal", "Farmer", "Villagers"],
+  "word_count": 166,
+  "moral": "Sharing brings kindness in return.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a generous farmer.",
+      "text": "Betal told Vikram about a farmer with a good harvest.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The farmer chooses to share.",
+      "text": "The farmer shared his crops with poor villagers.",
+      "image_prompt": "farmer giving food to villagers cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "People question his actions.",
+      "text": "People asked why he shared his food.",
+      "image_prompt": "villagers asking farmer question cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The farmer faces a bad year.",
+      "text": "The farmer’s crops failed the next year.",
+      "image_prompt": "farmer looking at empty field cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Kindness is returned.",
+      "text": "Villagers helped him in return. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "villagers helping farmer with food cartoon"
+    }
+  ],
+  "story": "A generous farmer shared his harvest and was helped in return when he needed it. Vikram said kindness always returns."
+}

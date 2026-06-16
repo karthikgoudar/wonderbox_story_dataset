@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100160",
+  "title": "Captain Jack and the Dragon’s Treasure",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "bravery",
+  "characters": ["Captain Jack", "Pirate Crew", "Dragon"],
+  "word_count": 420,
+  "moral": "Courage and teamwork lead to victory.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack begins a treasure adventure with his crew.",
+      "text": "Captain Jack sailed with his crew on the Silver Shark, searching for treasure. One day, they spotted a map leading to a legendary treasure.",
+      "image_prompt": "pirate captain with crew on ship spotting treasure map cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces dangers like reefs and wild animals.",
+      "text": "They sailed through a dangerous reef and entered a jungle where wild boars attacked, but the crew fought them off.",
+      "image_prompt": "pirates navigating reef and fighting wild boars in jungle cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores the island and finds a hidden cave.",
+      "text": "Following clues, they reached a waterfall and discovered a stone door leading to a cave.",
+      "image_prompt": "pirates exploring jungle reaching waterfall and secret cave cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Captain Jack battles the dragon guarding the treasure.",
+      "text": "Inside the cave, a giant dragon attacked. Captain Jack and his crew fought bravely and defeated it.",
+      "image_prompt": "pirate captain fighting dragon in cave with fire and swords cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew wins treasure and celebrates their success.",
+      "text": "They found the treasure and sailed away, celebrating their courage and friendship.",
+      "image_prompt": "pirates celebrating treasure on ship sunset cartoon style"
+    }
+  ],
+  "story": "Captain Jack sailed the seas with his crew on the Silver Shark. One day, they found a treasure map and sailed to a distant island. They faced dangerous reefs and wild boars but worked together to overcome them. Following the map, they discovered a hidden cave behind a waterfall. Inside, a giant dragon guarded the treasure. Captain Jack bravely fought the dragon with his crew and defeated it. The treasure was revealed, and they sailed away happily, knowing that courage and teamwork helped them succeed."
+}

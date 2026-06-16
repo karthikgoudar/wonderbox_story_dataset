@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100070",
+  "title": "Birbal and the Half Reward",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "fairness",
+  "characters": ["Akbar", "Birbal", "Poor Man"],
+  "word_count": 178,
+  "moral": "Be fair and think before making decisions.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A poor man seeks a reward for enduring the cold.",
+      "text": "One day, a poor man came to Emperor Akbar and said he stood in a cold pond all night to earn a reward.",
+      "image_prompt": "poor man speaking to king in court, winter scene cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "Akbar refuses the reward due to a misunderstanding.",
+      "text": "The man said he looked at a distant lamp. Akbar refused to reward him, saying the lamp gave him warmth.",
+      "image_prompt": "king refusing reward while poor man looks sad, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal plans to show Akbar his mistake.",
+      "text": "Birbal heard about the situation and decided to teach Akbar a lesson in fairness.",
+      "image_prompt": "birbal thinking with thoughtful expression, cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal demonstrates the idea using cooking.",
+      "text": "Birbal placed a pot high above a small fire. When Akbar questioned it, Birbal made a clever comparison.",
+      "image_prompt": "pot hanging high above fire while king looks confused, cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Akbar realizes his mistake and rewards the man.",
+      "text": "Akbar understood his mistake and rewarded the poor man. Be fair and think before making decisions.",
+      "image_prompt": "king rewarding happy poor man while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One day, a poor man came to Emperor Akbar and said he stood in a cold pond all night to earn a reward. When Akbar asked how he managed, the man said he looked at a distant lamp. Akbar refused to reward him. Birbal later placed a pot high above a fire to show that distant heat cannot cook food. Akbar realized his mistake and gave the poor man his reward."
+}

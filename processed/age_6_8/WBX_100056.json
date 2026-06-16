@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100056",
+  "title": "The Crow and the Pitcher",
+  "source": "panchatantra",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "problem-solving",
+  "characters": ["Crow"],
+  "word_count": 127,
+  "moral": "Where there is a will, there is a way.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A thirsty crow searches for water on a hot day.",
+      "text": "Once upon a time, there was a thirsty crow. On a hot day, he flew everywhere looking for water, but he could not find any.",
+      "image_prompt": "thirsty crow flying under hot sun searching for water, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crow finds a pitcher but cannot reach the water.",
+      "text": "At last, he saw a pitcher with a little water at the bottom. The crow tried to drink, but his beak could not reach the water.",
+      "image_prompt": "crow trying to drink from pitcher with low water level, cartoon illustration"
+    },
+    {
+      "type": "journey",
+      "summary": "The crow thinks of a way to solve the problem.",
+      "text": "He thought for a while. Then he got an idea.",
+      "image_prompt": "crow thinking with idea expression near pitcher, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The crow drops stones into the pitcher.",
+      "text": "He picked up small stones one by one and dropped them into the pitcher. Slowly, the water level rose.",
+      "image_prompt": "crow dropping stones into pitcher, water rising, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crow drinks the water and solves the problem.",
+      "text": "Soon, the water came up to the top. The crow drank the water happily and flew away. Where there is a will, there is a way.",
+      "image_prompt": "happy crow drinking water from pitcher and flying away, bright cartoon style"
+    }
+  ],
+  "story": "Once upon a time, there was a thirsty crow. On a hot day, he flew everywhere looking for water, but he could not find any. At last, he saw a pitcher with a little water at the bottom. The crow tried to drink, but his beak could not reach the water. He thought for a while. Then he got an idea. He picked up small stones one by one and dropped them into the pitcher. Slowly, the water level rose. Soon, the water came up to the top. The crow drank the water happily and flew away."
+}

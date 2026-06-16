@@ -1,0 +1,49 @@
+{
+  "id": "WBX_100162",
+  "title": "The Jewel of the Sea",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "courage",
+  "characters": [
+    "Captain Jack Stormrider",
+    "Pirate Crew",
+    "Captain Blackbeard"
+  ],
+  "word_count": 375,
+  "moral": "Courage and teamwork help overcome challenges.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Jack begins a journey to find the Jewel of the Sea.",
+      "text": "Captain Jack Stormrider sailed with his crew on the Crimson Wave. One day, he found a map leading to the Jewel of the Sea and set sail on a new adventure.",
+      "image_prompt": "pirate captain holding treasure map on ship with crew excited cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces storms and rival pirates.",
+      "text": "During the journey, the crew battled storms and rival pirates who tried to stop them.",
+      "image_prompt": "pirate ship in storm and battle with rival ship cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores the mysterious island.",
+      "text": "They reached the Isle of Serenity and explored jungles while solving riddles and overcoming obstacles.",
+      "image_prompt": "pirates exploring tropical island jungle solving puzzles cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Captain Jack defeats the rival pirates.",
+      "text": "Captain Jack fought and defeated Captain Blackbeard, clearing the way to the treasure.",
+      "image_prompt": "pirate battle with captain defeating rival pirate cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew finds the treasure and learns its true meaning.",
+      "text": "They found the Jewel of the Sea and realized it represented courage and teamwork, then sailed away happily.",
+      "image_prompt": "pirate crew holding glowing jewel sailing into sunset cartoon style"
+    }
+  ],
+  "story": "Captain Jack Stormrider sailed with his crew on the Crimson Wave in search of treasure. One day, they found a map leading to the Jewel of the Sea. They faced storms and rival pirates but worked together to overcome them. On the Isle of Serenity, they solved challenges and reached a hidden cave. After defeating rival pirates, they found the jewel. Captain Jack realized the treasure symbolized courage and teamwork. The crew sailed away happily, ready for more adventures."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100065",
+  "title": "Birbal and the Two Merchants",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "observation",
+  "characters": ["Akbar", "Birbal", "Two Merchants"],
+  "word_count": 160,
+  "moral": "Truth can be found with careful observation.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Two merchants argue over a bag of gold.",
+      "text": "One day, two merchants came to Emperor Akbar arguing over a bag of gold coins.",
+      "image_prompt": "two merchants arguing over gold bag in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Both merchants claim ownership of the bag.",
+      "text": "Each merchant claimed the bag belonged to him, and Akbar could not decide who was right.",
+      "image_prompt": "king listening to two men arguing in court, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal examines the bag for clues.",
+      "text": "Birbal took the bag and carefully observed it. He noticed it smelled like spices.",
+      "image_prompt": "birbal inspecting bag closely with thoughtful expression, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal questions both merchants about their work.",
+      "text": "Birbal asked both merchants about their jobs. One said he sold spices, and the other said he sold clothes.",
+      "image_prompt": "birbal questioning two merchants in court, cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal identifies the real owner using evidence.",
+      "text": "Birbal gave the bag to the spice seller, explaining the smell as proof. Akbar agreed. Truth can be found with careful observation.",
+      "image_prompt": "king giving gold bag to correct merchant while birbal smiles, cheerful cartoon"
+    }
+  ],
+  "story": "One day, two merchants came to Emperor Akbar arguing over a bag of gold coins. Both claimed it was theirs. Akbar asked Birbal to solve the problem. Birbal examined the bag and noticed it smelled like spices. The next day, he asked both merchants about their work. One said he was a spice seller, and the other said he sold clothes. Birbal gave the bag to the spice seller, explaining that the smell proved it belonged to him. Akbar agreed."
+}

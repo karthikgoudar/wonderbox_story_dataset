@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100020",
+  "title": "Rocky Learns to Listen",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "listening",
+  "characters": ["Rocky", "Pip"],
+  "word_count": 270,
+  "moral": "Listening to others helps keep you safe.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Rocky is a playful dog who loves exploring but does not like listening.",
+      "text": "Rocky the Dog Who Didn’t Listen\n\nIn a small, happy village, lived a playful dog named Rocky.\n\nRocky loved to run, jump, and explore everywhere.\n\nBut there was one problem…\n\nRocky didn’t like listening.",
+      "image_prompt": "playful dog running happily in a village, bright colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Rocky ignores his owner’s instructions and keeps running off.",
+      "text": "“Rocky, come back!” his owner called.\n\nBut Rocky kept running.\n\n“Rocky, don’t go there!” she warned.\n\nBut Rocky didn’t stop.\n\n“I know what I’m doing!” Rocky barked.",
+      "image_prompt": "dog running away ignoring owner calling, cheerful village cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Rocky runs far away chasing a butterfly and gets lost.",
+      "text": "One day, Rocky chased a butterfly far away from home.\n\nOver hills…\n\nPast trees…\n\nAcross a small stream…\n\nFinally, he stopped.\n\n“Where am I?” Rocky looked around.\n\nEverything seemed strange.",
+      "image_prompt": "dog chasing butterfly across hills and trees into unknown place, colorful cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Rocky realizes he is lost and meets Pip who offers to help him.",
+      "text": "Rocky tried to find his way back.\n\nBut he couldn’t.\n\n“I should have listened,” he said.\n\nHe felt scared and alone.\n\nJust then, a little bird named Pip flew down.\n\n“Are you lost?” Pip asked.\n\n“Yes,” Rocky said sadly.\n\n“I didn’t listen… and now I can’t find my home.”\n\nPip smiled.\n\n“I’ll help you,” he said.",
+      "image_prompt": "lost dog looking sad while small bird talks kindly, forest cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Rocky returns home safely and learns the importance of listening.",
+      "text": "Pip flew ahead, showing Rocky the path.\n\n“Follow me,” he chirped.\n\nRocky followed carefully.\n\nStep by step, they made their way back.\n\nSoon, Rocky saw his home!\n\nRocky ran to his owner.\n\n“I’m sorry,” he said.\n\n“I should have listened.”\n\nHis owner hugged him.\n\n“I’m glad you’re safe,” she said.\n\nListening to others keeps you safe.\n\nGood advice is there to help you.\n\nThe End",
+      "image_prompt": "happy dog reunited with owner while bird watches, warm cheerful cartoon style"
+    }
+  ],
+  "story": "Rocky the Dog Who Didn’t Listen\n\nIn a small, happy village, lived a playful dog named Rocky.\n\nRocky loved to run, jump, and explore everywhere.\n\nBut there was one problem…\n\nRocky didn’t like listening.\n\n“Rocky, come back!” his owner called.\n\nBut Rocky kept running.\n\n“Rocky, don’t go there!” she warned.\n\nBut Rocky didn’t stop.\n\n“I know what I’m doing!” Rocky barked.\n\nOne day, Rocky chased a butterfly far away from home.\n\nOver hills…\n\nPast trees…\n\nAcross a small stream…\n\nFinally, he stopped.\n\n“Where am I?” Rocky looked around.\n\nEverything seemed strange.\n\nRocky tried to find his way back.\n\nBut he couldn’t.\n\n“I should have listened,” he said.\n\nHe felt scared and alone.\n\nJust then, a little bird named Pip flew down.\n\n“Are you lost?” Pip asked.\n\n“Yes,” Rocky said sadly.\n\n“I didn’t listen… and now I can’t find my home.”\n\nPip smiled.\n\n“I’ll help you,” he said.\n\nPip flew ahead, showing Rocky the path.\n\n“Follow me,” he chirped.\n\nRocky followed carefully.\n\nStep by step, they made their way back.\n\nSoon, Rocky saw his home!\n\nRocky ran to his owner.\n\n“I’m sorry,” he said.\n\n“I should have listened.”\n\nHis owner hugged him.\n\n“I’m glad you’re safe,” she said.\n\nListening to others keeps you safe.\n\nGood advice is there to help you.\n\nThe End"
+}

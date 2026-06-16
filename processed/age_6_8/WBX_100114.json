@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100114",
+  "title": "Vikram and Betal: The Greedy Judge",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "justice",
+  "characters": ["King Vikram", "Betal", "Judge", "Two Men", "King"],
+  "word_count": 178,
+  "moral": "Greed leads to injustice.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a greedy judge.",
+      "text": "Betal told Vikram about a judge who was greedy.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Two men argue over land.",
+      "text": "Two men came to the judge with a land dispute.",
+      "image_prompt": "two men arguing over land in court cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The judge takes a bribe.",
+      "text": "The judge secretly took money from one man.",
+      "image_prompt": "judge secretly taking money cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The truth is reported to the king.",
+      "text": "The other man told the king about the unfair decision.",
+      "image_prompt": "man complaining to king cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The judge is punished.",
+      "text": "The king removed the judge for being dishonest. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king removing judge while betal flies away cartoon"
+    }
+  ],
+  "story": "A greedy judge took a bribe and gave an unfair decision. The truth reached the king, who punished the judge. Vikram said greed leads to injustice, and Betal flew away."
+}

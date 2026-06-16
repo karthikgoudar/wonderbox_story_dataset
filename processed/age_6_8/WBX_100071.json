@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100071",
+  "title": "Birbal and the Clever Answer",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "intelligence",
+  "characters": ["Akbar", "Birbal", "Courtiers"],
+  "word_count": 132,
+  "moral": "The human mind is powerful and can go beyond limits.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks a question about the fastest thing.",
+      "text": "One day, Emperor Akbar asked his court what the fastest thing in the world was.",
+      "image_prompt": "king asking question in royal court with people listening, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers give different answers.",
+      "text": "Many courtiers gave answers like wind and light, but none satisfied the king.",
+      "image_prompt": "people giving answers in court while king listens, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Akbar asks Birbal for his answer.",
+      "text": "Akbar turned to Birbal and asked for his opinion.",
+      "image_prompt": "king looking at birbal expecting answer, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal gives his clever answer.",
+      "text": "Birbal said the fastest thing is the human mind.",
+      "image_prompt": "birbal confidently answering in court, bright cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains and impresses Akbar.",
+      "text": "Birbal explained that the mind can travel anywhere instantly. Akbar was pleased. The human mind is powerful and can go beyond limits.",
+      "image_prompt": "king smiling proudly at birbal, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked what the fastest thing in the world was. Many courtiers gave answers like wind and light. Birbal said the fastest thing is the human mind because it can travel anywhere instantly. Akbar was pleased with his clever answer."
+}

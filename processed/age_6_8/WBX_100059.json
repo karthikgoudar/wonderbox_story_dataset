@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100059",
+  "title": "The Lion and the Bull",
+  "source": "panchatantra",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "trust",
+  "characters": ["Lion", "Bull", "Two Jackals"],
+  "word_count": 182,
+  "moral": "Do not believe in rumors without knowing the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A bull enters the forest and meets the lion.",
+      "text": "Once upon a time, a strong bull lived near a forest. One day, he wandered into the forest. The lion, king of the forest, heard his loud voice.",
+      "image_prompt": "bull in forest with lion observing from distance, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The lion and bull become friends but others grow jealous.",
+      "text": "Soon, the lion and the bull met and became good friends. They spent time together every day. But two jackals became jealous of their friendship.",
+      "image_prompt": "lion and bull sitting together as friends while jackals watch, cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The jackals spread lies to both the lion and the bull.",
+      "text": "The jackals told the lion that the bull wanted to become king. They told the bull that the lion wanted to attack him.",
+      "image_prompt": "jackals whispering lies separately to lion and bull, cartoon scene"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The lion and bull believe the lies and fight each other.",
+      "text": "Both the lion and the bull became angry and scared. One day, they fought each other fiercely.",
+      "image_prompt": "lion and bull fighting in forest, dramatic cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "The lion wins but regrets losing his friend.",
+      "text": "The lion defeated the bull. After the fight, he felt sad and realized he lost a good friend because of lies. Do not believe in rumors without knowing the truth.",
+      "image_prompt": "sad lion alone after fight, realizing mistake, soft cartoon style"
+    }
+  ],
+  "story": "Once upon a time, a strong bull lived near a forest. One day, he wandered into the forest and began living there. Nearby, a lion was the king of the forest. The lion heard the loud sound of the bull and became curious. Soon, the lion and the bull met and became good friends. They spent time together every day. But two jackals in the forest became jealous. They wanted to break their friendship. The jackals went to the lion and said, “The bull wants to become king and defeat you.” Then they went to the bull and said, “The lion is planning to attack you.” Both the lion and the bull became scared and angry. One day, they fought each other. In the end, the lion defeated the bull. After the fight, the lion felt sad. He realized he had lost a good friend because of lies."
+}

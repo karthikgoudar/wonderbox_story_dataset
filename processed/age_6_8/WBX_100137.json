@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100137",
+  "title": "Vikram and Betal: The Lost Horse",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": ["King Vikram", "Betal", "Man", "Wise Man", "Villagers"],
+  "word_count": 170,
+  "moral": "Fear reveals the truth.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a lost horse.",
+      "text": "Betal told Vikram about a man who lost his horse.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The horse cannot be found.",
+      "text": "The man searched for his missing horse but failed.",
+      "image_prompt": "man looking for horse worried cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The wise man gathers villagers.",
+      "text": "The wise man gathered all villagers to find the thief.",
+      "image_prompt": "villagers gathered in front of wise man cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief becomes nervous.",
+      "text": "The guilty man became nervous during the test.",
+      "image_prompt": "nervous villager sweating cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The thief confesses.",
+      "text": "The wise man caught the thief. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "villager confessing while others watch cartoon"
+    }
+  ],
+  "story": "A man lost his horse. A wise man used fear to identify the thief. Vikram said fear reveals the truth."
+}

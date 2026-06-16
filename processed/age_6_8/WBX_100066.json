@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100066",
+  "title": "Birbal Counts the Crows",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "cleverness",
+  "characters": ["Akbar", "Birbal"],
+  "word_count": 120,
+  "moral": "A clever mind can find answers to any question.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks Birbal a tricky question about crows.",
+      "text": "One day, Emperor Akbar asked Birbal how many crows were in the city.",
+      "image_prompt": "king asking birbal question in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Birbal gives a quick and exact answer.",
+      "text": "Birbal quickly replied that there were exactly 10,000 crows in the city.",
+      "image_prompt": "birbal confidently answering king, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Akbar challenges Birbal’s answer.",
+      "text": "Akbar asked what if the number was more or less than that.",
+      "image_prompt": "king questioning birbal with curious expression, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal explains extra crows as visitors.",
+      "text": "Birbal said if there were more crows, they must have come to visit their relatives.",
+      "image_prompt": "birds flying into city as visiting crows, playful cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Birbal explains fewer crows as those visiting elsewhere.",
+      "text": "Birbal added that if there were fewer, some crows must have gone away to visit others. Akbar laughed at his cleverness. A clever mind can find answers to any question.",
+      "image_prompt": "king laughing while birbal smiles confidently, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked Birbal how many crows were in the city. Birbal replied that there were 10,000 crows. When Akbar asked what if there were more, Birbal said they must be visiting relatives. When asked about fewer crows, he said they must have gone to visit others. Akbar laughed at Birbal’s clever answer."
+}

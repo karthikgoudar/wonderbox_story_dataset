@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100167",
+  "title": "Captain Isla’s Secret Mark",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "sharing",
+  "characters": ["Captain Isla Flynn", "Rosie", "Pip", "Pirate Crew"],
+  "word_count": 342,
+  "moral": "The best treasure is what we share with others.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Isla begins a journey to the Isle of Echoes.",
+      "text": "Captain Isla sailed on The Merry Turtle with her crew, excited to explore the Isle of Echoes.",
+      "image_prompt": "girl pirate captain on ship with crew sailing at sunrise cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces dangerous rocks guided by a magical map.",
+      "text": "The whispering map led them through sharp rocks, and the crew had to be brave and careful.",
+      "image_prompt": "pirate ship navigating sharp rocks with glowing map cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "They explore the island and find a singing cave.",
+      "text": "The crew reached the island and discovered a cave filled with music and mystery.",
+      "image_prompt": "pirates exploring glowing cave with musical crystals cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Isla solves the riddle and finds the treasure.",
+      "text": "Isla said the correct word to open the puzzle box and revealed the hidden treasure.",
+      "image_prompt": "girl pirate opening puzzle box with glowing treasure cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew hides the treasure to help future adventurers.",
+      "text": "Instead of keeping the treasure, Isla hid it for others and sailed away happily.",
+      "image_prompt": "pirates hiding treasure in tree and sailing into sunset cartoon style"
+    }
+  ],
+  "story": "Captain Isla sailed on The Merry Turtle with her crew to find adventure. They followed a magical map through dangerous rocks and reached the Isle of Echoes. Inside a cave, Isla solved a riddle and found a treasure. Instead of keeping it, she chose to hide it for future adventurers. The crew sailed away, knowing that sharing and kindness were the greatest treasures."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100138",
+  "title": "Vikram and Betal: The Honest Farmer’s Son",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Farmer", "Son", "Old Man", "King"],
+  "word_count": 172,
+  "moral": "Honesty and good values lead to respect.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a farmer and his son.",
+      "text": "Betal told Vikram about a farmer who taught honesty.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The boy finds a bag of coins.",
+      "text": "The boy found a bag of coins while working.",
+      "image_prompt": "boy finding coins in field cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "They search for the owner.",
+      "text": "They asked around to find the owner of the coins.",
+      "image_prompt": "father and son asking villagers cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The owner is found.",
+      "text": "An old man claimed the bag and the boy returned it.",
+      "image_prompt": "boy returning coins to old man cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy is rewarded.",
+      "text": "The king rewarded the boy. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "king rewarding boy while smiling cartoon"
+    }
+  ],
+  "story": "A boy returned lost coins honestly. His values earned him respect and reward. Vikram said honesty brings respect."
+}

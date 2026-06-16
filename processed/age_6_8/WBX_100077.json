@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100077",
+  "title": "Birbal and the True Beauty",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "perspective",
+  "characters": ["Akbar", "Birbal", "Courtiers", "Father", "Child"],
+  "word_count": 152,
+  "moral": "Beauty lies in the eyes of the beholder.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar asks who is the most beautiful person.",
+      "text": "One day, Emperor Akbar asked his court who the most beautiful person in the world was.",
+      "image_prompt": "king asking question in royal court, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Courtiers give expected answers.",
+      "text": "Many courtiers praised royal people, but their answers did not satisfy Akbar.",
+      "image_prompt": "people praising queen and royals in court, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal gives a different answer.",
+      "text": "Birbal said that the most beautiful person is one’s own child.",
+      "image_prompt": "birbal giving thoughtful answer in court, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal proves his idea with an example.",
+      "text": "Birbal asked a father to bring his child, and the father proudly called his child the most beautiful.",
+      "image_prompt": "father proudly showing child in court, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Akbar understands the meaning of true beauty.",
+      "text": "Akbar realized that beauty depends on how we see others. Beauty lies in the eyes of the beholder.",
+      "image_prompt": "king smiling in understanding while birbal stands beside, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar asked who the most beautiful person in the world was. Many courtiers praised royal people. Birbal said it is one’s own child. To prove it, he asked a father to bring his child, and the father proudly said his child was the most beautiful. Akbar understood that beauty depends on how we see others."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100194",
+  "title": "The Woodland Treasure Adventure",
+  "source": "ohmytales",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship and teamwork",
+  "characters": ["Benny", "Lola", "Max", "Freddie"],
+  "word_count": 873,
+  "moral": "The best treasure is friendship and shared adventures.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Benny finds a mysterious notebook that leads to a treasure hunt.",
+      "text": "Benny the raccoon discovers an old leather notebook buried near a stump, filled with riddles and maps. Excited, he invites his friend Lola the squirrel to join him on a treasure hunt.",
+      "image_prompt": "cute raccoon and squirrel finding old notebook near tree stump, forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "They follow clues and solve riddles to find a hidden key.",
+      "text": "Benny and Lola solve riddles that lead them to Grandfather Oak and a mossy stone. With help from Max the mole, they find a silver key hidden beneath the stone.",
+      "image_prompt": "raccoon squirrel and mole finding silver key under mossy rock, playful forest cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "They travel to the pond and climb a hill to follow the final clues.",
+      "text": "The friends follow clues to Lily Pond and meet Freddie the frog, who helps them find a compass. They then journey to Eagle’s Peak, overcoming challenges together.",
+      "image_prompt": "forest animals at pond with frog and climbing hill, colorful adventure cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They open the treasure chest at the top of the hill.",
+      "text": "At Eagle’s Peak, the friends discover and open a treasure chest. Instead of gold, they find chocolate acorns, marbles, and a friendship medal.",
+      "image_prompt": "animals opening treasure chest with treats and glowing medal on hilltop, cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "They realize the true treasure is friendship and celebrate together.",
+      "text": "Benny and his friends share the treats and laugh together, realizing that the real treasure is their friendship and the fun they had on the adventure.",
+      "image_prompt": "forest animals celebrating together sharing treats at sunset, warm joyful cartoon illustration"
+    }
+  ],
+  "story": "Benny was a bright-eyed raccoon who loved adventures more than anything. One sunny morning, while digging near a big old stump, he found a battered leather notebook filled with drawings, maps, and riddles.\n\nExcited, Benny showed it to his friend Lola the squirrel. Together, they decided to follow the clues and find the hidden treasure.\n\nThe first riddle led them to the tallest tree, Grandfather Oak. There, they found a wooden box and another clue pointing them to a mossy stone.\n\nWith the help of Max the mole, they found the stone and discovered a silver key hidden beneath it. They used the key to open the box and found a new clue leading them to a pond.\n\nAt Lily Pond, they met Freddie the frog, who helped them find a compass and another clue directing them to Eagle’s Peak.\n\nThe climb to the top was difficult, but they helped each other along the way.\n\nAt the peak, they found a treasure chest and opened it with excitement. Inside were chocolate acorns, sparkly marbles, and a golden friendship medal.\n\nBenny and his friends realized that the real treasure was not gold, but the fun, teamwork, and friendship they shared.\n\nThey celebrated together and promised to go on many more adventures.\n\nFrom that day on, Benny kept the friendship medal as a reminder that the best treasures are the ones shared with friends."
+}

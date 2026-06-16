@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100001",
+  "title": "The Brave Little Mango Tree",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "very simple",
+  "theme": "flexibility",
+  "characters": ["Mino", "wind", "old bird", "tall trees"],
+  "word_count": 87,
+  "moral": "Being flexible can make you stronger.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A small mango tree named Mino lives in a sunny village and is often laughed at.",
+      "text": "The Brave Little Mango Tree\n\nIn a sunny village, there was a tiny mango tree named Mino. While other trees were tall and strong, Mino was small and often laughed at by the wind.",
+      "image_prompt": "tiny mango tree in sunny village with tall trees, gentle wind teasing, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "A big storm arrives and threatens all the trees.",
+      "text": "One day, a big storm came. The tall trees tried to stand strong—but many branches broke.",
+      "image_prompt": "strong storm with tall trees struggling, branches breaking, dramatic sky, children's book style"
+    },
+    {
+      "type": "journey",
+      "summary": "Mino bends with the wind instead of resisting it.",
+      "text": "Mino bent with the wind, swaying gently.",
+      "image_prompt": "small mango tree bending softly in wind, flexible and safe, bright cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "After the storm, Mino remains standing while others are damaged.",
+      "text": "After the storm, Mino was still standing proudly.",
+      "image_prompt": "calm after storm, small mango tree standing strong, broken branches around, hopeful colorful scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "A wise bird explains that flexibility is true strength.",
+      "text": "A wise old bird said, “Strength isn’t about being stiff—it’s about knowing when to bend.”\n\nMoral: Being flexible can make you stronger.",
+      "image_prompt": "wise old bird speaking to small mango tree, peaceful setting, warm and colorful children's illustration"
+    }
+  ],
+  "story": "The Brave Little Mango Tree\n\nIn a sunny village, there was a tiny mango tree named Mino. While other trees were tall and strong, Mino was small and often laughed at by the wind.\n\nOne day, a big storm came. The tall trees tried to stand strong—but many branches broke. Mino bent with the wind, swaying gently.\n\nAfter the storm, Mino was still standing proudly.\n\nA wise old bird said, “Strength isn’t about being stiff—it’s about knowing when to bend.”\n\nMoral: Being flexible can make you stronger."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100151",
+  "title": "The Extra Change",
+  "source": "value_story",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["Rohan", "Shopkeeper"],
+  "word_count": 138,
+  "moral": "Honesty brings true happiness.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Rohan buys a notebook.",
+      "text": "Rohan went to a shop to buy a notebook.",
+      "image_prompt": "boy buying notebook from shop cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "He gets extra money.",
+      "text": "Rohan received extra change by mistake.",
+      "image_prompt": "boy checking coins in hand cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Rohan thinks about what to do.",
+      "text": "He wondered whether to keep or return the money.",
+      "image_prompt": "boy thinking confused cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "He returns the money.",
+      "text": "Rohan went back and returned the extra coins.",
+      "image_prompt": "boy returning money to shopkeeper cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Rohan feels happy.",
+      "text": "The shopkeeper thanked him and Rohan felt proud.",
+      "image_prompt": "boy smiling proudly cartoon"
+    }
+  ],
+  "story": "Rohan received extra change but chose to return it. His honesty made him feel truly happy."
+}

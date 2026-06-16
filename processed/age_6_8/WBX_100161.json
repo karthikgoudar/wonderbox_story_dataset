@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100161",
+  "title": "The Heart of the Jolly Seagull",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "friendship",
+  "characters": ["Captain Jack Flint", "Tommy", "Polly", "Pirate Crew"],
+  "word_count": 360,
+  "moral": "True treasure is friendship and shared experiences.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Captain Flint and his crew begin a treasure journey.",
+      "text": "Captain Jack Flint sailed with his crew on The Jolly Seagull. He announced a journey to Treasure Island, and the crew set sail with excitement.",
+      "image_prompt": "pirate captain with crew on ship holding map excited cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew explores a mysterious island and faces uncertainty.",
+      "text": "They reached a misty island filled with strange sounds and unknown dangers as they searched for treasure.",
+      "image_prompt": "pirates entering misty island jungle with curious expressions cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew finds a key and explores a hidden cave.",
+      "text": "Tommy found a golden key, and the crew used it to open a hidden cave. Inside, they solved puzzles and avoided traps together.",
+      "image_prompt": "boy holding golden key with pirates entering cave solving puzzles cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "They discover treasure and an important message.",
+      "text": "They found a chest full of treasure, but inside was a compass and a note explaining the true treasure.",
+      "image_prompt": "pirates opening treasure chest with compass and note glowing cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew understands the value of friendship.",
+      "text": "Captain Flint realized friendship was the real treasure, and the crew sailed away happily together.",
+      "image_prompt": "pirate crew sailing happily together at sunset cartoon style"
+    }
+  ],
+  "story": "Captain Jack Flint sailed with his crew on The Jolly Seagull in search of treasure. They reached a mysterious island where Tommy found a golden key. The crew explored a hidden cave, solving puzzles and facing challenges together. Inside, they found treasure but also a note explaining that true treasure is friendship and shared adventures. The crew realized the value of their bond and sailed away happily, ready for more adventures."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100109",
+  "title": "Vikram and Betal: The Lazy Man",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "hard work",
+  "characters": ["King Vikram", "Betal", "Lazy Man", "King", "Tenali Rama"],
+  "word_count": 178,
+  "moral": "Hard work always brings rewards.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a lazy man.",
+      "text": "Betal told Vikram about a lazy man who avoided work.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The man asks for a reward.",
+      "text": "The lazy man claimed he worked hard and asked the king for a reward.",
+      "image_prompt": "lazy man asking king for reward cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Tenali plans a test.",
+      "text": "Tenali gave the man a task to complete.",
+      "image_prompt": "Tenali giving task to lazy man cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The man fails the test.",
+      "text": "The man returned without completing the task.",
+      "image_prompt": "lazy man standing empty handed cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Truth is revealed.",
+      "text": "The king understood the truth and refused to reward him. Betal flew away.",
+      "image_prompt": "king refusing reward while betal flies away cartoon"
+    }
+  ],
+  "story": "A lazy man tried to get a reward without working. Tenali tested him and proved he was lazy. The king refused to reward him. Vikram said only hard work deserves rewards, and Betal flew away."
+}

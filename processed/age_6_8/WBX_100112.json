@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100112",
+  "title": "Vikram and Betal: The Wise Merchant",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "wisdom",
+  "characters": ["King Vikram", "Betal", "Merchant", "Two Men"],
+  "word_count": 178,
+  "moral": "Think carefully before making decisions.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a wise merchant.",
+      "text": "Betal told Vikram about a merchant known for his wisdom.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Two men claim the same bag of money.",
+      "text": "Two men argued over who owned a bag of money.",
+      "image_prompt": "two men arguing over money bag cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The merchant investigates.",
+      "text": "The merchant kept the bag and checked it carefully.",
+      "image_prompt": "merchant opening bag and reading note cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The merchant questions both men.",
+      "text": "He asked both men what was inside the bag.",
+      "image_prompt": "merchant questioning two men cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The truth is revealed.",
+      "text": "The merchant gave the bag to the honest man. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "merchant giving bag to honest man cartoon"
+    }
+  ],
+  "story": "Two men claimed a bag of money. A wise merchant investigated and asked questions to find the truth. He gave the bag to the rightful owner. Vikram said wisdom and patience lead to the right decision."
+}

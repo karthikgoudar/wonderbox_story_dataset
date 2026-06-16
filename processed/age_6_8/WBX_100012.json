@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100012",
+  "title": "Mimi Learns to Read",
+  "source": "",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "love for reading",
+  "characters": ["Mimi", "Bobo the Bunny"],
+  "word_count": 352,
+  "moral": "Trying new things can lead to wonderful discoveries.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Mimi is a playful kitten who does not like reading books.",
+      "text": "Mimi the Cat Who Didn’t Like Reading\n\nIn a cozy little house with a sunny window, lived a playful kitten named Mimi.\n\nMimi loved to jump, chase yarn, and nap in warm spots.\n\nBut there was one thing Mimi did not like…\n\nReading books.",
+      "image_prompt": "cute kitten playing with yarn in sunny room near window, colorful cozy cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Mimi avoids reading and thinks books are boring even when encouraged.",
+      "text": "Every afternoon, Mimi’s owner would sit with a book.\n\n“Mimi, come read with me!” she said.\n\nMimi peeked at the pages.\n\n“So many words…” she sighed.\n\n“I’d rather play!”\n\nAnd off she ran after her yarn ball.\n\nOne day, Mimi’s friend Bobo the Bunny came over.\n\n“Look!” Bobo said. “I’m reading a story about a brave lion!”\n\n“That sounds boring,” Mimi said.\n\nBut Bobo smiled.\n\n“It’s actually very exciting!”\n\nMimi didn’t believe him.",
+      "image_prompt": "kitten ignoring book while chasing yarn, bunny reading book nearby, playful cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "A rainy day leaves Mimi bored and curious about books.",
+      "text": "The next day, it rained all afternoon.\n\nDrip… drop… drip…\n\nMimi couldn’t go outside.\n\nShe couldn’t chase butterflies.\n\nShe couldn’t play in the garden.\n\n“I’m bored,” Mimi groaned.",
+      "image_prompt": "rainy day with kitten looking bored indoors near window, soft cozy cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Mimi tries reading a book and discovers it is fun and exciting.",
+      "text": "Mimi looked at the bookshelf.\n\n“Hmmm… maybe I’ll try one book,” she said.\n\nShe opened it slowly.\n\nInside were colorful pictures and a story about a tiny mouse on an adventure.\n\nMimi’s eyes widened.\n\n“What happens next?” she wondered.\n\nPage after page, Mimi kept reading.\n\nThe mouse climbed mountains!\n\nCrossed rivers!\n\nFound treasure!\n\n“Wow!” Mimi said.\n\n“This is fun!”",
+      "image_prompt": "kitten reading colorful storybook with wide eyes, magical imagination scene, bright cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "Mimi grows to love reading and shares stories with her friend.",
+      "text": "From that day on, Mimi loved reading.\n\nShe read in the morning, in the afternoon, and before bed.\n\nAnd sometimes…\n\nShe even told stories to Bobo!\n\nBooks can take you on amazing adventures.\n\nAll you have to do is give them a try.\n\nThe End",
+      "image_prompt": "happy kitten reading book with bunny friend, cozy room full of books, cheerful cartoon style"
+    }
+  ],
+  "story": "Mimi the Cat Who Didn’t Like Reading\n\nIn a cozy little house with a sunny window, lived a playful kitten named Mimi.\n\nMimi loved to jump, chase yarn, and nap in warm spots.\n\nBut there was one thing Mimi did not like…\n\nReading books.\n\nEvery afternoon, Mimi’s owner would sit with a book.\n\n“Mimi, come read with me!” she said.\n\nMimi peeked at the pages.\n\n“So many words…” she sighed.\n\n“I’d rather play!”\n\nAnd off she ran after her yarn ball.\n\nOne day, Mimi’s friend Bobo the Bunny came over.\n\n“Look!” Bobo said. “I’m reading a story about a brave lion!”\n\n“That sounds boring,” Mimi said.\n\nBut Bobo smiled.\n\n“It’s actually very exciting!”\n\nMimi didn’t believe him.\n\nThe next day, it rained all afternoon.\n\nDrip… drop… drip…\n\nMimi couldn’t go outside.\n\nShe couldn’t chase butterflies.\n\nShe couldn’t play in the garden.\n\n“I’m bored,” Mimi groaned.\n\nMimi looked at the bookshelf.\n\n“Hmmm… maybe I’ll try one book,” she said.\n\nShe opened it slowly.\n\nInside were colorful pictures and a story about a tiny mouse on an adventure.\n\nMimi’s eyes widened.\n\n“What happens next?” she wondered.\n\nPage after page, Mimi kept reading.\n\nThe mouse climbed mountains!\n\nCrossed rivers!\n\nFound treasure!\n\n“Wow!” Mimi said.\n\n“This is fun!”\n\nFrom that day on, Mimi loved reading.\n\nShe read in the morning, in the afternoon, and before bed.\n\nAnd sometimes…\n\nShe even told stories to Bobo!\n\nBooks can take you on amazing adventures.\n\nAll you have to do is give them a try.\n\nThe End"
+}

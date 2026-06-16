@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100121",
+  "title": "Vikram and Betal: The Kind King",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["King Vikram", "Betal", "King", "Farmer", "People"],
+  "word_count": 182,
+  "moral": "Helping others brings rewards.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a kind king.",
+      "text": "Betal told Vikram about a king who cared for his people.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The king places a stone on the road.",
+      "text": "The king placed a stone to test his people.",
+      "image_prompt": "large stone blocking road with people walking around cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "People ignore the stone.",
+      "text": "Many people saw the stone but did nothing.",
+      "image_prompt": "people walking around stone ignoring it cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The farmer removes the stone.",
+      "text": "A farmer pushed the stone away to help others.",
+      "image_prompt": "farmer pushing stone away with effort cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The farmer is rewarded.",
+      "text": "The farmer found gold and was rewarded. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "farmer finding gold under stone while smiling cartoon"
+    }
+  ],
+  "story": "A kind king tested his people by placing a stone on the road. Only a farmer removed it to help others and was rewarded. Vikram said kindness brings rewards."
+}

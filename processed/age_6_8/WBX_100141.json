@@ -1,0 +1,51 @@
+{
+  "id": "WBX_100141",
+  "title": "Vikram and Betal: The Patient Student",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "learning",
+  "characters": [
+    "King Vikram",
+    "Betal",
+    "Student",
+    "Teacher",
+    "Another Student"
+  ],
+  "word_count": 168,
+  "moral": "Patience is the key to learning.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a student.",
+      "text": "Betal told Vikram about a student who wanted to learn quickly.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The student becomes frustrated.",
+      "text": "The student rushed learning and made mistakes.",
+      "image_prompt": "student looking frustrated while studying cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Another student learns patiently.",
+      "text": "Another student studied slowly and understood well.",
+      "image_prompt": "student studying calmly cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The student realizes his mistake.",
+      "text": "The student decided to learn with patience.",
+      "image_prompt": "student realizing mistake cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The student succeeds.",
+      "text": "The student became successful. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "happy student succeeding cartoon"
+    }
+  ],
+  "story": "A student learned that patience is important for success. By changing his approach, he succeeded. Vikram said patience leads to learning."
+}

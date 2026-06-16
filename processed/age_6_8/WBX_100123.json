@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100123",
+  "title": "Vikram and Betal: The Proud Scholar",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "humility",
+  "characters": ["King Vikram", "Betal", "Scholar", "Farmer", "King"],
+  "word_count": 174,
+  "moral": "No one knows everything; always stay humble.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a proud scholar.",
+      "text": "Betal told Vikram about a scholar who was very proud.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The scholar claims to know everything.",
+      "text": "The scholar said no one was wiser than him.",
+      "image_prompt": "scholar boasting in royal court cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The king tests the scholar.",
+      "text": "The king asked a farmer to question the scholar.",
+      "image_prompt": "farmer asking question to scholar cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The scholar cannot answer.",
+      "text": "The scholar failed to answer the farmer’s question.",
+      "image_prompt": "confused scholar in court cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The scholar learns humility.",
+      "text": "The scholar understood his mistake. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "scholar looking ashamed while others watch cartoon"
+    }
+  ],
+  "story": "A proud scholar claimed to know everything but failed to answer a simple question. He learned that no one knows everything. Vikram said humility is important."
+}

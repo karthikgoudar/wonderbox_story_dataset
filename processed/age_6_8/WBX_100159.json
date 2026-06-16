@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100159",
+  "title": "Oliver’s Treasure Quest",
+  "source": "crawler",
+  "source_url": "https://www.ohmytales.com",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "courage",
+  "characters": ["Oliver", "Captain Jack", "Giant Crab", "Pirate Crew"],
+  "word_count": 359,
+  "moral": "Courage and clever thinking lead to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Oliver joins a pirate crew on a treasure adventure.",
+      "text": "Oliver sailed with Captain Jack on the ship Jolly Roger. One day, they set out to find Treasure Island using a map.",
+      "image_prompt": "young pirate with captain on ship holding treasure map cartoon children’s book style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The crew faces rival pirates on the island.",
+      "text": "When they reached the island, rival pirates attacked them, and a battle began.",
+      "image_prompt": "pirate battle on island with swords and action cartoon style"
+    },
+    {
+      "type": "journey",
+      "summary": "The crew explores the dangerous island.",
+      "text": "They moved through jungles, crossed bridges, and avoided traps to reach the treasure location.",
+      "image_prompt": "pirates exploring jungle with bridges and traps cartoon style"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Oliver faces the guardian and solves riddles.",
+      "text": "A giant crab guarded the treasure. Oliver challenged it with riddles and solved them.",
+      "image_prompt": "boy pirate solving riddles with giant crab guardian cartoon style"
+    },
+    {
+      "type": "resolution",
+      "summary": "The crew finds the treasure and celebrates.",
+      "text": "The treasure was revealed, and Oliver proved his courage. The crew sailed away happily.",
+      "image_prompt": "pirates celebrating treasure on ship sunset cartoon style"
+    }
+  ],
+  "story": "Oliver sailed with Captain Jack on the ship Jolly Roger in search of treasure. They reached Treasure Island and fought rival pirates. After winning, they explored the island and reached a hidden door. A giant crab guarded the treasure, but Oliver solved its riddles and proved his courage. The treasure was revealed, and the crew sailed away happily, proud of their adventure."
+}

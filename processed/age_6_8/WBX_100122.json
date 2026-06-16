@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100122",
+  "title": "Vikram and Betal: The Honest Trader",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "honesty",
+  "characters": ["King Vikram", "Betal", "Trader", "Customer"],
+  "word_count": 168,
+  "moral": "Honesty builds trust and success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about an honest trader.",
+      "text": "Betal told Vikram about a trader known for honesty.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The trader receives extra money.",
+      "text": "A customer accidentally gave the trader extra coins.",
+      "image_prompt": "customer handing coins to trader cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The trader returns the money.",
+      "text": "The trader found the customer and returned the extra money.",
+      "image_prompt": "trader returning coins to customer cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "People learn about his honesty.",
+      "text": "People began to trust the trader more.",
+      "image_prompt": "people happily visiting trader shop cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The trader becomes successful.",
+      "text": "The trader became successful due to trust. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "successful trader smiling in shop cartoon"
+    }
+  ],
+  "story": "An honest trader returned extra money to a customer. His honesty built trust, bringing him success. Vikram said honesty leads to success."
+}

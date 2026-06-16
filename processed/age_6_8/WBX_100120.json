@@ -1,0 +1,52 @@
+{
+  "id": "WBX_100120",
+  "title": "Vikram and Betal: The Clever Thief",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "truth",
+  "characters": [
+    "King Vikram",
+    "Betal",
+    "Thief",
+    "Merchant",
+    "Guards",
+    "Officer"
+  ],
+  "word_count": 186,
+  "moral": "Wrong actions will always be revealed.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a clever thief.",
+      "text": "Betal told Vikram about a thief who was very clever.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The thief steals gold.",
+      "text": "The thief stole a bag of gold from a merchant.",
+      "image_prompt": "thief stealing gold bag at night cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The thief hides the gold.",
+      "text": "The thief hid the gold under a tree and acted innocent.",
+      "image_prompt": "thief hiding gold under tree cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The guards find the gold.",
+      "text": "The guards found the gold where the thief pointed.",
+      "image_prompt": "guards digging under tree and finding gold cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The thief is caught.",
+      "text": "A wise officer realized the truth and caught the thief. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "guards catching thief while officer points cartoon"
+    }
+  ],
+  "story": "A clever thief tried to escape by pretending to help guards find stolen gold. But his knowledge revealed him. A wise officer caught him. Vikram said wrong actions are always revealed."
+}

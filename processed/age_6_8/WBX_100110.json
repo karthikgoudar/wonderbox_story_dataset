@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100110",
+  "title": "Vikram and Betal: The Kind Prince",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["King Vikram", "Betal", "Prince", "Old Man", "Child", "King"],
+  "word_count": 176,
+  "moral": "Kindness is more valuable than riches.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a kind prince.",
+      "text": "Betal told Vikram about a prince who always helped others.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The prince helps an old man.",
+      "text": "The prince helped an old man carry a heavy load.",
+      "image_prompt": "prince helping old man carry load cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The prince shares food with a child.",
+      "text": "The prince gave all his food to a hungry child.",
+      "image_prompt": "prince giving food to child cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The prince is left with nothing.",
+      "text": "The prince had no food left but felt happy.",
+      "image_prompt": "prince sitting tired but smiling cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "Vikram answers Betal’s question.",
+      "text": "Vikram said kindness comes from the heart. Betal flew away again.",
+      "image_prompt": "betal flying away while vikram stands calm cartoon"
+    }
+  ],
+  "story": "A kind prince helped others even when he had little. He shared his food and effort selflessly. Vikram said true kindness comes from the heart, and Betal flew away."
+}

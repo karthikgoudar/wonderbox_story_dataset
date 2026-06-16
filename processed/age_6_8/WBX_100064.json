@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100064",
+  "title": "Birbal and the Shorter Line",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "creativity",
+  "characters": ["Akbar", "Birbal", "Courtiers"],
+  "word_count": 110,
+  "moral": "You can change perspective without changing reality.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Akbar draws a line and gives a challenge.",
+      "text": "One day, Emperor Akbar drew a long line on the floor and challenged everyone to make it shorter without touching it.",
+      "image_prompt": "king drawing line on floor in royal court, colorful cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "People try but fail to solve the challenge.",
+      "text": "Many courtiers tried to make the line shorter, but no one could solve the problem.",
+      "image_prompt": "people confused looking at line in court, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal steps forward to solve the challenge.",
+      "text": "Birbal came forward calmly and thought of a simple idea.",
+      "image_prompt": "birbal stepping forward confidently in court, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal draws a longer line beside the first.",
+      "text": "Birbal drew a longer line next to the first one without touching the original line.",
+      "image_prompt": "birbal drawing longer line next to shorter line, bright cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The original line appears shorter and Akbar praises Birbal.",
+      "text": "Now the first line looked shorter. Akbar praised Birbal for his clever thinking. You can change perspective without changing reality.",
+      "image_prompt": "king smiling and praising birbal in court, cheerful cartoon"
+    }
+  ],
+  "story": "One day, Emperor Akbar drew a long line on the floor and challenged everyone to make it shorter without touching it. Many people tried but failed. Then Birbal came forward and drew a longer line next to it. Now, the original line looked shorter. Akbar smiled and praised Birbal for his clever idea."
+}

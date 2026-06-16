@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100090",
+  "title": "Birbal and the Wise Judge",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "love",
+  "characters": ["Akbar", "Birbal", "Two Women", "Child"],
+  "word_count": 182,
+  "moral": "True love is shown through sacrifice.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Two women claim to be the mother of a child.",
+      "text": "One day, two women came to Emperor Akbar, each claiming to be the mother of the same child.",
+      "image_prompt": "two women arguing over child in royal court, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Akbar cannot decide who is telling the truth.",
+      "text": "Both women argued strongly, and Akbar could not decide who the real mother was.",
+      "image_prompt": "king looking confused while women argue, cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal plans a clever test.",
+      "text": "Birbal asked for a sword and said he would solve the problem in a unique way.",
+      "image_prompt": "birbal holding sword while court looks surprised, cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "Birbal suggests dividing the child.",
+      "text": "Birbal said the child should be divided into two parts, which shocked everyone.",
+      "image_prompt": "people shocked hearing birbal suggestion, cartoon illustration"
+    },
+    {
+      "type": "resolution",
+      "summary": "The real mother reveals herself through her reaction.",
+      "text": "One woman begged to save the child, proving she was the real mother. Akbar agreed. True love is shown through sacrifice.",
+      "image_prompt": "woman protecting child while king and birbal watch, emotional cartoon"
+    }
+  ],
+  "story": "One day, two women claimed to be the mother of the same child. Akbar could not decide who was telling the truth. Birbal suggested dividing the child, but one woman begged to save the child. Birbal declared her the real mother, as true love is shown through sacrifice. Akbar agreed."
+}

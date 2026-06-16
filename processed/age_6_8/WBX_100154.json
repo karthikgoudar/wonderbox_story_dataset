@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100154",
+  "title": "Grandma’s Story: The Half Roti",
+  "source": "grandma_story",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["Grandma", "Boy", "Old Man"],
+  "word_count": 178,
+  "moral": "Sharing with others brings blessings.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Grandma starts a story about a hungry boy.",
+      "text": "Grandma tells about a poor boy with one roti.",
+      "image_prompt": "grandmother telling story to kids cartoon"
+    },
+    {
+      "type": "conflict",
+      "summary": "The boy meets a hungry old man.",
+      "text": "The boy sees an old man who is very hungry.",
+      "image_prompt": "hungry old man sitting by road cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The boy shares his food.",
+      "text": "The boy breaks his roti and shares it.",
+      "image_prompt": "boy sharing roti with old man cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The old man blesses him.",
+      "text": "The old man blesses the boy with kindness.",
+      "image_prompt": "old man blessing boy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy grows successful.",
+      "text": "The boy grows up and becomes successful.",
+      "image_prompt": "grown man smiling happily cartoon"
+    }
+  ],
+  "story": "A hungry boy shared his only food with someone poorer. His kindness later brought him happiness and success."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100131",
+  "title": "Vikram and Betal: The Careful Listener",
+  "source": "vikram_betal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "learning",
+  "characters": ["King Vikram", "Betal", "Boy", "Teacher", "Student"],
+  "word_count": 166,
+  "moral": "Good listening leads to success.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Betal tells a story about a boy who talks too much.",
+      "text": "Betal told Vikram about a boy who did not listen carefully.",
+      "image_prompt": "vikram carrying betal in forest cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The boy ignores instructions.",
+      "text": "The boy did not listen to the teacher and made mistakes.",
+      "image_prompt": "boy ignoring teacher and making mistakes cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "Another student listens carefully.",
+      "text": "Another student listened and completed the task correctly.",
+      "image_prompt": "student listening carefully and working cartoon"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The teacher explains the mistake.",
+      "text": "The teacher explained the importance of listening.",
+      "image_prompt": "teacher explaining to sad boy cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The boy learns a lesson.",
+      "text": "The boy decided to listen more. Vikram answered wisely, and Betal flew away.",
+      "image_prompt": "boy nodding and learning lesson cartoon"
+    }
+  ],
+  "story": "A boy who did not listen made mistakes, while another succeeded by listening carefully. Vikram said listening leads to success."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100067",
+  "title": "Birbal and the Foolish Thief",
+  "source": "akbar_birbal",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "kindness",
+  "characters": ["Akbar", "Birbal", "Thief", "Guards"],
+  "word_count": 158,
+  "moral": "Everyone deserves a chance to change and do better.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "A thief is caught after stealing from a house.",
+      "text": "One night, a thief stole valuables from a rich man’s house but was caught by guards and brought to Emperor Akbar.",
+      "image_prompt": "guards catching thief at night outside house, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "The thief explains his actions to Akbar.",
+      "text": "The thief told Akbar he stole because he was poor and needed money. Akbar was unsure what to do.",
+      "image_prompt": "thief explaining to king in court, emotional cartoon scene"
+    },
+    {
+      "type": "journey",
+      "summary": "Birbal decides to test the thief’s honesty.",
+      "text": "Birbal stepped forward and gave the thief a gold coin, asking him to return it the next day.",
+      "image_prompt": "birbal giving gold coin to thief in court, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The thief returns the coin honestly.",
+      "text": "The next day, the thief returned the coin just as Birbal had asked.",
+      "image_prompt": "thief returning coin honestly to birbal, warm cartoon scene"
+    },
+    {
+      "type": "resolution",
+      "summary": "Akbar gives the thief a second chance.",
+      "text": "Birbal explained that the thief could be honest. Akbar gave him a chance to change. Everyone deserves a chance to do better.",
+      "image_prompt": "king forgiving thief while birbal smiles, positive cartoon"
+    }
+  ],
+  "story": "One night, a thief stole valuables from a rich man’s house but was caught and brought to Emperor Akbar. The thief said he stole because he was poor. Birbal tested him by giving him a gold coin to return the next day. The thief returned the coin honestly. Birbal showed that he could change, and Akbar gave him a second chance."
+}

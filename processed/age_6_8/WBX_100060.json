@@ -1,0 +1,45 @@
+{
+  "id": "WBX_100060",
+  "title": "The Monkey and the Wedge",
+  "source": "panchatantra",
+  "source_url": "",
+  "age_group": "6-8",
+  "reading_level": "elementary",
+  "theme": "curiosity",
+  "characters": ["Monkey", "Carpenters", "Other Monkeys"],
+  "word_count": 163,
+  "moral": "Do not interfere in things you do not understand.",
+  "scenes": [
+    {
+      "type": "introduction",
+      "summary": "Carpenters leave a half-cut log with a wedge in it.",
+      "text": "Once upon a time, carpenters were cutting a big log of wood. They placed a wedge in it and went away for lunch.",
+      "image_prompt": "carpenters leaving half-cut log with wedge in forest, cartoon style"
+    },
+    {
+      "type": "conflict",
+      "summary": "Monkeys arrive and start playing with the tools.",
+      "text": "Soon, a group of monkeys came and started playing around the area. One monkey climbed onto the log.",
+      "image_prompt": "playful monkeys climbing on log in forest, colorful cartoon"
+    },
+    {
+      "type": "journey",
+      "summary": "The monkey becomes curious about the wedge.",
+      "text": "The monkey saw the wedge and became curious. He tried to pull it out with effort.",
+      "image_prompt": "curious monkey pulling wedge from log, cartoon illustration"
+    },
+    {
+      "type": "turning_point",
+      "summary": "The monkey removes the wedge and gets trapped.",
+      "text": "As soon as he removed the wedge, the log closed tightly and trapped his tail.",
+      "image_prompt": "log snapping shut trapping monkey tail, dramatic cartoon"
+    },
+    {
+      "type": "resolution",
+      "summary": "The monkey learns a painful lesson about curiosity.",
+      "text": "The monkey cried in pain while others ran away. He learned not to interfere in things he did not understand. Do not interfere in things you do not understand.",
+      "image_prompt": "injured monkey looking sad while others run away, soft cartoon style"
+    }
+  ],
+  "story": "Once upon a time, a group of carpenters were working near a forest. They were cutting a big log of wood and had placed a wedge in it to keep it open. At noon, they went away for lunch. Soon, a group of monkeys came there and started playing. One curious monkey climbed onto the log. He saw the wedge stuck in the wood. “What is this?” he wondered. He tried to pull it out. With great effort, he removed the wedge. Suddenly, the log closed tightly. The monkey’s tail got stuck in it! He cried out in pain. The other monkeys ran away in fear. The monkey learned a hard lesson."
+}
